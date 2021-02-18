@@ -17,7 +17,7 @@ app.post('/crawl', bodyParser.json(), (req, res) => {
 
     try {
       routes.map(async (url, idx) => await crawlService({url, environment, folderName, idx}))
-      console.log('\x1b[33m < SUCCESS > ','\x1b[0m')
+      console.log('\x1b[33m < SUCCESS > ', folderName, environment, routes, '\x1b[0m')
       res.status(200).send('done!')
     } catch(e) {
       res.status(500).send(e)
