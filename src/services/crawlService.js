@@ -1,6 +1,5 @@
 import puppeteer from 'puppeteer'
 import fs from 'fs'
-import { response } from 'express'
 // const iPhone6 = puppeteer.devices['iPhone 6']
 
 const crawlService = ({url, environment, folderName, idx}) =>
@@ -15,12 +14,17 @@ const crawlService = ({url, environment, folderName, idx}) =>
       const browser = await puppeteer.launch({
         product: 'chrome',
         slowMo: 350,
-
       })
       const page = await browser.newPage()
       page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
+      page.setViewport({
+        width: 1280,
+        height: 3000,
+        isMobile: false,
+        isLandscape: true
+      })
+
       await page.goto( String(url), { waitUntil: 'domcontentloaded' } )
-      // await page.waitForNavigation({waitUntil: 'networkidle0'})
       // await page.emulate( iPhone6 )
       await page.screenshot({path: `./src/screenshots/${folderName}/${environment+idx}.png`, fullPage: true});
       await browser.close()
