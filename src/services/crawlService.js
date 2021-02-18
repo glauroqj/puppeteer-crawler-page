@@ -11,7 +11,11 @@ const crawlService = ({url, environment, folderName, idx}) =>
         fs.mkdirSync(`./src/screenshots/${folderName}`)
       }
 
-      const browser = await puppeteer.launch()
+      const browser = await puppeteer.launch({
+        product: 'chrome',
+        slowMo: 350,
+        
+      })
       const page = await browser.newPage()
       // await page.emulate( iPhone6 )
       await page.goto( String(url) )
