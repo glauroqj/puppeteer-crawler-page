@@ -29,7 +29,7 @@ const crawlService = ({url, environment, folderName, idx}) =>
       await page.screenshot({path: `./src/screenshots/${folderName}/${environment+idx}.png`, fullPage: true});
       await browser.close()
 
-      resolve()
+      resolve(url)
     }
     catch(e) {
       reject(e)
