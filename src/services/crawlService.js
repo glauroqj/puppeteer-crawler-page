@@ -14,6 +14,9 @@ const crawlService = ({url, environment, folderName, idx}) =>
       const browser = await puppeteer.launch({
         product: 'chrome',
         slowMo: 350,
+        ignoreDefaultArgs: ['--disable-extensions'],
+        headless: true,
+        args: ['--no-sandbox']
       })
       const page = await browser.newPage()
       page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
