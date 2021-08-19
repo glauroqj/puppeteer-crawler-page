@@ -1,5 +1,5 @@
 const path = require('path')
-// const nodeExternals = require('webpack-node-externals')
+const nodeExternals = require('webpack-node-externals')
 // const CleanWebpackPlugin = require('clean-webpack-plugin')
 // const ServerMessage = require('./plugins/server-message')
 // const TerserPlugin = require('terser-webpack-plugin')
@@ -13,7 +13,7 @@ module.exports = {
   entry: {
     index: './src/index.js',
   },
-  externals: ['puppeteer', 'express'],
+  externals: [nodeExternals(), 'express'],
   target: 'node',
   output: {
     path: path.resolve( __dirname, 'dist' ),
