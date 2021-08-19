@@ -14,7 +14,7 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
         slowMo: 350,
         ignoreDefaultArgs: ['--disable-extensions'],
         headless: true,
-        args: ['--no-sandbox']
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
       })
       const page = await browser.newPage()
       page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
