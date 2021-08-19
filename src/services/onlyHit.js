@@ -9,9 +9,15 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
     const repeat = Number(numberToRepeat)
 
     const build = async () => {
-      const browser = await puppeteer.launch()
+      const browser = await puppeteer.launch({
+        product: 'chrome',
+        slowMo: 350,
+        ignoreDefaultArgs: ['--disable-extensions'],
+        headless: true,
+        args: ['--no-sandbox']
+      })
       const page = await browser.newPage()
-      // page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
+      page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
       page.setViewport({
         width: 1280,
         height: 3000,
