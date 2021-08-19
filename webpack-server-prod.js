@@ -15,23 +15,27 @@ module.exports = {
   },
   target: 'node',
   output: {
-    path: path.resolve( __dirname, '/dist/' ),
+    path: path.resolve( __dirname, 'dist' ),
     filename: 'server.bundle.js',
-    libraryTarget: 'commonjs'
+    // libraryTarget: 'commonjs'
   },
   optimization: {
   },
-  // module: {
-  //   rules: [
-  //     {
-  //       test: /\.(js|jsx)$/,
-  //       resolve: { extensions: [".js", ".jsx"] },
-  //       exclude: /node_modules/,
-  //       use: [{
-  //           loader: 'babel-loader',
-  //         }
-  //       ]
-  //     }
-  //   ]
-  // },
+  module: {
+    rules: [
+      {
+        test: /\.(js)$/,
+        resolve: { extensions: [".js"] },
+        exclude: /node_modules/,
+        use: [
+          {
+            loader: 'babel-loader',
+            options: {
+              presets: ['@babel/preset-env']
+            }
+          }
+        ]
+      }
+    ]
+  },
 }
