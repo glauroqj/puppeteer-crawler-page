@@ -3,11 +3,15 @@
     "@babel/preset-env"
   ],
   "plugins": [
+    "@babel/plugin-transform-arrow-functions",
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-proposal-optional-chaining",
     [
       "module-resolver", {
         "root": ["."],
         "alias": {
-          "services": "./src/services"
+          "services": "./src/services",
+          "routes": "./src/routes"
         },
         "cwd": "babelrc"
     }]

@@ -1,9 +1,6 @@
 import express from 'express'
-import bodyParser from 'body-parser'
-/** services */
-import crawlService from './services/crawlService'
 /** routes */
-import routes from './routes/routes'
+import routes from 'routes/routes'
 
 const port = 5000
 const app = express()

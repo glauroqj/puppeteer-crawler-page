@@ -1,0 +1,45 @@
+import puppeteer from 'puppeteer'
+// import fetch from 'node-fetch'
+
+const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
+  try {
+    if (!url || !numberToRepeat) resolve(false)
+    let queueArray = []
+    const buildURL = `https://${url}`
+    const repeat = Number(numberToRepeat)
+
+    const build = () => new Promise(async resolve => {
+      const browser = await puppeteer.launch({
+        product: 'chrome',
+        slowMo: 350,
+        ignoreDefaultArgs: ['--disable-extensions'],
+        headless: true,
+        args: ['--no-sandbox']
+      })
+      const page = await browser.newPage()
+      page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
+      page.setViewport({
+        width: 1280,
+        height: 3000,
+        isMobile: false,
+        isLandscape: true
+      })
+    
+      await page.goto( String(buildURL), { waitUntil: 'domcontentloaded' } )
+      await browser.close()
+
+      resolve(true)
+    })
+
+    for (let i=0; i <= repeat; i++) {
+      queueArray = [...queueArray, build()]
+    }
+
+    resolve(queueArray)
+  } catch (e) {
+    console.warn('< onlyHit : error > ', e)
+    resolve(false)
+  }
+})
+
+export default onlyHit
