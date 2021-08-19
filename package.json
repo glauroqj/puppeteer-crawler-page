@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/webpack-server-prod.js",
+  "heroku-run-build-script": true,
   "scripts": {
-    "heroku-prebuild": "yarn install",
+    "heroku-prebuild": "yarn install && npm install --dev",
     "build": "webpack --config webpack-server-prod.js",
     "start": "node ./dist/server.bundle.js",
     "dev": "nodemon --exec babel-node ./src/index.js",
