@@ -13,13 +13,15 @@ module.exports = {
   entry: {
     index: './src/index.js',
   },
+  externals: ['puppeteer', 'express'],
   target: 'node',
   output: {
     path: path.resolve( __dirname, 'dist' ),
     filename: 'server.bundle.js',
-    // libraryTarget: 'commonjs'
+    libraryTarget: 'commonjs'
   },
   optimization: {
+    minimize: false
   },
   module: {
     rules: [

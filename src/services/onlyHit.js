@@ -8,16 +8,10 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
     const buildURL = `https://${url}`
     const repeat = Number(numberToRepeat)
 
-    const build = () => new Promise(async resolve => {
-      const browser = await puppeteer.launch({
-        product: 'chrome',
-        slowMo: 350,
-        ignoreDefaultArgs: ['--disable-extensions'],
-        headless: true,
-        args: ['--no-sandbox']
-      })
+    const build = async () => {
+      const browser = await puppeteer.launch()
       const page = await browser.newPage()
-      page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
+      // page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')
       page.setViewport({
         width: 1280,
         height: 3000,
@@ -25,11 +19,9 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
         isLandscape: true
       })
     
-      await page.goto( String(buildURL), { waitUntil: 'domcontentloaded' } )
+      await page.goto( String(buildURL) )
       await browser.close()
-
-      resolve(true)
-    })
+    }
 
     for (let i=0; i <= repeat; i++) {
       queueArray = [...queueArray, build()]

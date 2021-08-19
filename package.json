@@ -2,7 +2,7 @@
   "name": "puppeteer-crawler-page",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/webpack-server-prod.js",
   "scripts": {
     "build": "webpack --config webpack-server-prod.js",
     "start": "node ./dist/server.bundle.js",
@@ -24,7 +24,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "node-fetch": "^2.6.1",
-    "puppeteer": "^10.1.0"
+    "puppeteer": "^10.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.16",
