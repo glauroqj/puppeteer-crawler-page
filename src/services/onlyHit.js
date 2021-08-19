@@ -35,11 +35,12 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
     for (let i=0; i <= repeat; i++) {
       console.log('< HIT :] >')
       // page.goto( String(buildURL) )
-      queueArray = [...queueArray, await fetch(buildURL, {method: 'get'})]
+      queueArray = [...queueArray, fetch(buildURL, {method: 'get'})]
     }
 
-
-    resolve(queueArray)
+    setTimeout(() => {
+      resolve(queueArray)
+    }, 20000)
   } catch (e) {
     console.warn('< onlyHit : error > ', e)
     resolve(false)
