@@ -16,7 +16,7 @@ const crawlService = ({url, environment, folderName, idx}) =>
         slowMo: 350,
         ignoreDefaultArgs: ['--disable-extensions'],
         headless: true,
-        args: ['--no-sandbox']
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
       })
       const page = await browser.newPage()
       page.setUserAgent('APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)')

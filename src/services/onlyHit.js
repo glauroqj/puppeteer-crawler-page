@@ -25,13 +25,14 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
         isLandscape: true
       })
     
-      await page.goto( String(buildURL) )
+      for (let i=0; i <= repeat; i++) {
+        console.log('< HIT :] >')
+        await page.goto( String(buildURL) )
+      }
       await browser.close()
     }
 
-    for (let i=0; i <= repeat; i++) {
-      queueArray = [...queueArray, build()]
-    }
+    queueArray = [...queueArray, build()]
 
     resolve(queueArray)
   } catch (e) {
