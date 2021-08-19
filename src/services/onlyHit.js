@@ -39,7 +39,7 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
 
     setTimeout(() => {
       resolve(queueArray)
-    }, 20000)
+    }, 10000)
   } catch (e) {
     console.warn('< onlyHit : error > ', e)
     resolve(false)
