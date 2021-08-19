@@ -32,7 +32,7 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
     // }
 
     for (let i=0; i <= repeat; i++) {
-      console.log('< HIT :] >')
+      console.log('< HIT :] > ', i)
       // page.goto( String(buildURL) )
       queueArray = [...queueArray, fetch(buildURL, {method: 'get'})]
     }
