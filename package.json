@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/webpack-server-prod.js",
   "scripts": {
-    "heroku-prebuild": "yarn install",
+    "heroku-prebuild": "yarn install && yarn build",
     "build": "webpack --config webpack-server-prod.js",
     "start": "node ./dist/server.bundle.js",
     "dev": "nodemon --exec babel-node ./src/index.js",
