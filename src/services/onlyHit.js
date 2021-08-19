@@ -7,7 +7,6 @@ const onlyHit = ({url, numberToRepeat}) => new Promise(async resolve => {
     let queueArray = []
     const buildURL = `https://${url}`
     const repeat = Number(numberToRepeat)
-
     // const build = async () => {
     //   const browser = await puppeteer.launch({
     //     product: 'chrome',
