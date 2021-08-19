@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/webpack-server-prod.js",
-  "heroku-run-build-script": true,
   "scripts": {
     "heroku-prebuild": "yarn install",
     "build": "webpack --config webpack-server-prod.js",
