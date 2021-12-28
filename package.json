@@ -2,7 +2,7 @@
   "name": "puppeteer-crawler-page",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/webpack-server-prod.js",
+  "main": "dist/server.bundle.js",
   "heroku-run-build-script": true,
   "scripts": {
     "heroku-prebuild": "yarn install --production=false",
