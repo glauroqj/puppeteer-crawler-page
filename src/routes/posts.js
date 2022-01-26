@@ -1,31 +1,27 @@
 /** services */
-import crawlService from 'services/crawlService'
+import crawlService from "services/crawlService";
 
-export default ({app, parser, cors, corsOptions}) => {
+export default ({ app, parser, cors, corsOptions }) => {
+  app.post("/crawl", parser, cors(corsOptions), (req, res) => {
+    const { routes, environment, folderName } = req?.body || false;
 
-  app.post('/crawl', parser, cors(corsOptions), (req, res) => {
-    const { routes, environment, folderName } = req?.body || false
-  
     if (routes?.length > 0) {
-      
-      const queueService = routes.map((route, idx) => crawlService({url:route, environment, folderName, idx}))
-      
+      const queueService = routes.map((route, idx) =>
+        crawlService({ url: route, environment, folderName, idx })
+      );
+
       Promise.allSettled([...queueService])
-      .then(values => {
-        
-        console.log('< ROUTES > ', values)
-        res.status(200).send({
-          data: values
+        .then((values) => {
+          console.log("< ROUTES > ", values);
+          res.status(200).send({
+            data: values,
+          });
         })
-  
-      })
-      .catch(e => {
-        res.status(500).send(e?.message || 'something get wrong!')
-      })
-  
-  
+        .catch((e) => {
+          res.status(500).send(e?.message || "something get wrong!");
+        });
     } else {
-      res.status(500).send('something get wrong!')
+      res.status(500).send("something get wrong!");
     }
     //   try {
     //     routes.map(async (url, idx) => await crawlService({url, environment, folderName, idx}))
@@ -37,7 +33,5 @@ export default ({app, parser, cors, corsOptions}) => {
     // } else {
     //   res.status(400).send('something get wrong!')
     // }
-  
-  })
-
-}
+  });
+};
