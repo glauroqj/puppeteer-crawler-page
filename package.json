@@ -9,7 +9,17 @@
     "build": "webpack --config webpack-server-prod.js",
     "start": "node ./dist/server.bundle.js",
     "dev": "nodemon --exec babel-node ./src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "----- DOCKER DEVELOPER -----": "",
+    "dev-start": "docker-compose up -d --build && docker ps && yarn dev-logs",
+    "dev-stop": "docker-compose stop && docker ps",
+    "dev-restart": "yarn dev-stop && yarn dev-start",
+    "dev-logs": "docker logs -f --tail 30 puppeteer_crawler_page_local",
+    "###### | DOCKER COMMON SCRIPTS | ##########################################": "",
+    "delete-all": "yarn delete-containers && yarn delete-images && yarn delete-volumes",
+    "delete-containers": "docker container stop $(docker container ls -qa) && docker container rm $(docker container ls -qa)",
+    "delete-images": "docker image rm $(docker image ls -q)",
+    "delete-volumes": "docker volume rm $(docker volume ls -q)"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  puppeteer_crawler_page_local:
+    container_name: puppeteer_crawler_page_local
+    privileged: true
+    working_dir: /app
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./:/app
+    env_file:
+      - ./.env
+    ports:
+      - "5000:5000"
