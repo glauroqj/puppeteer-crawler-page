@@ -165,7 +165,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           const fileName = `${result?.slug}`;
 
           fs.writeFile(
-            `./src/_data/json/imdb/${fileName}`,
+            `./src/_data/json/letterboxd/${fileName}`,
             jsonData,
             "utf8",
             (err) => {
