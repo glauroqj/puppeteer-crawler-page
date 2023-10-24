@@ -1,6 +1,5 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
-// const iPhone6 = puppeteer.devices['iPhone 6']
 
 const crawlService = ({ url, environment, folderName, idx }) =>
   new Promise(async (resolve, reject) => {
@@ -46,20 +45,24 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
       // Extract data from the website
       const data = await page.evaluate(async () => {
-        const title = document.querySelector(
-          "[data-testid='hero__pageTitle']"
-        ).textContent;
+        const title =
+          document.querySelector("[data-testid='hero__pageTitle']")
+            .textContent || "";
 
         const descriptionRaw = document.querySelector(
           'meta[name="description"]'
         );
         const description = descriptionRaw
           ? descriptionRaw.getAttribute("content")
-          : null;
+          : "";
 
-        const rating = document.querySelector(
-          '[data-testid="hero-rating-bar__aggregate-rating__score"]'
-        ).textContent;
+        const rating =
+          document.querySelector(
+            '[data-testid="hero-rating-bar__aggregate-rating__score"]'
+          ).textContent || "";
+
+        const slug = title.toLowerCase().replaceAll(" ", "") || "";
+
         // {
         //   id: '',
         //   slug: '',
@@ -82,7 +85,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         return {
           title,
           description,
-          slug: title.toLowerCase().replaceAll(" ", ""),
+          slug,
           infos: {
             imdb: {
               link: "",
@@ -102,13 +105,15 @@ const crawlService = ({ url, environment, folderName, idx }) =>
       const jsonData = JSON.stringify(data, null, 2);
       const fileName = `${data?.title}`;
 
-      fs.writeFile(`./src/_data/json/${fileName}`, jsonData, "utf8", (err) => {
-        if (err) {
-          console.error("Error writing JSON file:", err);
-        } else {
-          console.log(`JSON data saved to ${fileName}`);
-        }
-      });
+      // console.log("< FS EXIST ?? > ", fs);
+
+      // fs.writeFile(`./src/_data/json/${fileName}`, jsonData, "utf8", (err) => {
+      //   if (err) {
+      //     console.error("Error writing JSON file:", err);
+      //   } else {
+      //     console.log(`JSON data saved to ${fileName}`);
+      //   }
+      // });
 
       await browser.close();
 
