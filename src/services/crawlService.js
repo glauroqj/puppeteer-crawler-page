@@ -54,47 +54,45 @@ const crawlService = ({ url, environment, folderName, idx }) =>
             return removeAccent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
           }
 
-          const titleRaw = document.querySelector(
-            "[data-testid='hero__pageTitle']"
-          );
-          const title = titleRaw ? titleRaw.textContent : "";
+          // const titleRaw = document.querySelector(
+          //   "[data-testid='hero__pageTitle']"
+          // );
+          const titleSeo = document.title.replace(" - IMDb", "");
 
-          const descriptionRaw = document.querySelector(
-            'meta[name="description"]'
-          );
-          const description = descriptionRaw
-            ? descriptionRaw.getAttribute("content")
-            : "";
+          // const descriptionRaw = document.querySelector(
+          //   'meta[name="description"]'
+          // );
+          // const description = descriptionRaw
+          //   ? descriptionRaw.getAttribute("content")
+          //   : "";
 
-          const ratingRaw = document.querySelector(
-            '[data-testid="hero-rating-bar__aggregate-rating__score"]'
-          );
-          const rating = ratingRaw ? ratingRaw.textContent : "";
-
-          const slug = cleanString(title);
+          // const ratingRaw = document.querySelector(
+          //   '[data-testid="hero-rating-bar__aggregate-rating__score"]'
+          // );
+          // const rating = ratingRaw ? ratingRaw.textContent : "";
 
           const year = document.title.replace(/[^0-9]/g, "");
 
-          const imageRaw = document.querySelector('meta[property="og:image"]');
-          const image = imageRaw ? imageRaw.getAttribute("content") : "";
+          // const imageRaw = document.querySelector('meta[property="og:image"]');
+          // const image = imageRaw ? imageRaw.getAttribute("content") : "";
 
-          const genresArray = [];
-          const genresRaw = document.querySelectorAll(
-            ".ipc-chip-list__scroller > a"
-          );
-          if (genresRaw) {
-            genresRaw.forEach((node) => {
-              genresArray.push(node.textContent);
-            });
-          }
+          // const genresArray = [];
+          // const genresRaw = document.querySelectorAll(
+          //   ".ipc-chip-list__scroller > a"
+          // );
+          // if (genresRaw) {
+          //   genresRaw.forEach((node) => {
+          //     genresArray.push(node.textContent);
+          //   });
+          // }
 
-          const directorRaw = document.querySelector(
-            '[data-testid="title-pc-principal-credit"] div ul li a'
-          );
-          const directorName = directorRaw ? directorRaw.textContent : "";
-          const directorLink = directorRaw
-            ? directorRaw.getAttribute("href")
-            : "";
+          // const directorRaw = document.querySelector(
+          //   '[data-testid="title-pc-principal-credit"] div ul li a'
+          // );
+          // const directorName = directorRaw ? directorRaw.textContent : "";
+          // const directorLink = directorRaw
+          //   ? directorRaw.getAttribute("href")
+          //   : "";
 
           const galleryArray = [];
           const galleryImages = document.querySelectorAll(
@@ -105,15 +103,25 @@ const crawlService = ({ url, environment, folderName, idx }) =>
               galleryArray.push(node.getAttribute("src"));
             });
           }
-          // const maxImages = 12
-          // let galleryArray = []
-          // for (let i = 1; i <= maxImages; i++) {
-          //   const galerryRaw = document.querySelector(
-          //     `[data-test='photos-image-overlay-${i}']`
-          //   ); /** incriment the number ++ */
+          /** BEST PAYLOAD DATA */
+          const scriptJsonRaw = document.querySelector(
+            'script[type="application/ld+json"]'
+          );
+          const scriptJson = scriptJsonRaw ? scriptJsonRaw.textContent : "";
 
-          // }
+          const parsedJson = JSON.parse(scriptJson);
 
+          const {
+            url,
+            name,
+            image,
+            description,
+            aggregateRating,
+            genre,
+            director,
+          } = parsedJson;
+
+          const slug = cleanString(name);
           // {
           //   slug: '',
           //   title: '',
@@ -133,22 +141,26 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           // }
 
           return {
-            title,
+            title: name,
             description,
             slug,
             image,
             infos: {
-              genres: genresArray,
+              genres: genre,
               gallery: galleryArray,
               imdb: {
-                link: "",
-                rating,
+                link: url,
+                rating: `${aggregateRating.ratingValue}/10`,
               },
-              year,
+              year: "",
               country: "",
               director: {
-                link: `https://www.imdb.com${directorLink}`,
-                name: directorName,
+                link: director[0]?.url,
+                name: director[0]?.name,
+              },
+              seo: {
+                title: titleSeo,
+                description: description,
               },
             },
           };
@@ -159,8 +171,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         //   fullPage: true,
         // });
 
-        if (result && result?.infos?.imdb) {
-          result.infos.imdb.link = url;
+        if (result) {
           const jsonData = JSON.stringify(result, null, 2);
           const fileName = `${result?.slug}`;
 
