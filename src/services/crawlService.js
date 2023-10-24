@@ -8,8 +8,8 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
     try {
       /** check folder */
-      if (!fs.existsSync(`./src/screenshots/${folderName}`)) {
-        fs.mkdirSync(`./src/screenshots/${folderName}`);
+      if (!fs.existsSync(`./src/_data/screenshots/${folderName}`)) {
+        fs.mkdirSync(`./src/_data/screenshots/${folderName}`);
       }
 
       const browser = await puppeteer.launch({
@@ -26,6 +26,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         ],
       });
       const page = await browser.newPage();
+
       page.setUserAgent(
         "APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)"
       );
@@ -39,9 +40,37 @@ const crawlService = ({ url, environment, folderName, idx }) =>
       await page.goto(String(url), { waitUntil: "domcontentloaded" });
       // await page.emulate( iPhone6 )
       await page.screenshot({
-        path: `./src/screenshots/${folderName}/${environment + idx}.png`,
+        path: `./src/_data/screenshots/${folderName}/${environment + idx}.png`,
         fullPage: true,
       });
+
+      // Extract data from the website
+      // const data = await page.evaluate(() => {
+      //   // Customize this part to scrape the specific data you need from the website
+      //   const title = document.title;
+      //   const paragraphText = document.querySelector("p").textContent;
+
+      //   return {
+      //     title,
+      //     paragraphText,
+      //   };
+      // });
+
+      // const jsonData = JSON.stringify(data, null, 2);
+
+      // fs.writeFile(
+      //   `./src/_data/json/${folderName}`,
+      //   jsonData,
+      //   "utf8",
+      //   (err) => {
+      //     if (err) {
+      //       console.error("Error writing JSON file:", err);
+      //     } else {
+      //       console.log(`JSON data saved to ${filePath}`);
+      //     }
+      //   }
+      // );
+
       await browser.close();
 
       resolve(url);
