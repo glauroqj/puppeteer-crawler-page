@@ -39,9 +39,21 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           isLandscape: true,
         });
 
+        await page.setExtraHTTPHeaders({ "Accept-Language": "en-US" });
+
         await page.goto(String(url), { waitUntil: "domcontentloaded" });
 
         const result = await page.evaluate(() => {
+          function cleanString(text) {
+            if (!text) return text;
+
+            const removeAccent = text
+              .normalize("NFD")
+              .replace(/[\u0300-\u036f]/g, "");
+
+            return removeAccent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+          }
+
           const titleRaw = document.querySelector(
             "[data-testid='hero__pageTitle']"
           );
@@ -59,23 +71,42 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           );
           const rating = ratingRaw ? ratingRaw.textContent : "";
 
-          function cleanString(text) {
-            if (!text) return text;
-
-            const removeAccent = text
-              .normalize("NFD")
-              .replace(/[\u0300-\u036f]/g, "");
-
-            return removeAccent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
-          }
-
           const slug = cleanString(title);
 
-          const yearRaw = titleRaw?.nextElementSibling;
+          const year = document.title.replace(/[^0-9]/g, "");
 
-          const year = yearRaw ? yearRaw.querySelector("li").textContent : "";
+          const imageRaw = document.querySelector('meta[property="og:image"]');
+          const image = imageRaw ? imageRaw.getAttribute("content") : "";
+
+          const genresArray = [];
+          const genresRaw = document.querySelectorAll(
+            ".ipc-chip-list__scroller > a"
+          );
+          if (genresRaw) {
+            genresRaw.forEach((node) => {
+              genresArray.push(node.textContent);
+            });
+          }
+          // const btnCarroselClick = document.querySelector(
+          //   ".ipc-shoveler__arrow--right"
+          // );
+
+          // if (btnCarroselClick) {
+          //   btnCarroselClick.click();
+          //   btnCarroselClick.click();
+          //   btnCarroselClick.click();
+          // }
+
+          // const maxImages = 12
+          // let galleryArray = []
+          // for (let i = 1; i <= maxImages; i++) {
+          //   const galerryRaw = document.querySelector(
+          //     `[data-test='photos-image-overlay-${i}']`
+          //   ); /** incriment the number ++ */
+
+          // }
+
           // {
-          //   id: '',
           //   slug: '',
           //   title: '',
           //   description: '',
@@ -97,7 +128,9 @@ const crawlService = ({ url, environment, folderName, idx }) =>
             title,
             description,
             slug,
+            image,
             infos: {
+              genres: genresArray,
               imdb: {
                 link: "",
                 rating,
@@ -120,7 +153,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         if (result && result?.infos?.imdb) {
           result.infos.imdb.link = url;
           const jsonData = JSON.stringify(result, null, 2);
-          const fileName = `${result?.title}`;
+          const fileName = `${result?.slug}`;
 
           fs.writeFile(
             `./src/_data/json/${fileName}`,
