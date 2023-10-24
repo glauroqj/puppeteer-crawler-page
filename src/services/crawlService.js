@@ -45,12 +45,10 @@ const crawlService = ({ url, environment, folderName, idx }) =>
       // });
 
       // Extract data from the website
-      const data = await page.evaluate(() => {
-        // Customize this part to scrape the specific data you need from the website
-        const titleRaw = document.querySelector(
+      const data = await page.evaluate(async () => {
+        const title = document.querySelector(
           "[data-testid='hero__pageTitle']"
-        );
-        const title = titleRaw.querySelector("span").textContent;
+        ).textContent;
 
         const descriptionRaw = document.querySelector(
           'meta[name="description"]'
@@ -58,6 +56,10 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         const description = descriptionRaw
           ? descriptionRaw.getAttribute("content")
           : null;
+
+        const rating = document.querySelector(
+          '[data-testid="hero-rating-bar__aggregate-rating__score"]'
+        ).textContent;
         // {
         //   id: '',
         //   slug: '',
@@ -67,7 +69,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         //   "imdb": {
         //     "link": "https://www.imdb.com/title/tt0073195/",
         //     "rating": "8.1/10"
-        //   },
+        //    },
         //   "year": 1945,
         //   "country": "U.S.A",
         //   "director": {
@@ -80,6 +82,19 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         return {
           title,
           description,
+          slug: title.toLowerCase().replaceAll(" ", ""),
+          infos: {
+            imdb: {
+              link: "",
+              rating,
+            },
+            year: "",
+            country: "",
+            director: {
+              link: "",
+              name: "",
+            },
+          },
         };
       });
 
@@ -87,18 +102,13 @@ const crawlService = ({ url, environment, folderName, idx }) =>
       const jsonData = JSON.stringify(data, null, 2);
       const fileName = `${data?.title}`;
 
-      fs.writeFile(
-        `./src/_data/json/${folderName}/${fileName}`,
-        jsonData,
-        "utf8",
-        (err) => {
-          if (err) {
-            console.error("Error writing JSON file:", err);
-          } else {
-            console.log(`JSON data saved to ${fileName}`);
-          }
+      fs.writeFile(`./src/_data/json/${fileName}`, jsonData, "utf8", (err) => {
+        if (err) {
+          console.error("Error writing JSON file:", err);
+        } else {
+          console.log(`JSON data saved to ${fileName}`);
         }
-      );
+      });
 
       await browser.close();
 
