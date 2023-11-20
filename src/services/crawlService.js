@@ -46,12 +46,17 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         const result = await page.evaluate(() => {
           function cleanString(text) {
             if (!text) return text;
-
-            const removeAccent = text
+            const cleanedString = text
               .normalize("NFD")
-              .replace(/[\u0300-\u036f]/g, "");
+              .replace(/[\u0300-\u036f]/g, "")
+              .replace(/ç/g, "c")
+              .replace(/[^a-zA-Z0-9\s]/g, "")
+              .toLowerCase();
 
-            return removeAccent.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+            // Replace spaces with dashes
+            const stringWithDashes = cleanedString.replace(/\s+/g, "-");
+
+            return stringWithDashes;
           }
 
           // const titleRaw = document.querySelector(
@@ -145,6 +150,8 @@ const crawlService = ({ url, environment, folderName, idx }) =>
             description,
             slug,
             image,
+            genres: genre,
+            director: director[0]?.name,
             infos: {
               genres: genre,
               gallery: galleryArray,
@@ -152,7 +159,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
                 link: url,
                 rating: `${aggregateRating.ratingValue}/10`,
               },
-              year: "",
+              year,
               country: "",
               director: {
                 link: director[0]?.url,
