@@ -15,7 +15,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         const browser = await puppeteer.launch({
           product: "chrome",
           slowMo: 1000,
-          headless: true,
+          headless: "new",
           devtools: false,
           ignoreDefaultArgs: ["--disable-extensions"],
           args: [
