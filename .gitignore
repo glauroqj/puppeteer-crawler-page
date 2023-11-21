@@ -5,3 +5,4 @@ src/_data/json/*
 dist/
 list.json
 .env
+.cache

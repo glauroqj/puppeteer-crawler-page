@@ -14,7 +14,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
         const browser = await puppeteer.launch({
           product: "chrome",
-          slowMo: 1000,
+          slowMo: 800,
           headless: "new",
           devtools: false,
           ignoreDefaultArgs: ["--disable-extensions"],
@@ -41,7 +41,10 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
         await page.setExtraHTTPHeaders({ "Accept-Language": "en-US" });
 
-        await page.goto(String(url), { waitUntil: "domcontentloaded" });
+        await page.goto(String(url), {
+          waitUntil: "domcontentloaded",
+          timeout: 90000,
+        });
 
         const result = await page.evaluate(() => {
           function cleanString(text) {
@@ -157,7 +160,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
               gallery: galleryArray,
               imdb: {
                 link: url,
-                rating: `${aggregateRating.ratingValue}/10`,
+                rating: `${aggregateRating?.ratingValue}/10`,
               },
               year,
               country: "",
