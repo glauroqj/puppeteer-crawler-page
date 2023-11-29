@@ -7,6 +7,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
     (async function () {
       try {
+        console.log("< STARTING ... > ", url);
         /** check folder */
         // if (!fs.existsSync(`./src/_data/screenshots/${folderName}`)) {
         //   fs.mkdirSync(`./src/_data/screenshots/${folderName}`);
@@ -60,6 +61,11 @@ const crawlService = ({ url, environment, folderName, idx }) =>
             const stringWithDashes = cleanedString.replace(/\s+/g, "-");
 
             return stringWithDashes;
+          }
+
+          function decodeHtmlEntities(html) {
+            var doc = new DOMParser().parseFromString(html, "text/html");
+            return doc.body.textContent;
           }
 
           // const titleRaw = document.querySelector(
@@ -150,11 +156,12 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
           return {
             title: name,
-            description,
+            description: decodeHtmlEntities(description),
             slug,
             image,
             genres: genre,
             director: director[0]?.name,
+            year,
             infos: {
               genres: genre,
               gallery: galleryArray,
@@ -170,7 +177,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
               },
               seo: {
                 title: titleSeo,
-                description: description,
+                description: decodeHtmlEntities(description),
               },
             },
           };
