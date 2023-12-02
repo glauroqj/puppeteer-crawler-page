@@ -4,11 +4,11 @@ import crawlService_letterboxd from "services/crawlService_letterboxd";
 
 export default ({ app, parser, cors, corsOptions }) => {
   app.post("/crawl", parser, cors(corsOptions), (req, res) => {
-    const { routes, environment, folderName } = req?.body || false;
+    const { routes, environment, folderName, lang } = req?.body || false;
 
     if (routes?.length > 0) {
       const queueService = routes.map((route, idx) =>
-        crawlService({ url: route, environment, folderName, idx })
+        crawlService({ url: route, environment, folderName, idx, lang })
       );
 
       Promise.allSettled([...queueService])

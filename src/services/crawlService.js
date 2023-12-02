@@ -1,13 +1,20 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 
-const crawlService = ({ url, environment, folderName, idx }) =>
+const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
   new Promise(async (resolve, reject) => {
     if (!url || !environment || !folderName) throw "Some params are missing!";
 
+    const langOpts = {
+      pt: "pt-BR",
+      en: "en",
+    };
+
+    const LANG = langOpts[lang];
+
     (async function () {
       try {
-        console.log("< STARTING ... > ", url);
+        console.log("< STARTING ... > ", lang, url);
         /** check folder */
         // if (!fs.existsSync(`./src/_data/screenshots/${folderName}`)) {
         //   fs.mkdirSync(`./src/_data/screenshots/${folderName}`);
@@ -20,7 +27,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           devtools: false,
           ignoreDefaultArgs: ["--disable-extensions"],
           args: [
-            "--lang=en-US",
+            `--lang=${LANG}`,
             "--no-sandbox",
             "--disable-setuid-sandbox",
             "--disable-gpu",
@@ -40,7 +47,7 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           isLandscape: true,
         });
 
-        await page.setExtraHTTPHeaders({ "Accept-Language": "en-US" });
+        await page.setExtraHTTPHeaders({ "Accept-Language": LANG });
 
         await page.goto(String(url), {
           waitUntil: "domcontentloaded",
@@ -50,7 +57,10 @@ const crawlService = ({ url, environment, folderName, idx }) =>
         const result = await page.evaluate(() => {
           function cleanString(text) {
             if (!text) return text;
-            const cleanedString = text
+
+            const decodedString = decodeHtmlEntities(text);
+
+            const cleanedString = decodedString
               .normalize("NFD")
               .replace(/[\u0300-\u036f]/g, "")
               .replace(/ç/g, "c")
@@ -136,6 +146,8 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           } = parsedJson;
 
           const slug = cleanString(name);
+
+          const lang = document.documentElement.lang;
           // {
           //   slug: '',
           //   title: '',
@@ -155,29 +167,35 @@ const crawlService = ({ url, environment, folderName, idx }) =>
           // }
 
           return {
-            title: name,
-            description: decodeHtmlEntities(description),
-            slug,
-            image,
-            genres: genre,
-            director: director[0]?.name,
-            year,
-            infos: {
+            poster_table: {
+              slug,
+            },
+            poster_multi_lang: {
+              lang: lang.replace(/-BR|-US/g, ""),
+              title: decodeHtmlEntities(name),
+              description: decodeHtmlEntities(description),
+              slug,
+              image,
               genres: genre,
-              gallery: galleryArray,
-              imdb: {
-                link: url,
-                rating: `${aggregateRating?.ratingValue}/10`,
-              },
+              director: director[0]?.name,
               year,
-              country: "",
-              director: {
-                link: director[0]?.url,
-                name: director[0]?.name,
-              },
-              seo: {
-                title: titleSeo,
-                description: decodeHtmlEntities(description),
+              infos: {
+                genres: genre,
+                gallery: galleryArray,
+                imdb: {
+                  link: url,
+                  rating: `${aggregateRating?.ratingValue}/10`,
+                },
+                year,
+                country: "",
+                director: {
+                  link: director[0]?.url,
+                  name: director[0]?.name,
+                },
+                seo: {
+                  title: decodeHtmlEntities(titleSeo),
+                  description: decodeHtmlEntities(description),
+                },
               },
             },
           };
@@ -190,10 +208,10 @@ const crawlService = ({ url, environment, folderName, idx }) =>
 
         if (result) {
           const jsonData = JSON.stringify(result, null, 2);
-          const fileName = `${result?.slug}`;
+          const fileName = `${result?.poster_table?.slug}`;
 
           fs.writeFile(
-            `./src/_data/json/imdb/${fileName}`,
+            `./src/_data/json/imdb/${lang}-${fileName}`,
             jsonData,
             "utf8",
             (err) => {
