@@ -152,14 +152,18 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
 
           const slug = cleanString(name);
 
-          const lang = document.documentElement.lang;
+          const lang = document.documentElement.lang.replace(/-BR|-US/g, "");
 
           return {
             poster_table: {
               slug,
+              title: decodeHtmlEntities(name),
+              year,
+              genres: genre,
+              director: director && director[0]?.name,
             },
-            poster_multi_lang: {
-              lang: lang.replace(/-BR|-US/g, ""),
+            poster_lang: {
+              lang: lang,
               title: decodeHtmlEntities(name),
               description: decodeHtmlEntities(description),
               slug,
