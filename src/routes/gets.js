@@ -6,20 +6,28 @@ export default ({ app, parser, cors, corsOptions }) => {
     res.json({ status: "Server is running!" });
   });
 
-  app.get("/action/loop-files", async (req, res) => {
+  app.get("/action/loop-files/:lang?", async (req, res) => {
     try {
-      const payload = await loopFiles();
+      const { lang } = req?.params;
+      console.log("< HIT > ", req.params);
+
+      if (!lang) {
+        res.status(400).send("something get wrong! Missing Lang param");
+        return;
+      }
+      const payload = await loopFiles(lang);
 
       if (payload) {
         res.status(200).send({
           // data: values,
           message: "Consider Done!",
         });
+        return;
       } else {
-        res.status(500).send("something get wrong!");
+        res.status(400).send("something get wrong!");
       }
     } catch (e) {
-      res.status(500).send(e?.message || "something get wrong!");
+      res.status(400).send(e?.message || "something get wrong!");
     }
   });
 
@@ -50,7 +58,7 @@ export default ({ app, parser, cors, corsOptions }) => {
           });
         })
         .catch((e) => {
-          res.status(500).send(e?.message || "something get wrong!");
+          res.status(400).send(e?.message || "something get wrong!");
         });
     }
   );

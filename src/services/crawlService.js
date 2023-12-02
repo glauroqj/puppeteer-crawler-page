@@ -95,7 +95,12 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
           // );
           // const rating = ratingRaw ? ratingRaw.textContent : "";
 
-          const year = document.title.replace(/[^0-9]/g, "");
+          const matchYear = document.title.match(/\(([^)]+)\)/);
+          const year = matchYear ? matchYear[1] : "";
+
+          // const year = document.querySelector(
+          //   "ul.baseAlt > li:first-child a"
+          // ).innerHTML;
 
           // const imageRaw = document.querySelector('meta[property="og:image"]');
           // const image = imageRaw ? imageRaw.getAttribute("content") : "";
@@ -148,23 +153,6 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
           const slug = cleanString(name);
 
           const lang = document.documentElement.lang;
-          // {
-          //   slug: '',
-          //   title: '',
-          //   description: '',
-          //   infos: {
-          //   "imdb": {
-          //     "link": "https://www.imdb.com/title/tt0073195/",
-          //     "rating": "8.1/10"
-          //    },
-          //   "year": 1945,
-          //   "country": "U.S.A",
-          //   "director": {
-          //     "link": "https://www.imdb.com/name/nm0000229/?ref_=tt_ov_dr",
-          //     "name": "Steven Spielberg"
-          //     }
-          //   }
-          // }
 
           return {
             poster_table: {
@@ -177,7 +165,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
               slug,
               image,
               genres: genre,
-              director: director[0]?.name,
+              director: director && director[0]?.name,
               year,
               infos: {
                 genres: genre,
@@ -189,8 +177,8 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
                 year,
                 country: "",
                 director: {
-                  link: director[0]?.url,
-                  name: director[0]?.name,
+                  link: director && director[0]?.url,
+                  name: director && director[0]?.name,
                 },
                 seo: {
                   title: decodeHtmlEntities(titleSeo),
@@ -211,7 +199,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
           const fileName = `${result?.poster_table?.slug}`;
 
           fs.writeFile(
-            `./src/_data/json/imdb/${lang}-${fileName}`,
+            `./src/_data/json/imdb/${lang}/${lang}-${fileName}`,
             jsonData,
             "utf8",
             (err) => {

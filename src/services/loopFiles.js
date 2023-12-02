@@ -3,9 +3,9 @@ import fetch from "node-fetch";
 const fs = require("fs");
 const path = require("path");
 
-function loopFiles() {
+function loopFiles(lang) {
   return new Promise((resolve) => {
-    const folderPath = path.join(__dirname, "../_data/json/imdb");
+    const folderPath = path.join(__dirname, `../_data/json/imdb/${lang}`);
 
     console.log("< LOOP FILES > ", folderPath);
 
