@@ -143,6 +143,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
           const {
             url,
             name,
+            alternateName,
             image,
             description,
             aggregateRating,
@@ -151,20 +152,23 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
           } = parsedJson;
 
           const slug = cleanString(name);
-
           const lang = document.documentElement.lang.replace(/-BR|-US/g, "");
 
           return {
             poster_table: {
               slug,
-              title: decodeHtmlEntities(name),
+              title: decodeHtmlEntities(
+                lang === "en" ? name : alternateName ? alternateName : name
+              ),
               year,
               genres: genre,
               director: director && director[0]?.name,
             },
             poster_lang: {
               lang: lang,
-              title: decodeHtmlEntities(name),
+              title: decodeHtmlEntities(
+                lang === "en" ? name : alternateName ? alternateName : name
+              ),
               description: decodeHtmlEntities(description),
               slug,
               image,
