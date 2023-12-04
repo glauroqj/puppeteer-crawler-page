@@ -11,7 +11,8 @@ function loopFiles(lang) {
 
     async function callApi(jsonData) {
       // Replace the URL with your API endpoint
-      const apiUrl = "http://localhost:5000/api/intranet/poster/add-poster";
+      const apiUrl =
+        "https://www.opinaposter.com.br/api/intranet/poster/add-poster";
 
       // Make the API call with jsonData
       const response = await fetch(apiUrl, {

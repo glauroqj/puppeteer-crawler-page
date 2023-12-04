@@ -160,6 +160,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
               title: decodeHtmlEntities(
                 lang === "en" ? name : alternateName ? alternateName : name
               ),
+              // title: decodeHtmlEntities(alternateName),
               year,
               // genres: genre,
               director: director && director[0]?.name,
@@ -169,6 +170,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
               title: decodeHtmlEntities(
                 lang === "en" ? name : alternateName ? alternateName : name
               ),
+              // title: decodeHtmlEntities(alternateName),
               description: decodeHtmlEntities(description),
               slug,
               image,
