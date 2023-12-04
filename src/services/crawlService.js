@@ -161,7 +161,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
                 lang === "en" ? name : alternateName ? alternateName : name
               ),
               year,
-              genres: genre,
+              // genres: genre,
               director: director && director[0]?.name,
             },
             poster_lang: {
