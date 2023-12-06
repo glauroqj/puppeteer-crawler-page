@@ -83,12 +83,12 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
           // );
           const titleSeo = document.title.replace(" - IMDb", "");
 
-          // const descriptionRaw = document.querySelector(
-          //   'meta[name="description"]'
-          // );
-          // const description = descriptionRaw
-          //   ? descriptionRaw.getAttribute("content")
-          //   : "";
+          const descriptionRaw = document.querySelector(
+            'meta[name="description"]'
+          );
+          const description = descriptionRaw
+            ? descriptionRaw.getAttribute("content")
+            : "";
 
           // const ratingRaw = document.querySelector(
           //   '[data-testid="hero-rating-bar__aggregate-rating__score"]'
@@ -145,7 +145,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
             name,
             alternateName,
             image,
-            description,
+            // description,
             aggregateRating,
             genre,
             director,
@@ -182,7 +182,7 @@ const crawlService = ({ url, environment, folderName, idx, lang = "en" }) =>
                 gallery: galleryArray,
                 imdb: {
                   link: url,
-                  rating: `${aggregateRating?.ratingValue}/10`,
+                  rating: `${aggregateRating?.ratingValue || "-"}/10`,
                 },
                 year,
                 country: "",
