@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "top-gun-maverick",
+    "title": "Top Gun: Maverick",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Top Gun: Maverick",
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to ...",
+    "slug": "top-gun-maverick",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODJiZjUyMDgtNTc2ZC00MzhjLTk2ODgtYjQwNmNjYjk0MWNmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTc0MWMxZjUtNWE5MC00YjhlLTkxOTEtM2JhMTkxM2VhY2E1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2M1OTg5ZTgtYjM5Ny00YjQ1LWJmZWEtN2QyMWRjYmMwNzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTU2YzQzODQtM2I0Yi00NmVlLWE4N2YtOWQ0MTNlODkwM2YzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGE2MDkzYjQtZjNhOC00MzA3LTkxOGMtOGNmMzRmNzQwYjlmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzNkODU5M2EtZGE2Zi00ZTg0LWI1NDEtYjYwNjk4Zjc5MDJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGFhZDY4MTQtNzk0ZS00NzJhLTgwMzMtZjQ4YWRjNThjMGU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZThlOWI2ZjMtNTAxMS00YzBiLThlNmMtNzM0NzA0YThiYTI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmMzMjljNTItYTUxMC00MDY3LWFjOTctNTgxMDc1ZjIyMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDg5ZTM3YmEtMjk4OS00YmZkLThjZjgtMmU3Y2JkMTEyZWE4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWYxNzhhNmQtNDk3Mi00NTMwLTg4ZTItMTQ3ZjA3Yzc5NWJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ3YzczNWItZTIyMS00MDQ3LWI5N2MtNmY0MmMwNDIxNWRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1745960/",
+        "rating": "8.3/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2676052/",
+        "name": "Joseph Kosinski"
+      },
+      "seo": {
+        "title": "Top Gun: Maverick (2022)",
+        "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to ..."
+      }
+    }
+  }
+}

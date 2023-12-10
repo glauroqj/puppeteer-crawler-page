@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "kill-bill-vol-2",
+    "title": "Kill Bill: Volume 2",
+    "year": "2004",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Suspense"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Kill Bill: Volume 2",
+    "description": "Depois de eliminar alguns membros da banda que tentaram assassiná-la no dia do casamento, \"Mamba Negra\" tenta matar os outros, especialmente a Bill, seu ex-chefe, que a entregou para morrer.",
+    "slug": "kill-bill-vol-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzlmZGM5OTctMzRkOS00N2E3LTg0MTctZGUwZTU3OWJiOTFhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Suspense"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2004",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzMzMTI2Mjg5N15BMl5BanBnXkFtZTgwOTc3NjE5MDI@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNTQ4MzkwMl5BMl5BanBnXkFtZTgwNjAzMDQxNzE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NTI5NTg2OV5BMl5BanBnXkFtZTcwMDQ5OTEyNw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MzM2ODI1OV5BMl5BanBnXkFtZTcwMjQ5OTEyNw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxOTEyMzExMF5BMl5BanBnXkFtZTcwNDQ5OTEyNw@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3NTQyODI2OV5BMl5BanBnXkFtZTcwNTQ5OTEyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzk1MzkyNzgyMF5BMl5BanBnXkFtZTcwNjQ5OTEyNw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNjUyMzIyOV5BMl5BanBnXkFtZTcwNzQ5OTEyNw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3Nzg2Nzg0MF5BMl5BanBnXkFtZTYwNDk2NTIz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1Nzk3MDM0Ml5BMl5BanBnXkFtZTYwNjk2NTIz._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODcxNjgzNzM5NF5BMl5BanBnXkFtZTYwODk2NTIz._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMjIwODgzMF5BMl5BanBnXkFtZTYwMDA3NTIz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0378194/",
+        "rating": "8/10"
+      },
+      "year": "2004",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Kill Bill: Volume 2 (2004)",
+        "description": "Depois de eliminar alguns membros da banda que tentaram assassiná-la no dia do casamento, \"Mamba Negra\" tenta matar os outros, especialmente a Bill, seu ex-chefe, que a entregou para morrer."
+      }
+    }
+  }
+}

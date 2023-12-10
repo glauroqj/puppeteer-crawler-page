@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-iii-revenge-of-the-sith",
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": "2005",
+    "director": "George Lucas"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "description": "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy.",
+    "slug": "star-wars-episode-iii-revenge-of-the-sith",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "George Lucas",
+    "year": "2005",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTYxNTk0MTU2OV5BMl5BanBnXkFtZTcwNzg0NzI4NA@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3Mzc1MjQwMl5BMl5BanBnXkFtZTcwODg0NzI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODc1MTMyNDg2Ml5BMl5BanBnXkFtZTcwOTg0NzI4NA@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0NTY1Nzc3NF5BMl5BanBnXkFtZTcwMDk0NzI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0Mjk5NTM5Ml5BMl5BanBnXkFtZTcwMTk0NzI4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3ODY1MTMwOV5BMl5BanBnXkFtZTcwMjk0NzI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjE4NzYyNzk1NF5BMl5BanBnXkFtZTcwMzk0NzI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NTkwOTE1MF5BMl5BanBnXkFtZTcwNDk0NzI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1ODc5MTkzNV5BMl5BanBnXkFtZTcwNTk0NzI4NA@@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNzAzNjg1NV5BMl5BanBnXkFtZTcwNjk0NzI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQzNzEwODE5NF5BMl5BanBnXkFtZTcwNzk0NzI4NA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxODUzMzE3MV5BMl5BanBnXkFtZTcwODk0NzI4NA@@._V1_QL75_UY140_CR96,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0121766/",
+        "rating": "7.6/10"
+      },
+      "year": "2005",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000184/",
+        "name": "George Lucas"
+      },
+      "seo": {
+        "title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+        "description": "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy."
+      }
+    }
+  }
+}

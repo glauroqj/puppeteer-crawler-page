@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-terminator",
+    "title": "The Terminator",
+    "year": "1984",
+    "director": "James Cameron"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Terminator",
+    "description": "The Terminator: Directed by James Cameron. With Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield. A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+    "slug": "the-terminator",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "James Cameron",
+    "year": "1984",
+    "infos": {
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk4MDg3MTMyMl5BMl5BanBnXkFtZTcwNzgzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY4NzQzMzM4NV5BMl5BanBnXkFtZTcwODgzNDQyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NzEzMzU0NF5BMl5BanBnXkFtZTcwOTgzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODA0OTg0NDgxMF5BMl5BanBnXkFtZTcwMDkzNDQyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMTk3ODA2MF5BMl5BanBnXkFtZTcwMTkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2OTUxOTY0NV5BMl5BanBnXkFtZTcwMjkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxNzY3Nl5BMl5BanBnXkFtZTcwMzkzNDQyNA@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NzYzODMyNl5BMl5BanBnXkFtZTcwNDkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNDM0MDg0NF5BMl5BanBnXkFtZTcwNTkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3OTU2MDcxM15BMl5BanBnXkFtZTcwNjkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExOTc3NjE3Ml5BMl5BanBnXkFtZTcwNzkzNDQyNA@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNjk5Mzg1MF5BMl5BanBnXkFtZTcwODkzNDQyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0088247/",
+        "rating": "8.1/10"
+      },
+      "year": "1984",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000116/",
+        "name": "James Cameron"
+      },
+      "seo": {
+        "title": "The Terminator (1984)",
+        "description": "The Terminator: Directed by James Cameron. With Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield. A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "american-history-x",
+    "title": "A Outra História Americana",
+    "year": "1998",
+    "director": "Tony Kaye"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Outra História Americana",
+    "description": "A Outra História Americana: Dirigido por Tony Kaye. Com Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien. Um neonazista tenta evitar que seu irmão mais novo tome o mesmo caminho errado que ele.",
+    "slug": "american-history-x",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDk4OTcwMjQtOWRiOS00OTM0LWIxZDgtOWFmNjdlYTIyMDc2XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "director": "Tony Kaye",
+    "year": "1998",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTc0OTgyOTQ4Nl5BMl5BanBnXkFtZTcwMDIxODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU0Njg0ODM5N15BMl5BanBnXkFtZTcwMTIxODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc3NjEyMDcwNV5BMl5BanBnXkFtZTcwMjIxODY3Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3NTQ3MjgzM15BMl5BanBnXkFtZTcwNDIxODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg5MTEwNjY5Nl5BMl5BanBnXkFtZTcwNTIxODY3Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMDY3MDA0Ml5BMl5BanBnXkFtZTcwNjIxODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc4OTI0MzM5OF5BMl5BanBnXkFtZTYwOTM5OTc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0OTUwMzA4N15BMl5BanBnXkFtZTYwMTQ5OTc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY5MDYxODU1M15BMl5BanBnXkFtZTYwMzQ5OTc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MzM4OTIwN15BMl5BanBnXkFtZTYwNTQ5OTc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3OTgxODQ5MV5BMl5BanBnXkFtZTYwNzQ5OTc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2Mjg2NDE0NV5BMl5BanBnXkFtZTYwOTQ5OTc2._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120586/",
+        "rating": "8.5/10"
+      },
+      "year": "1998",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0443411/",
+        "name": "Tony Kaye"
+      },
+      "seo": {
+        "title": "A Outra História Americana (1998)",
+        "description": "A Outra História Americana: Dirigido por Tony Kaye. Com Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien. Um neonazista tenta evitar que seu irmão mais novo tome o mesmo caminho errado que ele."
+      }
+    }
+  }
+}

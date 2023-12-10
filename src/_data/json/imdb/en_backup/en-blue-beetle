@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "blue-beetle",
+    "title": "Blue Beetle",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Angel Manuel Soto"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Blue Beetle",
+    "description": "An alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor that's capable of extraordinary powers, forever changing his destiny as he becomes the superhero known as Blu...",
+    "slug": "blue-beetle",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Angel Manuel Soto",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTEyNTY5NmEtNjdmNC00MzkxLThlZjctOGUzMzJiNmY3MjI2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTc1YWU2NTgtNGI1Mi00N2I2LWE4ODUtZDY4MWJiZGE4NjE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTJiOWNlN2QtZjdkYS00YzFkLWFiZWEtNGI5OGQxYWUwZTgxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDc4MGUyMmMtNzQyYS00ZThkLWI3ZDItNTgyYjNjMTdhYzhkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR101,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQxMGJhYjItMzEwMS00MWQ3LWE0OGItODI4OTg4OGJmYmYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGY2YWM5MmYtZTYyMS00MDMzLTk1ZmYtNzdlODcyNThkNzQ0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTMxODg2MzYtMjgwYi00NDJjLWJlNmYtYzU5YWYwMGNkODliXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzYyYTg0YmItZjhhMy00MWMzLTg5YzctODY1YTY3MmQ2OTUyXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWRiY2IwYzktNjBiOC00MjA2LTk4ZjgtYjVlNzUxMjIxZWYxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzc5YjEwODItNjJmZS00ZGU2LWFhOTUtMjk3MWJmN2RkMGExXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTZlMWIyZGQtZjVlOC00ZWZjLTkwNjItMzMyM2I5NTk3NmYxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzVhYTIxNjUtNTlmNi00M2NkLTk5NWUtYjFkNjY0ODdkNWQzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9362930/",
+        "rating": "6/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3924049/",
+        "name": "Angel Manuel Soto"
+      },
+      "seo": {
+        "title": "Blue Beetle (2023)",
+        "description": "An alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor that's capable of extraordinary powers, forever changing his destiny as he becomes the superhero known as Blu..."
+      }
+    }
+  }
+}

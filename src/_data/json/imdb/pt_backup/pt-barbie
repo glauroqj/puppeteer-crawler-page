@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "barbie",
+    "title": "Barbie",
+    "year": "2023",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "director": "Greta Gerwig"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Barbie",
+    "description": "Viver na Terra da Barbie é ser um ser perfeito em um lugar perfeito. A menos que você tenha uma crise existencial completa. Ou que você seja um Ken.",
+    "slug": "barbie",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGExZWM4YzItMDkyNS00ZWRlLWJjY2UtMTE1Mjg2YmJiYzEzXkEyXkFqcGdeQXVyNTk2MDQ0MjA@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "director": "Greta Gerwig",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Comédia",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjNjMDA4YTgtMGJjZS00ZmVmLThlYWEtMjhmYTY1MmRiNjJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzBkOGQwNDktN2Y3Yy00NWU1LWEyOTYtZTU5ZDRiYWViYjBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR77,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzUyZDg1YTItODYxNy00Y2EyLWFhZTgtNWIyZDE3OGZjNTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTM1NzVmZTItYmU0Zi00ODVmLWE4MWQtZTFlMzRiZmMxN2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjU3ZWFhMDYtMDUyZi00YzA2LThmNmUtNmJlMGE3MGM3ZDczXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTU3Y2RmM2MtNzdmYS00Mzc3LWJkYzUtYjU2OTQ2NDliZjdmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTY4YmU5NWYtMDE3YS00ZmM3LTg2NzUtZTdiNjM0YWI3NGZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR79,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjVkN2EwMmEtMmMzNy00ZWExLTlhNjktN2RlMTVkNzM5NWNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZThhZTUwZGMtMzdhYS00YTUwLTg0YTQtYTM5YzMxNWY5OGZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTNiMmRlZTAtNGY0YS00MjhmLWI0ZmMtOTgyOGE2MmI2OTRlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Q3MzlkNDItODhmMS00NmFiLWIzZjctOGRlZDhjMTgyNzZjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR77,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGY0NTVhZDctYzliNy00YWE2LThjMDQtY2QyYzdlYzc4ZjAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR80,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1517268/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1950086/",
+        "name": "Greta Gerwig"
+      },
+      "seo": {
+        "title": "Barbie (2023)",
+        "description": "Viver na Terra da Barbie é ser um ser perfeito em um lugar perfeito. A menos que você tenha uma crise existencial completa. Ou que você seja um Ken."
+      }
+    }
+  }
+}

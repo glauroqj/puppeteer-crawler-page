@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "1917",
+    "title": "1917",
+    "year": "2019",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "director": "Sam Mendes"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "1917",
+    "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "slug": "1917",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "director": "Sam Mendes",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZGY4ZDdkZjktNzdiNy00NDEzLWE1MTEtZTFlY2Y4NWQ4YjI2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmU3MGJhOWMtZmZkZi00NGMwLWFjNTItMjUwZWJhMGUxY2UzXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ZhMjI5MWEtOTVkYi00MjU1LWExOTgtYzIzZWY1YzQyZDM0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTM4OTk2NzUtZDY0Zi00NDkxLWI3ZGYtMTdhNjY3MjgyYTRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdhODFjMjQtMTI2Yy00MjI0LWIwYzQtNDRjNDU2OTlhZGE0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjZhMTMzNjMtNDc1Zi00ZGUwLTkzYzYtNTIyYzUwZTdlODdkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODVlZjFjMWQtNmMwMS00ZWE2LWJjNjEtNzQ2ZDk4YjQxZmRkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3MGQ1M2QtM2I1My00OWY0LWEzYzMtYzRiODE5ZmE0NGRmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzIzZDU3YTMtYjI1Yy00NTFmLTkwOWItNmJkYmM5YjY2ZTc4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmFkMDM0NWItNGJiNS00NjMzLTg5MWQtNTJiY2RkOWM4ZDU2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzE2OGZmY2EtYzVjZS00NmNiLWJjY2UtOTJiNWQ2NTZmMjFmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWU0OTZjZmEtNTE2Yy00NDRhLWI4MTctMmRlMDgyYTY1ZWI0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8579674/",
+        "rating": "8.2/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0005222/",
+        "name": "Sam Mendes"
+      },
+      "seo": {
+        "title": "1917 (2019)",
+        "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap."
+      }
+    }
+  }
+}

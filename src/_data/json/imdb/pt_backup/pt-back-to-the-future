@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "back-to-the-future",
+    "title": "De Volta para o Futuro",
+    "year": "1985",
+    "director": "Robert Zemeckis"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "De Volta para o Futuro",
+    "description": "De Volta para o Futuro: Dirigido por Robert Zemeckis. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover. Marty McFly viaja para 1955 com a máquina do tempo do cientista Dr. Brown. Ele deve garantir que seus pais se apaixonem, para não arriscar sua própria existência.",
+    "slug": "back-to-the-future",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzA0YTY4NTctYTg2Mi00MzNhLWJiMmYtNjNhMTk1MTBmZDU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "director": "Robert Zemeckis",
+    "year": "1985",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjhiOTU5YmUtM2Y0NS00OTI2LWJiZjMtMTc3ZmQ1ZTZlMDg3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWM5ODM4NDMtNmQ2My00NTkxLTk5Y2MtZDlmNjIyYWYyODdiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2UzYzk5MGEtODg2OS00NDFmLThkMzEtOWRmY2U4MWMwNDNhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdjZjI5N2EtYWEyNS00ZjVlLTk4NGEtZjc3N2JkZTkxNDNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE0YTJhOTUtZTg2Yy00NzVmLWFjZjItMGI0NTU2ZTEwNDgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4MzI0NzI3MF5BMl5BanBnXkFtZTcwOTc4Mzg0OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3Nzk5NzYzMV5BMl5BanBnXkFtZTcwNTMxNDc0NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3MTA2NjQ2Nl5BMl5BanBnXkFtZTcwNzMxNDc0NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NjcwMzk3M15BMl5BanBnXkFtZTcwOTMxNDc0NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyOTA3OTMwNV5BMl5BanBnXkFtZTcwMDQxNDc0NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1MTc3NDE0MF5BMl5BanBnXkFtZTcwMTQxNDc0NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNzk3Mzc5MV5BMl5BanBnXkFtZTcwMjQxNDc0NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0088763/",
+        "rating": "8.5/10"
+      },
+      "year": "1985",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000709/",
+        "name": "Robert Zemeckis"
+      },
+      "seo": {
+        "title": "De Volta para o Futuro (1985)",
+        "description": "De Volta para o Futuro: Dirigido por Robert Zemeckis. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover. Marty McFly viaja para 1955 com a máquina do tempo do cientista Dr. Brown. Ele deve garantir que seus pais se apaixonem, para não arriscar sua própria existência."
+      }
+    }
+  }
+}

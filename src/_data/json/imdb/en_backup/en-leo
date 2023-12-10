@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "leo",
+    "title": "Leo",
+    "year": "2023",
+    "director": "Robert Marianetti"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Leo",
+    "description": "Leo: Directed by Robert Marianetti, Robert Smigel, David Wachtenheim. With Adam Sandler, Bill Burr, Cecily Strong, Jason Alexander. A 74-year-old lizard named Leo and his turtle friend decide to escape from the terrarium of a Florida school classroom where they have been living for decades.",
+    "slug": "leo",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNiZWI3ZmItMjY4OS00Mjk5LThlNjktMmMwZDM1OTEwOGVmXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Robert Marianetti",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTQ2NDk5ZDQtZWFlNy00ZThhLTgyODYtNzk1MTk2NjMyNzgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODdmY2RjNzktOTg4Ny00NzM5LTgxYmEtYWNlYTJiNTM1ZmIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg2ZWM5MzgtZWNiZi00OTg5LWE3ZWEtN2Q2ZDg1OWZiOGY1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRmYjMxYjEtMWQyMS00YTEyLWFmMDMtZDBhNDU4YjNmZmIxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDllYWQ0NDctYmNiMi00MzdlLWJhZWMtM2U4ZWVmMGM2YmEzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGQ0Y2VmYzYtMjQ3Yy00NTM0LTg3OTAtM2Y1YzU0MmE4NWU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2Q4OWQ0ZTgtMDg5OC00YmY0LThkYWEtZjUzZTNlNzc5ZmYxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDBiZWUxMTYtNWYyOC00YTM4LWFiMmItMjAwNDAyODVmYmJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjczMzZhMzgtMTU4OC00MGEyLWI2MzAtZWNhZjY3YWQ1NGQ4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjExMWQyOTQtOTUwMi00NzE0LWI2ODMtY2FjNTc4YjBhMDhiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWNjMzQ3NDEtOWY2Ny00MGQxLWI5MDktNzViODZmZmM1NzUyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRmMTQ5OTEtY2Y3MC00OWZmLTg4NGMtOWE0MWFhZjUxYTI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt5755238/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1656967/",
+        "name": "Robert Marianetti"
+      },
+      "seo": {
+        "title": "Leo (2023)",
+        "description": "Leo: Directed by Robert Marianetti, Robert Smigel, David Wachtenheim. With Adam Sandler, Bill Burr, Cecily Strong, Jason Alexander. A 74-year-old lizard named Leo and his turtle friend decide to escape from the terrarium of a Florida school classroom where they have been living for decades."
+      }
+    }
+  }
+}

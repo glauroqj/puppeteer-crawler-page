@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "forrest-gump",
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Robert Zemeckis"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Forrest Gump",
+    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "slug": "forrest-gump",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Robert Zemeckis",
+    "year": "1994",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTY4NjcxNDctZmVjMC00NzM0LWIxYTctNjdhNzdlN2VkNjNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjhlOWFmMmMtOGI5NC00NWJkLWE4OTUtMzA5NzE1MGZmYjM5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjAwZDczYWYtMzM2Ny00YTkxLWExNmUtODAwZTUyNTk3NTQ0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmNiOWE3OTktNWZjNC00NzUzLThkZWQtNWM5ZGM5ZjI3ZTFkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGU5OWEzNDAtNzM5Zi00NGU0LThiNTYtMjMwOTVlMjkxYjM5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTM0ZTU4YjItOWVjZi00ZmU2LTgwZDMtYzEwOTg5NzIyNzI1XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR87,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTIxZTYxNTQtMTQ2OS00NzcyLWFhNjItZDQ3NzY1YjBkNjI5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2M1NTU0ODctZmEzNC00NzdjLTkwNTktODU1YzYwNGI4MTRmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTJmYTBlNDMtYjUwNy00NjEyLWEwMWMtNjk1MjA5MGU4YThhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDU0NTgwMGQtZDgwZS00YmQzLWE4Y2MtN2M1ZTYwNWNlMGVmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMjExNTU0NV5BMl5BanBnXkFtZTcwNzM2NDY3Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0109830/",
+        "rating": "8.8/10"
+      },
+      "year": "1994",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000709/",
+        "name": "Robert Zemeckis"
+      },
+      "seo": {
+        "title": "Forrest Gump (1994)",
+        "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "pulp-fiction",
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "slug": "pulp-fiction",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "1994",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTY1MzgzOTYxNV5BMl5BanBnXkFtZTgwMDI4OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNDYxNjMzNF5BMl5BanBnXkFtZTgwODE4OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2MDk3ODAwMV5BMl5BanBnXkFtZTgwNzE4OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTc4MTY2NjM5NF5BMl5BanBnXkFtZTgwNjE4OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1ODYxOTkxOF5BMl5BanBnXkFtZTgwNTE4OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMjUyNzg1Ml5BMl5BanBnXkFtZTgwNzAwMzg5MTE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAxMzE0NTE1OTVeQTJeQWpwZ15BbWU4MDk5OTI4OTEx._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwNDE5MzkyNzZeQTJeQWpwZ15BbWU4MDAwMDM4OTEx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzcyNTQyNzg3OF5BMl5BanBnXkFtZTgwMTAwMzg5MTE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5Njg5Njg2MV5BMl5BanBnXkFtZTgwMjAwMzg5MTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4OTI1NDY4MF5BMl5BanBnXkFtZTgwMzAwMzg5MTE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM3NDUxNzQ3NV5BMl5BanBnXkFtZTgwNDAwMzg5MTE@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0110912/",
+        "rating": "8.9/10"
+      },
+      "year": "1994",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Pulp Fiction (1994)",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+      }
+    }
+  }
+}

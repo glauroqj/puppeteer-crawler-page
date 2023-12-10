@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "psycho",
+    "title": "Psicose",
+    "year": "1960",
+    "director": "Alfred Hitchcock"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Psicose",
+    "description": "Psicose: Dirigido por Alfred Hitchcock. Com Anthony Perkins, Vera Miles, John Gavin, Janet Leigh. Uma secretária de Phoenix desvia dinheiro de um cliente de sua empresa, foge e vai a um motel remoto gerido por um jovem sob o domínio da mãe.",
+    "slug": "psycho",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2QzYTNmN2QtMmM3MC00NWRhLThiOWYtZGJkMTEyMjI3YTkxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Terror",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Alfred Hitchcock",
+    "year": "1960",
+    "infos": {
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzlmMmFmOTktZDlmNC00YjAxLWIxYzAtODllYTc1YjhiNmNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjFhZDM2MmQtNDdhYS00M2M5LTgzMTYtNTcyMzE3NjQ1MzU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjI2NzRlMDYtOWNlMS00ZDY2LWI3ODMtNmQwMmZiODMyMTQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQzNTQzNDUtZWNmYy00NjMzLTlmNzQtMzg4MDk2YjVhZTQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWJlZThhZjItNWNlMi00YTAxLWE0MWYtNDBiNzc5NzdiN2ZlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmJmYzcwNTQtM2YyMS00NjdmLWI3ZjctMmVjMGY3YWMyYWNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzc3OTcwYTUtMWRlMS00OTM4LTg3MDEtNWFiNDFkZWQyMDQyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU3YmMyMmEtNDMzYi00YmI4LTg3MDctZmRiMzllYTQ4MzA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGFkNTAzMmYtMjRkNy00OTc0LTg1NDktZmU1Yzc3NGIwMjQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMzM4NTYtZDBlYS00YTM1LWIzOTYtYjA2YjRlNTFkZmQyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGQ4N2I3MDctYTgyNi00YTVmLWI4ZDItMjJiZGQwYjJjNWZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGIyMTIzMGItODA2Ni00Y2E4LTg5NmUtNmFhNzZjMzE0NzE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR23,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0054215/",
+        "rating": "8.5/10"
+      },
+      "year": "1960",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000033/",
+        "name": "Alfred Hitchcock"
+      },
+      "seo": {
+        "title": "Psicose (1960)",
+        "description": "Psicose: Dirigido por Alfred Hitchcock. Com Anthony Perkins, Vera Miles, John Gavin, Janet Leigh. Uma secretária de Phoenix desvia dinheiro de um cliente de sua empresa, foge e vai a um motel remoto gerido por um jovem sob o domínio da mãe."
+      }
+    }
+  }
+}

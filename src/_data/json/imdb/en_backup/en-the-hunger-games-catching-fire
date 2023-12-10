@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "the-hunger-games-catching-fire",
+    "title": "The Hunger Games: Catching Fire",
+    "year": "2013",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Francis Lawrence"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Hunger Games: Catching Fire",
+    "description": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+    "slug": "the-hunger-games-catching-fire",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Francis Lawrence",
+    "year": "2013",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NzkzNzEyN15BMl5BanBnXkFtZTgwMzI3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NTg1MDE1MV5BMl5BanBnXkFtZTgwOTI3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI5MDAwODI2NV5BMl5BanBnXkFtZTgwMjM3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NzY5MjU3Ml5BMl5BanBnXkFtZTgwNDM3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NjYyOTY3N15BMl5BanBnXkFtZTgwMzE3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MDQyODk4NF5BMl5BanBnXkFtZTgwNTE3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUyNDEwODIyM15BMl5BanBnXkFtZTgwNjE3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxMzI4NTIzNl5BMl5BanBnXkFtZTgwNzE3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyOTQ4NDU2OF5BMl5BanBnXkFtZTgwMjI3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY1MDA4MDk5M15BMl5BanBnXkFtZTgwMzA3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI4NzI3MTA4OF5BMl5BanBnXkFtZTgwNTA3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODMxMTQ1NzI4NV5BMl5BanBnXkFtZTgwNzA3NzY2MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1951264/",
+        "rating": "7.5/10"
+      },
+      "year": "2013",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1349376/",
+        "name": "Francis Lawrence"
+      },
+      "seo": {
+        "title": "The Hunger Games: Catching Fire (2013)",
+        "description": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem."
+      }
+    }
+  }
+}

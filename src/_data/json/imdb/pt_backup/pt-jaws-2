@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "jaws-2",
+    "title": "Tubarão 2",
+    "year": "1978",
+    "genres": [
+      "Aventura",
+      "Terror",
+      "Suspense"
+    ],
+    "director": "Jeannot Szwarc"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Tubarão 2",
+    "description": "O chefe de polícia Brody deve proteger os cidadãos de Amity após um segundo tubarão monstruoso começar a aterrorizar as águas.",
+    "slug": "jaws-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg0NWQ5NmUtMzE1Mi00OGQ5LTljMjQtYWNlNGIxMzVkOGVkXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Terror",
+      "Suspense"
+    ],
+    "director": "Jeannot Szwarc",
+    "year": "1978",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Terror",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzY4YTBiMWEtNzI2Yi00ZmI0LThhYzItNGIzZTJmZTMyMWZlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGYwMGY4M2QtZTg2Yy00ODVlLWE2NWItZmJmMDE0NzA3OTI2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzFkMjkzZTMtZTVkNC00YjA5LWJjNjItMmU2YTIxYmUzMWJhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTgwMTM2YTYtMGI3Zi00NTJmLWEzNGQtZTM4NTkyMTQ3MzJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTE5MTI3YjItOGViZC00Y2Q4LTllNmMtODRhNzE2OWI3MTc5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmYwMzk2YTItOTM3MS00ODU5LTk0NzYtN2QwOWJmMTk4Y2M0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjk4NTFhOWQtMjViYS00MmZmLWExMGUtNGE4YTgzN2JkMzQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGI1YzhjMzgtYWUxMi00YjRiLTgyMzAtNTYxZWRiYzI2ZGJmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGI5ZDA4OWMtMTAyZi00ZDBkLThiYjctZjc3MzQ5MmIxNTExXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWFjNDY1OTItNTY2NS00N2M2LTg1OTAtMmI2MWVlZGYyZTM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzAzZDc0MmUtZTc3Ni00OTNlLTkwOTAtYzJiMzNlZmNmY2Q3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR15,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDhjYjJmNmEtNGFlZi00YTgzLWE5NmMtMDRkZjUyYjdkMTc2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0077766/",
+        "rating": "5.8/10"
+      },
+      "year": "1978",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0844358/",
+        "name": "Jeannot Szwarc"
+      },
+      "seo": {
+        "title": "Tubarão 2 (1978)",
+        "description": "O chefe de polícia Brody deve proteger os cidadãos de Amity após um segundo tubarão monstruoso começar a aterrorizar as águas."
+      }
+    }
+  }
+}

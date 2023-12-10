@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "saving-private-ryan",
+    "title": "O Resgate do Soldado Ryan",
+    "year": "1998",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Resgate do Soldado Ryan",
+    "description": "O Resgate do Soldado Ryan: Dirigido por Steven Spielberg. Com Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper. Depois de chegar a Normandía, um grupo de soldados precisam encontrar ao unico irmão vivo de tres que morreram na guerra.",
+    "slug": "saving-private-ryan",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyMDRiNTQtNjY4NC00MWI1LWIyZTAtYjQ1ZDJjMjdkYzM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Steven Spielberg",
+    "year": "1998",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDI1ZTg0YzItMWU1ZC00ZmYyLTlmMTEtZjZmZGY5ZTgyZjdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmE2ZWI3MTYtZTAzNC00YmE3LWIxNmQtYTU2YTg1NDYyYzk4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2ZkY2E2ODYtZTY1MC00NTAzLWJhNDUtNzAyNTcyZTcwZmE3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWVkYTY1ODYtZTk0Yi00MWVhLWE3NDctYTljYzcxYTc5MmVjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2I3Y2U1ZTEtZTdjNi00OGRmLWI2OTgtZjYzNGFkNzM3YWYzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzMjE4MzMyNV5BMl5BanBnXkFtZTcwNjY2NzgwMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzIxNjc3NTcxNF5BMl5BanBnXkFtZTcwMDk2NzgwMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAxMTAxOTc5OTJeQTJeQWpwZ15BbWU3MDUxNzc4MDM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MzI1MDE5Nl5BMl5BanBnXkFtZTcwNDM3NzgwMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0MTM3NDk1N15BMl5BanBnXkFtZTcwNjQ3NzgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3NjE5MDI0OV5BMl5BanBnXkFtZTcwOTQ3NzgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NzE0MTIwMF5BMl5BanBnXkFtZTcwNzg3NzgwMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120815/",
+        "rating": "8.6/10"
+      },
+      "year": "1998",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "O Resgate do Soldado Ryan (1998)",
+        "description": "O Resgate do Soldado Ryan: Dirigido por Steven Spielberg. Com Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper. Depois de chegar a Normandía, um grupo de soldados precisam encontrar ao unico irmão vivo de tres que morreram na guerra."
+      }
+    }
+  }
+}

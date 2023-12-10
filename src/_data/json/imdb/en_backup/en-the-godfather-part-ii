@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "the-godfather-part-ii",
+    "title": "The Godfather Part II",
+    "year": "1974",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Godfather Part II",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "slug": "the-godfather-part-ii",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "year": "1974",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDYwMjc5NDM5M15BMl5BanBnXkFtZTgwNTM3ODIxNjM@._V1_QL75_UY140_CR15,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDI0Mzg1MDA4NF5BMl5BanBnXkFtZTgwMTM4NjIwMjE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NTE0MDc0OV5BMl5BanBnXkFtZTgwOTI4NjIwMjE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNjg4NzM5MV5BMl5BanBnXkFtZTgwNjI4NjIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5OTE1NzMyNl5BMl5BanBnXkFtZTgwMDM4NjIwMjE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyMDc0ODY1OV5BMl5BanBnXkFtZTgwMDI4NjIwMjE@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4NTU1NDQ0M15BMl5BanBnXkFtZTgwMjI4NjIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NjM2MjcwOV5BMl5BanBnXkFtZTgwODI4NjIwMjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MzA3ODcwNF5BMl5BanBnXkFtZTgwNTI4NjIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM4MDIyNzQyOF5BMl5BanBnXkFtZTgwNzI4NjIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5NTIyOTgxOV5BMl5BanBnXkFtZTgwNDE4NjIwMjE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA1MzgzODQyMDReQTJeQWpwZ15BbWU4MDYwODYyMDIx._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0071562/",
+        "rating": "9/10"
+      },
+      "year": "1974",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000338/",
+        "name": "Francis Ford Coppola"
+      },
+      "seo": {
+        "title": "The Godfather Part II (1974)",
+        "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+      }
+    }
+  }
+}

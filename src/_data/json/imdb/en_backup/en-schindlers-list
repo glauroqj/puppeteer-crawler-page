@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "schindlers-list",
+    "title": "Schindler's List",
+    "year": "1993",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Schindler's List",
+    "description": "Schindler's List: Directed by Steven Spielberg. With Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall. In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "slug": "schindlers-list",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Steven Spielberg",
+    "year": "1993",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTgwNzg3MDkxM15BMl5BanBnXkFtZTcwMzA2MDAxMw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NTA1OTE4Nl5BMl5BanBnXkFtZTcwODA2MDAxMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4OTczNjU1OF5BMl5BanBnXkFtZTcwMzU2MDAxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNDExMDI3NV5BMl5BanBnXkFtZTcwMDY2MDAxMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMjk5NjU3NV5BMl5BanBnXkFtZTcwMzU1MDAxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI4MjA2MDQ3Ml5BMl5BanBnXkFtZTcwMzY1MDAxMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2NjQwMjk3OF5BMl5BanBnXkFtZTcwODY1MDAxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1MTgwMzY5OV5BMl5BanBnXkFtZTcwMzg1MDAxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NjEyMzA2OV5BMl5BanBnXkFtZTcwOTg1MDAxMw@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0ODMxMTU4N15BMl5BanBnXkFtZTcwNDk1MDAxMw@@._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNzk3OTA1OV5BMl5BanBnXkFtZTcwNzQ1MDAxMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNDExMDU0NV5BMl5BanBnXkFtZTcwMjE2MDAxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0108052/",
+        "rating": "9/10"
+      },
+      "year": "1993",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "Schindler's List (1993)",
+        "description": "Schindler's List: Directed by Steven Spielberg. With Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall. In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+      }
+    }
+  }
+}

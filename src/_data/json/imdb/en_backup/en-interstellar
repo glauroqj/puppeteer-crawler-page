@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "interstellar",
+    "title": "Interstellar",
+    "year": "2014",
+    "director": "Christopher Nolan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Interstellar",
+    "description": "Interstellar: Directed by Christopher Nolan. With Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow. When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "slug": "interstellar",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Christopher Nolan",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTc0NDQ4MjkyOF5BMl5BanBnXkFtZTgwNDE2NzUzOTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3NTEwOTMxMV5BMl5BanBnXkFtZTgwMjMyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MjQ3NjE1MF5BMl5BanBnXkFtZTgwMzMyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4MTY3MDUyNl5BMl5BanBnXkFtZTgwMDMyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzQ5ODE2MzEwM15BMl5BanBnXkFtZTgwMTMyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzk3MzIzNzM5NV5BMl5BanBnXkFtZTgwNzIyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2OTg1NjUxM15BMl5BanBnXkFtZTgwOTIyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAyOTI5MTg5MDFeQTJeQWpwZ15BbWU4MDYyMjg4MTMx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4Njk4MzY0Nl5BMl5BanBnXkFtZTgwMzIyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTc0NDkxNTkwMF5BMl5BanBnXkFtZTgwNDIyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQ2NTk3NTQ5OF5BMl5BanBnXkFtZTgwMTIyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0MjI0NzI0MV5BMl5BanBnXkFtZTgwMjIyODgxMzE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0816692/",
+        "rating": "8.7/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      },
+      "seo": {
+        "title": "Interstellar (2014)",
+        "description": "Interstellar: Directed by Christopher Nolan. With Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow. When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+      }
+    }
+  }
+}

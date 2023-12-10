@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "belfast",
+    "title": "Belfast",
+    "year": "2021",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Kenneth Branagh"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Belfast",
+    "description": "A young boy and his working-class Belfast family experience the tumultuous late 1960s.",
+    "slug": "belfast",
+    "image": "https://m.media-amazon.com/images/M/MV5BODMwYTYyY2ItOWQ5Yi00OTI1LTllYTQtYTdlNWM4YzJhYTM0XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Kenneth Branagh",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmMxMjhhMjItOGZjYy00NzQ3LTkxMzgtMjYyZjlhMmRlNjk5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTU2ZDdhOTEtZjhkOC00NzlmLWEwMGUtMWNjZTNhNTNkYmNlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR85,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk2OTIxN2UtNWZmMy00ZjRlLWIwMjktNTQ2ZGY1YTg5MjY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDcxMzEzYjgtZTlkOC00ZDc0LTljYzktOWIwNjAwMjliOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTgwMjY2MjgtNTY0My00ZWVlLTkyNDAtODNiZTI0YWMxMDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGYzMDgwZmQtODhmNS00ZjYzLWI0NGEtMDIzYzZhZWE5MTBmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTY3ZWJkNGQtNzlmZi00YmFjLTkxZTItNzAwMTY3MzUwMmQ1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTkwZWM4ZWEtNjkxNS00YWQ1LWIzMmUtZTFlMjQ3OWE4MWMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTkyODBmYWQtMmVjYS00OGMyLTk4N2ItYjg0NTk1NDk2OWY1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA2MzNkZWEtMzg2NC00M2QwLWEzN2QtMDdjZjQ2NzdmYmYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2YyMDI0YTYtYWMxNi00NjNhLTlhYmYtNGNjNjcxMjNiNGM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTY0ZWEzYzgtMjI3Mi00YmY1LWFlMzUtYWY2ZmYwNDQ5ZTk0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12789558/",
+        "rating": "7.2/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000110/",
+        "name": "Kenneth Branagh"
+      },
+      "seo": {
+        "title": "Belfast (2021)",
+        "description": "A young boy and his working-class Belfast family experience the tumultuous late 1960s."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "shichinin-no-samurai",
+    "title": "Os Sete Samurais",
+    "year": "1954",
+    "director": "Akira Kurosawa"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Os Sete Samurais",
+    "description": "Os Sete Samurais: Dirigido por Akira Kurosawa. Com Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki. Uma aldeia pobre sob a ameaça de bandidos recruta sete samurais para ajudá-los a se defenderem.",
+    "slug": "shichinin-no-samurai",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkwY2I5NWMtMjNlNi00ZThjLWI4NzQtNDI4M2I4OGM1YjAzXkEyXkFqcGdeQXVyNzYxODE3NTQ@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Drama"
+    ],
+    "director": "Akira Kurosawa",
+    "year": "1954",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDBiZjc2YjktNmJiYi00YWE3LTk0N2EtN2E4OWZjN2UxZjI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3OTI1ODEzNF5BMl5BanBnXkFtZTcwMjA5MTU4Mw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5MDg0Mjc2MV5BMl5BanBnXkFtZTcwMzA5MTU4Mw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NzEwNTA5MV5BMl5BanBnXkFtZTcwNDA5MTU4Mw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzNjczNDUzOV5BMl5BanBnXkFtZTcwNTA5MTU4Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MTc4MTc4M15BMl5BanBnXkFtZTcwNjA5MTU4Mw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3NzE2MzEyNF5BMl5BanBnXkFtZTcwNzA5MTU4Mw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNiY2QzOTAtOWNlZC00NjAwLWFmMTAtNTJhYTBiNTY4ODU0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGFiM2IyM2QtM2NkNC00NjRiLWFiNjctNGU3MDhjNTA0ZGQwXkEyXkFqcGdeQXVyNjY0OTgxOTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2E5MDYyNzgtMmQ5MC00NGQyLThjODMtYTRhM2MwNGNjOTI5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3NTI2MzExMl5BMl5BanBnXkFtZTgwMzM2OTE4MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNjk0NDExM15BMl5BanBnXkFtZTgwNTM2OTE4MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0047478/",
+        "rating": "8.6/10"
+      },
+      "year": "1954",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000041/",
+        "name": "Akira Kurosawa"
+      },
+      "seo": {
+        "title": "Os Sete Samurais (1954)",
+        "description": "Os Sete Samurais: Dirigido por Akira Kurosawa. Com Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki. Uma aldeia pobre sob a ameaça de bandidos recruta sete samurais para ajudá-los a se defenderem."
+      }
+    }
+  }
+}

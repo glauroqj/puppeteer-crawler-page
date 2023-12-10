@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "kill-bill-vol-1",
+    "title": "Kill Bill: Vol. 1",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Kill Bill: Vol. 1",
+    "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "slug": "kill-bill-vol-1",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2003",
+    "infos": {
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzEwNzEyN15BMl5BanBnXkFtZTgwMjc4MzA4MTI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5NTI4Njg5Nl5BMl5BanBnXkFtZTgwMzc4MzA4MTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNzY4ODY3OV5BMl5BanBnXkFtZTgwNDc4MzA4MTI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MzMzODU1Ml5BMl5BanBnXkFtZTYwMTkwOTc3._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1NzEyNDQzNl5BMl5BanBnXkFtZTYwMzkwOTc3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyNzY1NTAyN15BMl5BanBnXkFtZTYwNTkwOTc3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwOTQ3MzMzMF5BMl5BanBnXkFtZTYwNzkwOTc3._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyNzQ1NTQ1MF5BMl5BanBnXkFtZTYwOTkwOTc3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NzE1NzE3NF5BMl5BanBnXkFtZTYwMTAxOTc3._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNjE0MzcwM15BMl5BanBnXkFtZTYwMzAxOTc3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMjYyOTc1MF5BMl5BanBnXkFtZTYwNjAxOTc3._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxOTAyOTgwNl5BMl5BanBnXkFtZTYwODAxOTc3._V1_QL75_UY140_CR38,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0266697/",
+        "rating": "8.2/10"
+      },
+      "year": "2003",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Kill Bill: Vol. 1 (2003)",
+        "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+      }
+    }
+  }
+}

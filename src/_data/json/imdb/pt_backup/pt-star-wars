@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars",
+    "title": "Star Wars: Episódio IV - Uma Nova Esperança",
+    "year": "1977",
+    "director": "George Lucas"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Star Wars: Episódio IV - Uma Nova Esperança",
+    "description": "Dirigido por George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing. Luke Skywalker une forças com um cabaleiro Jedi, um arrogante piloto é dois dróides para salvar a galaxia enquanto tentam salvar a princesa Leia do misterioso Darth Vader.",
+    "slug": "star-wars",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "George Lucas",
+    "year": "1977",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk3MTkzNTk3Ml5BMl5BanBnXkFtZTgwOTcyMzQyNDM@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NzI5OTAwMl5BMl5BanBnXkFtZTgwMTgyMzQyNDM@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwMjIzNTk3OF5BMl5BanBnXkFtZTgwMjgyMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ3NTM2Nzk2Ml5BMl5BanBnXkFtZTgwNDgyMzQyNDM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUyNDE4MTAwOF5BMl5BanBnXkFtZTgwNTgyMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyODQ3ODE1MF5BMl5BanBnXkFtZTgwODgyMzQyNDM@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxNDU1MjI0Nl5BMl5BanBnXkFtZTgwOTgyMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4OTEwNDM2Nl5BMl5BanBnXkFtZTgwNTcyMzQyNDM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MDkyNzA1OV5BMl5BanBnXkFtZTgwNjcyMzQyNDM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMjgzMjczOF5BMl5BanBnXkFtZTgwNzcyMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQzMjEzNjUxOF5BMl5BanBnXkFtZTgwNTEwMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA1OTMxNDg5N15BMl5BanBnXkFtZTgwMzUwMzg4MDI@._V1_QL75_UY140_CR95,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0076759/",
+        "rating": "8.6/10"
+      },
+      "year": "1977",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000184/",
+        "name": "George Lucas"
+      },
+      "seo": {
+        "title": "Star Wars: Episódio IV - Uma Nova Esperança (1977)",
+        "description": "Dirigido por George Lucas. Com Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing. Luke Skywalker une forças com um cabaleiro Jedi, um arrogante piloto é dois dróides para salvar a galaxia enquanto tentam salvar a princesa Leia do misterioso Darth Vader."
+      }
+    }
+  }
+}

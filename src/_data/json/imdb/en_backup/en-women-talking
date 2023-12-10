@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "women-talking",
+    "title": "Women Talking",
+    "year": "2022",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sarah Polley"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Women Talking",
+    "description": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+    "slug": "women-talking",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sarah Polley",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjM4M2Y5MTMtODIyMC00ZWM2LTgzNWUtNGIyMzAyYWU0OTE4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWVhNGQ2YTUtZmQwNS00YmFhLWJiNGMtZDZhM2FlZGVhN2E1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDUzYWMyZWQtYWNkOC00ZjUzLWIzYjYtZWYzMzVkODM1YTYzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDk3YjkwZDEtN2ViMy00YmJlLWJlODEtNzEwNTg3MGQ5MjYwXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmQzZTEwNDctZmY0OC00ZGQxLWFhMTItNWFhOTVhM2IwMTc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWNkNDVmMjctMjgyMC00NzZjLWJhYzEtNDQzMzMxZDJjYzBmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y1NGE3MGYtNTc4YS00YjNlLThlYzgtNzVlNWZiOTlmYWNlXkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjNiNjFhMjQtMGFhMS00MTgxLWE0NTgtNDdiMzAwYjY0NzkwXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2YyN2MzM2UtMWUwYS00MjQ0LThmN2QtZTlkZTVkMWFhMjRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR124,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzM1OTcwOWYtM2QxZS00MTJmLWIzMGUtNDBmM2UzOTczZmM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR124,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzhlYTFkNmEtMDRkMi00ZjRmLWE5MjAtMzM2ZTQwYzUwYjgzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR134,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTU1YTg2NjAtNWE1Ni00Nzg1LTg0OTItYTI1NzViMDIzNTU0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR124,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13669038/",
+        "rating": "6.9/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001631/",
+        "name": "Sarah Polley"
+      },
+      "seo": {
+        "title": "Women Talking (2022)",
+        "description": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith."
+      }
+    }
+  }
+}

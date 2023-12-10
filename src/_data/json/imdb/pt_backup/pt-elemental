@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "elemental",
+    "title": "Elementos",
+    "year": "2023",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Peter Sohn"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Elementos",
+    "description": "Em uma cidade onde cidadãos de fogo, água, terra e ar vivem juntos, Ember, uma jovem impetuosa, e Wade, um cara que segue o fluxo da vida, irão descobrir algo elementar: o quanto eles têm em comum.",
+    "slug": "elemental",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGM1NTFjYjctNzdmOC00YmJkLWE4ZDktYzA1YjIwMWE2OTE2XkEyXkFqcGdeQXVyMTI5MDk0MzM3._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Peter Sohn",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGU3NmZmMTEtYjdlOS00YWNkLWJlYWYtMjA5NTY3YzdhNDc4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWY3YjNkNDYtZmVkMS00NWM0LWIxZDctYzFhYjg3OGY3OGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWY4OGI0YzMtMDhhOS00MjNhLTk2MzItMGEyYjJiMDMwNGEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTdkZGEwYTYtOWU1MC00MzgwLThjNGYtMDRkODhmMTM4NWFhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzgxMjE2ODQtMjQzNS00NzU1LTkzODAtNzJkZjIxOWE5MGI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2M0ODhiOWEtMmVlNy00YjU0LWJkMGUtMWFjODExZjdjMTQyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTdjODQ2MjItNjk3Zi00MWQwLThjNzItMjU4NWRlY2I0ZTFjXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2M2NTIzNGQtYzE1ZS00N2Y3LTlkMmUtMTgzNjRjYzY5YTQ1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjgzMWU3MzUtZDY2NS00ZjYzLWFhY2MtNjYyNGFkYzEwNzY4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmI1MDJmYTgtNDQ2MC00MWI4LWE5MmYtNDgzY2EwNWZmMmE0XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzRhZmUwODAtMTA2NC00NGMxLThhNTktMjQ5NGFkNWQ0N2JlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNhODYxYTUtYThhZS00MGMzLWE4MWMtODZmMWM3Nzg1Y2Y4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15789038/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0812307/",
+        "name": "Peter Sohn"
+      },
+      "seo": {
+        "title": "Elementos (2023)",
+        "description": "Em uma cidade onde cidadãos de fogo, água, terra e ar vivem juntos, Ember, uma jovem impetuosa, e Wade, um cara que segue o fluxo da vida, irão descobrir algo elementar: o quanto eles têm em comum."
+      }
+    }
+  }
+}

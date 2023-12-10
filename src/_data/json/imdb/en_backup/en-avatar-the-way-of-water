@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "avatar-the-way-of-water",
+    "title": "Avatar: The Way of Water",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "James Cameron"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Avatar: The Way of Water",
+    "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "slug": "avatar-the-way-of-water",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "James Cameron",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNGExYTkyZDYtYzQ3NC00ZDA5LWJjNjMtNzZkYzdlYzg1MmEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWJmMWRlYTMtMDQ3ZC00ZDI3LWEyNTMtY2FlNDhjODdlMGI0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjgwMzg3MzItNWFhNC00YTMzLTlkYTEtOWQ0YzhkZmU2MmQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDMzNjI5Y2EtNDYyZi00MjY4LTllZjMtOTI5NTk4ZWZjZmUwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTUwNjUwMTQtZGE3Ny00ZTlmLWFhOWItY2RkNGYxNzY1ZDg2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTg3ZWVkNzMtYTZiMi00YjE1LWE1ZDYtOWYxYTY2YjAyZjA4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDNlNzg1OTQtMjVmMy00ZjI4LWI4MGItNDU5ZDhlNTgxZjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MTNiMWYtOGIxZS00NTFiLTg2M2ItZWFhNzQ1MTE2Y2YxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2E3ZDc3OTEtODE1Yy00NDczLTg3YmYtZGI5MjdmYTNiMjhjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk1ZjgyOTgtZmY5ZS00NmYzLWFmNDktYmU5MmYxMGZlNDAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzBkZmU3OTAtZjU4Zi00MWMyLWI2YmQtYTMyMTYyMjI5ZmUxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjg3ZTNlNDktMWI1YS00MzkzLTgyZTYtNDk5M2VkMGI3ZTMzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1630029/",
+        "rating": "7.6/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000116/",
+        "name": "James Cameron"
+      },
+      "seo": {
+        "title": "Avatar: The Way of Water (2022)",
+        "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home."
+      }
+    }
+  }
+}

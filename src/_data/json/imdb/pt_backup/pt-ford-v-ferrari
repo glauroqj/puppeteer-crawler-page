@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "ford-v-ferrari",
+    "title": "Ford vs Ferrari",
+    "year": "2019",
+    "genres": [
+      "Ação",
+      "Biografia",
+      "Drama"
+    ],
+    "director": "James Mangold"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Ford vs Ferrari",
+    "description": "Um designer de carros e um motorista combatem a interferência corporativa, as leis da física e seus próprios demônios pessoais para construir um carro de corrida revolucionário para a Ford e desafiar a Ferrari nas 24 Horas de Le M...",
+    "slug": "ford-v-ferrari",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzliNDUxMDMtYjM4Ny00Y2U2LWE4ZTUtNTE3MjhmNWQ5YTFkXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Biografia",
+      "Drama"
+    ],
+    "director": "James Mangold",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Biografia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTEzNDk0ZDMtNmQ1Ni00OWFiLWIyZDMtODc1MTVmOThiNDAwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM5NTEyNjQtYTFkZi00NTc4LTg3YjQtMWQ1M2VmYWZjMDM1XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGFmZDQwNDUtMzM1Yy00N2Y3LTlhNWYtOGZhZWE5MmUwZjViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGQyYzdiMjUtOGYwNy00NzQ1LTgwNTEtZmYwMjI1NDBkNjI1XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTRjYzc5YWMtMGI4Ni00ZWE2LWIwZTYtOWI5MTdkZDIwNGQyXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTk1MjdlYmItNjMxNC00NDljLWFhZjgtYTA5MDRiMmFmYmZlXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmQ1NTc2NWUtZDc2NS00YzdkLTg2NmItOGIyN2Q0ODAxNjRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ0MDgyYWYtOWUzOS00Y2JiLTlmZTQtYmM2OTQyYTQ1NzliXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTYzOTZiYWYtZDZiYy00M2JhLTkyMDctYWZkYzQ4ZWIyYTVhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDE3Nzc2MjEtZGExMC00NmMxLTk3M2UtNGRiNGYxNDU5YTA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTZkNzNkM2UtMjMwZC00ZWJmLWFkYjgtZDhjYjExMzk3MTFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRmMDdhYzAtY2JiYi00Y2I4LWIwMzMtYjUxOTY5NDI5ZjgzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1950186/",
+        "rating": "8.1/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0003506/",
+        "name": "James Mangold"
+      },
+      "seo": {
+        "title": "Ford vs Ferrari (2019)",
+        "description": "Um designer de carros e um motorista combatem a interferência corporativa, as leis da física e seus próprios demônios pessoais para construir um carro de corrida revolucionário para a Ford e desafiar a Ferrari nas 24 Horas de Le M..."
+      }
+    }
+  }
+}

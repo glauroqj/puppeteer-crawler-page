@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "fight-club",
+    "title": "Fight Club",
+    "year": "1999",
+    "genres": [
+      "Drama"
+    ],
+    "director": "David Fincher"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "slug": "fight-club",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "year": "1999",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDY1MzE3MTI0Nl5BMl5BanBnXkFtZTcwNDIwNTI5Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk3NTYyMzc4Nl5BMl5BanBnXkFtZTcwODU3ODMzMw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MjA2MzI0OF5BMl5BanBnXkFtZTcwNjU3ODMzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzY2NjIxOV5BMl5BanBnXkFtZTcwNzU3ODMzMw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzNDU3NDkwMF5BMl5BanBnXkFtZTYwMDc1Mzc3._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2Mzg0MDMyOV5BMl5BanBnXkFtZTYwNTc1Mzc3._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MjY0MzY4MV5BMl5BanBnXkFtZTYwMDg1Mzc3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI3ODQwNTg1Nl5BMl5BanBnXkFtZTYwMjg1Mzc3._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2NDc2NTQ4OF5BMl5BanBnXkFtZTYwNDg1Mzc3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3NDc2NzI5MF5BMl5BanBnXkFtZTYwNjg1Mzc3._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2NDQ4MzE3OF5BMl5BanBnXkFtZTYwMjk1Mzc3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3OTMyMjI3OF5BMl5BanBnXkFtZTYwNTk1Mzc3._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0137523/",
+        "rating": "8.8/10"
+      },
+      "year": "1999",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000399/",
+        "name": "David Fincher"
+      },
+      "seo": {
+        "title": "Fight Club (1999)",
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+      }
+    }
+  }
+}

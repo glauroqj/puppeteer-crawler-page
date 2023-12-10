@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-ii-attack-of-the-clones",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": "2002",
+    "director": "George Lucas"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+    "slug": "star-wars-episode-ii-attack-of-the-clones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "George Lucas",
+    "year": "2002",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzA2MjU0MDA2N15BMl5BanBnXkFtZTcwMjEwNTI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwMTE1NjY0MV5BMl5BanBnXkFtZTcwMzEwNTI4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NTkyMjg2NV5BMl5BanBnXkFtZTcwNDEwNTI4NA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNDgxNzcwNV5BMl5BanBnXkFtZTcwNTEwNTI4NA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0MTY1NzM2Nl5BMl5BanBnXkFtZTcwNjEwNTI4NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1MzY0NTQ1Nl5BMl5BanBnXkFtZTcwNzEwNTI4NA@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NzE0MTQzMl5BMl5BanBnXkFtZTcwODEwNTI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNzI5OTY3NF5BMl5BanBnXkFtZTcwOTEwNTI4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExNzM5ODQ5NF5BMl5BanBnXkFtZTcwMDIwNTI4NA@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ2Nzg5NDMwM15BMl5BanBnXkFtZTcwMTIwNTI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk5OTc0MDUxMV5BMl5BanBnXkFtZTcwMjIwNTI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMTA2NDcxOV5BMl5BanBnXkFtZTcwMzIwNTI4NA@@._V1_QL75_UY140_CR95,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0121765/",
+        "rating": "6.6/10"
+      },
+      "year": "2002",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000184/",
+        "name": "George Lucas"
+      },
+      "seo": {
+        "title": "Star Wars: Episode II - Attack of the Clones (2002)",
+        "description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi."
+      }
+    }
+  }
+}

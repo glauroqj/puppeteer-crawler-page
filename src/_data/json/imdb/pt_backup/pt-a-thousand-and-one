@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "a-thousand-and-one",
+    "title": "A Thousand and One",
+    "year": "2023",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "director": "A.V. Rockwell"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Thousand and One",
+    "description": "Inez sequestra seu filho do sistema de adoção e juntos buscam um novo sentido de pertencimento, identidade e estabilidade na instável Nova York.",
+    "slug": "a-thousand-and-one",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTM4Y2FhODgtMjU2Yy00NzNjLWI3MTYtM2I3ZTRmYzczYzc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "director": "A.V. Rockwell",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTY0MjlkNzEtMzA2Mi00MTJjLWEyYTQtOTlhZjNhZDc1MThmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWIzNDhkNDktM2Y0Yy00MWZjLTk0NzQtNjgyMzg1MDFlMDhhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUzZjQ4YjktNmYwMy00NGFlLWEzYWUtZWMzMjVkZmRjNGU0XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWMzYjRmNGUtNzczOS00NDM5LWEwNzctMGIzYWI5NDMzNzQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjJhOTI1ODUtYWM0Zi00MTM0LTliYmMtZTdmYzk5YjY2ZjZhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ5ZjU0NjMtMmY1ZS00ZmEzLWE2N2MtNWViOGYxNWU5OTAxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTRkZjI5NDYtOGM4Mi00YTBiLTgzMGUtZDI4OTQ3YWU1M2IyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmVlZDI5YmQtODliMS00OWJkLTg4OWUtOTBhYzY0Yzk4OWYzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTUyMjZmNGUtZTFmMi00YmFhLWFiOGItZThkNWE1Y2UxNmFkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYThhZjVlZjctYzJjNC00NGNlLTk1ZDUtMTU4ODhmYjM4MWZlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTU5NWZiMDktOTkwYi00NjBmLWJjMWEtYWQzNWQwOGZjYThmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDY2MWViM2EtNjBhMi00OTI3LTgzYjYtZDQzMTY0MTA3YTUyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12427158/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm5690427/",
+        "name": "A.V. Rockwell"
+      },
+      "seo": {
+        "title": "A Thousand and One (2023)",
+        "description": "Inez sequestra seu filho do sistema de adoção e juntos buscam um novo sentido de pertencimento, identidade e estabilidade na instável Nova York."
+      }
+    }
+  }
+}

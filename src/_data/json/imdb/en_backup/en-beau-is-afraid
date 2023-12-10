@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "beau-is-afraid",
+    "title": "Beau Is Afraid",
+    "year": "2023",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "director": "Ari Aster"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Beau Is Afraid",
+    "description": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home.",
+    "slug": "beau-is-afraid",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzhkNDk1MDQtNmE4ZS00OTkxLWJmNzYtOTBhZTk3M2MzMTRjXkEyXkFqcGdeQXVyNjkwOTQ4MDE@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "director": "Ari Aster",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Horror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYTdhODdjN2UtM2JkYS00ZWYwLWI5OWQtMmNlNjU0ZjgxZTUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJhZWRjMDUtNjdjZC00MzhhLThkOWUtYjdkYjliNmQzMDY2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTVmYWQ1OTMtZTE4ZS00NWJhLThjMzUtYTY4M2MyMGZmODVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzY5ZjRmZjctYWYxNi00ZWU1LWI3MmUtNDhhNzY3MWEzNmQ5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIxM2FkNzMtOWE4Yy00ZDU0LWJjOWItOWM5N2Y0N2EwZmFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTRjOTUyOGMtMjUzMS00NDIyLWI4MTktYWQ1MmY3MDc0NzBmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjNmY2EzNDItMTkxOS00YWI0LTgwOTEtOTMzNDQ2NmRkZDkyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGIyNDRhZTAtNzkxOC00YTFmLTk5MDktMGFmNjlhOWZhOTU1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGEyNTg1MzYtZTQxNS00MjE1LTgwYWQtMjM1NGMzNDFiZmU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDVkNWQzMGMtYzEwYS00MmMyLTliZGEtMmYzYWFkZjQwYWJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGRkYzZmZmQtN2RiMS00ZGU2LWJhM2YtYWYxMTkyZDI0NTEwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTNkODVkZjctMTY4Zi00MDAyLWFiMDktMjA2OGY3MjQzOTE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13521006/",
+        "rating": "6.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm4170048/",
+        "name": "Ari Aster"
+      },
+      "seo": {
+        "title": "Beau Is Afraid (2023)",
+        "description": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home."
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "coda",
+    "title": "CODA",
+    "year": "2021",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "director": "Sian Heder"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "CODA",
+    "description": "As a CODA (Child of Deaf Adults) Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her passion at Berklee College of Music and her fear o...",
+    "slug": "coda",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzkyNzNiMDItMGU1Yy00NmEyLWE4N2ItMjkzMDZmMmVhNDU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "director": "Sian Heder",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjk0NGFiM2YtOTZlZS00ZmNiLThmZGYtY2M5NjNjNDE4ZGQyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjdmMzAyMDktYWYwZC00NTZhLTkwZjctYzU2ZWM3YjQyYzNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDFiODAxOWYtMTkzZi00ODYyLWI4MzctNmU3NjkxYmE3NjA0XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTRjMGNiODQtZGExMy00MmZjLTg4YTctYjUyZDU5YTliZjIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWFmOTllZDMtNDU5OC00NmIzLTk3YTYtN2EwNTAwNzhlYWZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWQ1ODUxNTItOTQ1NS00ODQyLWFlNGYtOWE3ZWIyNjE2ZGQ3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgzODU3N2MtNTc4OS00OWZhLWEwYzMtZDc1ZjAwNDI0ZTY5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNThjMTc5ZDUtN2MzNS00YzhiLWI2NGMtZDgyOGI1YzBlNjhlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTQxZWVhNWQtYWMwZS00MzQyLWE3ZGUtMjE4MDdiNDQ5ZjZhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzM3ZGQwM2QtMWJlMC00YzFlLWE3MTQtZTgyMzZhY2Y5ZDFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjMxOTc2N2EtY2FiYi00ZjllLWFkOGEtZTQ0YjA5NmM5M2I2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmY3MTk2NTEtOThlYi00OWRmLTg1NzctMDFjMDdjNWVkOGRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt10366460/",
+        "rating": "8/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1571761/",
+        "name": "Sian Heder"
+      },
+      "seo": {
+        "title": "CODA (2021)",
+        "description": "As a CODA (Child of Deaf Adults) Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her passion at Berklee College of Music and her fear o..."
+      }
+    }
+  }
+}

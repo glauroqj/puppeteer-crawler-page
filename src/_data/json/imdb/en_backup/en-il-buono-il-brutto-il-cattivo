@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "the-good-the-bad-and-the-ugly",
+    "title": "The Good, the Bad and the Ugly",
+    "year": "1966",
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "director": "Sergio Leone"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Good, the Bad and the Ugly",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "slug": "the-good-the-bad-and-the-ugly",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "director": "Sergio Leone",
+    "year": "1966",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Western"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BN2ZmNWUzNTQtMDY2OS00YjBmLWI5NTQtMzg5MDk0MzM5OTc2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxNzUzMzMtNzc5MS00MTllLThhODQtNDRjZTQ4NWY5MjUyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODI1NDExZTItNTY0OS00NTk4LWJlZTgtMWMwYTYzZWFmNmRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI1YzQ1ZDAtNmFmNS00OWFiLWE4MjctZThmZDc2MTRiYTVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmUyN2UxZGUtMWQwZi00MTA5LTkzNzUtOTJjOTU3MDRhZGQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ0Zjg2NDgtZDQ1NC00ZjFiLWE0YjMtYjJkYWY3OTc4MDM1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWZjYzA3YTgtNzQyZS00NmNkLWE4ZmItMjJhNmJiMzJkZTI0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWIwNjcyZDUtNjRmZS00ZGNiLWIwZDUtMmUyYzQ5NTQ4OTA3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwMTJkNTEtN2FmNC00ZDRmLWExYzctZjBhNmE3OWNmN2QxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc5YmNkYTUtOTJlYS00MzFlLWFiZGQtNzNmOTkxNzlhMjgyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWU5MTY5ZmMtZmRjNy00MzBiLWFlZDQtMWEzZTdjMzQ4NjkyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjExZjM3MTktYzcxMC00YTY1LTgyYzktNTM3YzJhMDU1OGQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0060196/",
+        "rating": "8.8/10"
+      },
+      "year": "1966",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001466/",
+        "name": "Sergio Leone"
+      },
+      "seo": {
+        "title": "The Good, the Bad and the Ugly (1966)",
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+      }
+    }
+  }
+}

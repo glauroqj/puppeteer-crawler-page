@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "the-lord-of-the-rings-the-two-towers",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "2002",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Peter Jackson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "slug": "the-lord-of-the-rings-the-two-towers",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Peter Jackson",
+    "year": "2002",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA3NDk3NjI5MF5BMl5BanBnXkFtZTcwMTI2MjY0NA@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMzQzNzk0Nl5BMl5BanBnXkFtZTcwMjI2MjY0NA@@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNDM4NzQwN15BMl5BanBnXkFtZTcwMzI2MjY0NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0MjE5NTI3Ml5BMl5BanBnXkFtZTcwNjY3NDk2Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTU0OTY4MzUxMV5BMl5BanBnXkFtZTcwNzY3NDk2Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0NTk4NjU5NF5BMl5BanBnXkFtZTcwNTE3NDk2Mw@@._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0MDI2NjIwM15BMl5BanBnXkFtZTcwNjE3NDk2Mw@@._V1_QL75_UY140_CR92,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3MDUyMzIwMF5BMl5BanBnXkFtZTcwODE3NDk2Mw@@._V1_QL75_UY140_CR92,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI4NzU1NTgyMl5BMl5BanBnXkFtZTcwOTE3NDk2Mw@@._V1_QL75_UY140_CR92,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwNDMzNjg5Nl5BMl5BanBnXkFtZTcwMTI3NDk2Mw@@._V1_QL75_UY140_CR92,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxOTc5MDI4N15BMl5BanBnXkFtZTcwMjI3NDk2Mw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxOTc3MTY5MV5BMl5BanBnXkFtZTcwMzI3NDk2Mw@@._V1_QL75_UY140_CR54,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0167261/",
+        "rating": "8.8/10"
+      },
+      "year": "2002",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001392/",
+        "name": "Peter Jackson"
+      },
+      "seo": {
+        "title": "The Lord of the Rings: The Two Towers (2002)",
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "control",
+    "title": "Control",
+    "year": "2023",
+    "director": "Gene Fallaize"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Control",
+    "description": "Control: Directed by Gene Fallaize. With Kevin Spacey, Lauren Metcalfe, Mark Hampton, Natasha Kemball. British Home Secretary Stella Simmons drives home one night while engaging in an affair with the Prime Minister. A mysterious man remotely hijacks her self-driving car, forcing her on a rampage through London",
+    "slug": "control",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJhZjE0NmUtMmNjYS00YzBmLWIyYzMtYmFlYmQwZmEwZTMyXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "Gene Fallaize",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOWEwMDgwNDctOGNkOS00MGQ3LWE5YmItNDZhNjUzYWZkMTA2XkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjFjZmU0YzEtZDc4MC00Yzg4LTliYjYtMjAxOTBmNDc1Zjk2XkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjFhNjc0ZTAtOWEzZS00ZGQ3LTgxNDItMGE5MmE5NTg2MmMwXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzgyMTM5ZjQtNTkyYy00NjhjLWIxYjEtZjM1ZmVhMTM1ZTI4XkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTJkMWJhZDktZDdlOS00OGFmLWE4NTYtMmQ2MWNkOGYzMTYzXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTEwMmI3YzktZmE5MC00MjE0LThhMGUtMTE1MDI4YjA4MTRiXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmU5ZjAyMGUtNDA5Ny00OTkwLWEzMDEtZWFjMDZlYmE2NGJiXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGM3YTYwMjQtZjUzZS00MWJmLWJlZDktNDhhZTRkZjMyZTljXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2MzQ2YWUtNTIxMy00NmI2LTkzMWYtYTJmNjE3MWFmYzFhXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2MwODVhOGYtNGVhNS00OWE4LTkyMzUtYTUxYzRiODc1ZWM0XkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWYwZmVjOTItNThjNi00YjAxLThlMWYtYjRmZTZhZWQzZjgxXkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTljODNiMTYtZWIxNi00YzkzLWE3YjQtMzg5NjRhMzVlZjc2XkEyXkFqcGdeQXVyNDU1ODg0OA@@._V1_QL75_UY140_CR63,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt23952252/",
+        "rating": "-/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2295474/",
+        "name": "Gene Fallaize"
+      },
+      "seo": {
+        "title": "Control (2023)",
+        "description": "Control: Directed by Gene Fallaize. With Kevin Spacey, Lauren Metcalfe, Mark Hampton, Natasha Kemball. British Home Secretary Stella Simmons drives home one night while engaging in an affair with the Prime Minister. A mysterious man remotely hijacks her self-driving car, forcing her on a rampage through London"
+      }
+    }
+  }
+}

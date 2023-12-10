@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-lion-king",
+    "title": "The Lion King",
+    "year": "1994",
+    "director": "Roger Allers"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Lion King",
+    "description": "The Lion King: Directed by Roger Allers, Rob Minkoff. With Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings. Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "slug": "the-lion-king",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Roger Allers",
+    "year": "1994",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM2ODAwNTc0NV5BMl5BanBnXkFtZTcwMjQ2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4ODA5MTEyM15BMl5BanBnXkFtZTcwNDQ2NTI3Ng@@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxNDg1MzA2MV5BMl5BanBnXkFtZTcwNTQ2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4OTg5NzE4OF5BMl5BanBnXkFtZTcwNjQ2NTI3Ng@@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQxNzU4NTY2OF5BMl5BanBnXkFtZTcwNzQ2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MDA0NzA2MV5BMl5BanBnXkFtZTcwODQ2NTI3Ng@@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3OTgzNDg4Ml5BMl5BanBnXkFtZTcwMDU2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNjg0MzQwM15BMl5BanBnXkFtZTcwMTU2NTI3Ng@@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNDYyODg5MF5BMl5BanBnXkFtZTcwMjU2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDYxODkxOTk3MV5BMl5BanBnXkFtZTcwMzU2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU0MDI2MTY0Ml5BMl5BanBnXkFtZTcwNDU2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4OTMxMjMyOV5BMl5BanBnXkFtZTcwNTU2NTI3Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0110357/",
+        "rating": "8.5/10"
+      },
+      "year": "1994",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0021249/",
+        "name": "Roger Allers"
+      },
+      "seo": {
+        "title": "The Lion King (1994)",
+        "description": "The Lion King: Directed by Roger Allers, Rob Minkoff. With Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings. Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+      }
+    }
+  }
+}

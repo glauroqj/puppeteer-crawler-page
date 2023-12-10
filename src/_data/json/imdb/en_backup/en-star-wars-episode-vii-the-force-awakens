@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-vii-the-force-awakens",
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "year": "2015",
+    "director": "J.J. Abrams"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+    "slug": "star-wars-episode-vii-the-force-awakens",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "J.J. Abrams",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk5NjkzMzAyN15BMl5BanBnXkFtZTgwNDM1ODAyNDM@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNjIyOTk2NV5BMl5BanBnXkFtZTgwODc0ODAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ0NzMxNjEyNF5BMl5BanBnXkFtZTgwNTE0ODAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyODc2NDEyNl5BMl5BanBnXkFtZTgwNTAzODAyNDM@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2OTU3MjAxM15BMl5BanBnXkFtZTgwMjA4NjA4ODE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MzA3OTc0NF5BMl5BanBnXkFtZTgwMDg3NjA4ODE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgzMDI1MjY3Ml5BMl5BanBnXkFtZTgwNzU0Nzg0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMjQyODc5MV5BMl5BanBnXkFtZTgwODU0Nzg0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjMxNDUyNTA3Ml5BMl5BanBnXkFtZTgwOTU0Nzg0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4ODEwMTU4NV5BMl5BanBnXkFtZTgwMDY0Nzg0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MTQzNjIxMV5BMl5BanBnXkFtZTgwMTY0Nzg0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwNjU2NjI1Nl5BMl5BanBnXkFtZTgwMTU0Nzg0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2488496/",
+        "rating": "7.8/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0009190/",
+        "name": "J.J. Abrams"
+      },
+      "seo": {
+        "title": "Star Wars: Episode VII - The Force Awakens (2015)",
+        "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace."
+      }
+    }
+  }
+}

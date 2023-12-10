@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-green-mile",
+    "title": "The Green Mile",
+    "year": "1999",
+    "director": "Frank Darabont"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Green Mile",
+    "description": "The Green Mile: Directed by Frank Darabont. With Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan. A tale set on death row in a Southern jail, where gentle giant John possesses the mysterious power to heal people's ailments. When the lead guard, Paul, recognizes John's gift, he tries to help stave off the condemned man's execution.",
+    "slug": "the-green-mile",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Frank Darabont",
+    "year": "1999",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzA4ZWRhNjktMTA3ZS00NDNiLThmMDMtNzdlYzk0ZjY2ZGFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0ODQ5ODEzN15BMl5BanBnXkFtZTgwMDg1MTM4MjI@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzU4Mjg2MzYwNl5BMl5BanBnXkFtZTgwMTg1MTM4MjI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNDE2MDc0M15BMl5BanBnXkFtZTYwMTY2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTU5NTc3N15BMl5BanBnXkFtZTYwMzY2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3OTk0NDk3OV5BMl5BanBnXkFtZTYwNTY2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNjk5ODgwNF5BMl5BanBnXkFtZTYwNzY2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMDUwNTc4N15BMl5BanBnXkFtZTYwOTY2NTY3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY2MDkyODQ3MV5BMl5BanBnXkFtZTYwMTc2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NjcyODA3MF5BMl5BanBnXkFtZTYwMzc2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNTc5MjU5NF5BMl5BanBnXkFtZTYwNTc2NTY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIzNzk4MzU5M15BMl5BanBnXkFtZTYwOTc2NTY3._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120689/",
+        "rating": "8.6/10"
+      },
+      "year": "1999",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001104/",
+        "name": "Frank Darabont"
+      },
+      "seo": {
+        "title": "The Green Mile (1999)",
+        "description": "The Green Mile: Directed by Frank Darabont. With Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan. A tale set on death row in a Southern jail, where gentle giant John possesses the mysterious power to heal people's ailments. When the lead guard, Paul, recognizes John's gift, he tries to help stave off the condemned man's execution."
+      }
+    }
+  }
+}

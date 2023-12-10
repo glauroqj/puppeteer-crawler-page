@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "gladiator",
+    "title": "Gladiador",
+    "year": "2000",
+    "director": "Ridley Scott"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Gladiador",
+    "description": "Gladiador: Dirigido por Ridley Scott. Com Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed. Um general romano planeja a melhor vingança contra o imperador corrupto que matou sua familia e o fez escravo.",
+    "slug": "gladiator",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdiZTI5YTgtZDdiNi00YzhmLTllMWEtZDM1ZjJiMzUyYTc5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Drama"
+    ],
+    "director": "Ridley Scott",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTA0MDEwNDM0MTVeQTJeQWpwZ15BbWU3MDQ0NDY3MTQ@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NTcxMzg5M15BMl5BanBnXkFtZTcwNTQ0NjcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzMjM3NjUzMV5BMl5BanBnXkFtZTcwNjQ0NjcxNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODA5MzcxNjIxOV5BMl5BanBnXkFtZTcwNzQ0NjcxNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTc4MzA0NV5BMl5BanBnXkFtZTcwODQ0NjcxNA@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTA3MTkwOF5BMl5BanBnXkFtZTcwOTQ0NjcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExOTEyNDgxOV5BMl5BanBnXkFtZTcwMDU0NjcxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwMTQ3MzE1Ml5BMl5BanBnXkFtZTcwMTU0NjcxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY5OTEyNTkzN15BMl5BanBnXkFtZTcwNDU0NjcxNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MDI5MzM5OV5BMl5BanBnXkFtZTcwNjU0NjcxNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzMDc5MzcxMF5BMl5BanBnXkFtZTcwMzY0NjcxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3NTM4ODcwM15BMl5BanBnXkFtZTcwNzc0NjcxNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0172495/",
+        "rating": "8.5/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000631/",
+        "name": "Ridley Scott"
+      },
+      "seo": {
+        "title": "Gladiador (2000)",
+        "description": "Gladiador: Dirigido por Ridley Scott. Com Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed. Um general romano planeja a melhor vingança contra o imperador corrupto que matou sua familia e o fez escravo."
+      }
+    }
+  }
+}

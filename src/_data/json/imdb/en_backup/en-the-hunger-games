@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "the-hunger-games",
+    "title": "The Hunger Games",
+    "year": "2012",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Gary Ross"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Hunger Games",
+    "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+    "slug": "the-hunger-games",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Gary Ross",
+    "year": "2012",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY4NTIzNDA3NF5BMl5BanBnXkFtZTgwNjIzNTYyNzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2ODAxNjY2Ml5BMl5BanBnXkFtZTgwMTUyNTYyNzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzMzA5MDEzOV5BMl5BanBnXkFtZTcwMDk1ODI1Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwOTU1NDk3NV5BMl5BanBnXkFtZTcwNTkxMjE1Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyMzE2NTIyMV5BMl5BanBnXkFtZTcwNjkxMjE1Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwOTg2Nzg3NV5BMl5BanBnXkFtZTcwOTQ5NzIzNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3NDkxNzIyMF5BMl5BanBnXkFtZTcwOTA4NjAzNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExMjM3MTg0N15BMl5BanBnXkFtZTcwNTE4NjAzNw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNzU1NTQ4MF5BMl5BanBnXkFtZTcwNzQ1NzkyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAyNDM1ODk2MDFeQTJeQWpwZ15BbWU3MDgzMzY4Mjc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwODcxMzM3OF5BMl5BanBnXkFtZTcwNTgwNzgxNw@@._V1_QL75_UY140_CR68,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MjExNzgxMl5BMl5BanBnXkFtZTcwNjk2NjExNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1392170/",
+        "rating": "7.2/10"
+      },
+      "year": "2012",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0002657/",
+        "name": "Gary Ross"
+      },
+      "seo": {
+        "title": "The Hunger Games (2012)",
+        "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death."
+      }
+    }
+  }
+}

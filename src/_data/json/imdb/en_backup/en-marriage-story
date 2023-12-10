@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "marriage-story",
+    "title": "Marriage Story",
+    "year": "2019",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Noah Baumbach"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Marriage Story",
+    "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+    "slug": "marriage-story",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Noah Baumbach",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMGVmYWRhYTMtZTY0NC00MGRiLWIzMDQtZDg0N2NkMDY3ZGNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDQzOTQzMWMtODE5Yy00YmUwLThmMWQtMTk0ZmI4MjgzN2ViXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTI1NGY4YTItMzkxOC00NWQyLWE4NDAtNmEwYzY1YzAxN2FiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmMwNmJiMmEtYmZjOC00NTNhLTk2ZDYtNzgzZTg2ZDA2Yzk3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzhjYzg4NTQtNmQ1Mi00ZDJlLTliNzUtMzEzYmRhNDBlMzkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWZmYTRkMTMtMTUxNi00MWY1LTlmM2MtYmNlMzhmMTU5NzcxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmI2NDY1YjUtOWJhMS00YTg0LTkxNDQtNTA0NjliMTgyZDU4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGM3MTgxMGYtODVmNy00YzM5LWIyZWUtNDg2ZmUzM2I1MmE1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTZmYjViYTctMjgwYy00MTg4LThmOTUtNGVlZDQ5Y2M0YzY0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWY0Yzg4NjEtMzM3NC00MThjLTlmZGQtMzcxMzkwODFmODhhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjI2MDA0ZmMtYTdjYS00MzljLTk1ZTItMDRmMzRmMTkyODYxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk3YTNiODctOWFlNi00M2EyLWJmNmItMTZmNjNkYTQwMWRmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7653254/",
+        "rating": "7.9/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000876/",
+        "name": "Noah Baumbach"
+      },
+      "seo": {
+        "title": "Marriage Story (2019)",
+        "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together."
+      }
+    }
+  }
+}

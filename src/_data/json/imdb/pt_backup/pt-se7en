@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "se7en",
+    "title": "Seven: Os Sete Crimes Capitais",
+    "year": "1995",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "David Fincher"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Seven: Os Sete Crimes Capitais",
+    "description": "Dois detetives, um novato e um veterano, perseguem um assassino em série que usa os sete pecados capitais como motivos.",
+    "slug": "se7en",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDgyZmY5MmItY2I3Ny00NjA4LWFhNmItMGQ4ZGJhZDk5YjU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "David Fincher",
+    "year": "1995",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjI3MTU0ODQ2MF5BMl5BanBnXkFtZTcwNTQzNTIwNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNDc3NzYzOF5BMl5BanBnXkFtZTcwNjQzNTIwNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwNjcyOTIzOV5BMl5BanBnXkFtZTcwNzQzNTIwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5MTUxNDI2NV5BMl5BanBnXkFtZTcwOTQzNTIwNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY0MDg5MTU5OV5BMl5BanBnXkFtZTcwMDUzNTIwNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMTU5NjY5OF5BMl5BanBnXkFtZTcwMTUzNTIwNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NDc0NjkwNl5BMl5BanBnXkFtZTcwOTAzNzY3Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNDc1NDMxNF5BMl5BanBnXkFtZTcwMTEzNzY3Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMDk2MDMzOV5BMl5BanBnXkFtZTcwMjEzNzY3Mw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMTgzMzMwNF5BMl5BanBnXkFtZTcwMzEzNzY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMzI5NjEzMV5BMl5BanBnXkFtZTYwMTg0NDAz._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDMzZDNlYjktZTc3MS00YjBhLTk3OWUtYjE5YTZlNzBmMjA3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0114369/",
+        "rating": "8.6/10"
+      },
+      "year": "1995",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000399/",
+        "name": "David Fincher"
+      },
+      "seo": {
+        "title": "Seven: Os Sete Crimes Capitais (1995)",
+        "description": "Dois detetives, um novato e um veterano, perseguem um assassino em série que usa os sete pecados capitais como motivos."
+      }
+    }
+  }
+}

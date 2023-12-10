@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "the-godfather",
+    "title": "The Godfather",
+    "year": "1972",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Godfather",
+    "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+    "slug": "the-godfather",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "year": "1972",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTFiODA5NWEtM2FhNC00MWEzLTlkYjgtMWMwNzBhYzlkY2U3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMTk5MjkwOF5BMl5BanBnXkFtZTgwMDI0Mjk1NDM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4MTgxOTQ0Nl5BMl5BanBnXkFtZTgwNDI0Mjk1NDM@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2ODYzODc5MV5BMl5BanBnXkFtZTgwOTU0MzM1MjI@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTgzZTJlMDUtMGIxNy00ODJiLWI3NjAtYzQ4OTQ3MGQ3ZGYwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGU1YjI0NmEtN2JiZi00YWRjLWJkMjctODFlMjgyYTA1MmJiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGU4NmRlYjctZDgwYi00NTAzLTk4ZGMtZTU2Yzc0NDI0NTcyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk3MWYyZjAtY2M5Ni00OTIzLTkxMTItZWEwM2M2Y2E3NDcxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDhkYzhiYjEtMTQwYy00MTdmLTlkOTAtYTk1YmMyYmE5NDVmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4NmExNTctNjExYi00M2NmLTk3ODMtYzIxNWM0MjhjN2I0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5MjY5NDU4NV5BMl5BanBnXkFtZTgwMTM1NjAyMDI@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNjgwNzI3Ml5BMl5BanBnXkFtZTgwODM0MDM4NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0068646/",
+        "rating": "9.2/10"
+      },
+      "year": "1972",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000338/",
+        "name": "Francis Ford Coppola"
+      },
+      "seo": {
+        "title": "The Godfather (1972)",
+        "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+      }
+    }
+  }
+}

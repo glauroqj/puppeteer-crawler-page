@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "furiosa",
+    "title": "Furiosa",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Furiosa",
+    "description": "The origin story of renegade warrior Furiosa before she teamed up with Mad Max in 'Fury Road'",
+    "slug": "furiosa",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWMyYTcyNzMtYWUxNC00ZGY5LTg1MzItZTVlNmY1YTllNzIyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGIxYTAzN2MtOGJkZC00YjM3LWFmODAtMDkwYjkzMzYzNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGI5MDc3NTctOGUwYy00ODUxLTg2NzAtZTRlNTE1ZTk2ODIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2QxY2NkOTAtZDMwMi00OTExLThmMWYtYWU1YzQyZGVkZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg3YTE5MTUtM2RiNS00MzNiLTg0ZDEtOGEwMzhjYmFhOGRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR102,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjUzOGE4ZGQtOThmNy00Y2I3LWFiNGUtNGFjOTU0Y2JiMTFhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWJhNjkzZTQtYzViNS00YmMyLTgyYzItMGViNjZiYjRjYjU1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR103,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODdjYzBhZTEtNjMxZS00MTI1LWFmNzQtYjhiMTgzY2QzYWNmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR103,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjE3YjIwNGUtYjZlNi00OWI0LThjNmItM2I1M2JmN2JmNjBhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR103,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2RjMzY0NzAtNDdlYS00ODJjLWE1NGItOTM5NmJhZjU3MTQ0XkEyXkFqcGdeQXVyMTUzNzg0Njk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE5ZmE2MDEtNGNmZi00YmUyLTgwMTEtNzM2MmI4OGE1Y2MxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTAxNjU0MjktNzZkNi00OGNkLWEyNGQtODc4MTMxYmU3MWQ1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWJmN2FmNGMtMWVlNy00YjZlLWFkNTAtNDI3NDI0ZTJmYzk4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12037194/",
+        "rating": "undefined/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0004306/",
+        "name": "George Miller"
+      },
+      "seo": {
+        "title": "Furiosa: A Mad Max Saga (2024)",
+        "description": "The origin story of renegade warrior Furiosa before she teamed up with Mad Max in 'Fury Road'"
+      }
+    }
+  }
+}

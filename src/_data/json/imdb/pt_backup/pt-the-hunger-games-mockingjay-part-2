@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "the-hunger-games-mockingjay-part-2",
+    "title": "Jogos Vorazes: A Esperança - O Final",
+    "year": "2015",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "Francis Lawrence"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Jogos Vorazes: A Esperança - O Final",
+    "description": "Katniss e uma equipe de rebeldes do Distrito 13 se preparam para a batalha final que decidirá o destino de Panem.",
+    "slug": "the-hunger-games-mockingjay-part-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY2MGZkN2EtN2UyYS00YTFkLWEwNjctNDAwNTNkYjM5ZGMxXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "Francis Lawrence",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU3MTMxNjY5NF5BMl5BanBnXkFtZTgwNDYyMzkxNjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg3OTMwMjQ3OV5BMl5BanBnXkFtZTgwODMyMzkxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1OTA1Mjg2N15BMl5BanBnXkFtZTgwNDM1OTM5NTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU4NzU5NDAyN15BMl5BanBnXkFtZTgwMjM1OTM5NTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwMDk2ODY4OV5BMl5BanBnXkFtZTgwMzM1OTM5NTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzOTY3MDcxOF5BMl5BanBnXkFtZTgwNTYwMDc5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWRjNTkxZGEtOTg1Mi00NjAwLWJlZDQtNTViNzA2NjQ1YWJmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjg4NWRiY2MtZGRhNC00ZDM3LTk0NGUtMmQwNzRkNDIxNzViXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk2MDg1Nzc2OV5BMl5BanBnXkFtZTgwNTQwNzAzNzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY4NTM0MDg2NF5BMl5BanBnXkFtZTgwMDA5NTEyNjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2OTEzNzE2NF5BMl5BanBnXkFtZTgwNzk4NTEyNjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2Njg2OTk1M15BMl5BanBnXkFtZTgwODk4NTEyNjE@._V1_QL75_UY140_CR28,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1951266/",
+        "rating": "6.5/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1349376/",
+        "name": "Francis Lawrence"
+      },
+      "seo": {
+        "title": "Jogos Vorazes: A Esperança - O Final (2015)",
+        "description": "Katniss e uma equipe de rebeldes do Distrito 13 se preparam para a batalha final que decidirá o destino de Panem."
+      }
+    }
+  }
+}

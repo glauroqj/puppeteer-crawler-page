@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "dune-part-one",
+    "title": "Duna",
+    "year": "2021",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Duna",
+    "description": "Paul Atreides é um jovem prodígio com um futuro grandioso e envolto em mistério que precisa viajar para o planeta mais perigoso do universo para garantir o futuro de sua família e seu povo.",
+    "slug": "dune-part-one",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDY2NDFiYzYtY2QyNC00NGFmLTllNjUtMDc0OTYyNDFkZDI0XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGI4ZjA5YjItNzM3My00Mjk4LWI4NzEtOGFhZWU5Y2Y1YmExXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjU0ZDExOTQtMjFlNC00Yjk2LTlhMzctZTkxNWViZTI4Njc4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU1YTI0MWUtMDU3MS00NWE0LTg2MWYtZjdhMTFmMThhMzc2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGE5NDI1NTEtZmFiYS00MGRhLWJkY2ItNDcxMmQxODI5Zjk4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTMxNGZlOTctNDM4OS00OTVhLTgzYTItY2E1OWFiNjE5NTYzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDdiNzlmNTItZDI5MC00M2FlLWEyZWUtM2Q1MTIzODhhZTQ5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY5NGYzZGQtNjc4Zi00MzUxLTlkNWItMzM5NjUzNGY4Yjg3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzIyZjk4MGEtNTEwNS00MWRhLWIxNzItMTE0NDVhYjUyNDFmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDVlOGQ5MTAtZmQ5Ni00ODllLWIzNDktMTJjYmY1Zjc2NmZmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzczOWFmODQtZGI1MC00N2UyLThlMTctNGYzMzVhY2RjNWFjXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDhiZTUwY2ItNDFkNy00MTBjLTg0NjktZjEzNTc4NTUyNWQ5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWI4YTk1MjMtNjE5Ni00OGIxLTliYzgtMWI3ZjAxYmVlODM5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1160419/",
+        "rating": "8/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0898288/",
+        "name": "Denis Villeneuve"
+      },
+      "seo": {
+        "title": "Duna (2021)",
+        "description": "Paul Atreides é um jovem prodígio com um futuro grandioso e envolto em mistério que precisa viajar para o planeta mais perigoso do universo para garantir o futuro de sua família e seu povo."
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "cassandro",
+    "title": "Cassandro",
+    "year": "2023",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "Esportes"
+    ],
+    "director": "Roger Ross Williams"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Cassandro",
+    "description": "Segue a história real de Cassandro, o personagem ''exótico'' criado por Saúl Armendáriz, lutador amador gay de El Paso que ascendeu ao estrelato internacional.",
+    "slug": "cassandro",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RhYWNjZDQtOTI0Ny00OTMzLWIzMTItOTBjZDc2ZjhkOTJiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "Esportes"
+    ],
+    "director": "Roger Ross Williams",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama",
+        "Esportes"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMWI4MGYwNmQtNTM3YS00OTdlLWI4M2EtY2FlMTA1ZjFkODgyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmRkODEzNmYtMDc5Ny00NzBmLTk0MGItYWJiZTIxODdmZTk4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTAxYmY2NTAtMjkwYy00ZWYxLWIxZGUtZjdlM2Q5MTBkNTM4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQ2Y2I3MzctNjM5Ny00YzVlLWIyODUtZjRkODgxNDA5Y2FkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2FjNDJlNjItZTlkYy00M2M4LTg5OTEtMDU4NGYyNzNhZTBkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmVhYWRhYmQtYjI2My00ZTA0LWJjOGMtMmExNTcwYjYzZjE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODE2MTFlMGQtYzkxOC00ODRiLThkMzgtMWRjYTkwOWZkNWY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmIwNWM4NTctOGQ3Yy00ZTZhLWI5MDctZTIxYTUzMDlhY2EwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTk2OWM5MDgtOTQwOS00MzM3LTg5ODQtMGU5YTVjMjI0Nzc5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI0MDk5MjgtYTA1Zi00YTgyLTlmMmQtMDVkNjk1ZDBhMTg3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzZjMzcyNzgtOWFiZi00ZmE3LWE4MWUtMWY1ZWI0MTY4ZmU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTE3NWUxN2YtMTZjYy00ODM5LWExOWYtYjNlZjI0MjdmY2YwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt14954534/",
+        "rating": "6.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2141317/",
+        "name": "Roger Ross Williams"
+      },
+      "seo": {
+        "title": "Cassandro (2023)",
+        "description": "Segue a história real de Cassandro, o personagem ''exótico'' criado por Saúl Armendáriz, lutador amador gay de El Paso que ascendeu ao estrelato internacional."
+      }
+    }
+  }
+}

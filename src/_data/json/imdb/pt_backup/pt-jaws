@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "jaws",
+    "title": "Tubarão",
+    "year": "1975",
+    "genres": [
+      "Aventura",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Tubarão",
+    "description": "Quando um tubarão desencadea caos numa praia, um xerife, um biologista e um marinheiro daram caça ao animal.",
+    "slug": "jaws",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJiMGQ5YTQtZDk2Mi00ZDExLTgzMGUtM2M2ODVkYmNlYWJkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Steven Spielberg",
+    "year": "1975",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTY3ZjhjMjMtOTVmNS00OTk3LWFhYmQtYTRiM2U5YzBkZDM0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2I3ODM3NmQtOTI0NC00ZWVkLWI2NDAtYTFkNjc3YmE2OThlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgxOWRiMGQtMDdhZi00YjdmLWJkMmEtOGI4MTYzMGEwYjNhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQwYjE0Y2EtZjNlZi00NmVkLWJjY2QtZTY3YTQ1ZjYzMTlkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTBkNTk0YmItNjBhNi00OGZlLWIzODctMTMwN2U0YzdmMTJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDI3YTViZTItNTE5Ny00MjA2LTlkMDItYTYyOGNhNmZjOTYzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTE2YjVlMTMtMjk4Ni00OGYxLWJlNTQtNTYxMzgwMmMzNWEzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTg2MTJiOWUtN2ZkYi00MThmLWE2Y2ItNzY3NjQ5YzE4MDI2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3NmY3OTgtNTcwZC00MzNiLTkwZjQtNGQ3OTk1YTZhYzU4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM0MzIwMjMyMF5BMl5BanBnXkFtZTgwMzE3NTQ1MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNzExMTA3NF5BMl5BanBnXkFtZTgwNDE3NTQ1MDI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNDkyNzc2NF5BMl5BanBnXkFtZTgwNTE3NTQ1MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0073195/",
+        "rating": "8.1/10"
+      },
+      "year": "1975",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "Tubarão (1975)",
+        "description": "Quando um tubarão desencadea caos numa praia, um xerife, um biologista e um marinheiro daram caça ao animal."
+      }
+    }
+  }
+}

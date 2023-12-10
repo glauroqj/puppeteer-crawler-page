@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "the-lord-of-the-rings-the-return-of-the-king",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Peter Jackson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "slug": "the-lord-of-the-rings-the-return-of-the-king",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Peter Jackson",
+    "year": "2003",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTg3Mzk3NDI0NF5BMl5BanBnXkFtZTcwNDU2MTk2Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1ODY0NDg2M15BMl5BanBnXkFtZTcwNTU2MTk2Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzNzQwODg2OV5BMl5BanBnXkFtZTcwMzE2MTk2Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgzODk0MTQ0Nl5BMl5BanBnXkFtZTcwNDE2MTk2Mw@@._V1_QL75_UY140_CR14,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzcxNDk0NDI1Nl5BMl5BanBnXkFtZTcwNTE2MTk2Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMzIxNzQ0MF5BMl5BanBnXkFtZTcwNjE2MTk2Mw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MjYzNTIyN15BMl5BanBnXkFtZTcwNzE2MTk2Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NDIwMzg3NF5BMl5BanBnXkFtZTcwODE2MTk2Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzY5NDIyNV5BMl5BanBnXkFtZTcwMTI2MTk2Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MDI4NTUyMV5BMl5BanBnXkFtZTcwMDM2MTk2Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzcxMjQwNV5BMl5BanBnXkFtZTcwMTM2MTk2Mw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNDIzMjE4OV5BMl5BanBnXkFtZTcwMjM2MTk2Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0167260/",
+        "rating": "9/10"
+      },
+      "year": "2003",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001392/",
+        "name": "Peter Jackson"
+      },
+      "seo": {
+        "title": "The Lord of the Rings: The Return of the King (2003)",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "oppenheimer",
+    "title": "Oppenheimer",
+    "year": "2023",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "director": "Christopher Nolan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Oppenheimer",
+    "description": "A história do cientista americano J. Robert Oppenheimer e o seu papel no desenvolvimento da bomba atômica.",
+    "slug": "oppenheimer",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjg4OTkxNzUtOGQ0My00MzQxLWIyZmItMzIyY2FlZTRhMDcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "director": "Christopher Nolan",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama",
+        "História"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYmI1NjRjY2ItZTViMi00M2JlLWFmYWMtODc1YWJiYmY1NzA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWIyNzdlNGItN2M5OC00YjUxLThkMDktNDUzOWFkNzgxZWYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTgyODhhYTItNThhMi00Y2ZmLWE5MGYtZTkzMjA4ODEwNjJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg4ZjYyODYtNzZhZS00NGU5LWE3MjAtYTU1ODNiMzFlMmE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjRjZjNhNjYtZDFjMy00OTkyLThiZjEtNGFjYjliNGM4MGRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzYxM2Y1NGYtMjM0Zi00ODk2LWFhMmItNzdlYzA1ZTZkMTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGY5ZDA5N2UtMDBkNy00ODBhLTk2NjItMjcxZGY3OTQ1YzIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR84,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTAwMmIwNDUtYmIxMi00YzBlLWI3MjktZmM2NzcyNGU4NjcwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJkODE4ZWUtMTgxYi00MTZjLTgwZTMtMjcyMjZkMDIxOTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR84,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWI5NzVlYzgtMzgxNi00YjFhLTlhNzMtOTFiMWY4ZTRiYTQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmZiMjI3ZDItNDYyMi00NzEwLWE3YWItY2E2OGRlY2VmYTg0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDZlNWZjM2MtYWM0Ny00NmU3LTgxM2ItMDU3ZDQwNjNjNjUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15398776/",
+        "rating": "8.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      },
+      "seo": {
+        "title": "Oppenheimer (2023)",
+        "description": "A história do cientista americano J. Robert Oppenheimer e o seu papel no desenvolvimento da bomba atômica."
+      }
+    }
+  }
+}

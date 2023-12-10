@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-pianist",
+    "title": "The Pianist",
+    "year": "2002",
+    "director": "Roman Polanski"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Pianist",
+    "description": "The Pianist: Directed by Roman Polanski. With Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard. During the WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+    "slug": "the-pianist",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "director": "Roman Polanski",
+    "year": "2002",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM2MzU3MjA3Nl5BMl5BanBnXkFtZTcwNDgxMTIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwNjgyNjAyOF5BMl5BanBnXkFtZTcwNTgxMTIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4MzExMTA4N15BMl5BanBnXkFtZTcwODcxMTIyMw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1ODI4NTYxNl5BMl5BanBnXkFtZTcwOTcxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4MzAwMjEwMV5BMl5BanBnXkFtZTcwMTgxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNDg4NDI1M15BMl5BanBnXkFtZTcwMjgxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2MTU4MDYxOV5BMl5BanBnXkFtZTcwMzgxMTIyMw@@._V1_QL75_UY140_CR121,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5MDQxMzQ3M15BMl5BanBnXkFtZTcwMjYxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMDg2OTgzMV5BMl5BanBnXkFtZTcwMzYxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMTUzOTYxNF5BMl5BanBnXkFtZTcwNDYxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MjY1MTUzMF5BMl5BanBnXkFtZTcwNTYxMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxNjMzMzc2MV5BMl5BanBnXkFtZTcwNzkwMTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0253474/",
+        "rating": "8.5/10"
+      },
+      "year": "2002",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000591/",
+        "name": "Roman Polanski"
+      },
+      "seo": {
+        "title": "The Pianist (2002)",
+        "description": "The Pianist: Directed by Roman Polanski. With Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard. During the WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
+      }
+    }
+  }
+}

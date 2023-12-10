@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "the-hunger-games-the-ballad-of-songbirds-snakes",
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Francis Lawrence"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+    "slug": "the-hunger-games-the-ballad-of-songbirds-snakes",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Francis Lawrence",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZmQyMDJmNjUtZjY3MC00MjBmLTgzNmUtZjQzNDIwMDFhOGMwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2RlZjk4YTYtODc0ZC00OWMxLWJmNWYtOWNiODZhMDhiNTkxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGRiZWExY2EtZmNiNy00NjJlLThlMTYtMzgyMmZkYjAzOWJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzAwMTQzYzktNzg3ZS00MGExLThjMjMtNzM4MTVjYmEwYjgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWU2NTZjMWQtYWRmOC00YjU3LWJhODctNDc4NDliNTU5Njk2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE0MWUwZDEtNWJkNy00YzI0LWE3YmQtZGVhZWZiYTUyMDUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWNhZWE1MDktNDJmYy00NzQzLWJkZjAtYjVmOWI0N2RjM2FjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2E0YmM4YTUtMzM0OC00YzcyLTlmYjItZWJmNDg3ODQyNmU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2VkZmE5ODUtYWNmNS00MGNlLTliNjQtMDRlNzZkMWNiNGVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDFhZDVlNjktOGRmYi00MTk0LTliZmEtYTc0YTcxNWExZDdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzIwYTQ1OGYtMGMzNC00MTE1LWJkNzAtZGNhYWQwNDQ5NzE0XkEyXkFqcGdeQXVyOTkxNzIwNzE@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk2NTVmMjYtYmE4OC00OWU0LThkZmQtNTYyYTBiYWRmMDkyXkEyXkFqcGdeQXVyMTUyNjkxMDI2._V1_QL75_UY140_CR102,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt10545296/",
+        "rating": "7.2/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1349376/",
+        "name": "Francis Lawrence"
+      },
+      "seo": {
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes (2023)",
+        "description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games."
+      }
+    }
+  }
+}

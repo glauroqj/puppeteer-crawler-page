@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "one-flew-over-the-cuckoos-nest",
+    "title": "Um Estranho no Ninho",
+    "year": "1975",
+    "director": "Milos Forman"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Um Estranho no Ninho",
+    "description": "Um Estranho no Ninho: Dirigido por Milos Forman. Com Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown. Um criminoso alega insanidade para ser enviado a um centro de saúde mental, onde se rebela contra a opressiva enfermeira e mobiliza os pacientes a quem ela atemoriza.",
+    "slug": "one-flew-over-the-cuckoos-nest",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBlZjA2OTctZjVjMS00YzYzLTk3NDYtNjc4ZWVmNzQyNjZkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Milos Forman",
+    "year": "1975",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTI0OTExZGMtNDQ4NS00NmZmLWJjZDktZGJhMDNlYTAyNWRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTljZmE3MjgtN2MxOS00MWYwLTg3ZjQtMDc4NWM4NjlhMjY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDQ4NDI2ZWMtZTc1Mi00MWE4LWIyYWQtOTI4MmVjODBiNDRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4OTI5NjQ1OF5BMl5BanBnXkFtZTgwMDI1MTUxNTM@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NjExNjEzNF5BMl5BanBnXkFtZTgwNzMxMTg5MTE@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ3NDg1MzQ0M15BMl5BanBnXkFtZTcwNjM5OTQyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5ODUyMDI5Ml5BMl5BanBnXkFtZTcwNzM5OTQyNw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwMTgxMTgwMl5BMl5BanBnXkFtZTcwODM5OTQyNw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg0MDE2NDU1OF5BMl5BanBnXkFtZTcwMDQ5OTQyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MDI5NzcyMl5BMl5BanBnXkFtZTcwMTQ5OTQyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MDMwMDIyMF5BMl5BanBnXkFtZTcwNTUzNTIwNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyMzc1OTI1MF5BMl5BanBnXkFtZTcwNjUzNTIwNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0073486/",
+        "rating": "8.7/10"
+      },
+      "year": "1975",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001232/",
+        "name": "Milos Forman"
+      },
+      "seo": {
+        "title": "Um Estranho no Ninho (1975)",
+        "description": "Um Estranho no Ninho: Dirigido por Milos Forman. Com Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown. Um criminoso alega insanidade para ser enviado a um centro de saúde mental, onde se rebela contra a opressiva enfermeira e mobiliza os pacientes a quem ela atemoriza."
+      }
+    }
+  }
+}

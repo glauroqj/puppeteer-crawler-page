@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "little-women",
+    "title": "Little Women",
+    "year": "2019",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Greta Gerwig"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Little Women",
+    "description": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.",
+    "slug": "little-women",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Greta Gerwig",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTI1YjZlMzktOTliNS00OWE3LTgwMmQtZDhkMDAxMTJhMmY3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTRmMDZiM2QtMWQyMi00MGNhLWI2ZWItYTg4ZTE0OGJjMDIxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjJmYTZiZjgtOTJkNy00ODA3LTkxNzEtY2VhNTdmYzllNTNkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGVkNWNhNTctMDU3OS00Mjk1LTgwMWYtMzc3ZDVhNTEwNmE1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTFkYWU1NmItNWQ4Ny00NDFmLThkMjAtNDQxOGQ2YmQyMDYwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk3ZGZmNmUtYjQ2ZC00ZTJiLThiZTgtYjI2OWNkMDZiODNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2M5OTIyNDMtNzFhNC00OTJmLTlmMDctMGIxYzVjZWU4ZmEwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTYzNjdlZGUtNzk3OC00ODgyLWE1MWItY2ViZjljMGNmYWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWE4MzcwZWEtMDUzNS00ZTExLTgzODQtZGZkZWFjN2Q5M2ExXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWMyMWVlNjEtYWJhMS00MWJlLWFiN2UtOThjMGE4YzlkYWY2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM2NGQxYmYtZWVmNy00ODZjLTkyNzgtZWI0MmU5ZTlkNTYzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmQzYmI5YmMtZGU0Ny00NGQxLTk1YTQtN2EyZGNhNWE5NjJmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR32,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3281548/",
+        "rating": "7.8/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1950086/",
+        "name": "Greta Gerwig"
+      },
+      "seo": {
+        "title": "Little Women (2019)",
+        "description": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms."
+      }
+    }
+  }
+}

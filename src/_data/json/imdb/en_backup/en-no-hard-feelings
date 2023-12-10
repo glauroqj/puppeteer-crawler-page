@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "no-hard-feelings",
+    "title": "No Hard Feelings",
+    "year": "2023",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Gene Stupnitsky"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "No Hard Feelings",
+    "description": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or di...",
+    "slug": "no-hard-feelings",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Gene Stupnitsky",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDkyNjI0YjMtMTU0Mi00ODdiLWI0MjMtYmI5M2MxZDhkM2EwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjZiN2M1N2UtMjE2OC00NTAwLTk4YTMtZjQ5MTM0YWIzYThiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGIzOGRiYjQtMzlmOC00ZDVjLWE5MzYtN2FhM2ZiMWFkNDIzXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA0YTQ2YmMtMDI1Zi00ZjUyLWFmYzUtMzAxMDAzNzRiZDg3XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjRhZWM2MDItMzRhMC00ODkwLWIyZWItMWZmNzliZWFlMTNkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Q0NjllYTMtYzJiZS00YjJjLTgzZDEtZWI4NWE0YzJlYWNlXkEyXkFqcGdeQXVyOTM1NTkxMjI@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGRmMDg1YWEtOTQ1Mi00ZTdlLWE4ZTItMWM2ZjZiZTkyZjljXkEyXkFqcGdeQXVyOTM1NTkxMjI@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTEwMTJlM2YtM2Y1My00MWZlLTljOTctM2IyMGQ0YzYwOWVlXkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjRkNGI2YjctMDlkOS00OTBmLWFmODMtZGUyN2ZjZThlYTc4XkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjY4M2ZkNTAtMzhlYy00MWE3LWI0ZDUtNzc4ZmQ4NTA2NTQ4XkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjllZDJlMTktNjQxZi00ZDNmLWIyNWUtZTBlMzJiMWRlN2RkXkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTY1MDAyMDItNTA2OC00ODQ1LWE1N2EtZTZhZjBlMTkxNmIzXkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR60,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15671028/",
+        "rating": "6.4/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1969144/",
+        "name": "Gene Stupnitsky"
+      },
+      "seo": {
+        "title": "No Hard Feelings (2023)",
+        "description": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or di..."
+      }
+    }
+  }
+}

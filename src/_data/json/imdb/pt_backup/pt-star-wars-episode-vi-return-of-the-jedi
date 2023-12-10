@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-vi-return-of-the-jedi",
+    "title": "Star Wars, Episódio VI: O Retorno do Jedi",
+    "year": "1983",
+    "director": "Richard Marquand"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Star Wars, Episódio VI: O Retorno do Jedi",
+    "description": "Depois de uma missão ousada para resgatar Han Solo da cabana de Jabba, os rebeldes partem para fazer Endor destruir a mais poderosa Estrela da Morte. Enquanto isso, Luke tenta trazer Darth Vader de volta do lado negro, sem cair na...",
+    "slug": "star-wars-episode-vi-return-of-the-jedi",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzI0NjA4MjEtNzE4Yi00ZWU5LThjNWItMzcyZjJhNDUzMjhlXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "director": "Richard Marquand",
+    "year": "1983",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNmFlYjhhY2MtODMyYy00ODhlLTliYjktNjgxODM0ODMwYjA1XkEyXkFqcGdeQXVyMTE3OTQ2OTY@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDMwMzQ4OTg3M15BMl5BanBnXkFtZTgwMTg3MjQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4Mjg1Mjk5Ml5BMl5BanBnXkFtZTgwMjg3MjQyNDM@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTExMTAxODMyMDZeQTJeQWpwZ15BbWU4MDM4NzI0MjQz._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxMzMxNDYxNl5BMl5BanBnXkFtZTgwNDg3MjQyNDM@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyMTU0MDM2NV5BMl5BanBnXkFtZTgwNzg3MjQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5Mjg1MDU4NV5BMl5BanBnXkFtZTgwODg3MjQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzk2MjgzMjQ4Nl5BMl5BanBnXkFtZTgwNjc3MjQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY2OTgyMzU2N15BMl5BanBnXkFtZTgwNzc3MjQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ5OTIyNTAyMl5BMl5BanBnXkFtZTgwODc3MjQyNDM@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwMDA3MDA4N15BMl5BanBnXkFtZTgwNzUyMjc4MjI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQzMDA2ODY5M15BMl5BanBnXkFtZTgwNDQ5NjY4MDI@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0086190/",
+        "rating": "8.3/10"
+      },
+      "year": "1983",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0549658/",
+        "name": "Richard Marquand"
+      },
+      "seo": {
+        "title": "Star Wars, Episódio VI: O Retorno do Jedi (1983)",
+        "description": "Depois de uma missão ousada para resgatar Han Solo da cabana de Jabba, os rebeldes partem para fazer Endor destruir a mais poderosa Estrela da Morte. Enquanto isso, Luke tenta trazer Darth Vader de volta do lado negro, sem cair na..."
+      }
+    }
+  }
+}

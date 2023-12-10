@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "once-upon-a-time-in-hollywood",
+    "title": "Era Uma Vez Em... Hollywood",
+    "year": "2019",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Era Uma Vez Em... Hollywood",
+    "description": "Um ator de televisão apagado e seu dublê se esforçam para alcançar a fama e o sucesso na indústria cinematográfica durante os anos finais da Era de Ouro de Hollywood.",
+    "slug": "once-upon-a-time-in-hollywood",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEzNWFjMDMtMWQ2NS00OWZjLWI4YTctNmRlM2JkZGYxM2Q5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTExMjVkNmMtOTJkYS00YWEyLTk3NmQtMzE3YjMyN2Y0MmY1XkEyXkFqcGdeQXVyNTgzMzk4NDQ@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWU2MWQ0YjAtOTNiZi00N2E1LWI5MTAtY2JlMmViNWM1ZTc3XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzRjZjFmNmYtYTIwNC00NmVhLWJlNGItOTJmYzhkMTAyMTRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTZlYWMxMzYtMGM2Yy00NzAzLWE3YjUtYWVmNmVmMGQ1NDRjXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWVhM2U2YmMtNjIxZi00MmEyLWIyOGUtN2E3YjMyMWI2OWY4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTkzZjM1YTMtN2I1Yi00MGE5LTg2YzgtYjkwOTljM2QxODg5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2RjNjkwOTgtNzdmMS00NGYzLWJkMGEtYTYxM2I2NTBkY2ViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGMzYjcwYTEtZDc0Ny00MDM0LWFlODMtMjQ4ZWMzYjY1NDk3XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDFkMWI4ZWItMzNlZi00NWJlLWEzZmYtOGI3MzVmN2RjYzI2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjgyMTJjYzEtZDlhOC00NWFkLWFmMjktYWNiMmIyNTNhZjRkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2U4ZjViODItOGJmNS00NDRhLWI0YTEtNjFjMjYzM2IxNzA0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDg0NmQzZjMtNTdkMy00M2Y1LWEwMzEtMTM0YjRlYzZkZjhkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7131622/",
+        "rating": "7.6/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Era Uma Vez Em... Hollywood (2019)",
+        "description": "Um ator de televisão apagado e seu dublê se esforçam para alcançar a fama e o sucesso na indústria cinematográfica durante os anos finais da Era de Ouro de Hollywood."
+      }
+    }
+  }
+}

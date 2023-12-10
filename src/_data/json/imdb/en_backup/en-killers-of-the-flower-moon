@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "killers-of-the-flower-moon",
+    "title": "Killers of the Flower Moon",
+    "year": "2023",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "director": "Martin Scorsese"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Killers of the Flower Moon",
+    "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+    "slug": "killers-of-the-flower-moon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4ZTZlNDAtM2Q3YS00YjFhLThjN2UtODg2ZGNlN2E2MWU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "director": "Martin Scorsese",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjBmZWMwNzYtN2U4OC00NGNhLWFlZGMtMmE5YTNmOTU0YzZiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTZkMDNlNTgtOGIxNC00OTBjLTgxNWMtYTUxZTMzMTBiYTJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTc2NmIyNWUtNjZhZS00ZTgyLWI2ZDgtNzcwY2MyYjlmZGQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ0Mzk0ZjktNjhjZC00NTk2LThlNDMtZDU4MGYxMzUwNGQ3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjdkMmM0YzUtMDA3My00YjJhLWFmOTMtOGJiYzQzYThkYTgxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODA3YzkzYTgtYTY0NS00OTNiLTk2NDUtMTBjMTdmMGEyMmUwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmMyMDc4NWMtZmUzNC00ZjczLWE1ZmYtYWQ3ZTk4ODBmYzE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmVkOGI2NmItODA5ZC00YWU5LTk5YTQtNzZkZjU1ODYyNzVkXkEyXkFqcGdeQXVyMTk2ODc0MjY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA1MzNmMjItYTZjMy00MzAzLThhZjYtZWFjN2I4YjljNjAwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjQ5MWYzM2QtZTYxNS00MjFmLTk5ZjItMjE3ZTFjYTljMTFhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTRmOTBkYzQtZjU3My00NTMyLTk3NWEtZmU3NjI3MmI1YzA0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjE1YTViYTQtMWYyYy00ZGRlLTg5MTktYzE1MDYxZmJmNDc3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt5537002/",
+        "rating": "8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000217/",
+        "name": "Martin Scorsese"
+      },
+      "seo": {
+        "title": "Killers of the Flower Moon (2023)",
+        "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery."
+      }
+    }
+  }
+}

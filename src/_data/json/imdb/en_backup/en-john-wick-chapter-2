@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "john-wick-chapter-2",
+    "title": "John Wick: Chapter 2",
+    "year": "2017",
+    "director": "Chad Stahelski"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "John Wick: Chapter 2",
+    "description": "John Wick: Chapter 2: Directed by Chad Stahelski. With Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose. After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
+    "slug": "john-wick-chapter-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Chad Stahelski",
+    "year": "2017",
+    "infos": {
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA4NTQ1ODQ3NV5BMl5BanBnXkFtZTgwODQyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MzI1NzY1M15BMl5BanBnXkFtZTgwOTQyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzA0NjIyODY4OV5BMl5BanBnXkFtZTgwMTUyOTIyMTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1MzkwMDY5NF5BMl5BanBnXkFtZTgwMjUyOTIyMTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2NDQ3Mzk1MV5BMl5BanBnXkFtZTgwMzUyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxOTgyMzEyOV5BMl5BanBnXkFtZTgwNDUyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxMjE0MDY0Ml5BMl5BanBnXkFtZTgwNTI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU4MDcyMjM0MV5BMl5BanBnXkFtZTgwMTI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNjg4NjA1M15BMl5BanBnXkFtZTgwMjI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQzODYyNDE2NV5BMl5BanBnXkFtZTgwMzI0OTcyMDI@._V1_QL75_UY140_CR62,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NjA2MjMzNl5BMl5BanBnXkFtZTgwNDI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMjY1NzY2M15BMl5BanBnXkFtZTgwNDkyNDgzMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt4425200/",
+        "rating": "7.4/10"
+      },
+      "year": "2017",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0821432/",
+        "name": "Chad Stahelski"
+      },
+      "seo": {
+        "title": "John Wick: Chapter 2 (2017)",
+        "description": "John Wick: Chapter 2: Directed by Chad Stahelski. With Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose. After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life."
+      }
+    }
+  }
+}

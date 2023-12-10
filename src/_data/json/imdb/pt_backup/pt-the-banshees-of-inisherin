@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "the-banshees-of-inisherin",
+    "title": "Os Banshees de Inisherin",
+    "year": "2022",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Martin McDonagh"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Os Banshees de Inisherin",
+    "description": "Dois amigos de longa data encontram-se em um impasse quando um deles decide abruptamente terminar sua amizade, com consequências alarmantes para ambos.",
+    "slug": "the-banshees-of-inisherin",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhkY2M4YmEtNTc0ZS00NjUyLWIwYzYtY2NjZmYzZDRmODhiXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Martin McDonagh",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjIzNmI5NTItYzBiNi00MmI0LTgzNzktYzYzZjZhNTc5YjM0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmM5MzgzMjUtMTk4ZC00YTkyLTgwYTctMTFhZjg5ZDE3Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODc2OTVmZDItNDcxNS00ZjlkLTljZjEtMDI1ODgzNzBkNTkzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODNjZGRiMDctMTAzMy00N2RjLWJhMGYtMDBiYTQ1ZDYwMzg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjE3ZTE5YjktNjJjOS00NDNmLTlmMmYtZWEwMTk5MWU1ZDM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDg1MzE4N2ItYTZkNi00MGYyLWFiMjItOGIxOTI2ZDI0ZWVhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJiNGEzYTYtZjc2My00OThkLWE5NGYtODYxZTdiYTJkODU0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2FlY2Y5NjctNWI4NS00MGQwLWEyZjItNTFjMDM2NTk0Zjc4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZiYmEwZjQtY2IzNS00Y2M1LThkYzEtZGQ5OWJhY2FmYzBkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmNmZDA3N2MtZDA4MC00Mzg2LWI1YmEtMjJkYjA3ZTU1YzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAzZGIxOGYtNjJiNS00M2ZjLWE2MjctMDcyZmE5MWE5NjJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjFkNTAwYjMtOGE4Mi00YjdmLWI4ZTgtOGE4ZGM0ODBhMmIyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11813216/",
+        "rating": "7.7/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1732981/",
+        "name": "Martin McDonagh"
+      },
+      "seo": {
+        "title": "Os Banshees de Inisherin (2022)",
+        "description": "Dois amigos de longa data encontram-se em um impasse quando um deles decide abruptamente terminar sua amizade, com consequências alarmantes para ambos."
+      }
+    }
+  }
+}

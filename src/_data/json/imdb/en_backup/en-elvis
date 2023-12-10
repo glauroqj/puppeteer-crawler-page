@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "elvis",
+    "title": "Elvis",
+    "year": "2022",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "director": "Baz Luhrmann"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Elvis",
+    "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+    "slug": "elvis",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "director": "Baz Luhrmann",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDgzYTkyOGYtYzM5Ni00NmRkLTg3OWEtMDAwNGI1ZmI3ZGZjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmRiYTlhYjgtYzUyZC00ZDBmLWI5NmYtNDQ2OWI2MzE5ODZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTVjNmE4ODQtOThmZS00ZDgzLWI2OWUtZmYyYzYwZjc3NTk1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTU5MjE5YjQtYjZiOS00NzY0LWE2ZDYtODE2OTAxY2JmYjgzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzNkYWVhZTctMGJiNS00MGU4LTljOGEtMWU0OTc3Njc2MjBiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTlkMmQxOGMtMmRlMS00ZjdiLWIyNTQtODJkMDIwNmFiZTMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR78,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzVhNzhhOGMtMDYxYy00ZTNiLThkNzctN2UyMmRhYTllYWUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWQ2NWEwYTgtZDY3NS00MDYxLTk5MDUtOTNmYTY1ZTIwOGM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjAzMjBiMjEtNDM3MC00MmEyLWI5YjUtMjcyZGE4ZTA1ZWVkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDBjNGIwMzctMTc2OC00NWRmLTg5OTgtYzUwZjliOGIxZmQ3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR91,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTQ5NTY4MzItNzllNS00NGI0LTg5YjgtMzhkMmQyYjJkODRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmMyYzU4ZWMtMTBlYy00YjU2LTk4NGYtZDRkODJhODAwZDY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3704428/",
+        "rating": "7.3/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0525303/",
+        "name": "Baz Luhrmann"
+      },
+      "seo": {
+        "title": "Elvis (2022)",
+        "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker."
+      }
+    }
+  }
+}

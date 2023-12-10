@@ -1,0 +1,59 @@
+{
+  "poster_table": {
+    "slug": "triangle-of-sadness",
+    "title": "Triangle of Sadness",
+    "year": "2022",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Ruben Östlund"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Triangle of Sadness",
+    "description": "A fashion model celebrity couple join an eventful cruise for the super-rich.",
+    "slug": "triangle-of-sadness",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Ruben Östlund",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjBlODMyMzMtMWNhOS00NGE1LWE3YzItYzkyMmU5MTc2ZTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjYzNmJiN2EtYTc4Ny00M2MxLThjNjctODYzZmYxOWEzOTg4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY1MzQ0M2UtZjNkZi00NGQzLWFiYmQtNjIzNzk1YTRhN2RiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWU1MDJhYWYtOWE4OS00Y2E5LTlhNmUtMWQxYTU2ZWQwZTEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWEwZTBiMWUtYmZmNy00NmQ4LTg2OWYtYTQ3OTY0MTM3M2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGI3YWI4YTgtNDY0Yi00M2MxLTgzZDItZjFmY2I3ZjhkNGI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjkyYzFlOWEtMGMzMC00ZWVmLWE4NWItZTM5NmU0NzhjN2Q4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODc0MmNiZDgtYzZlZi00YzkyLWE3MWQtZWNlZDcxZTgxYmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzUzNDYzM2UtNjUxMS00YjY0LWEyNWItMzAyNTZlNjI4ODA2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg4M2I1YWQtZDRiMS00ZmQ4LWE0ZjQtMThmYmQyNzc2NTI5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2M1ZTRmZTMtMjIwMC00YmNlLWE4YzAtNjQyODY4MWU0MjdlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGI5NTNmY2YtZWQ2Ny00YWY5LTkyZTYtOWU2ODVmMDNiY2NjXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7322224/",
+        "rating": "7.3/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1128037/",
+        "name": "Ruben Östlund"
+      },
+      "seo": {
+        "title": "Triangle of Sadness (2022)",
+        "description": "A fashion model celebrity couple join an eventful cruise for the super-rich."
+      }
+    }
+  }
+}

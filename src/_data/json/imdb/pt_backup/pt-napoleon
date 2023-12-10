@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "napoleon",
+    "title": "Napoleão",
+    "year": "2023",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Biografia"
+    ],
+    "director": "Ridley Scott"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Napoleão",
+    "description": "O filme oferece uma visão pessoal das origens de Napoleão e de sua ascensão rápida e implacável ao império, vista através do prisma de seu relacionamento viciante e muitas vezes volátil com sua esposa e verdadeiro amor, Josephine.",
+    "slug": "napoleon",
+    "image": "https://m.media-amazon.com/images/M/MV5BODY0Y2M2YzctN2QwZC00NzM4LThiOGQtOWVjZGJmNzJmMGI0XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Biografia"
+    ],
+    "director": "Ridley Scott",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Biografia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmJlZWIzYTUtNTA4MC00N2MwLWEyYzYtOGRhNGQ3YTg4MTgyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDFhMTI3OTItNGFhMy00OGFlLWIyNWUtMWMwMmZhYmEwMjQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODZlZjI2Y2EtY2I1NC00Njc4LTg5OGMtZDNhZDU5NWFiZWRmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2E2OGNiZTYtYTMxYy00OThhLTg3YjMtNWE2ODhlNGFjMmVkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmU5OGUxN2YtZDJmZi00MmQxLTg1OWUtMDFiNGIzODA4MjkzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzhkODM2MDMtM2NkMy00Yzk1LThiZGMtOGIzNDZhZmRmM2FkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzQ2NjQ0ZWEtMjNkNS00NjI3LWFhZWYtMGIwMjY1ZGNmMDRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDI5OTBiZjMtMDQzZC00ZTFhLThkZDMtNDE3ZTA1ODA3ZDQwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjA5Mjk3OGEtYjk0YS00NDA4LTliNmUtOTE2YjI2MjI3NzgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDRiMTcyNmMtYzRhMS00Mjc2LTg4ZjgtNmU3MzNmZjJjZjQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGY3OWI2ZTctNmYxOS00MmNmLTgxM2ItNDZhMzJjMGM0ZTZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDEwYmU0Y2EtMTE4MS00MmUwLTk3NGQtZjIwODQxMGJjMmI3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR99,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13287846/",
+        "rating": "6.6/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000631/",
+        "name": "Ridley Scott"
+      },
+      "seo": {
+        "title": "Napoleão (2023)",
+        "description": "O filme oferece uma visão pessoal das origens de Napoleão e de sua ascensão rápida e implacável ao império, vista através do prisma de seu relacionamento viciante e muitas vezes volátil com sua esposa e verdadeiro amor, Josephine."
+      }
+    }
+  }
+}

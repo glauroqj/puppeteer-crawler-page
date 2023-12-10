@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "terminator-salvation",
+    "title": "Terminator Salvation",
+    "year": "2009",
+    "director": "McG"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Terminator Salvation",
+    "description": "Terminator Salvation: Directed by McG. With Christian Bale, Sam Worthington, Moon Bloodgood, Helena Bonham Carter. In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
+    "slug": "terminator-salvation",
+    "image": "https://m.media-amazon.com/images/M/MV5BODBlOTJhZjItMGRmYS00YzM1LWFmZTktOTJmNDMyZTBjMjBkXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "McG",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzA0NTA2ODE5Nl5BMl5BanBnXkFtZTgwMDk2NDI4MTI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2NTUwNDU0Nl5BMl5BanBnXkFtZTcwNTk3NTkxNA@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMjI5OTIyOF5BMl5BanBnXkFtZTcwNjk3NTkxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyMTM1NjMyMV5BMl5BanBnXkFtZTcwNTU4NTkxNA@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwMjY2MDM3NzBeQTJeQWpwZ15BbWU3MDY1ODU5MTQ@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MjQ3NTUyMl5BMl5BanBnXkFtZTcwNzU4NTkxNA@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwNjAyMDg5MTNeQTJeQWpwZ15BbWU3MDM3NjI1NTI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjY0ODExNjI1M15BMl5BanBnXkFtZTcwNDc2MjU1Mg@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2MDgzMzc0Nl5BMl5BanBnXkFtZTcwNTc2MjU1Mg@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1MTc3OTQwMl5BMl5BanBnXkFtZTcwNjc2MjU1Mg@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDMxNTM5NjkyMl5BMl5BanBnXkFtZTcwNzc2MjU1Mg@@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0OTEyMjAzNl5BMl5BanBnXkFtZTcwODc2MjU1Mg@@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0438488/",
+        "rating": "6.5/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0629334/",
+        "name": "McG"
+      },
+      "seo": {
+        "title": "Terminator Salvation (2009)",
+        "description": "Terminator Salvation: Directed by McG. With Christian Bale, Sam Worthington, Moon Bloodgood, Helena Bonham Carter. In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?"
+      }
+    }
+  }
+}

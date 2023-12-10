@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-terminator",
+    "title": "O Exterminador do Futuro",
+    "year": "1984",
+    "director": "James Cameron"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Exterminador do Futuro",
+    "description": "O Exterminador do Futuro: Dirigido por James Cameron. Com Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield. Um indestrutível robô é enviado de 2029 a 1984 para assassinar a uma jovem garçonete que vai ter um filho que vai liderar uma guerra contra máquinas maa um soldado humano também é enviado para protege-lha.",
+    "slug": "the-terminator",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5YjIwNTEtZDU3NS00ZGIxLWFmNzQtY2E2MWQyMjQ1NmE5XkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Ficção científica"
+    ],
+    "director": "James Cameron",
+    "year": "1984",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk4MDg3MTMyMl5BMl5BanBnXkFtZTcwNzgzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY4NzQzMzM4NV5BMl5BanBnXkFtZTcwODgzNDQyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NzEzMzU0NF5BMl5BanBnXkFtZTcwOTgzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODA0OTg0NDgxMF5BMl5BanBnXkFtZTcwMDkzNDQyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMTk3ODA2MF5BMl5BanBnXkFtZTcwMTkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2OTUxOTY0NV5BMl5BanBnXkFtZTcwMjkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxNzY3Nl5BMl5BanBnXkFtZTcwMzkzNDQyNA@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NzYzODMyNl5BMl5BanBnXkFtZTcwNDkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNDM0MDg0NF5BMl5BanBnXkFtZTcwNTkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3OTU2MDcxM15BMl5BanBnXkFtZTcwNjkzNDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExOTc3NjE3Ml5BMl5BanBnXkFtZTcwNzkzNDQyNA@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNjk5Mzg1MF5BMl5BanBnXkFtZTcwODkzNDQyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0088247/",
+        "rating": "8.1/10"
+      },
+      "year": "1984",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000116/",
+        "name": "James Cameron"
+      },
+      "seo": {
+        "title": "O Exterminador do Futuro (1984)",
+        "description": "O Exterminador do Futuro: Dirigido por James Cameron. Com Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield. Um indestrutível robô é enviado de 2029 a 1984 para assassinar a uma jovem garçonete que vai ter um filho que vai liderar uma guerra contra máquinas maa um soldado humano também é enviado para protege-lha."
+      }
+    }
+  }
+}

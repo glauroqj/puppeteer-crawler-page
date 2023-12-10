@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "john-wick",
+    "title": "John Wick - De Volta ao Jogo",
+    "year": "2014",
+    "director": "Chad Stahelski"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "De Volta ao Jogo",
+    "description": "John Wick  - De Volta ao Jogo: Dirigido por Chad Stahelski, David Leitch. Com Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe. Lidando com o luto após perder o grande amor de sua vida, um lendário assassino de aluguel aposentado é forçado a voltar à ativa para se vingar de um grupo de bandidos.",
+    "slug": "john-wick",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFjMjI2NGEtZDI3NS00NTY5LTkxOWEtN2IzODAwZGM0M2NkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Suspense"
+    ],
+    "director": "Chad Stahelski",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTUwMTEyMTAxNl5BMl5BanBnXkFtZTgwODY0NjAwMjI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1OTUxNjU4M15BMl5BanBnXkFtZTgwNTY3MDk5MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMzk3NjA0OTNeQTJeQWpwZ15BbWU4MDM1NzA5OTIx._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjkxNTcyNTMzNl5BMl5BanBnXkFtZTgwNDU3MDk5MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MDQ0ODUzNF5BMl5BanBnXkFtZTgwMjY3MDk5MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEyODY0MDI1MDNeQTJeQWpwZ15BbWU4MDQ2NzA5OTIx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU2MTY0NDczNF5BMl5BanBnXkFtZTgwMjg1MTI4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI0ODk2MjY0OV5BMl5BanBnXkFtZTgwMzg1MTI4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNjA1Mjk2OV5BMl5BanBnXkFtZTgwNDg1MTI4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTgzMTU0NzM4OV5BMl5BanBnXkFtZTgwNzc1MTI4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTYzMTcxNzcyNl5BMl5BanBnXkFtZTgwODc1MTI4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0ODA1OTM5Nl5BMl5BanBnXkFtZTgwMDg1MTI4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2911666/",
+        "rating": "7.4/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0821432/",
+        "name": "Chad Stahelski"
+      },
+      "seo": {
+        "title": "John Wick - De Volta ao Jogo (2014)",
+        "description": "John Wick  - De Volta ao Jogo: Dirigido por Chad Stahelski, David Leitch. Com Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe. Lidando com o luto após perder o grande amor de sua vida, um lendário assassino de aluguel aposentado é forçado a voltar à ativa para se vingar de um grupo de bandidos."
+      }
+    }
+  }
+}

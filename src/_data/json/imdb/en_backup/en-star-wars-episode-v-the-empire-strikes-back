@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-v-the-empire-strikes-back",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "1980",
+    "director": "Irvin Kershner"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "slug": "star-wars-episode-v-the-empire-strikes-back",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Irvin Kershner",
+    "year": "1980",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU1Mjk0NTEzNV5BMl5BanBnXkFtZTgwNjI4NzUyNDM@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNTk5OTE1OV5BMl5BanBnXkFtZTgwOTIwMzQyNDM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQzMjEzNjUxOF5BMl5BanBnXkFtZTgwNTEwMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyNDU4NTIwN15BMl5BanBnXkFtZTgwNjEwMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTU0MjYzNDgzOF5BMl5BanBnXkFtZTgwMDIwMzQyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2OTQxMjIxMF5BMl5BanBnXkFtZTgwNDIwMzQyNDM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM4MTIwNzE3NF5BMl5BanBnXkFtZTgwNTIwMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ5Nzg0MTgyOV5BMl5BanBnXkFtZTgwNjIwMzQyNDM@._V1_QL75_UY140_CR58,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3OTUzMDc1NV5BMl5BanBnXkFtZTgwNzIwMzQyNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMDE5NDMxNl5BMl5BanBnXkFtZTgwMDEwMzQyNDM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMzk5NDEyNDdeQTJeQWpwZ15BbWU4MDIxMDM0MjQz._V1_QL75_UY140_CR82,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExOTUwNDY5MF5BMl5BanBnXkFtZTgwMzEwMzQyNDM@._V1_QL75_UY140_CR33,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0080684/",
+        "rating": "8.7/10"
+      },
+      "year": "1980",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0449984/",
+        "name": "Irvin Kershner"
+      },
+      "seo": {
+        "title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+        "description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
+      }
+    }
+  }
+}

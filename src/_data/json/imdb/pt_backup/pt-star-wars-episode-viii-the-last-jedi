@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-viii-the-last-jedi",
+    "title": "Star Wars: Os Últimos Jedi",
+    "year": "2017",
+    "director": "Rian Johnson"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Star Wars: Os Últimos Jedi",
+    "description": "Rey deselvolve suas habilidades com a ajuda de Luke Skywalker, embora a Resistença se prepara para a batalha com a Primeira Ordem.",
+    "slug": "star-wars-episode-viii-the-last-jedi",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "director": "Rian Johnson",
+    "year": "2017",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWI3ZmRmZjMtYzdjYi00MDk3LWFhNmQtM2UwMTgwNjdjZjM2XkEyXkFqcGdeQXVyNDY5NDM2NTU@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMjI5NzA2Nl5BMl5BanBnXkFtZTgwOTgwMDAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2NDg4NjcxOV5BMl5BanBnXkFtZTgwMDkwMDAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTExNDk5NDMwOTBeQTJeQWpwZ15BbWU4MDE5MDAwMjQz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxODg2MzQyN15BMl5BanBnXkFtZTgwMjkwMDAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3NDI5Njc1N15BMl5BanBnXkFtZTgwMzkwMDAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTEzNzgwNjU4MF5BMl5BanBnXkFtZTgwNTkwMDAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDI1NzE1NjM4MF5BMl5BanBnXkFtZTgwNzkwMDAyNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzk5NDc0NzU3M15BMl5BanBnXkFtZTgwNTc1ODg5MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1NDI1MjQ3N15BMl5BanBnXkFtZTgwNTE1NjY4MzI@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1NTY2MDk0Ml5BMl5BanBnXkFtZTgwMTI1NjY4MzI@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2OTEwOTg1OF5BMl5BanBnXkFtZTgwMjI1NjY4MzI@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2527336/",
+        "rating": "6.9/10"
+      },
+      "year": "2017",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0426059/",
+        "name": "Rian Johnson"
+      },
+      "seo": {
+        "title": "Star Wars: Os Últimos Jedi (2017)",
+        "description": "Rey deselvolve suas habilidades com a ajuda de Luke Skywalker, embora a Resistença se prepara para a batalha com a Primeira Ordem."
+      }
+    }
+  }
+}

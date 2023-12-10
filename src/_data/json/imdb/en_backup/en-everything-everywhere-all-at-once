@@ -1,0 +1,62 @@
+{
+  "poster_table": {
+    "slug": "everything-everywhere-all-at-once",
+    "title": "Everything Everywhere All at Once",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Daniel Kwan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Everything Everywhere All at Once",
+    "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "slug": "everything-everywhere-all-at-once",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Daniel Kwan",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzJmODIyMTQtNWE1MS00MGUzLWE4ZTItMmQwNzY5ZDA4ZGJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2E0NzViNTQtYTgxMC00YTRkLWEwMDAtNTAxMWEzYWM5MTkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTVlZTkwMjUtM2RmZC00NGViLTgyZjAtYzZmNzdhYzhiMTgyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQ5MTc5NjctYmU1YS00NzA3LWEzMTYtMDQ4MmQ5YWFjMDg2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTFhYTUxMzUtNzhiMi00ZWU0LTkyYmYtMGE0YjhjMjI2ZWQ0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjY1Mzg5ZTUtN2UyMS00ZjNjLTkwMmUtMzVhZWM4YmFlMjdmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzlkMTU3NjctNmM2Yy00OTg3LWFhNTMtNDNlNjMwYWM1ZGU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Y3Y2YzYWYtMTY4OC00M2E0LTk3YzYtYTM1MGQxOWFlOTIyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDc0ZTM0NmUtYjliZC00MjU3LTlkNjgtMWE2YjNmYWJiYTgzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTgyZGJkNmUtNjQwYy00YjJkLWJhMDYtMzRhZTkyMGQxZGY5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzU0NjhlZTYtNmI0Mi00OWUzLWE5NDQtOTc1Nzg5ZjYwM2M2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTgzZWQ5MzktMDlhYy00MmI4LTljNjMtMTc1MTM5MjNiZmEyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6710474/",
+        "rating": "7.8/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3453283/",
+        "name": "Daniel Kwan"
+      },
+      "seo": {
+        "title": "Everything Everywhere All at Once (2022)",
+        "description": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led."
+      }
+    }
+  }
+}

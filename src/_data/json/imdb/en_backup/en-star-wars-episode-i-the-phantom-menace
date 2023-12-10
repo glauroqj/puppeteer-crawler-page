@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "star-wars-episode-i-the-phantom-menace",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": "1999",
+    "director": "George Lucas"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory.",
+    "slug": "star-wars-episode-i-the-phantom-menace",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "George Lucas",
+    "year": "1999",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU2MzM1NzA2N15BMl5BanBnXkFtZTgwNTI1OTc2NTM@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg3NzY0MDgxMF5BMl5BanBnXkFtZTgwNzkyMjc4MjI@._V1_QL75_UY140_CR68,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0OTM2NzcyNl5BMl5BanBnXkFtZTcwMjMzNTU0OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4NjEwNDA2Nl5BMl5BanBnXkFtZTcwNDUyNDQzNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0MTQ4NTc0NF5BMl5BanBnXkFtZTcwNzcyMzA4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTQzNDU3OV5BMl5BanBnXkFtZTcwODcyMzA4NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxODI2NjE4N15BMl5BanBnXkFtZTcwOTcyMzA4NA@@._V1_QL75_UY140_CR86,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5MzQxNDAwNV5BMl5BanBnXkFtZTcwMDgyMzA4NA@@._V1_QL75_UY140_CR87,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4OTA5MTY0M15BMl5BanBnXkFtZTcwMTgyMzA4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MjQ4NDAyMl5BMl5BanBnXkFtZTcwMjgyMzA4NA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNjc0NTg5OV5BMl5BanBnXkFtZTcwMzgyMzA4NA@@._V1_QL75_UY140_CR85,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA0OTM3OTExNV5BMl5BanBnXkFtZTcwNDgyMzA4NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120915/",
+        "rating": "6.5/10"
+      },
+      "year": "1999",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000184/",
+        "name": "George Lucas"
+      },
+      "seo": {
+        "title": "Star Wars: Episode I - The Phantom Menace (1999)",
+        "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+      }
+    }
+  }
+}

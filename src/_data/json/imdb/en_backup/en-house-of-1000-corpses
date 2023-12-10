@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "house-of-1000-corpses",
+    "title": "House of 1000 Corpses",
+    "year": "2003",
+    "genres": [
+      "Horror"
+    ],
+    "director": "Rob Zombie"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "House of 1000 Corpses",
+    "description": "Two young couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
+    "slug": "house-of-1000-corpses",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUyNjU0NDE0OV5BMl5BanBnXkFtZTYwNzcwMzg3._V1_.jpg",
+    "genres": [
+      "Horror"
+    ],
+    "director": "Rob Zombie",
+    "year": "2003",
+    "infos": {
+      "genres": [
+        "Horror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTUyODc5MDkwNV5BMl5BanBnXkFtZTYwMzcwMzg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTUxOTMwOTI4NV5BMl5BanBnXkFtZTYwODcwMzg3._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0NDE2MTczMl5BMl5BanBnXkFtZTYwNzgwMzg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0MTkzODgwMF5BMl5BanBnXkFtZTYwMDkwMzg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NzcyMDgyMV5BMl5BanBnXkFtZTYwMjkwMzg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMjk5OTM1MF5BMl5BanBnXkFtZTYwNDkwMzg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1MTgwMjMxNV5BMl5BanBnXkFtZTYwNjkwMzg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5NzQ1Mjc0N15BMl5BanBnXkFtZTYwODkwMzg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDExMzkwNTI0N15BMl5BanBnXkFtZTYwMDAxMzg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjUwNzk2ODAwMF5BMl5BanBnXkFtZTYwMzgwMzg3._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI3MDI0NjMxNV5BMl5BanBnXkFtZTYwMTgwMzg3._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMjcyNDU3NV5BMl5BanBnXkFtZTYwNTgwMzg3._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0251736/",
+        "rating": "6/10"
+      },
+      "year": "2003",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0957772/",
+        "name": "Rob Zombie"
+      },
+      "seo": {
+        "title": "House of 1000 Corpses (2003)",
+        "description": "Two young couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers."
+      }
+    }
+  }
+}

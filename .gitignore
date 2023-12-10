@@ -1,7 +1,7 @@
 node_modules/
 yarn-error.log
 src/_data/screenshots/*
-src/_data/json/*
+# src/_data/json/*
 dist/
 list.json
 .env

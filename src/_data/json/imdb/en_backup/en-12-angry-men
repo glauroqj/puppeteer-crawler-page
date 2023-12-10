@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "12-angry-men",
+    "title": "12 Angry Men",
+    "year": "1957",
+    "director": "Sidney Lumet"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "12 Angry Men",
+    "description": "12 Angry Men: Directed by Sidney Lumet. With Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall. The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "slug": "12-angry-men",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Sidney Lumet",
+    "year": "1957",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM3M2UzMGYtZjUxMy00NDVkLTg2ZjktOTM0MjZkZWRhOWE4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkxNmZkMzYtNzE5OC00NWM5LWIzYTItNTllYzAyYTk4YWY1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzliYmQ0ZGEtNTQ4NC00NmZhLThiOGYtMGIzZmNjYTUzZjUwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdiMTY0NzMtNjQ1Ni00OWM1LWJhMzktYzhmMjMzOTdmYzFhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3ODA1NjAxN15BMl5BanBnXkFtZTgwNDAwNDU5MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTI3Nzk2NjE3Nl5BMl5BanBnXkFtZTgwNTAwNDU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDAxOTM1Nzg2Nl5BMl5BanBnXkFtZTgwNjAwNDU5MTE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1OTg1ODI3NF5BMl5BanBnXkFtZTcwNTg4NDc3Mw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2MTM1MjY1MV5BMl5BanBnXkFtZTcwNjg4NDc3Mw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyODAxMDE2MF5BMl5BanBnXkFtZTcwNzg4NDc3Mw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0MDEzMjI3NV5BMl5BanBnXkFtZTcwODg4NDc3Mw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNzM2NDA0MV5BMl5BanBnXkFtZTcwOTg4NDc3Mw@@._V1_QL75_UY140_CR20,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0050083/",
+        "rating": "9/10"
+      },
+      "year": "1957",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001486/",
+        "name": "Sidney Lumet"
+      },
+      "seo": {
+        "title": "12 Angry Men (1957)",
+        "description": "12 Angry Men: Directed by Sidney Lumet. With Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall. The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+      }
+    }
+  }
+}

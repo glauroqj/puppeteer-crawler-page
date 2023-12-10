@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "wonka",
+    "title": "Wonka",
+    "year": "2023",
+    "director": "Paul King"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Wonka",
+    "description": "Wonka: Directed by Paul King. With Timothée Chalamet, Olivia Colman, Hugh Grant, Sally Hawkins. With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
+    "slug": "wonka",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Paul King",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzcyNmI0NmItYTVkNS00ZGJiLTk4YzQtZTc0NzlhYWI2NDZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWU5YjJhMjEtMDcxZi00MTE5LWEzZjUtNmQ2YTgzZjgxNzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWMzNjEyMTUtMTVmZS00MDc5LWE1YmEtM2E1Zjk5YjQ4MjNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWM1ZGI3ZmMtMzcyNS00NjgwLTg4ZjAtNDEzMjg0Y2MwNDI4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Q2Yzg1MzQtZGVhNC00ZTgwLTg2N2UtNDk0ODBjZTBkNzg1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTJiZGQ4ODktZjhmYy00NmVkLWE5YTgtYjIzNDk1Mzk5MDhiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2YxZDg4NTgtZWEyZS00MGRjLTlkN2EtY2IxMTcyYTU4MWVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTRmZmM2ZDYtNWU5MS00NThlLTg3NmItYzk0OTM1OGJkYzdlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODAyZmRlYmYtZDZkMS00OTk5LTk2YWYtNzBlNjMwMWFmNjEyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTE0NjNjNGQtYTM5Mi00ODVmLWIzMDUtZDUzNTZlMDFhNDcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmY5MTBlMGYtMWJmZC00YTkzLWE3ODUtNDliYzU0MDU4NmU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTIzYTE2YWItOTQ3NS00NDNhLTllN2ItMjRiNTBiOTY4YTU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6166392/",
+        "rating": "-/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1653753/",
+        "name": "Paul King"
+      },
+      "seo": {
+        "title": "Wonka (2023)",
+        "description": "Wonka: Directed by Paul King. With Timothée Chalamet, Olivia Colman, Hugh Grant, Sally Hawkins. With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers."
+      }
+    }
+  }
+}

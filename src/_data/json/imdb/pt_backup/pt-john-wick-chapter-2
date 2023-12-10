@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "john-wick-chapter-2",
+    "title": "John Wick: Um Novo Dia para Matar",
+    "year": "2017",
+    "director": "Chad Stahelski"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "John Wick: Um Novo Dia para Matar",
+    "description": "John Wick: Um Novo Dia para Matar: Dirigido por Chad Stahelski. Com Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose. Depois de retornar ao mundo do crime para pagar uma dívida, John Wick descobre que uma grande recompensa foi colocada em sua vida.",
+    "slug": "john-wick-chapter-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDQ5MWM5YzItOGZlYy00MzM0LTkzNWQtNDIwZDQwZGZjMTNhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Suspense"
+    ],
+    "director": "Chad Stahelski",
+    "year": "2017",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA4NTQ1ODQ3NV5BMl5BanBnXkFtZTgwODQyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MzI1NzY1M15BMl5BanBnXkFtZTgwOTQyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzA0NjIyODY4OV5BMl5BanBnXkFtZTgwMTUyOTIyMTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1MzkwMDY5NF5BMl5BanBnXkFtZTgwMjUyOTIyMTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2NDQ3Mzk1MV5BMl5BanBnXkFtZTgwMzUyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxOTgyMzEyOV5BMl5BanBnXkFtZTgwNDUyOTIyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxMjE0MDY0Ml5BMl5BanBnXkFtZTgwNTI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU4MDcyMjM0MV5BMl5BanBnXkFtZTgwMTI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNjg4NjA1M15BMl5BanBnXkFtZTgwMjI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQzODYyNDE2NV5BMl5BanBnXkFtZTgwMzI0OTcyMDI@._V1_QL75_UY140_CR62,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NjA2MjMzNl5BMl5BanBnXkFtZTgwNDI0OTcyMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMjY1NzY2M15BMl5BanBnXkFtZTgwNDkyNDgzMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt4425200/",
+        "rating": "7.4/10"
+      },
+      "year": "2017",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0821432/",
+        "name": "Chad Stahelski"
+      },
+      "seo": {
+        "title": "John Wick: Um Novo Dia para Matar (2017)",
+        "description": "John Wick: Um Novo Dia para Matar: Dirigido por Chad Stahelski. Com Keanu Reeves, Riccardo Scamarcio, Ian McShane, Ruby Rose. Depois de retornar ao mundo do crime para pagar uma dívida, John Wick descobre que uma grande recompensa foi colocada em sua vida."
+      }
+    }
+  }
+}

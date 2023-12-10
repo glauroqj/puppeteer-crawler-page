@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-dark-knight-rises",
+    "title": "Batman - O Cavaleiro das Trevas Ressurge",
+    "year": "2012",
+    "director": "Christopher Nolan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Batman - O Cavaleiro das Trevas Ressurge",
+    "description": "Batman - O Cavaleiro das Trevas Ressurge: Dirigido por Christopher Nolan. Com Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt. Passaram-se oito anos desde a morte de Harvey Dent e o Batman, ao assumir a culpa pela morte do promotor, desapareceu. Agora, ele terá de lidar com a chegada da Mulher Gato e de Bane em Gotham City.",
+    "slug": "the-dark-knight-rises",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTY5MzJmMTEtM2I2MC00M2UzLTg1NzktOWMzOTVmNzg2MTIxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Christopher Nolan",
+    "year": "2012",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU0OTg2MTE2Ml5BMl5BanBnXkFtZTcwNTUwMzQxOA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MTk1NjQ2M15BMl5BanBnXkFtZTcwNjUwMzQxOA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0OTA0MDQ3M15BMl5BanBnXkFtZTcwOTUwMzQxOA@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwOTMyOTk0MV5BMl5BanBnXkFtZTcwMTYwMzQxOA@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MDY1MTAyOF5BMl5BanBnXkFtZTcwMzYwMzQxOA@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyNTA3MTIwMF5BMl5BanBnXkFtZTcwNTYwMzQxOA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwMDQ3OTI3N15BMl5BanBnXkFtZTcwNjYwMzQxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MzcxMjUxNV5BMl5BanBnXkFtZTcwOTYwMzQxOA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwMTk1Njc4OF5BMl5BanBnXkFtZTcwMTcwMzQxOA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI1MTAxOTk1OF5BMl5BanBnXkFtZTcwMjcwMzQxOA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxNzExMzUyMF5BMl5BanBnXkFtZTcwNTcwMzQxOA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1NjI2Njg5OV5BMl5BanBnXkFtZTcwNjcwMzQxOA@@._V1_QL75_UY140_CR13,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1345836/",
+        "rating": "8.4/10"
+      },
+      "year": "2012",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      },
+      "seo": {
+        "title": "Batman - O Cavaleiro das Trevas Ressurge (2012)",
+        "description": "Batman - O Cavaleiro das Trevas Ressurge: Dirigido por Christopher Nolan. Com Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt. Passaram-se oito anos desde a morte de Harvey Dent e o Batman, ao assumir a culpa pela morte do promotor, desapareceu. Agora, ele terá de lidar com a chegada da Mulher Gato e de Bane em Gotham City."
+      }
+    }
+  }
+}

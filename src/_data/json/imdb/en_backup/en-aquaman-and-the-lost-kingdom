@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "aquaman-and-the-lost-kingdom",
+    "title": "Aquaman and the Lost Kingdom",
+    "year": "2023",
+    "director": "James Wan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Aquaman and the Lost Kingdom",
+    "description": "Aquaman and the Lost Kingdom: Directed by James Wan. With Jason Momoa, Ben Affleck, Patrick Wilson, Yahya Abdul-Mateen II. Aquaman balances his duties as king and as a member of the Justice League, all while planning a wedding. Black Manta is on the hunt for Atlantean tech to help rebuild his armor. Orm plots to escape his Atlantean prison.",
+    "slug": "aquaman-and-the-lost-kingdom",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxM2FiYjctYjliYy00NjY2LWFmOTEtMWZiYWRjNjA4MGYxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "James Wan",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODIwZmFiZjAtOGNhMy00NDkxLWE4NDUtMWFjMWYxMWQ5NTgyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzJhYzdkMzQtZDI4Zi00ZjRiLTgzYjItMzNlNTY0OWI2ZjE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWE2ZjFiYWMtYWZmYy00YTAyLWI0YWUtNjZmMWZmYWJlOWJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzNlZjE5NzAtY2E0Yi00MjM4LTgzNzAtYzAzYWMxMmIyY2Y0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWM1OWFlZjktNzlkNi00YWExLThiMjYtNTExOTg2Y2Q2OTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWIyNzI4OTktMWFkYS00NGJjLTk0OTYtOWY0ODYxMzZlYmRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdmMzBhYzMtNmU4Yi00OTVmLTkzNzYtMjdhMWYwNzQ2MzY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWNiNTU5YTMtMmNhYy00ZmJkLTk0MTItMDQ3YmI2YzI2ZTgzXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgwMzA0NGUtNGQ2MC00MzA5LTlhNWUtMmM5YmJjMzYwMzc1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDg1MTQxZDUtZjg2Yy00ZjE3LTlmOTgtMDE1OTQ1YzQ0NDY4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJmZWQ1ZTctMTVkYi00YThhLWE1NTgtYWQ1NTJjYWI0MWM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2VkMDhhMjUtMzY2NS00YTZiLTkyZDQtZjY4MTYxYjVjYTNkXkEyXkFqcGdeQXVyNjMxMTE2Mjg@._V1_QL75_UY140_CR64,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9663764/",
+        "rating": "-/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1490123/",
+        "name": "James Wan"
+      },
+      "seo": {
+        "title": "Aquaman and the Lost Kingdom (2023)",
+        "description": "Aquaman and the Lost Kingdom: Directed by James Wan. With Jason Momoa, Ben Affleck, Patrick Wilson, Yahya Abdul-Mateen II. Aquaman balances his duties as king and as a member of the Justice League, all while planning a wedding. Black Manta is on the hunt for Atlantean tech to help rebuild his armor. Orm plots to escape his Atlantean prison."
+      }
+    }
+  }
+}
