@@ -1,20 +1,21 @@
 {
-  "presets": [
-    "@babel/preset-env"
-  ],
+  "presets": ["@babel/preset-env"],
   "plugins": [
     "@babel/plugin-transform-arrow-functions",
     "@babel/plugin-proposal-class-properties",
     "@babel/plugin-proposal-optional-chaining",
     "@babel/plugin-transform-runtime",
     [
-      "module-resolver", {
+      "module-resolver",
+      {
         "root": ["."],
         "alias": {
           "services": "./src/services",
-          "routes": "./src/routes"
+          "routes": "./src/routes",
+          "lib": "./src/lib"
         },
         "cwd": "babelrc"
-    }]
+      }
+    ]
   ]
 }
