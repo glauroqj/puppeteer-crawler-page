@@ -1,21 +1,22 @@
 import onlyHit from "services/onlyHit";
 import loopFiles from "services/loopFiles";
+import magicStuff from "services/magicStuff";
 
 export default ({ app, parser, cors, corsOptions }) => {
   app.get("/", parser, cors(corsOptions), (req, res) => {
     res.json({ status: "Server is running!" });
   });
 
-  app.get("/action/loop-files/:lang?", async (req, res) => {
+  app.get("/action/magicStuff/:lang?", async (req, res) => {
     try {
-      const { lang } = req?.params;
-      console.log("< HIT > ", req.params);
+      // const { lang } = req?.params;
+      // console.log("< HIT > ", req.params);
 
-      if (!lang) {
-        res.status(400).send("something get wrong! Missing Lang param");
-        return;
-      }
-      const payload = await loopFiles(lang);
+      // if (!lang) {
+      //   res.status(400).send("something get wrong! Missing Lang param");
+      //   return;
+      // }
+      const payload = await magicStuff();
 
       if (payload) {
         res.status(200).send({

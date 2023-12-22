@@ -3,19 +3,14 @@ import fetch from "node-fetch";
 const fs = require("fs");
 const path = require("path");
 
-function loopFiles(lang) {
+function loopFiles(lang, api) {
   return new Promise((resolve) => {
     const folderPath = path.join(__dirname, `../_data/json/imdb/${lang}`);
 
-    console.log("< LOOP FILES > ", folderPath);
+    console.log("< LOOP FILES > ", folderPath, api);
 
     async function callApi(jsonData) {
-      // Replace the URL with your API endpoint
-      const apiUrl =
-        "https://www.opinaposter.com.br/api/intranet/poster/add-poster";
-
-      // Make the API call with jsonData
-      const response = await fetch(apiUrl, {
+      const response = await fetch(api, {
         method: "post",
         body: JSON.stringify(jsonData),
         headers: {
