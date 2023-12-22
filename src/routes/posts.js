@@ -21,19 +21,6 @@ export default ({ app, parser, cors, corsOptions }) => {
       await Promise.map(
         queueService,
         async (url) => {
-          // Promise.map(
-          //   url,
-          //   (item) => {
-          //     console.log("< DO A REQUEST > ", item);
-          // return crawlService({
-          //   url: item,
-          // });
-          //   },
-          //   { concurrency: 2 }
-          // ).then((innerResults) => {
-          //   console.log("< INNER RESULTS > ", innerResults);
-          // });
-          // console.log("< STARTING > ", url);
           return await crawlService({
             url,
           });
@@ -52,81 +39,9 @@ export default ({ app, parser, cors, corsOptions }) => {
           console.error("Error in Promise.map:", e);
           res.status(400).send("something get wrong!");
         });
-
-      // async function makeRequestsInBatches(urls, batchSize) {
-      //   try {
-      // const result = await Promise.map(
-      //   queueService,
-      //   async (url) => {
-      //     // Promise.map(
-      //     //   url,
-      //     //   (item) => {
-      //     //     console.log("< DO A REQUEST > ", item);
-      //     // return crawlService({
-      //     //   url: item,
-      //     // });
-      //     //   },
-      //     //   { concurrency: 2 }
-      //     // ).then((innerResults) => {
-      //     //   console.log("< INNER RESULTS > ", innerResults);
-      //     // });
-      //     console.log("< INNER BATCH > ", url);
-      //     return await crawlService({
-      //       url: url,
-      //     });
-      //   },
-      //   {
-      //     concurrency: 2,
-      //   }
-      // );
-      //     return result;
-      //     // .then((allData) => {
-      //     //   console.log("< FINAL ALL DATA > ", allData);
-      //     // })
-      // .catch((e) => {
-      //   console.error("Error in Promise.map:", e);
-      // });
-      // } catch (e) {
-      //   console.error("Unhandled promise rejection:", e?.message);
-      // }
-      // }
-
-      // makeRequestsInBatches(queueService, 2)
-      //   .then((results) => {
-      //     // Process the results
-      //     results.forEach((data) => {
-      //       console.log(data);
-      //     });
-      //   })
-      //   .catch((error) => {
-      //     // Handle any unhandled promise rejection here
-      //     console.error("Unhandled promise rejection:", error.message);
-      //   });
-
-      // WORKING
-      // Promise.allSettled([...queueService])
-      //   .then((values) => {
-      //     console.log("< ROUTES > ", values);
-      // res.status(200).send({
-      //   data: values,
-      // });
-      //   })
-      //   .catch((e) => {
-      //     res.status(500).send(e?.message || "something get wrong!");
-      //   });
     } else {
       res.status(400).send("something get wrong!");
     }
-    //   try {
-    //     routes.map(async (url, idx) => await crawlService({url, environment, folderName, idx}))
-    //     console.log('\x1b[33m < SUCCESS > ', folderName, environment, routes?.length, routes, '\x1b[0m')
-    //     res.status(200).send('done!')
-    //   } catch(e) {
-    //     res.status(500).send(e)
-    //   }
-    // } else {
-    //   res.status(400).send('something get wrong!')
-    // }
   });
 
   app.post(
@@ -139,16 +54,17 @@ export default ({ app, parser, cors, corsOptions }) => {
 
         console.log("< HIT > ", req.body);
 
-        if (!lang || !api) {
+        if (!api) {
           res.status(400).send("something get wrong! Missing Lang param");
           return;
         }
-        const payload = await loopFiles(lang, api);
+
+        const payload = await loopFiles(api);
 
         if (payload) {
           res.status(200).send({
-            // data: values,
             message: "Consider Done!",
+            data: payload,
           });
           return;
         } else {

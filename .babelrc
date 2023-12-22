@@ -12,7 +12,8 @@
         "alias": {
           "services": "./src/services",
           "routes": "./src/routes",
-          "lib": "./src/lib"
+          "lib": "./src/lib",
+          "utils": "./src//utils"
         },
         "cwd": "babelrc"
       }

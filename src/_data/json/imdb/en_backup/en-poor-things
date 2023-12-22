@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "poor-things",
+    "title": "Poor Things",
+    "year": "2023",
+    "director": "Yorgos Lanthimos"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Poor Things",
+    "description": "Poor Things: Directed by Yorgos Lanthimos. With Emma Stone, Willem Dafoe, Ramy Youssef, Jack Barton. The incredible tale about the fantastical evolution of Bella Baxter; a young woman brought back to life by the brilliant and unorthodox scientist, Dr. Godwin Baxter.",
+    "slug": "poor-things",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Yorgos Lanthimos",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzg2ZThkZDMtNDVlYi00MTkyLWI3MDYtNGU0ZmU4OTE2YTFlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2MzZWVmNzktYWU3MC00Yjc1LTkxYjAtMTJkNzFkNDA4MDdiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmYzM2RiZWQtZmI1NC00MTI2LWJlM2UtYTg5ZDgwMjAwZTM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjFlMWM0OTMtNjZiOC00ZjEzLWEwMWYtNTYxYzhkYzkwMTg2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR15,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmY1NGVjMmItYzgxZS00NDY1LWI3YzMtNmY1NzI1OTZmMWEzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjQxZDY2YzYtOWExNS00ZGVmLWFlNDEtMDAxYzY2ZjdjMGQyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWQ1NTA4NmItNTJiNC00ZWY2LTg1ZjEtNTFjYWNjMGM3ZDUyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR14,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWQxN2Y2MjctNGQ1MC00ODY3LTk0OWMtN2ZkNjI0N2EyZDUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ3NDdlOTktYjZmZC00Y2NjLWFiMzktZTRhNDBiNTA5Y2E2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzM1MGY5NDYtNmFiZC00NzdjLWE1YmItMTAzNTBmMjQwNTBmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDViYTI0MTktZjRmNC00OWYzLWEwZDQtYjBkZDFmNzEwNDVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTkwNWQ5YWEtMjBlZS00MzNkLTgyMjYtYTA0NTUxOTY3MWExXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt14230458/",
+        "rating": "8.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0487166/",
+        "name": "Yorgos Lanthimos"
+      },
+      "seo": {
+        "title": "Poor Things (2023)",
+        "description": "Poor Things: Directed by Yorgos Lanthimos. With Emma Stone, Willem Dafoe, Ramy Youssef, Jack Barton. The incredible tale about the fantastical evolution of Bella Baxter; a young woman brought back to life by the brilliant and unorthodox scientist, Dr. Godwin Baxter."
+      }
+    }
+  }
+}
