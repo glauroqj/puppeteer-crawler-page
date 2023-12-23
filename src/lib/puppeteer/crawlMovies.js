@@ -82,7 +82,7 @@ function crawlMovies(lang, url) {
           // const rating = ratingRaw ? ratingRaw.textContent : "";
 
           const matchYear = document.title.match(/\(([^)]+)\)/);
-          const year = matchYear ? matchYear[1] : "";
+          const year = matchYear ? matchYear[1].replace(/\D/g, "") : "";
 
           // const year = document.querySelector(
           //   "ul.baseAlt > li:first-child a"

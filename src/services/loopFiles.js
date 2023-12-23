@@ -41,10 +41,11 @@ async function loopFiles(api) {
         if (allData && allData.length > 0) {
           for (const item of allData) {
             const { slug } = item?.payload;
-            console.log("< ITEM > ", item);
+
             moveFiles(
               `${backupFolder}/${lang}/${lang}-${slug}`,
-              `${backupFolder}/${lang}_backup/${lang}-${slug}`
+              `${backupFolder}/${lang}_backup/${lang}-${slug}`,
+              slug
             );
           }
         }

@@ -1,15 +1,12 @@
 const fs = require("fs");
 
-function moveFiles(oldPath, newPath) {
-  const sourcePath = "path/to/source/file.txt";
-  const destinationPath = "path/to/destination/file.txt";
-
+function moveFiles(oldPath, newPath, slug) {
   // Move the file
   fs.rename(oldPath, newPath, (error) => {
     if (error) {
-      console.error("Error moving file:", error);
+      console.error("Error moving file:", slug, error);
     } else {
-      console.log("File moved successfully!", newPath);
+      console.log("File moved successfully!", slug);
     }
   });
 }
