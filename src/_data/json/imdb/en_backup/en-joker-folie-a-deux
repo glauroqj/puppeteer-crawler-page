@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "joker-folie-a-deux",
+    "title": "Joker: Folie à Deux",
+    "year": "2024",
+    "director": "Todd Phillips"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Joker: Folie à Deux",
+    "description": "Joker: Folie à Deux: Directed by Todd Phillips. With Joaquin Phoenix, Zazie Beetz, Brendan Gleeson, Catherine Keener. Plot unknown. Sequel to the 2019 film 'Joker.'",
+    "slug": "joker-folie-a-deux",
+    "image": "https://m.media-amazon.com/images/M/MV5BODUyODM1OGEtNTY3ZC00OTFjLTkyNDgtODU4MTk5NzkzYmQ5XkEyXkFqcGdeQXVyNjczMjc4NTA@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Todd Phillips",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTFiN2MxNmItMzc3Mi00OGEwLThjZTMtMDM3MDczNjliZDkyXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDE2N2ZjYjktZjdjYi00ZjFjLThjMjItZDBiOTM3NjBmOGI2XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzkzY2RiN2EtMzEwNy00ZmJkLWFjYjUtMTk0MWQxMTBmZGY3XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDcxMWFhY2YtZjg0NS00Mzc1LWFhYWYtZDI2ZjZlMzAyNjRlXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQwOGJjMTMtOWRiMy00MTkyLWExNWYtMGViNDdkMTJiZDI3XkEyXkFqcGdeQXVyNDk2NzEzOTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJlNDFhNTEtZWRkMS00YzBiLWE5NDktZmEyYjMyZjIyOTYyXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTE0ZmIyZDMtZDY5YS00ZDA0LWE2NjQtN2UzYzRiNmY3NjhlXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR64,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmM0NDMxZTQtNjQwMy00MjkyLTljZTYtYjcxZGM4YzQ5NDIyXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmE4MjFjY2QtNDk0OC00ZmNkLWIwNDUtNDM2OTYzYTQzNGYzXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmFkZGVhN2YtNDgwOC00YzRmLTk0ZjktMmJlNGE5YmJiOWJiXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzUyMmEyZDgtZDIzMy00YmRhLWFlZmUtMmI1ZjQ0ZjJiOGZkXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWQ2MjU2MWMtYzkyOC00OGYzLWE3MmMtYzU1ZDQxNzk5YWNkXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11315808/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0680846/",
+        "name": "Todd Phillips"
+      },
+      "seo": {
+        "title": "Joker: Folie à Deux (2024)",
+        "description": "Joker: Folie à Deux: Directed by Todd Phillips. With Joaquin Phoenix, Zazie Beetz, Brendan Gleeson, Catherine Keener. Plot unknown. Sequel to the 2019 film 'Joker.'"
+      }
+    }
+  }
+}

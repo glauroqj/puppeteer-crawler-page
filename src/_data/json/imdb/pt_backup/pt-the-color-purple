@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-color-purple",
+    "title": "A Cor Púrpura",
+    "year": "2023",
+    "director": "Blitz Bazawule"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Cor Púrpura",
+    "description": "A Cor Púrpura: Dirigido por Blitz Bazawule. Com Fantasia Barrino, Taraji P. Henson, Danielle Brooks, Colman Domingo. Uma mulher enfrenta muitas dificuldades em sua vida, mas acaba encontrando força e esperança extraordinárias nos laços inquebráveis da irmandade.",
+    "slug": "the-color-purple",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjMzZjU4NDktM2NkOS00NGI0LWJjMjQtNzFkZWFhMDY5ZjUwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "director": "Blitz Bazawule",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZmNmOGMyYWMtZTEzMi00MmNmLWJkNGQtNjc0M2Q3YzUxNmFlXkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWFkMjM5OTctNzg5MC00ZTY5LTk2MDgtNWJlNjJjOTcwYzc2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2EwMmE0MzQtOGE3Zi00ZWYzLWI3ZjUtNGNiZjRiOTlmYmM5XkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNThlYTc4YWUtODZlMS00ZDExLTkzOTYtZDhiZDRiMjc2ZGFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTFmOGVmMWMtZGU0ZS00NzhmLWIxYTYtN2UyODNkNTI4YjlhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzM4ZWJmNGQtZTk5Ni00ZDJkLTkwODgtMDE3MjFiNjg5ZTc2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Q5ODlmZWMtYjI2MS00ZThjLTllZmYtMjViZjA4NzlhZDU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWNhZWVlNzItMzlhYi00MWU0LWI1NTUtYTczYzU2MjE3YjJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTFiYTMyODItZDBjYy00YmZiLWIzMjYtOGQzZTM3Y2QwZDQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjUwMzVjNzItNDcxNi00ZDViLTg3NDMtNmZjNTlmYzc2Nzg2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzczNTgyYTItMjViMC00OTRjLWE4MGItZWJlOGE4MTFiNmI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODJmYWJiMTctNTlkMy00NDUzLWIxZjAtNGUxZjgzNWNmMTQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1200263/",
+        "rating": "-/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm7577540/",
+        "name": "Blitz Bazawule"
+      },
+      "seo": {
+        "title": "A Cor Púrpura (2023)",
+        "description": "A Cor Púrpura: Dirigido por Blitz Bazawule. Com Fantasia Barrino, Taraji P. Henson, Danielle Brooks, Colman Domingo. Uma mulher enfrenta muitas dificuldades em sua vida, mas acaba encontrando força e esperança extraordinárias nos laços inquebráveis da irmandade."
+      }
+    }
+  }
+}

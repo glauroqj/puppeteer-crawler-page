@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "beetlejuice",
+    "title": "Beetlejuice",
+    "year": "1988",
+    "director": "Tim Burton"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Beetlejuice",
+    "description": "Beetlejuice: Directed by Tim Burton. With Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page. The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+    "slug": "beetlejuice",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Tim Burton",
+    "year": "1988",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjQ3OTkwNTk3N15BMl5BanBnXkFtZTgwNjg2Mjk3NjM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1NTk4OTM5MV5BMl5BanBnXkFtZTgwNTY2Mjk3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ0MTgxNjg4NF5BMl5BanBnXkFtZTgwNjY2Mjk3NjM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyNjgwMjczNV5BMl5BanBnXkFtZTgwNzY2Mjk3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUwMTM5NDcxOF5BMl5BanBnXkFtZTgwODY2Mjk3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4MTE4MDk5NF5BMl5BanBnXkFtZTgwOTY2Mjk3NjM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTkyOTM0NDc2N15BMl5BanBnXkFtZTgwMTc2Mjk3NjM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDM0NDMyNjc0OF5BMl5BanBnXkFtZTgwMzc2Mjk3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwODUzOTYxOF5BMl5BanBnXkFtZTgwNDc2Mjk3NjM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMjEwMjU0OV5BMl5BanBnXkFtZTgwNTc2Mjk3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIyMTk1MTE5MF5BMl5BanBnXkFtZTgwNjc2Mjk3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MTA1NDM0NF5BMl5BanBnXkFtZTgwNzc2Mjk3NjM@._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0094721/",
+        "rating": "7.5/10"
+      },
+      "year": "1988",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000318/",
+        "name": "Tim Burton"
+      },
+      "seo": {
+        "title": "Beetlejuice (1988)",
+        "description": "Beetlejuice: Directed by Tim Burton. With Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page. The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out."
+      }
+    }
+  }
+}

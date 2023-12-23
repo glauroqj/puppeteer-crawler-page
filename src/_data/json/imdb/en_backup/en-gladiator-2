@@ -1,0 +1,52 @@
+{
+  "poster_table": {
+    "slug": "gladiator-2",
+    "title": "Gladiator 2",
+    "year": "2024",
+    "director": "Ridley Scott"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Gladiator 2",
+    "description": "Gladiator 2: Directed by Ridley Scott. With Denzel Washington, Pedro Pascal, Paul Mescal, Connie Nielsen. Follows Lucius, the son of Maximus' love Lucilla, after Maximus' death.",
+    "slug": "gladiator-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTNmMzliMmYtNjEyZS00NGM3LWEzYWEtNmI3MGJjMTIzZjI4XkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Ridley Scott",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjFjYTVlMjEtZDY4Ny00NGI5LTk3YjItYmNjMjczZmJlZDVhXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWQ3YzlkN2ItYjA4My00MTMyLWEzZjgtMGJiZGE2ODg0NTgyXkEyXkFqcGdeQXVyMzQ1NjgzMTE@._V1_QL75_UY140_CR75,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTZkZWY5ZTktODI3My00Y2I3LWJlNWQtY2VjNmFhODFkZTMyXkEyXkFqcGdeQXVyMzQ1NjgzMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDZhYjk5MzEtNmM4ZS00Zjk3LWIxMjEtYmVlYTI4NGMwYzVlXkEyXkFqcGdeQXVyMzQ1NjgzMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjVmMjQxOGUtMGIzNy00OWMxLWE0MzUtYzM0NzM3MDU4YTJhXkEyXkFqcGdeQXVyMTMxNDIyMDc@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDZlZjIxYzYtMWMxNC00MjAxLTg3OWItNzA3NTEzZGY1Y2Y2XkEyXkFqcGdeQXVyMTMxNDIyMDc@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjRkYjIzOTQtNDBjYS00OTczLWI3MjAtMmVlYTAwMmVjOGExXkEyXkFqcGdeQXVyMzk3NjgwNjI@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9218128/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000631/",
+        "name": "Ridley Scott"
+      },
+      "seo": {
+        "title": "Gladiator 2 (2024)",
+        "description": "Gladiator 2: Directed by Ridley Scott. With Denzel Washington, Pedro Pascal, Paul Mescal, Connie Nielsen. Follows Lucius, the son of Maximus' love Lucilla, after Maximus' death."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "soul",
+    "title": "Soul",
+    "year": "2020",
+    "director": "Pete Docter"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Soul",
+    "description": "Soul: Dirigido por Pete Docter, Kemp Powers. Com Jamie Foxx, Tina Fey, Graham Norton, Rachel House. Um músico que perdeu a paixão pela música é transportado para fora do corpo e deve encontrar o caminho de volta com a ajuda de uma alma infantil.",
+    "slug": "soul",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Pete Docter",
+    "year": "2020",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDkyN2E2MmYtZjliZC00ZWZlLTk5ZTYtMzQ3NTVhZTk5YjIwXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWU3NTM1OWEtZjRhNy00MTYwLWE4ODktYWJkZWE1MDU1Y2RjXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmI0YjA3ZjAtMmIzMy00MThlLWI1YWItNWI0NWFlNGFiZDZkXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTRhMzNlMTMtNDZhZS00ZGJkLTkzZmItMWQzNGQwMGFiYmExXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjkzY2MyMzktZDU4MC00ZmYyLWE1OTAtMmI3NzcyNWMxM2I0XkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJlNGFkZWMtNmVmMS00MjIxLWI2NzMtOWM4NDZlMjM4Mjg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzgzYThmNWEtNjkxOC00NzkzLTkyYzAtOGMyYmU1ZjkxOTM3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQ5N2M0MzItNGMxMS00YThlLWIwNzktZDBjN2RlMTVjOGU2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0MTg4MWYtYzY2OS00ZDA3LTkwM2QtMzc0YTU5ZTliMTkyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWYxZjI5ZjQtMDhkNC00YTQyLTg2ZjktZWMzOWEzYTEyNTkwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzk0N2YwMTQtMTNhNC00YjYwLWE1MzYtZjM2YWYwZGI0ZTA4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjE4ODcyMzctNWNmMi00NzEwLWJiZmItYzM2YmI2Nzc3YzI4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2948372/",
+        "rating": "8/10"
+      },
+      "year": "2020",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0230032/",
+        "name": "Pete Docter"
+      },
+      "seo": {
+        "title": "Soul (2020)",
+        "description": "Soul: Dirigido por Pete Docter, Kemp Powers. Com Jamie Foxx, Tina Fey, Graham Norton, Rachel House. Um músico que perdeu a paixão pela música é transportado para fora do corpo e deve encontrar o caminho de volta com a ajuda de uma alma infantil."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-super-mario-bros-movie",
+    "title": "Super Mario Bros. - O Filme",
+    "year": "2023",
+    "director": "Aaron Horvath"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Super Mario Bros. - O Filme",
+    "description": "Super Mario Bros. - O Filme: Dirigido por Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack. Com Kevin Michael Richardson, Jack Black, Khary Payton, Chris Pratt. Um encanador chamado Mario precisa salvar seu irmão Luigi das garras do rei dos Koopas, Bowser. Para isso, ele conta com a ajuda da princesa do Reino dos Cogumelos, Peach, e de seus amigos Toad e Donkey Kong.",
+    "slug": "the-super-mario-bros-movie",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmVkMDdlODAtNmEwOS00OTU0LWE3ZWQtNzAwMjkyNTFlMDBhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Aaron Horvath",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDgyMTQ5M2YtOGM2My00ZmRmLWJkM2MtMjc5YzljYmZiODUxXkEyXkFqcGdeQXVyMTk2ODc0MjY@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGRmMDFlNjAtYzYyYy00MjU0LWFmYmMtM2I2ZmQ5Mjg3NmRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjhhMmJjNmUtZTY1Yi00YTdmLThkYmItODY5YzE3MGMyYmZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODFiNTk0MzAtZmMxMy00NDQzLTg3M2QtNjdlM2JmOTU2ZmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzljN2QxYjItY2FlYy00MzAxLThmY2ItZjJiMDBmZGQzMmUxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGYxYmRhNmQtNDJhNi00YTg5LWJjZjYtZmNiZGExMzc3MmI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGE1YjFjYzctYzJmMS00MTEyLTkyZmQtYWI4ZGM4N2JmNTU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWNjOThmYzgtOWFhYS00MmY0LWJjNDYtNjk1MTYxM2ZjZGE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODUwMDRlMGUtYmVmYy00OTk5LThjY2MtOTI3NmNjMjYwNGE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmMzOGQxYzYtMTgyYS00MGQ5LWE4NTMtZDRlMWE0NTY3ZjJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM1NjgzYWQtYzQ3YS00MTU1LTk1MjgtMWI2ZDhhOTJmNjU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODhiODIwNzYtMjg5Ni00MjlmLTk4NmYtNTUyMTBkMzRhZjUyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6718170/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1739338/",
+        "name": "Aaron Horvath"
+      },
+      "seo": {
+        "title": "Super Mario Bros. - O Filme (2023)",
+        "description": "Super Mario Bros. - O Filme: Dirigido por Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack. Com Kevin Michael Richardson, Jack Black, Khary Payton, Chris Pratt. Um encanador chamado Mario precisa salvar seu irmão Luigi das garras do rei dos Koopas, Bowser. Para isso, ele conta com a ajuda da princesa do Reino dos Cogumelos, Peach, e de seus amigos Toad e Donkey Kong."
+      }
+    }
+  }
+}

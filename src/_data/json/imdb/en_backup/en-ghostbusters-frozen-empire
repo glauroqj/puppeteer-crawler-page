@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "ghostbusters-frozen-empire",
+    "title": "Ghostbusters: Frozen Empire",
+    "year": "2024",
+    "director": "Gil Kenan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Ghostbusters: Frozen Empire",
+    "description": "Ghostbusters: Frozen Empire: Directed by Gil Kenan. With Carrie Coon, Mckenna Grace, Annie Potts, Bill Murray. When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second ice age.",
+    "slug": "ghostbusters-frozen-empire",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlNzQ0OWYtNDU5Yy00NzJmLWFhMTQtYzA2YzU0YjVhMTllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Gil Kenan",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWQ3NWM5NmUtMGIxMy00ZmExLTk3NTktMDQ0YzdjZTgzZmRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTcyZjg2YTQtZTE3YS00ZjU1LWJjNTUtYTc0OTlhMjFjZmFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDMzYTBjNDUtZTU4ZC00YjRlLWJmMTktZTNiYWQyZDk3Yzg1XkEyXkFqcGdeQXVyMTY2Mjg5MTQ5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWEzOGE5MTAtMGUyNS00MDQ2LWE5YjEtOTQ4NDJlYWMxOTkyXkEyXkFqcGdeQXVyMzQ2MTM1NzU@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI2NzJhYjYtY2Y2ZS00MjFjLTg4OTItNTRkMGQwYTE0YzdiXkEyXkFqcGdeQXVyMzQ2MTM1NzU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTJkMjUyZGMtMjQ2OS00ZjE2LWI0MDMtYWJhMWEwN2IwN2U0XkEyXkFqcGdeQXVyMTY1MjczMzE4._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmZhZjY1MDItMzMwMi00MTMzLTgwYjEtOTMyZDc4OGQ2MGExXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWY5MDE0YzUtZDNiYi00ZTYxLWE4NjMtMGVkMGZiOTI4N2JhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjJiM2E2M2EtOWJkNy00MzhjLTkxMjMtNTAzYjU5YmRiNzc5XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTU0ZmYxMGEtNzM2OS00MGM2LTgxNTAtY2VkNmQ3MzI3OWQzXkEyXkFqcGdeQXVyMTAzODYwMzY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWNiNjVkNDgtODg5Zi00MGI2LWEwODQtZmEzOWIxNmYyNjhhXkEyXkFqcGdeQXVyMTY2MDA3NTE0._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21235248/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1481493/",
+        "name": "Gil Kenan"
+      },
+      "seo": {
+        "title": "Ghostbusters: Frozen Empire (2024)",
+        "description": "Ghostbusters: Frozen Empire: Directed by Gil Kenan. With Carrie Coon, Mckenna Grace, Annie Potts, Bill Murray. When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second ice age."
+      }
+    }
+  }
+}

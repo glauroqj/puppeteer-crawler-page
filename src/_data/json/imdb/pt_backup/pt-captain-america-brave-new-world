@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "captain-america-brave-new-world",
+    "title": "Captain America: Brave New World",
+    "year": "2025",
+    "director": "Julius Onah"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Captain America: Brave New World",
+    "description": "Captain America: Brave New World: Dirigido por Julius Onah. Com Harrison Ford, Shira Haas, Rosa Salazar, Liv Tyler. Plot kept under wraps. Fourth movie in the Captain America franchise.",
+    "slug": "captain-america-brave-new-world",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWMwNDU1M2YtMWQyOC00NGU3LWFlYjYtMmE0YTIyOTIzNjAwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "Julius Onah",
+    "year": "2025",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNWJjNmRjMDUtYTcwZC00NGNmLThkOTctYzc0NTc5Y2NlNDJlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzUxNTNlN2ItYTE1Ni00MDM2LWIwODktZmM3YjgwZGNiYWNkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGEyMWY3MjUtNmFiYi00YjFjLTg2ODQtZDlhYzkxNGUzZDYzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWNiOTNkZDctNTQwOC00YTBhLWIwOTYtYTFjM2Q4YjQ3MGJkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJiOTZiMjMtYjIyNS00YjZlLTg4MTktMjRmMzEyYzZjMjZhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmYzYmU5NjItODBmZS00NmIxLTllZTQtYzIxZjc3YThkYTc4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmM1MmY1NzQtMTRjYi00NTZhLWJjYTAtNGNkODUzMmVkMWIwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGM2YWMyN2YtOWQwZS00YTVhLWFhYmUtODhiZjljMGU1ZDQ1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzVkNGJkMTMtMDA2NC00ZTFlLWEyNTgtYzk4NTQ4YzYwYzVjXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDUyYTNhMzctODFjYy00OTEzLWJiZTgtZmQyYjZiZDc2NGQ0XkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM3ZjBmMzctYWMzZC00NjkwLWJhZGUtZTBlOTBmYjBlYWEwXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt14513804/",
+        "rating": "-/10"
+      },
+      "year": "2025",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1564809/",
+        "name": "Julius Onah"
+      },
+      "seo": {
+        "title": "Captain America: Brave New World (2025)",
+        "description": "Captain America: Brave New World: Dirigido por Julius Onah. Com Harrison Ford, Shira Haas, Rosa Salazar, Liv Tyler. Plot kept under wraps. Fourth movie in the Captain America franchise."
+      }
+    }
+  }
+}

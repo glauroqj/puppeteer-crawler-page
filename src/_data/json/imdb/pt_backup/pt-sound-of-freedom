@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "sound-of-freedom",
+    "title": "Som da Liberdade",
+    "year": "2023",
+    "director": "Alejandro Monteverde"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Som da Liberdade",
+    "description": "Som da Liberdade: Dirigido por Alejandro Monteverde. Com Jim Caviezel, Bill Camp, Cristal Aparicio, Javier Godino. Um ex-agente especial do Governo Americano embarca em uma missão arriscada para resgatar crianças vítimas de tráfico infantil na Colômbia.",
+    "slug": "sound-of-freedom",
+    "image": "https://m.media-amazon.com/images/M/MV5BODg3OTBjZWYtM2Q1Ny00OTliLWI1MzktYWUyZjk0NTcxODkxXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Policial",
+      "Drama"
+    ],
+    "director": "Alejandro Monteverde",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTAwNWQ1ZjQtZDFmMC00YjNlLWFlNjItMjJlYzZkMjJlNzkyXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk4ZWIwZWQtY2Q5NS00ZWQ1LTllZTEtMDJjNDFhNTBjOGVkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGE2OGI0MzYtM2RjMy00NWEzLWEwZjEtYTY4NTc1Zjg1OTE1XkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDFhNjgwM2ItYmNlZC00N2E4LTk3ZGEtMjNlZThiYmI0NGFhXkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQ4NTFiODMtMzM0NC00Nzk4LTg3ZGItMmQ5YjZkYzljYTRmXkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTQ4YmUxNDgtOWI4Zi00YmE4LTkyYTQtMzdlNGJlOWZmNWE1XkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk3ZDEyYzktYTM2ZS00NWU1LWFjNzctMDhlYmM5Mjg0ZDg0XkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmM4NDYwNDMtMDNhNC00ZTMxLThhOTctMTUzN2U2NmI5NjkxXkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE1NjY4ZTUtNTQ5NS00YTRjLTljMWQtMzA1NDA1MWM4NjkwXkEyXkFqcGdeQXVyMTYzMjg5NTIz._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWVjMTI5ZGEtYzBlYS00ODc3LWE2NGUtNTAxMDRlODkxNjc5XkEyXkFqcGdeQXVyMTYzMjg5NTIz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGY0ZjQ3MWUtZjBjOS00NGQzLTg5MzYtMjA4Y2U4NTMwODhhXkEyXkFqcGdeQXVyMTYzMjg5NTIz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzQxZDkzMWUtY2M3NS00NWE0LWJjNzAtOTAyYzUzNzI2MmRkXkEyXkFqcGdeQXVyMTYzMjg5NTIz._V1_QL75_UY140_CR6,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7599146/",
+        "rating": "7.7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1920049/",
+        "name": "Alejandro Monteverde"
+      },
+      "seo": {
+        "title": "Som da Liberdade (2023)",
+        "description": "Som da Liberdade: Dirigido por Alejandro Monteverde. Com Jim Caviezel, Bill Camp, Cristal Aparicio, Javier Godino. Um ex-agente especial do Governo Americano embarca em uma missão arriscada para resgatar crianças vítimas de tráfico infantil na Colômbia."
+      }
+    }
+  }
+}

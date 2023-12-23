@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "deadpool-3",
+    "title": "Deadpool 3",
+    "year": "2024",
+    "director": "Shawn Levy"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Deadpool 3",
+    "description": "Deadpool 3: Dirigido por Shawn Levy. Com Emma Corrin, Morena Baccarin, Ryan Reynolds, Jennifer Garner. Wolverine joins the \"merc with a mouth\" in the third installment of the Deadpool film franchise.",
+    "slug": "deadpool-3",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGI0ZDg3Y2EtYzIyYi00MGYwLThlOGItNWQ5MjMxNDU2ODUzXkEyXkFqcGdeQXVyMTEwMTcxOTAx._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "director": "Shawn Levy",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTZhNDQ5NWItZWRhZi00YjZmLThiYTctYzExNzBjYzkyZGVjXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmVlMzg4YzYtMmI4Ni00NDZjLTljN2UtMGViYWFlY2E3Mjg3XkEyXkFqcGdeQXVyNjY0Mzk3NzA@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjFkNGEyNTItZmQ2Mi00YjU4LWExMjgtMGU3MmU5MWI1YzNlXkEyXkFqcGdeQXVyMTM1NTc1OTQ0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y4NzUyZjctNmRlNS00NzI3LWFjOWUtMjM3ZDAzYTdjOGRjXkEyXkFqcGdeQXVyMTM1NTc1OTQ0._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGUwM2M4MWYtZjYzZi00MmU2LWFhOTYtZjkzZWU1ZGFmNmViXkEyXkFqcGdeQXVyMTM1NTc1OTQ0._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGUyZDY4NTctYTU1YS00NTdlLTk1NTctZjU5NjY3ZWY4NzEyXkEyXkFqcGdeQXVyMTM1NTc1OTQ0._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzcxZmRhMWMtYmNjMi00NmFiLThhODMtNTI4MDcxOWI1ZWM0XkEyXkFqcGdeQXVyMTM1NTc1OTQ0._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGFhYTFlMWEtYTA3YS00MmM0LWIyNjEtZGM4MTExMzBkMjUyXkEyXkFqcGdeQXVyMTM1NTc1OTQ0._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTJhZGVkZjQtNDlhNi00OWY0LTljNDgtODQ5MzA2YzQzOTFkXkEyXkFqcGdeQXVyNzAwNjg1MTc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmYwMTMyZDMtMGVkMC00NjY3LWI0NjAtZDMyZDE1Yjg3ZGM2XkEyXkFqcGdeQXVyMTYxNjQ2ODIy._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg1NWNhY2UtZTlmMy00ZWMzLTkyYzEtZjY2MTQ3NmFmOTY1XkEyXkFqcGdeQXVyMTYxNjQ2ODIy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU1NjVlNzMtYmQ3ZS00YWYwLWFiNzktNWE5NGU0Njk2ZDU0XkEyXkFqcGdeQXVyMTYxNjQ2ODIy._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6263850/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0506613/",
+        "name": "Shawn Levy"
+      },
+      "seo": {
+        "title": "Deadpool 3 (2024)",
+        "description": "Deadpool 3: Dirigido por Shawn Levy. Com Emma Corrin, Morena Baccarin, Ryan Reynolds, Jennifer Garner. Wolverine joins the \"merc with a mouth\" in the third installment of the Deadpool film franchise."
+      }
+    }
+  }
+}

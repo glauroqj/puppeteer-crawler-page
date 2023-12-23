@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-little-mermaid",
+    "title": "The Little Mermaid",
+    "year": "2023",
+    "director": "Rob Marshall"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Little Mermaid",
+    "description": "The Little Mermaid: Directed by Rob Marshall. With Halle Bailey, Jonah Hauer-King, Melissa McCarthy, Javier Bardem. A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince.",
+    "slug": "the-little-mermaid",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Rob Marshall",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzY3YmIwODQtODBjMS00M2NkLThlOWQtODBhZTFmZGQ1NDgwXkEyXkFqcGdeQXVyOTE4MjI1NDU@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWEyMDFlYzYtMzFhOC00MTVhLTkwNmQtMjNlYzAxMDA5MzNiXkEyXkFqcGdeQXVyOTE4MjI1NDU@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmYyMDkxYTEtM2VmOC00NDBiLTk3YTAtMTZmNmY0OWIzZWExXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2EwNjI1NmUtMDkzOC00YzJjLWJhZDEtZDdhNDYwMDRhNjY1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQ2NTgxYTMtZmY4NC00ZjRjLTg3YmQtOTA3Mjg2NzY2MTIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzVkOTAyMjYtZDI4Yy00M2I2LTk3NTItNTYxODFmMDQ5MTk5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR73,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTFhNzJhOWQtMjcyNy00ZjNlLTkyODYtNTUwYzEyNDkxNTNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR75,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTE2Zjg2NWItOGRmNC00MmNhLWIyMmQtYzlmN2E3MTJiZTM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2QwZDU4ZTQtYjIzMS00MTFjLTk1YjgtNjhlYTc2ZDE5NjAyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGY5MTlhYmYtNmQwNi00ZTM5LWE0YjItNTIxOWQ1ZTVlOWVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTgyNGMzYjgtN2ZlZi00OTBiLWFkYmUtOGYyNWJkZjc5OTk3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmVjMTMyYjQtZjEzOS00NDM0LWE4YzAtZDE4ZGZiMGYyMjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt5971474/",
+        "rating": "7.2/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0551128/",
+        "name": "Rob Marshall"
+      },
+      "seo": {
+        "title": "The Little Mermaid (2023)",
+        "description": "The Little Mermaid: Directed by Rob Marshall. With Halle Bailey, Jonah Hauer-King, Melissa McCarthy, Javier Bardem. A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince."
+      }
+    }
+  }
+}

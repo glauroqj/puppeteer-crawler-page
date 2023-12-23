@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "guardians-of-the-galaxy",
+    "title": "Guardians of the Galaxy",
+    "year": "2014",
+    "director": "James Gunn"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Guardians of the Galaxy",
+    "description": "Guardians of the Galaxy: Directed by James Gunn. With Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel. A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "slug": "guardians-of-the-galaxy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzMTk4NDYtMjg5OS00ZGI0LWJhZDYtMzdmZGY1YWU5ZGNkXkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "James Gunn",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTIxMzI4NDc4MV5BMl5BanBnXkFtZTgwNTEzOTYxMTI@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwNTM0MDIxNjleQTJeQWpwZ15BbWU4MDgwMjkzMjIx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI5MzI2NTM5MF5BMl5BanBnXkFtZTgwOTAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEyMjk2NjI5OTBeQTJeQWpwZ15BbWU4MDAxMjkzMjIx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzA4ODQ5MDE2N15BMl5BanBnXkFtZTgwMjAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NTA4ODcyMl5BMl5BanBnXkFtZTgwMzAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0NDE0NjA1Nl5BMl5BanBnXkFtZTgwNDAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNjY0NTA1NV5BMl5BanBnXkFtZTgwNTAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4MzY5ODc2NF5BMl5BanBnXkFtZTgwNjAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5NTgzODMzOV5BMl5BanBnXkFtZTgwNzAyOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzMxODUyMzk2NV5BMl5BanBnXkFtZTgwNzkxOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExNzkxMjMzMV5BMl5BanBnXkFtZTgwODkxOTMyMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2015381/",
+        "rating": "8/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0348181/",
+        "name": "James Gunn"
+      },
+      "seo": {
+        "title": "Guardians of the Galaxy (2014)",
+        "description": "Guardians of the Galaxy: Directed by James Gunn. With Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel. A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
+      }
+    }
+  }
+}
