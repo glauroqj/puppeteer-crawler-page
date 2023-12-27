@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "blackkklansman",
+    "title": "BlacKkKlansman",
+    "year": "2018",
+    "director": "Spike Lee"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "BlacKkKlansman",
+    "description": "BlacKkKlansman: Directed by Spike Lee. With Alec Baldwin, John David Washington, Isiah Whitlock Jr., Robert John Burke. Ron Stallworth, an African American police officer from Colorado Springs, Colorado, successfully infiltrates the local Ku Klux Klan branch aided by a Jewish surrogate who eventually becomes its leader. Based on actual events.",
+    "slug": "blackkklansman",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Spike Lee",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDM5OWY4MjAtMDRmMy00OWI4LTkwNzgtZjlkZjZiZTQ2YWZjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwNjk4NDgwMV5BMl5BanBnXkFtZTgwMjg3MTI0NTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWY4NWVjMDQtYjhkMS00MTg2LTliNTUtMWU3YTk4MWMzM2E3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWJkZGJmOWMtODE5OC00NmJhLWIwYTEtZWY5MzJhYzI4YjBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2YyMDNjYmItMzhkNy00MmM2LTk2ZGQtZWVmYWMxM2E5ZTBhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MzQzMjE4M15BMl5BanBnXkFtZTgwMTM4MDI3NjM@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3NzE0OTg4OV5BMl5BanBnXkFtZTgwNzMyNDE1NTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4OTg4NTU5MF5BMl5BanBnXkFtZTgwNDIyNDE1NTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZThiNzg4ZjctNTY3Mi00MTZmLTllYzgtZjM5Mzc3YjIxNTUwXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjZlOGZjODktMDBlNS00ZGEzLTkzMGUtMGVlNzQ4MDk3N2ZlXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjM5ZDRiOWUtMDcyZC00ODZjLTk2MmQtNmI3YjIyNTkwYTk3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmJjNDYyOTItMzViOC00MzI4LTgzY2YtNGMwNWUwNjQ3YjA2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7349662/",
+        "rating": "7.5/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000490/",
+        "name": "Spike Lee"
+      },
+      "seo": {
+        "title": "BlacKkKlansman (2018)",
+        "description": "BlacKkKlansman: Directed by Spike Lee. With Alec Baldwin, John David Washington, Isiah Whitlock Jr., Robert John Burke. Ron Stallworth, an African American police officer from Colorado Springs, Colorado, successfully infiltrates the local Ku Klux Klan branch aided by a Jewish surrogate who eventually becomes its leader. Based on actual events."
+      }
+    }
+  }
+}

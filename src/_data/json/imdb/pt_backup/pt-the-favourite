@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-favourite",
+    "title": "A Favorita",
+    "year": "2018",
+    "director": "Yorgos Lanthimos"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Favorita",
+    "description": "A Favorita: Dirigido por Yorgos Lanthimos. Com Olivia Colman, Rachel Weisz, Emma Delves, Faye Daveney. No início do século 18 na Inglaterra, uma frágil rainha ocupa o trono e sua amiga mais próxima, Lady Sarah, governa o país em seu lugar. Quando uma nova serva, Abigail, chega, seu charme a leva a Sarah.",
+    "slug": "the-favourite",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWM5ZjIzODgtMjcxOC00MWM1LWJlOGYtYmFiNDYwZGNkZDUxXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Yorgos Lanthimos",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjQ0NzI0MjU1M15BMl5BanBnXkFtZTgwMjIwMTgwNzM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MDgzMDMyMl5BMl5BanBnXkFtZTgwODEwMTgwNzM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3OTM2OTQ5M15BMl5BanBnXkFtZTgwOTY5MTA4NjM@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTczMTI1OTUwOV5BMl5BanBnXkFtZTgwMDc5MTA4NjM@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyNDA2MjI3MV5BMl5BanBnXkFtZTgwNDQ5MTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwNjAxNzc5MTNeQTJeQWpwZ15BbWU4MDU0OTEwODYz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgyNTQ5ODQ5N15BMl5BanBnXkFtZTgwNjQ5MTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzYyODM2MzcxM15BMl5BanBnXkFtZTgwODQ5MTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA1MzIwMTU0M15BMl5BanBnXkFtZTgwOTQ5MTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTcxNTA5OTMzNF5BMl5BanBnXkFtZTgwMDU5MTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4NjM5NzMxNF5BMl5BanBnXkFtZTgwMzQ5MTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzc2Mzc4ODI3M15BMl5BanBnXkFtZTgwOTkyMTA4NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt5083738/",
+        "rating": "7.5/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0487166/",
+        "name": "Yorgos Lanthimos"
+      },
+      "seo": {
+        "title": "A Favorita (2018)",
+        "description": "A Favorita: Dirigido por Yorgos Lanthimos. Com Olivia Colman, Rachel Weisz, Emma Delves, Faye Daveney. No início do século 18 na Inglaterra, uma frágil rainha ocupa o trono e sua amiga mais próxima, Lady Sarah, governa o país em seu lugar. Quando uma nova serva, Abigail, chega, seu charme a leva a Sarah."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "black-panther",
+    "title": "Pantera Negra",
+    "year": "2018",
+    "director": "Ryan Coogler"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Pantera Negra",
+    "description": "Pantera Negra: Dirigido por Ryan Coogler. Com Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira. T'Challa, herdeiro do reino oculto, mas avançado de Wakanda, deve dar um passo adiante para conduzir seu povo a um novo futuro e deve enfrentar um adversário do passado de seu país.",
+    "slug": "black-panther",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "Ryan Coogler",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTA5MDIxMzA5MjNeQTJeQWpwZ15BbWU4MDUzNzAzOTQz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5NzU5MzcwMF5BMl5BanBnXkFtZTgwNjM3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMDQzODM4MV5BMl5BanBnXkFtZTgwNzM3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzNzYwNjkyOF5BMl5BanBnXkFtZTgwODM3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMDk3NDYzNl5BMl5BanBnXkFtZTgwNjE3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4MDgxOTYxMV5BMl5BanBnXkFtZTgwNzE3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQyMDc0NTI0Ml5BMl5BanBnXkFtZTgwODE3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQzNTM2MzEwOF5BMl5BanBnXkFtZTgwOTE3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3NTc5MzA0OV5BMl5BanBnXkFtZTgwMDI3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2MTE1MjgwOV5BMl5BanBnXkFtZTgwMTI3MDM5NDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4NzM0MDI3NF5BMl5BanBnXkFtZTgwNDI3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3NzgyNzk5MV5BMl5BanBnXkFtZTgwNTI3MDM5NDM@._V1_QL75_UY140_CR63,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1825683/",
+        "rating": "7.3/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3363032/",
+        "name": "Ryan Coogler"
+      },
+      "seo": {
+        "title": "Pantera Negra (2018)",
+        "description": "Pantera Negra: Dirigido por Ryan Coogler. Com Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira. T'Challa, herdeiro do reino oculto, mas avançado de Wakanda, deve dar um passo adiante para conduzir seu povo a um novo futuro e deve enfrentar um adversário do passado de seu país."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "a-star-is-born",
+    "title": "Nasce Uma Estrela",
+    "year": "2018",
+    "director": "Bradley Cooper"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Nasce Uma Estrela",
+    "description": "Nasce Uma Estrela: Dirigido por Bradley Cooper. Com Lady Gaga, Bradley Cooper, Sam Elliott, Andrew Dice Clay. Um experiente músico descobre a jovem artista desconhecida a quem ajuda a encontrar fama mais acaba se apaixonando por ela. O relacionamento pessoal entre os dois começa a desandar, à medida que Jack luta contra problemas de álcool.",
+    "slug": "a-star-is-born",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTA0OTNkYWMtM2M3OC00NDRmLTllOTQtMTVhMzZlYWYyMTZjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Bradley Cooper",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTExMTc5OTc2MTJeQTJeQWpwZ15BbWU4MDgwNjgwNDYz._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1MzgxNjgyOF5BMl5BanBnXkFtZTgwOTA2ODA0NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY3OTMxMzQyNF5BMl5BanBnXkFtZTgwMDE2ODA0NjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3NTQwMzA0MV5BMl5BanBnXkFtZTgwMTE2ODA0NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY3NzY3OTk5N15BMl5BanBnXkFtZTgwMjE2ODA0NjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTUwNDY3NTc0MF5BMl5BanBnXkFtZTgwMzE2ODA0NjM@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgyNTIxNjMxNl5BMl5BanBnXkFtZTgwNzk1ODA0NjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUyMDAzNTM5MF5BMl5BanBnXkFtZTgwODk1ODA0NjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMjE1NTAzNl5BMl5BanBnXkFtZTgwOTk1ODA0NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MDE3NTUzNF5BMl5BanBnXkFtZTgwMDA2ODA0NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0MTkwNDQ5MV5BMl5BanBnXkFtZTgwMjA2ODA0NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ4MDE2ODY4Ml5BMl5BanBnXkFtZTgwMzA2ODA0NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1517451/",
+        "rating": "7.6/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0177896/",
+        "name": "Bradley Cooper"
+      },
+      "seo": {
+        "title": "Nasce Uma Estrela (2018)",
+        "description": "Nasce Uma Estrela: Dirigido por Bradley Cooper. Com Lady Gaga, Bradley Cooper, Sam Elliott, Andrew Dice Clay. Um experiente músico descobre a jovem artista desconhecida a quem ajuda a encontrar fama mais acaba se apaixonando por ela. O relacionamento pessoal entre os dois começa a desandar, à medida que Jack luta contra problemas de álcool."
+      }
+    }
+  }
+}

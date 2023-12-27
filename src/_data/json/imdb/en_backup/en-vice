@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "vice",
+    "title": "Vice",
+    "year": "2018",
+    "director": "Adam McKay"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Vice",
+    "description": "Vice: Directed by Adam McKay. With Christian Bale, Amy Adams, Steve Carell, Sam Rockwell. The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that are still felt today.",
+    "slug": "vice",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Adam McKay",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGVjNGQwMDAtMDljMC00ZWVkLWFhZjctMjRiYzAyZjE4ZGYwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwOTg5MDg1M15BMl5BanBnXkFtZTgwNzc4NjMwNzM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjk4ZjBiMzUtNWNiMS00MWZkLTllMTctNGMxYThiNGEzZjllXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ0ZmE4NTYtZTRjOS00NDVlLWJkZDktNWIzYWQ4YWVkNzUyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmNhN2IxNmMtODcyZC00OGJjLTlkM2EtNjEzNDI3MzI1ZDhjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2UzMmNhZTEtZjNkYi00ZGQ2LTk4MDMtZTAwNDZlMGVjMmI4XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmI5M2Q1M2EtZmM1ZS00MDc1LWIxNmYtZDJmNTYyYzY1ZWViXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3MTEzOTQzNV5BMl5BanBnXkFtZTgwNTkwMDk5NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDM5ZjIzYTAtNWRjYi00MWNkLWFlOTgtNDljMjU5ZDUwZTU1XkEyXkFqcGdeQXVyMjIzMTQzNDE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmNhZTU3YjgtN2RlYS00NjgxLTljZWYtNDI4ZjQ1NGI2YTFlXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODliODIwODUtMmNjMS00YjNkLWEzMTEtN2Y5NzcxNWI0YTk2XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTEyYjY5ZDgtOGE5ZS00ZWQ1LTg2MmEtMWVmNjEzN2JmZmY4XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6266538/",
+        "rating": "7.2/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0570912/",
+        "name": "Adam McKay"
+      },
+      "seo": {
+        "title": "Vice (2018)",
+        "description": "Vice: Directed by Adam McKay. With Christian Bale, Amy Adams, Steve Carell, Sam Rockwell. The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that are still felt today."
+      }
+    }
+  }
+}

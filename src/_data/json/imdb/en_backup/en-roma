@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "roma",
+    "title": "Roma",
+    "year": "2018",
+    "director": "Alfonso Cuarón"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Roma",
+    "description": "Roma: Directed by Alfonso Cuarón. With Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta. A year in the life of a middle-class family's maid in Mexico City in the early 1970s.",
+    "slug": "roma",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Alfonso Cuarón",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjMzNDI5OTAzOV5BMl5BanBnXkFtZTgwNTUyMjg0NzM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2MjcyNjE0NzdeQTJeQWpwZ15BbWU4MDA1MjU0NzYz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA3NDIwNzI0MjZeQTJeQWpwZ15BbWU4MDI1MjU0NzYz._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3OTE4MDE1Ml5BMl5BanBnXkFtZTgwNTUyNTQ3NjM@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxMzU0ODMzMl5BMl5BanBnXkFtZTgwOTQyNTQ3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY0NTg2NzE4N15BMl5BanBnXkFtZTgwNDUyNTQ3NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2NDY2MTg0N15BMl5BanBnXkFtZTgwNzA5ODkyNjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0NTgzMTY1NV5BMl5BanBnXkFtZTgwODA5ODkyNjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGRkMjUzNGItY2E4Yi00ZTMxLWI3YjktZTZhYmZjMDEzMGJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODdlY2Y4MDEtNDE0My00ZTkzLTlmNWEtYzdiZGFlMTI4YmE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWFiOGE1ODctMWQyNy00OTZkLTgyZDAtZjU1ZDcyY2IyZDZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDcyNDI0ODI4NF5BMl5BanBnXkFtZTgwODUwMDcwNzM@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6155172/",
+        "rating": "7.7/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0190859/",
+        "name": "Alfonso Cuarón"
+      },
+      "seo": {
+        "title": "Roma (2018)",
+        "description": "Roma: Directed by Alfonso Cuarón. With Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta. A year in the life of a middle-class family's maid in Mexico City in the early 1970s."
+      }
+    }
+  }
+}

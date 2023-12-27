@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "green-book",
+    "title": "Green Book",
+    "year": "2018",
+    "director": "Peter Farrelly"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Green Book",
+    "description": "Green Book: Directed by Peter Farrelly. With Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco. A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "slug": "green-book",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Peter Farrelly",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzI4NzIzNzgwNV5BMl5BanBnXkFtZTgwMzM2MjIxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYyNzc3MjIyNl5BMl5BanBnXkFtZTgwNDM2MjIxNjM@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0MzIyODk1OF5BMl5BanBnXkFtZTgwNTM2MjIxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDg1MDIwN2ItZmNlMS00MjI1LWE4OTEtOGNjYTI5NGYzYTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzUxYzkzYWItYWNiMy00MjJhLTkwMDAtMzg2YTQ3ZjE5OTlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDMxZWM0YTUtMzUwOS00MmQ1LTk2OWQtNGMzY2I4YjY0NzdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTJmOGVlMGMtZDIxNC00NTI4LTgxM2ItNmM4MDQ1YzJhMzVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYThmMjY1MjctZGQ3Zi00ODZlLTk4NTMtNDgzN2FiNmRlZTZiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjU2Yzc1MTktY2M0YS00MTNjLTg0MGItOWIyYTA3MGI5MWNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWYzZDMzOTEtZTZjYS00M2MwLWIwZWItMGYyYTEzMDFkODQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJkZjhjNDktZDk5Ny00ZTA0LWI2YTAtMTliMjdkOGJlMDBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWNhZmI3YTMtNTNkNS00NDA3LWIyNzgtZmIzYmMxNjMxM2Y1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6966692/",
+        "rating": "8.2/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0268380/",
+        "name": "Peter Farrelly"
+      },
+      "seo": {
+        "title": "Green Book (2018)",
+        "description": "Green Book: Directed by Peter Farrelly. With Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco. A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South."
+      }
+    }
+  }
+}

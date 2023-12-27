@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "year": "2018",
+    "director": "Bryan Singer"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Bohemian Rhapsody",
+    "description": "Bohemian Rhapsody: Directed by Bryan Singer. With Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy. The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+    "slug": "bohemian-rhapsody",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "director": "Bryan Singer",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTQwNDAzNTQ2NV5BMl5BanBnXkFtZTgwNTQyOTk2NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ5ODY5ODUyNl5BMl5BanBnXkFtZTgwNjQyOTk2NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAxNTA0NzIyNDZeQTJeQWpwZ15BbWU4MDc0Mjk5NjYz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTExMDU0NTEyMjdeQTJeQWpwZ15BbWU4MDg0Mjk5NjYz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTMxNjUzOTQtNmJlZS00NTA2LTk5ZTAtMmFhZGZhNDBiMjVhXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGVlN2Q0NDgtMjUzMC00MmMzLWFlMzQtMTYwZjI4MGIzMDAzXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE5MjhlN2ItYjk5OC00N2IwLTk4ZDgtMmYzNzQ1NjUyYzQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR41,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1NDIxNzk1MF5BMl5BanBnXkFtZTgwNDQyOTk2NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzNiZmMwMDctZWMwNy00ZGZjLTk1MzMtNTQxNDZkZTUxNzI5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ5MTI2ODg5N15BMl5BanBnXkFtZTgwODA1MzExNzM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUwNTU2NjA1OV5BMl5BanBnXkFtZTgwMTE1MzExNzM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg5MjM4NDEyOV5BMl5BanBnXkFtZTgwNjgyNDc2NjM@._V1_QL75_UY140_CR30,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1727824/",
+        "rating": "7.9/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001741/",
+        "name": "Bryan Singer"
+      },
+      "seo": {
+        "title": "Bohemian Rhapsody (2018)",
+        "description": "Bohemian Rhapsody: Directed by Bryan Singer. With Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy. The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985)."
+      }
+    }
+  }
+}
