@@ -33,7 +33,7 @@ async function loopFiles(api) {
         return await callApi(data);
       },
       {
-        concurrency: 30,
+        concurrency: 5,
       }
     )
       .then((allData) => {
@@ -61,6 +61,7 @@ async function loopFiles(api) {
         return allData;
       })
       .catch((e) => {
+        new Error(e);
         console.error("Error in Promise.map:", e);
       });
   }
@@ -80,8 +81,10 @@ async function loopFiles(api) {
     console.log("< LOOP FILES : PT_DATA > ", PT_DATA.length, result_PT);
     // ----------------- END PT LOOP -------------------
     return [result_EN, result_PT];
+    // return [result_EN];
   } catch (e) {
     console.error(e);
+    new Error(e);
     // throw new Error("< LOOP FILES ERROR : EN_DATA > ", e);
     return false;
   }

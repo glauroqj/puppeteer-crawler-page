@@ -3,17 +3,12 @@
     "slug": "the-hunger-games",
     "title": "Jogos Vorazes",
     "year": "2012",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Ficção científica"
-    ],
     "director": "Gary Ross"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Jogos Vorazes",
-    "description": "Katmiss Everden voluntariamente se ofreçe no lugar da sua irmã nos Jogos Vorazes, uma competição once jovens de cada um dos distritos de Panem são escolhidos aleatoriamente para brigar.",
+    "description": "Jogos Vorazes: Dirigido por Gary Ross. Com Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields. Katmiss Everden voluntariamente se ofreçe no lugar da sua irmã nos Jogos Vorazes, uma competição once jovens de cada um dos distritos de Panem são escolhidos aleatoriamente para brigar.",
     "slug": "the-hunger-games",
     "image": "https://m.media-amazon.com/images/M/MV5BODFjNmRmMTItZmI3ZS00ZjE2LWIxODctZmQyMDdiYTlhZjZhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Jogos Vorazes (2012)",
-        "description": "Katmiss Everden voluntariamente se ofreçe no lugar da sua irmã nos Jogos Vorazes, uma competição once jovens de cada um dos distritos de Panem são escolhidos aleatoriamente para brigar."
+        "description": "Jogos Vorazes: Dirigido por Gary Ross. Com Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields. Katmiss Everden voluntariamente se ofreçe no lugar da sua irmã nos Jogos Vorazes, uma competição once jovens de cada um dos distritos de Panem são escolhidos aleatoriamente para brigar."
       }
     }
   }

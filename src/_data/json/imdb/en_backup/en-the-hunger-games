@@ -3,17 +3,12 @@
     "slug": "the-hunger-games",
     "title": "The Hunger Games",
     "year": "2012",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
     "director": "Gary Ross"
   },
   "poster_lang": {
     "lang": "en",
     "title": "The Hunger Games",
-    "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+    "description": "The Hunger Games: Directed by Gary Ross. With Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields. Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
     "slug": "the-hunger-games",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "The Hunger Games (2012)",
-        "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death."
+        "description": "The Hunger Games: Directed by Gary Ross. With Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields. Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death."
       }
     }
   }

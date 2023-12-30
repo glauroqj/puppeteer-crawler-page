@@ -27,6 +27,7 @@
       "gallery": [
         "https://m.media-amazon.com/images/M/MV5BYjRjOTcyMGMtMzhkNy00NzhkLWIyZmQtZDg3Y2Q1OTZmNWNhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNWIwNDc5Y2QtOWIyNy00ZjIxLTk0ZWYtOTliMDFjNjliMDA5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTVkMzI4YjEtYThhMi00NDEzLWJhNWEtYTE3YTU1ZGRiMTA3XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BOWIwMWYxYTgtNDhlYS00YTYwLWE1ZWMtZWNhYjY2MDM5NTZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BOTQ0NmRiZDctMjAzYi00MGNjLWI5NzctYjRjYzEzMWVmZjE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR44,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BOTVjOTk2MzAtNzI5MC00OWJiLWI4YWEtZGY0MmE3ODAwMzNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR34,0,140,140_.jpg",
@@ -35,12 +36,11 @@
         "https://m.media-amazon.com/images/M/MV5BNGU2NGMxY2ItYjljNi00ZDlmLWJiYjctNWFlNTAwNTFhYzBkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BM2RiMjNhMWMtZDVlNy00MzY4LWJjMmQtYzZkNDZlYjkzOGQ4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMzBkOTc0OTAtNDM5MC00NTI1LThmZGUtZWM2MTAyZDlkODJhXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMDhjZDM2YTMtM2NlZS00YjYxLTg4ZGUtMzgzMTQ2M2JjMmFiXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZGEyNmE4MTYtMTg1MS00MmJkLWFjZjktZmU2ZDJkMDgwOGRkXkEyXkFqcGdeQXVyMTEwNzI0NjYx._V1_QL75_UY140_CR35,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMDhjZDM2YTMtM2NlZS00YjYxLTg4ZGUtMzgzMTQ2M2JjMmFiXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_QL75_UX140_CR0,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt1856080/",
-        "rating": "-/10"
+        "rating": "7.3/10"
       },
       "year": "2023",
       "country": "",

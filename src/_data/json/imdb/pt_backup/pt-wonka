@@ -8,9 +8,9 @@
   "poster_lang": {
     "lang": "pt",
     "title": "Wonka",
-    "description": "Wonka: Dirigido por Paul King. Com Timothée Chalamet, Olivia Colman, Hugh Grant, Sally Hawkins. Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho.",
+    "description": "Wonka: Dirigido por Paul King. Com Timothée Chalamet, Gustave Die, Murray McArthur, Paul G. Raymond. Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho.",
     "slug": "wonka",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDg4YjdmMGYtMmIyZi00ZmQzLWI2NTQtNTVkYTQ0OGRmY2FkXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIzMDIwYzctOGM1Ny00YTE3LTg0MWEtMGE4MWI0MTJhNTYwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
       "Aventura",
       "Comédia",
@@ -25,22 +25,22 @@
         "Família"
       ],
       "gallery": [
-        "https://m.media-amazon.com/images/M/MV5BMzcyNmI0NmItYTVkNS00ZGJiLTk4YzQtZTc0NzlhYWI2NDZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMWU5YjJhMjEtMDcxZi00MTE5LWEzZjUtNmQ2YTgzZjgxNzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNWMzNjEyMTUtMTVmZS00MDc5LWE1YmEtM2E1Zjk5YjQ4MjNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYWM1ZGI3ZmMtMzcyNS00NjgwLTg4ZjAtNDEzMjg0Y2MwNDI4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BM2Q2Yzg1MzQtZGVhNC00ZTgwLTg2N2UtNDk0ODBjZTBkNzg1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZTJiZGQ4ODktZjhmYy00NmVkLWE5YTgtYjIzNDk1Mzk5MDhiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BM2YxZDg4NTgtZWEyZS00MGRjLTlkN2EtY2IxMTcyYTU4MWVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMTRmZmM2ZDYtNWU5MS00NThlLTg3NmItYzk0OTM1OGJkYzdlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BODAyZmRlYmYtZDZkMS00OTk5LTk2YWYtNzBlNjMwMWFmNjEyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZTE0NjNjNGQtYTM5Mi00ODVmLWIzMDUtZDUzNTZlMDFhNDcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZmY5MTBlMGYtMWJmZC00YTkzLWE3ODUtNDliYzU0MDU4NmU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZTIzYTE2YWItOTQ3NS00NDNhLTllN2ItMjRiNTBiOTY4YTU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMTlhOWJhMTEtMGEzZi00NjQzLWFmZjktOTEwYWMzMWExOGRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmZiNGI4MmYtNjYwNS00MmJiLWIzNjAtMGNjMTBjYjdmMzczXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMThiYzExZWItNDMwMS00MTg4LWFjNTYtMTkzMzFkOWVmZGM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGQ0Y2U2NGItOWU1NS00OWE4LTlmYzAtYWM3ZWRkYzUzNTg0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWJhNWI2NzgtYjYzNS00OWNlLTg0MWYtMjZjYTNhOGE4NTdiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGY0OWMwZmQtODlhNC00YTNkLTkyODctZWZhZDZkN2RhMTk3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGVkZmFiMWUtNTYzMC00Y2MwLWIyZjktOGNhZTJlNTNmNTk0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQxNTJjYTctZjk5OC00MDBlLWE1YmYtZjFkMmIwNDRmOWE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDBmMzFlM2EtMGJmNy00ZTBlLTg1ZDUtOTYwZWY4NmRmOWZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzQxZDIxZjMtYjM3Zi00MTczLWJkZTctYmUwNTJiYzUxMjIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDQyYjY2NTMtYjJlYy00MDkyLWJmMWEtOTcxODVlMDBmOGI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk5MjVmNjctMTY5NS00MTRkLWI4ZDAtOWMxODhjNWNhN2U3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt6166392/",
-        "rating": "-/10"
+        "rating": "7.3/10"
       },
       "year": "2023",
       "country": "",
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Wonka (2023)",
-        "description": "Wonka: Dirigido por Paul King. Com Timothée Chalamet, Olivia Colman, Hugh Grant, Sally Hawkins. Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho."
+        "description": "Wonka: Dirigido por Paul King. Com Timothée Chalamet, Gustave Die, Murray McArthur, Paul G. Raymond. Um jovem Willy Wonka cheio de ideias está determinado a mudar o mundo a cada deliciosa mordida de seu chocolate, uma atrás da outra, provando que as melhores coisas da vida sempre começam com um sonho."
       }
     }
   }

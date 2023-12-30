@@ -3,19 +3,14 @@
     "slug": "dune-part-one",
     "title": "Dune: Part One",
     "year": "2021",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
     "director": "Denis Villeneuve"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Dune: Part One",
-    "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+    "description": "Dune: Directed by Denis Villeneuve. With Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Jason Momoa. A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
     "slug": "dune-part-one",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
     "genres": [
       "Action",
       "Adventure",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Dune (2021)",
-        "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future."
+        "description": "Dune: Directed by Denis Villeneuve. With Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Jason Momoa. A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future."
       }
     }
   }

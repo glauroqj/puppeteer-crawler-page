@@ -26,7 +26,7 @@ export default ({ app, parser, cors, corsOptions }) => {
           });
         },
         {
-          concurrency: 2,
+          concurrency: 3,
         }
       )
         .then((allData) => {

@@ -3,17 +3,12 @@
     "slug": "barbie",
     "title": "Barbie",
     "year": "2023",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
     "director": "Greta Gerwig"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Barbie",
-    "description": "Barbie suffers a crisis that leads her to question her world and her existence.",
+    "description": "Barbie: Directed by Greta Gerwig. With Margot Robbie, Issa Rae, Kate McKinnon, Alexandra Shipp. Barbie suffers a crisis that leads her to question her world and her existence.",
     "slug": "barbie",
     "image": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
     "genres": [
@@ -45,7 +40,7 @@
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt1517268/",
-        "rating": "7/10"
+        "rating": "6.9/10"
       },
       "year": "2023",
       "country": "",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Barbie (2023)",
-        "description": "Barbie suffers a crisis that leads her to question her world and her existence."
+        "description": "Barbie: Directed by Greta Gerwig. With Margot Robbie, Issa Rae, Kate McKinnon, Alexandra Shipp. Barbie suffers a crisis that leads her to question her world and her existence."
       }
     }
   }

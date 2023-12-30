@@ -3,19 +3,14 @@
     "slug": "ferrari",
     "title": "Ferrari",
     "year": "2023",
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
     "director": "Michael Mann"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Ferrari",
-    "description": "Set in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy.",
+    "description": "Ferrari: Directed by Michael Mann. With Adam Driver, Shailene Woodley, Giuseppe Festinese, Alessandro Cremona. Set in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy.",
     "slug": "ferrari",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzA1YTQxNmYtNTNiYS00ZjM3LWE3YzItYTViNzBjMmE0Zjc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTM0YTBlMjctZjJjZS00MDU4LTg5YmQtMDY5Y2FhMWZiMjQ2XkEyXkFqcGdeQXVyNzU0NzQxNTE@._V1_.jpg",
     "genres": [
       "Biography",
       "Drama",
@@ -30,8 +25,10 @@
         "History"
       ],
       "gallery": [
-        "https://m.media-amazon.com/images/M/MV5BOTViYzE0NWItOGQ5Mi00YWE5LTg4MWEtNzY2YjM1YTFkZjM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWE2YWRjYTMtMDYyMi00NmMxLWJiZjctY2FmOGI1MTM1YTc3XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_QL75_UY140_CR49,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNDM5OTZiY2UtNGE5NC00MTA2LWIzOTAtYzhkOWMzMzliNDVjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdlYjBhMjEtYjE3MC00YjdkLWEwNjktNDlkOTU3ODZiZTBiXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTllMTQ0N2ItYjMwMi00MjYzLWIxMDQtZjRmMWZkMTkxYjU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMTdmMmRmODAtYWRjNS00NzVkLWI4NDAtNDEzYjliNDI4N2ZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BYWZiMGYzZWUtNGFkMS00NWI4LWE4MTgtNjNlYmY2NjRkOTNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNWM1MTI3NmItMDJlYi00YTQ0LTg3ODQtN2FmOTU5MzE4NjBiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
@@ -39,13 +36,11 @@
         "https://m.media-amazon.com/images/M/MV5BOWNlZTJjZGEtZTEwMS00OWVjLWFjNDEtMTJjODhjMTdjMjg2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BYjE3MTllYmItYjI5NS00MjBmLWE5YWUtNDFhNDFjNzgwOTg5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BZDA1MjdkZWYtYjI4Ny00MzRmLTg4Y2EtMTI5MWVjYWJjY2MxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMjE5MTRkY2MtOWFiZS00MDRhLWE4YWEtYWE1OGIzMGI4YzhiXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOGMyMTBkMTUtMmRiMi00ZGU1LThkY2MtZTVhMTdlYmFhMmE4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZTZkMjg4YmEtODJjZi00NDM0LWIyOWYtYTE0YTA5MzJkMDhhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMjE5MTRkY2MtOWFiZS00MDRhLWE4YWEtYWE1OGIzMGI4YzhiXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt3758542/",
-        "rating": "6.6/10"
+        "rating": "6.8/10"
       },
       "year": "2023",
       "country": "",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Ferrari (2023)",
-        "description": "Set in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy."
+        "description": "Ferrari: Directed by Michael Mann. With Adam Driver, Shailene Woodley, Giuseppe Festinese, Alessandro Cremona. Set in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy."
       }
     }
   }

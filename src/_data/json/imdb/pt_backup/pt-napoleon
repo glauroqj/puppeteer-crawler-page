@@ -3,17 +3,12 @@
     "slug": "napoleon",
     "title": "Napoleão",
     "year": "2023",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Biografia"
-    ],
     "director": "Ridley Scott"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Napoleão",
-    "description": "O filme oferece uma visão pessoal das origens de Napoleão e de sua ascensão rápida e implacável ao império, vista através do prisma de seu relacionamento viciante e muitas vezes volátil com sua esposa e verdadeiro amor, Josephine.",
+    "description": "Napoleão: Dirigido por Ridley Scott. Com Joaquin Phoenix, Vanessa Kirby, Tahar Rahim, Rupert Everett. O filme oferece uma visão pessoal das origens de Napoleão e de sua ascensão rápida e implacável ao império, vista através do prisma de seu relacionamento viciante e muitas vezes volátil com sua esposa e verdadeiro amor, Josephine.",
     "slug": "napoleon",
     "image": "https://m.media-amazon.com/images/M/MV5BODY0Y2M2YzctN2QwZC00NzM4LThiOGQtOWVjZGJmNzJmMGI0XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Napoleão (2023)",
-        "description": "O filme oferece uma visão pessoal das origens de Napoleão e de sua ascensão rápida e implacável ao império, vista através do prisma de seu relacionamento viciante e muitas vezes volátil com sua esposa e verdadeiro amor, Josephine."
+        "description": "Napoleão: Dirigido por Ridley Scott. Com Joaquin Phoenix, Vanessa Kirby, Tahar Rahim, Rupert Everett. O filme oferece uma visão pessoal das origens de Napoleão e de sua ascensão rápida e implacável ao império, vista através do prisma de seu relacionamento viciante e muitas vezes volátil com sua esposa e verdadeiro amor, Josephine."
       }
     }
   }

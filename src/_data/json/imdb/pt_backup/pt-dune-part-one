@@ -3,19 +3,14 @@
     "slug": "dune-part-one",
     "title": "Duna",
     "year": "2021",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Drama"
-    ],
     "director": "Denis Villeneuve"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Duna",
-    "description": "Paul Atreides é um jovem prodígio com um futuro grandioso e envolto em mistério que precisa viajar para o planeta mais perigoso do universo para garantir o futuro de sua família e seu povo.",
+    "description": "Duna: Dirigido por Denis Villeneuve. Com Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Jason Momoa. Paul Atreides é um jovem prodígio com um futuro grandioso e envolto em mistério que precisa viajar para o planeta mais perigoso do universo para garantir o futuro de sua família e seu povo.",
     "slug": "dune-part-one",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDY2NDFiYzYtY2QyNC00NGFmLTllNjUtMDc0OTYyNDFkZDI0XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWNmZGI5MjctZGI4MC00ZWUwLWE3ODYtMjgyZjgxYzNlZGU5XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
       "Ação",
       "Aventura",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Duna (2021)",
-        "description": "Paul Atreides é um jovem prodígio com um futuro grandioso e envolto em mistério que precisa viajar para o planeta mais perigoso do universo para garantir o futuro de sua família e seu povo."
+        "description": "Duna: Dirigido por Denis Villeneuve. Com Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Jason Momoa. Paul Atreides é um jovem prodígio com um futuro grandioso e envolto em mistério que precisa viajar para o planeta mais perigoso do universo para garantir o futuro de sua família e seu povo."
       }
     }
   }
