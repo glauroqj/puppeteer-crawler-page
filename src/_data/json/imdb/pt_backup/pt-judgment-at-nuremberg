@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "judgment-at-nuremberg",
+    "title": "Julgamento em Nuremberg",
+    "year": "1961",
+    "director": "Stanley Kramer"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Julgamento em Nuremberg",
+    "description": "Julgamento em Nuremberg: Dirigido por Stanley Kramer. Com Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich. Em 1948, um tribunal dos Estados Unidos na Alemanha ocupada julga quatro nazistas por crimes de guerra.",
+    "slug": "judgment-at-nuremberg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Stanley Kramer",
+    "year": "1961",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODhjY2QwZWMtNzczNC00OWYwLWJlODgtNGMxOTMxNWY2ZGNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4OTc0NTc5Nl5BMl5BanBnXkFtZTgwMTE0MzM1MjI@._V1_QL75_UY140_CR10,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxODEwMzU0OV5BMl5BanBnXkFtZTgwOTgxMzM1MjI@._V1_QL75_UY140_CR11,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk1OTU1MTQ4NV5BMl5BanBnXkFtZTgwODExMzM1MjI@._V1_QL75_UY140_CR9,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMDUyNTE2OV5BMl5BanBnXkFtZTgwMjg5MjM1MjI@._V1_QL75_UY140_CR11,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MDI2NjcxNl5BMl5BanBnXkFtZTgwMTQ5MjM1MjI@._V1_QL75_UY140_CR12,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzNDQ0Njc5NV5BMl5BanBnXkFtZTgwNjA5MjM1MjI@._V1_QL75_UY140_CR10,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxOTgwNDYwM15BMl5BanBnXkFtZTgwMzEyMjM1MjI@._V1_QL75_UY140_CR10,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MDgwMDkzMV5BMl5BanBnXkFtZTgwMzEwMjExMTE@._V1_QL75_UY140_CR11,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3ODkxOTcyNV5BMl5BanBnXkFtZTcwMTExMjUyNA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0MzUyMzEzNV5BMl5BanBnXkFtZTcwMjExMjUyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxOTQxNTk0MF5BMl5BanBnXkFtZTcwMzExMjUyNA@@._V1_QL75_UY140_CR27,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0055031/",
+        "rating": "8.3/10"
+      },
+      "year": "1961",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0006452/",
+        "name": "Stanley Kramer"
+      },
+      "seo": {
+        "title": "Julgamento em Nuremberg (1961)",
+        "description": "Julgamento em Nuremberg: Dirigido por Stanley Kramer. Com Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich. Em 1948, um tribunal dos Estados Unidos na Alemanha ocupada julga quatro nazistas por crimes de guerra."
+      }
+    }
+  }
+}

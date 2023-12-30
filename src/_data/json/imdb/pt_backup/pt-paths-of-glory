@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "paths-of-glory",
+    "title": "Glória Feita de Sangue",
+    "year": "1957",
+    "director": "Stanley Kubrick"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Glória Feita de Sangue",
+    "description": "Glória Feita de Sangue: Dirigido por Stanley Kubrick. Com Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready. Depois de se recusar a atacar uma posição inimiga, um general acusa os soldados da covardia e seu comandante deve defendê-los.",
+    "slug": "paths-of-glory",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDZmMDQzNTctZDBjNy00MjE5LWFiNjktMmRjMWQxNTZlZjlkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Stanley Kubrick",
+    "year": "1957",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzQyMDczM15BMl5BanBnXkFtZTcwMjY1MzgxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg2NTA5MjUwNV5BMl5BanBnXkFtZTcwNDY1MzgxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyODYxMTQzMl5BMl5BanBnXkFtZTcwNTY1MzgxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMjkzMzY5OV5BMl5BanBnXkFtZTcwNjY1MzgxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3NzMwMjE3Nl5BMl5BanBnXkFtZTcwNzY1MzgxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjUyZjYxNTEtYzgzNS00MjQ2LWJiNjQtMzBmMzUxMzE1ZmM2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg2MGVjYmYtNzAwNS00ZGExLThiZjUtMDkzZWRiNDkyMjU1XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2NjAwNjg1MF5BMl5BanBnXkFtZTcwMzYwOTc2NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTkzMTY3OTQ4NV5BMl5BanBnXkFtZTcwMzY1MzgxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MzI4Mzk4NV5BMl5BanBnXkFtZTYwNzExOTY4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA4NjUwOTM3NDleQTJeQWpwZ15BbWU2MDgxMTk2OA@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmU1YWJhZGEtYmY1YS00MGFiLTk5ZGUtMjRiNGFlZTc1YzgwXkEyXkFqcGdeQXVyNjkxNDkyNDI@._V1_QL75_UY140_CR42,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0050825/",
+        "rating": "8.4/10"
+      },
+      "year": "1957",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000040/",
+        "name": "Stanley Kubrick"
+      },
+      "seo": {
+        "title": "Glória Feita de Sangue (1957)",
+        "description": "Glória Feita de Sangue: Dirigido por Stanley Kubrick. Com Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready. Depois de se recusar a atacar uma posição inimiga, um general acusa os soldados da covardia e seu comandante deve defendê-los."
+      }
+    }
+  }
+}

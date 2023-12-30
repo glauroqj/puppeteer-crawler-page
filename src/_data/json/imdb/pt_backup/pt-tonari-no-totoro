@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "tonari-no-totoro",
+    "title": "Meu Amigo Totoro",
+    "year": "1988",
+    "director": "Hayao Miyazaki"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Meu Amigo Totoro",
+    "description": "Meu Amigo Totoro: Dirigido por Hayao Miyazaki. Com Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto. Quando duas meninas se mudam para o campo para ficar perto de sua mãe doente, elas têm aventuras com os maravilhosos espíritos da floresta que moram nas proximidades.",
+    "slug": "tonari-no-totoro",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWEwZmYxNTEtNmExMi00ZWExLWI0MTYtOTM3ZTIxZDk1MmZmXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Comédia",
+      "Família"
+    ],
+    "director": "Hayao Miyazaki",
+    "year": "1988",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Comédia",
+        "Família"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDE0MGFkODctMDZjMy00ZjkzLTkwZTYtOTk2NmFkZTE2N2JmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjgzOWU1ZTktZGFmMC00YWYzLThhYTUtMDlmZDY0NTg1Mzc4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODIwMTc0NDA4Ml5BMl5BanBnXkFtZTgwNDE3OTEwMjE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MDgzODgxNF5BMl5BanBnXkFtZTgwMzE3OTEwMjE@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyODI0ODA1NV5BMl5BanBnXkFtZTgwNTA2MDIyMDE@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMzI0Nzc1N15BMl5BanBnXkFtZTgwNjA2MDIyMDE@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MjIxMjQ3N15BMl5BanBnXkFtZTgwNzA2MDIyMDE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODYxNjQ2OTA2Ml5BMl5BanBnXkFtZTgwODA2MDIyMDE@._V1_QL75_UY140_CR58,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1NzkyNDk4N15BMl5BanBnXkFtZTgwMDE2MDIyMDE@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc4MzA1MjEwM15BMl5BanBnXkFtZTcwNDY1NzcxNw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MjMzMTQ4MF5BMl5BanBnXkFtZTcwMzY1NzcxNw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzMTAzNzg4M15BMl5BanBnXkFtZTcwNTY1NzcxNw@@._V1_QL75_UY140_CR50,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0096283/",
+        "rating": "8.1/10"
+      },
+      "year": "1988",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0594503/",
+        "name": "Hayao Miyazaki"
+      },
+      "seo": {
+        "title": "Meu Amigo Totoro (1988)",
+        "description": "Meu Amigo Totoro: Dirigido por Hayao Miyazaki. Com Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto. Quando duas meninas se mudam para o campo para ficar perto de sua mãe doente, elas têm aventuras com os maravilhosos espíritos da floresta que moram nas proximidades."
+      }
+    }
+  }
+}

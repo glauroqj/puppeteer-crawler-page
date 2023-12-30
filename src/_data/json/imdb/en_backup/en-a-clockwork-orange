@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "a-clockwork-orange",
+    "title": "A Clockwork Orange",
+    "year": "1971",
+    "director": "Stanley Kubrick"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "A Clockwork Orange",
+    "description": "A Clockwork Orange: Directed by Stanley Kubrick. With Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke. In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "slug": "a-clockwork-orange",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "director": "Stanley Kubrick",
+    "year": "1971",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGYzYjljYmYtODE0Yy00NzlmLThkNmQtZGQzMjM4MGI1NTUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NzY4NjE0MF5BMl5BanBnXkFtZTgwMTE0NTU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2NjQwMjE0MF5BMl5BanBnXkFtZTcwMzA3MTY2Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwODY2Nzk4M15BMl5BanBnXkFtZTcwMjE3MTY2Ng@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAxOTM4NDk4MDReQTJeQWpwZ15BbWU3MDYxNzE2NjY@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5MTM5OTEzM15BMl5BanBnXkFtZTcwNzE3MTY2Ng@@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2OTkwNDU5MV5BMl5BanBnXkFtZTcwMDEzNDMzNQ@@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU1NTA1MTg1Ml5BMl5BanBnXkFtZTcwNDEzNDMzNQ@@._V1_QL75_UY140_CR41,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2Mjk4NzA4M15BMl5BanBnXkFtZTcwOTEzNDMzNQ@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2MTU0OTkyOF5BMl5BanBnXkFtZTcwOTA4NzMyNQ@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNjQ5MDM5NF5BMl5BanBnXkFtZTcwMjE4NzMyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0NTk2NDkzNl5BMl5BanBnXkFtZTcwMzE4NzMyNQ@@._V1_QL75_UY140_CR46,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0066921/",
+        "rating": "8.3/10"
+      },
+      "year": "1971",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000040/",
+        "name": "Stanley Kubrick"
+      },
+      "seo": {
+        "title": "A Clockwork Orange (1971)",
+        "description": "A Clockwork Orange: Directed by Stanley Kubrick. With Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke. In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+      }
+    }
+  }
+}

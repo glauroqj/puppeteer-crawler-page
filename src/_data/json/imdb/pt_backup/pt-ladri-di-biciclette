@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "ladri-di-biciclette",
+    "title": "Ladrões de Bicicletas",
+    "year": "1948",
+    "director": "Vittorio De Sica"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Ladrões de Bicicletas",
+    "description": "Ladrões de Bicicletas: Dirigido por Vittorio De Sica. Com Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri. Na Itália da pós-guerra a bicicleta de um homem da classe trabalhadora é roubada. Ele e o filho partiram para encontrá-la.",
+    "slug": "ladri-di-biciclette",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Vittorio De Sica",
+    "year": "1948",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzIyZDBlOTgtNTAwZi00MzM0LWExYWQtNWUyM2NjN2UyYTNmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTlhYWM3NzctMTQ0OC00Mjc0LTlhNTQtNTRkOWQ1M2U4Yzg0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWQwMTc2MWEtOTAyNi00NmUwLTkwNmMtN2M4NTRmYzA4OTI1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0NjI2MDMyN15BMl5BanBnXkFtZTcwODQ5MDI2NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ0NzkyMjk5OV5BMl5BanBnXkFtZTcwOTQ5MDI2NQ@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0NDU0MjA4MV5BMl5BanBnXkFtZTcwMDU5MDI2NQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNjUwMjQ5M15BMl5BanBnXkFtZTcwMTU5MDI2NQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWY5MTExYmYtN2QzOC00YWVlLTk1MzgtMDI0NzlkYTVhN2FjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTI5MTA3Nl5BMl5BanBnXkFtZTYwMzg3MDk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIwNDUxNjQyNF5BMl5BanBnXkFtZTYwMDE0MzQ5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2YyMTMzMDAtZDQxNC00YzFmLWIxZTUtNTZmMjI4YzNjYzllXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_QL75_UY140_CR42,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0040522/",
+        "rating": "8.3/10"
+      },
+      "year": "1948",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001120/",
+        "name": "Vittorio De Sica"
+      },
+      "seo": {
+        "title": "Ladrões de Bicicletas (1948)",
+        "description": "Ladrões de Bicicletas: Dirigido por Vittorio De Sica. Com Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri. Na Itália da pós-guerra a bicicleta de um homem da classe trabalhadora é roubada. Ele e o filho partiram para encontrá-la."
+      }
+    }
+  }
+}

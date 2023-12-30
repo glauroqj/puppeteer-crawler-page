@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "full-metal-jacket",
+    "title": "Nascido para Matar",
+    "year": "1987",
+    "director": "Stanley Kubrick"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Nascido para Matar",
+    "description": "Nascido para Matar: Dirigido por Stanley Kubrick. Com Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey. Um marinho dos Estados Unidos nota os deshumanizantes efeitos da guerra do Vietnã em seus colegas.",
+    "slug": "full-metal-jacket",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjFjZWNiNTQtMWRmYy00NmMxLWFkOGMtYjJiMmIyYmE3YmQwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Stanley Kubrick",
+    "year": "1987",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzgwNGY5ZTQtODIwYy00ZmNlLTkyMmUtMmQ0ODkwZmE0OWFhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjRiYzhhODAtYzg2Ny00YTE3LTkzNmMtMGVjN2ExOTlmN2M0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzU4MDMzNTMwNl5BMl5BanBnXkFtZTgwOTk2OTEwMjE@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NzQ1NDQ3OF5BMl5BanBnXkFtZTcwNzMxMTQyNw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzODYyNjQ5OF5BMl5BanBnXkFtZTcwODg4NDIwNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIxNzcwOTEyM15BMl5BanBnXkFtZTcwOTg4NDIwNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxNjA4NTQwNV5BMl5BanBnXkFtZTcwMTk4NDIwNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMTIwNzIzMF5BMl5BanBnXkFtZTcwMjk4NDIwNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5OTI2MTk1NV5BMl5BanBnXkFtZTcwMzk4NDIwNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTlmZDQwYTAtYWZkNC00MDcwLTlhMTUtMWVmYmIwZWU5MzAxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDAzMjU3NzE0Nl5BMl5BanBnXkFtZTcwNTk1ODg3OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNjI2MDM5M15BMl5BanBnXkFtZTYwODQzMDc4._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0093058/",
+        "rating": "8.3/10"
+      },
+      "year": "1987",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000040/",
+        "name": "Stanley Kubrick"
+      },
+      "seo": {
+        "title": "Nascido para Matar (1987)",
+        "description": "Nascido para Matar: Dirigido por Stanley Kubrick. Com Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey. Um marinho dos Estados Unidos nota os deshumanizantes efeitos da guerra do Vietnã em seus colegas."
+      }
+    }
+  }
+}

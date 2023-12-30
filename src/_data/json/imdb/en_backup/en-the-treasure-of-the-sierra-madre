@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-treasure-of-the-sierra-madre",
+    "title": "The Treasure of the Sierra Madre",
+    "year": "1948",
+    "director": "John Huston"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Treasure of the Sierra Madre",
+    "description": "The Treasure of the Sierra Madre: Directed by John Huston. With Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett. Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "slug": "the-treasure-of-the-sierra-madre",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "director": "John Huston",
+    "year": "1948",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM0Mzk4NDkxOF5BMl5BanBnXkFtZTcwNjU4OTcyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI4NTQyOTM5MF5BMl5BanBnXkFtZTcwNzU4OTcyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NTM4NTY5Nl5BMl5BanBnXkFtZTcwODU4OTcyMw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3ODI5NjU0Nl5BMl5BanBnXkFtZTcwOTU4OTcyMw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MDYwNzI1Ml5BMl5BanBnXkFtZTcwMDY4OTcyMw@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NjI5NjA1Ml5BMl5BanBnXkFtZTcwMTY4OTcyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWU4ZmY3ZmYtNTk3NC00OGU5LTllMGYtNjQ1MzFjMDE4YmJjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmEyNjdkOWQtYzcwYy00Y2QyLWIyNmMtN2Y1MDMyZDRiNTI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWZlOTY4NTktZDg3MC00OWY2LThjMzgtNTQwYjlkZGFiNjJkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGE5OGU4NjEtNGNjMS00MjJlLTkxYWQtMWJhYzU2Y2RkOWI1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWVjYzE4ZDgtN2JlNy00ZTQyLTkzOTItNjliODc0NGFjMTgxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMThlNGZjZjgtMjc5MC00YzEwLWEzNTctZDJmZjIzZGIxYmQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0040897/",
+        "rating": "8.2/10"
+      },
+      "year": "1948",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001379/",
+        "name": "John Huston"
+      },
+      "seo": {
+        "title": "The Treasure of the Sierra Madre (1948)",
+        "description": "The Treasure of the Sierra Madre: Directed by John Huston. With Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett. Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains."
+      }
+    }
+  }
+}

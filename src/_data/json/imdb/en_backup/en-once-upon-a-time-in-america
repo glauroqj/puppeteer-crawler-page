@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "once-upon-a-time-in-america",
+    "title": "Once Upon a Time in America",
+    "year": "1984",
+    "director": "Sergio Leone"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Once Upon a Time in America",
+    "description": "Once Upon a Time in America: Directed by Sergio Leone. With Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams. A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+    "slug": "once-upon-a-time-in-america",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmQzZjdmZDAtOGE2Yy00MmUwLTljYzgtZTMwMjk3ZDdiOWUyXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Sergio Leone",
+    "year": "1984",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk1ODI3MzMwM15BMl5BanBnXkFtZTgwNjQzODIwMjE@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNTQ4MTcxNV5BMl5BanBnXkFtZTgwNTQzODIwMjE@._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMzIzOTA4NF5BMl5BanBnXkFtZTgwMDQzODIwMjE@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEzNjIzOTQ4NzheQTJeQWpwZ15BbWU4MDM0MzgyMDIx._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyMjIyODg0MF5BMl5BanBnXkFtZTgwMjQzODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM3MjM5OTYxNF5BMl5BanBnXkFtZTgwODMzODIwMjE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzMTUxMTI0NF5BMl5BanBnXkFtZTgwNDQzODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwMTkzMDQzNl5BMl5BanBnXkFtZTgwNDMzODIwMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0OTAxNjAzNF5BMl5BanBnXkFtZTgwMjMzODIwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NDYzNDE5OV5BMl5BanBnXkFtZTgwMTMzODIwMjE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NjMxNzg3OV5BMl5BanBnXkFtZTgwNjMzODIwMjE@._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3NDM2ODQ2NF5BMl5BanBnXkFtZTgwNzMzODIwMjE@._V1_QL75_UY140_CR21,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0087843/",
+        "rating": "8.3/10"
+      },
+      "year": "1984",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001466/",
+        "name": "Sergio Leone"
+      },
+      "seo": {
+        "title": "Once Upon a Time in America (1984)",
+        "description": "Once Upon a Time in America: Directed by Sergio Leone. With Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams. A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life."
+      }
+    }
+  }
+}

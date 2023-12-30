@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "taxi-driver",
+    "title": "Taxi Driver",
+    "year": "1976",
+    "director": "Martin Scorsese"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Taxi Driver",
+    "description": "Taxi Driver: Directed by Martin Scorsese. With Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito. A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "slug": "taxi-driver",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "year": "1976",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNGUxOWE1ZjUtOGMxZi00NWY5LWI4OTMtMTdlMjdiMzI3NTA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmY1MzgzNDUtOGVjOC00YWNkLWJlMTgtYThiYmU0ODQwODY2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmUxOTBmOTEtMmZjYS00ZWY5LWFhY2EtNTVjYjhkNDk3NjJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5YTM0ZTctZTAyZS00Mjc3LTg5MmEtMzYzYmMwM2Y0NzdhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWMxZGFmNTktZTYwMC00MTljLTk0ZDYtYmEzY2Q0ZGQxNmIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTk2ZTg5NjItYmJjNy00YzJkLThhZTYtOTQ4ZjQ4MDBiYWYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI3Mzc0MGUtNmQxYy00MmQ5LWJiMmUtODhjOTUxZDE3ZTkxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjM5ZmMxMWUtZDA4OS00NTA0LThkOTAtZTJkYmM5MzJhNWJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWIyY2JlYzEtOTVmOS00MDA2LTg0NWQtNGE1ODM1YTZiZjNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU1MDM2ZjItMjE4Zi00YzkxLTk4M2YtNzlkMGY4NmI2ZjMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzY1YWMyNzAtYmQ1Zi00NjU1LThlZjgtOGZhYWFiMDU3MjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjk4YzgzNDUtZWQwMC00OTE5LWE4MzMtMTYyY2ZlMTFjMjUxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR38,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0075314/",
+        "rating": "8.2/10"
+      },
+      "year": "1976",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000217/",
+        "name": "Martin Scorsese"
+      },
+      "seo": {
+        "title": "Taxi Driver (1976)",
+        "description": "Taxi Driver: Directed by Martin Scorsese. With Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito. A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+      }
+    }
+  }
+}

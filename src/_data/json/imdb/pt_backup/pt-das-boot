@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "das-boot",
+    "title": "O Barco: Inferno no Mar",
+    "year": "1981",
+    "director": "Wolfgang Petersen"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Barco: Inferno no Mar",
+    "description": "O Barco: Inferno no Mar: Dirigido por Wolfgang Petersen. Com Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch. O mundo claustrofóbico de um submarino da Segunda Guerra Mundial, cheio de tédio, sujeira e terror.",
+    "slug": "das-boot",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGEwNzBiMWItNmQ1Yi00MzEwLWFkY2ItNWE3NGJhYjEwZmVjXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Wolfgang Petersen",
+    "year": "1981",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTMwNjk5MzM0Nl5BMl5BanBnXkFtZTcwMDg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyMTcyMzM4N15BMl5BanBnXkFtZTcwMTg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI2NzAxODgzNV5BMl5BanBnXkFtZTcwMjg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNzY3ODQ2Nl5BMl5BanBnXkFtZTcwNDg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyOTE5MzEwM15BMl5BanBnXkFtZTcwNTg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ0MDA5OTE4Nl5BMl5BanBnXkFtZTcwNjg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMDQ3MTI3MF5BMl5BanBnXkFtZTcwNzg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NzMzODM0MV5BMl5BanBnXkFtZTcwOTg0MTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0NTM4NDEwM15BMl5BanBnXkFtZTcwMTYxMTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxNjk1NDU4MV5BMl5BanBnXkFtZTcwMDgxMTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNTI5MDI2M15BMl5BanBnXkFtZTcwMzEyMTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNDk5NzU2Nl5BMl5BanBnXkFtZTcwNjEyMTkzNQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0082096/",
+        "rating": "8.4/10"
+      },
+      "year": "1981",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000583/",
+        "name": "Wolfgang Petersen"
+      },
+      "seo": {
+        "title": "O Barco: Inferno no Mar (1981)",
+        "description": "O Barco: Inferno no Mar: Dirigido por Wolfgang Petersen. Com Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch. O mundo claustrofóbico de um submarino da Segunda Guerra Mundial, cheio de tédio, sujeira e terror."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-sound-of-music",
+    "title": "A Noviça Rebelde",
+    "year": "1965",
+    "director": "Robert Wise"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Noviça Rebelde",
+    "description": "A Noviça Rebelde: Dirigido por Robert Wise. Com Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn. Uma mulher deixa um convento austríaco para se tornar a instrutora dos filhos de um oficial da marinha viúvo.",
+    "slug": "the-sound-of-music",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjg3ODVmNzItOWJhZS00MjYyLWFlMDItNTgxMjhmZGNhNmNhXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "Família"
+    ],
+    "director": "Robert Wise",
+    "year": "1965",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama",
+        "Família"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMWQxNzYzNzItZDk4Zi00ZTg4LWI2YmMtNjJmNjlhMThkNWJjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzYxNTA0Ml5BMl5BanBnXkFtZTgwMTI0Mjk1NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1OTM0NjI5NV5BMl5BanBnXkFtZTgwMzg1NTc3MDE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzMTMwMDcyMl5BMl5BanBnXkFtZTcwMzU0MTUzNA@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyNDc2MDMyNV5BMl5BanBnXkFtZTcwNDU0MTUzNA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyNDAyMjkwMV5BMl5BanBnXkFtZTcwNjU0MTUzNA@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3OTQ2OTE2Nl5BMl5BanBnXkFtZTcwNzU0MTUzNA@@._V1_QL75_UY140_CR8,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjc0MTAyNjYyMF5BMl5BanBnXkFtZTcwODU0MTUzNA@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1Mzg4MDg5MF5BMl5BanBnXkFtZTcwOTU0MTUzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxMTU0NTM4NF5BMl5BanBnXkFtZTYwOTUyNjg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNTA4OTM4Nl5BMl5BanBnXkFtZTYwMTYyNjg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0OTE5MzkxNV5BMl5BanBnXkFtZTYwNTYyNjg2._V1_QL75_UY140_CR25,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0059742/",
+        "rating": "8.1/10"
+      },
+      "year": "1965",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0936404/",
+        "name": "Robert Wise"
+      },
+      "seo": {
+        "title": "A Noviça Rebelde (1965)",
+        "description": "A Noviça Rebelde: Dirigido por Robert Wise. Com Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn. Uma mulher deixa um convento austríaco para se tornar a instrutora dos filhos de um oficial da marinha viúvo."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "chinatown",
+    "title": "Chinatown",
+    "year": "1974",
+    "director": "Roman Polanski"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Chinatown",
+    "description": "Chinatown: Dirigido por Roman Polanski. Com Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez. Um detetive particular contratado para desmascarar um adúltero é pego em uma teia de fraude, corrupção e assassinato.",
+    "slug": "chinatown",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Roman Polanski",
+    "year": "1974",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMGFlNTdkMDUtN2E2Ny00NTBmLThhMWEtN2Q0Y2Q3NTEwMmRhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGYxOGVjNDMtNmVmMS00OWJiLTk0ODItOGI4NzYxOWMyZjI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzczZGZlNzQtNzZjOS00NTk3LTkzYzUtMTNjOWFmZjk3OGM2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjc3NGUyZGItYWRiNi00ZDkyLTk0ODgtYWU2OWZlOWI0ODQ5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmVjMzA1MWUtNDkxNC00ZjAyLWE1OGUtZmVjZGU3MWIyZmY0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQzMmY0ODktZGQ1Yi00MzYzLWI4NmQtYzBmNzkwZTQwNTJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDMyNDU5Njc4OF5BMl5BanBnXkFtZTcwODQ4MjIxOA@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NTAyNzIyMF5BMl5BanBnXkFtZTcwOTc1MzExOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyOTkyMTAwMF5BMl5BanBnXkFtZTcwMTg1MzExOA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyODI4MDM5MF5BMl5BanBnXkFtZTcwMTY4NTM2Nw@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0MzA5NzU4NV5BMl5BanBnXkFtZTcwNzE2MDUyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4NzIwMjA4OF5BMl5BanBnXkFtZTcwODE2MDUyNw@@._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0071315/",
+        "rating": "8.2/10"
+      },
+      "year": "1974",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000591/",
+        "name": "Roman Polanski"
+      },
+      "seo": {
+        "title": "Chinatown (1974)",
+        "description": "Chinatown: Dirigido por Roman Polanski. Com Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez. Um detetive particular contratado para desmascarar um adúltero é pego em uma teia de fraude, corrupção e assassinato."
+      }
+    }
+  }
+}

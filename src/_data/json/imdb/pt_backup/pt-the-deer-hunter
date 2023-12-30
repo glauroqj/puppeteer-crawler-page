@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-deer-hunter",
+    "title": "O Franco Atirador",
+    "year": "1978",
+    "director": "Michael Cimino"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Franco Atirador",
+    "description": "O Franco Atirador: Dirigido por Michael Cimino. Com Robert De Niro, John Cazale, John Savage, Christopher Walken. Um retrato detalhado das maneiras pelas quais a Guerra do Vietnã interrompeu a vida dos habitantes de uma pequena cidade industrial na Pensilvânia.",
+    "slug": "the-deer-hunter",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Michael Cimino",
+    "year": "1978",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjU2NjQ3NGUtNTA3My00MmYzLTkxZTYtODRmYjE5OTZlOGRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxOTgzMzIyNl5BMl5BanBnXkFtZTgwNzI4OTAxNTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyNTAwMzA2MV5BMl5BanBnXkFtZTgwMjk3MTMzMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwODU3MzM3NF5BMl5BanBnXkFtZTgwNDgxNzIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExNTUxMzQ3MF5BMl5BanBnXkFtZTgwNTgxNzIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0MTYzODk0Nl5BMl5BanBnXkFtZTgwMjcxNzIwMjE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NDM2NzEwMF5BMl5BanBnXkFtZTgwNDcxNzIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MjkyMzk2NF5BMl5BanBnXkFtZTgwNzcxNzIwMjE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3NDQ2MzE4M15BMl5BanBnXkFtZTgwOTcxNzIwMjE@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMTY0MzE3NV5BMl5BanBnXkFtZTgwMDgxNzIwMjE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MTE1MDE2M15BMl5BanBnXkFtZTgwMjgxNzIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk3NTk3Mzg4N15BMl5BanBnXkFtZTgwMzgxNzIwMjE@._V1_QL75_UY140_CR17,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0077416/",
+        "rating": "8.1/10"
+      },
+      "year": "1978",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001047/",
+        "name": "Michael Cimino"
+      },
+      "seo": {
+        "title": "O Franco Atirador (1978)",
+        "description": "O Franco Atirador: Dirigido por Michael Cimino. Com Robert De Niro, John Cazale, John Savage, Christopher Walken. Um retrato detalhado das maneiras pelas quais a Guerra do Vietnã interrompeu a vida dos habitantes de uma pequena cidade industrial na Pensilvânia."
+      }
+    }
+  }
+}

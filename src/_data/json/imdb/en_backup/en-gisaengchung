@@ -23,6 +23,8 @@
         "Thriller"
       ],
       "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTIyMDZhYzItYjEzZC00MzU1LWJhNTQtYmJhZjQxN2ZkNmNkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQzNjZlMDMtNDQwMi00ZWI3LWJlMTAtNzFhZGJiZmVkMDgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMWFkMWExMTAtZmVmNi00ZWZiLTkwYzktODlkYmJlOTlhMzVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNmM5YjZiZWUtMjc4Yi00NzNkLTk4MjctOWFkMTgwM2Q2YTMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BZjc2MzVlMDUtOGY4OC00NDlmLTgwMWItNGM3MDFiODAxNTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
@@ -32,9 +34,7 @@
         "https://m.media-amazon.com/images/M/MV5BNWE3M2Q3ZGItODc1ZC00ZjBhLWE0OGMtYmJhZDgzZGUzZjlmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BN2UwNWFjZDUtNDkyMS00YTExLTgzNmYtMzgzZjkyYzBjOWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BZTUwYTZiYzMtMWVkYS00MzkzLTk0YjgtM2Q0Yjc5NmY3MzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNDgzMDViM2ItOTk5OS00OGUwLTk0YjktYzUzOTk4MjM1MTAyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZGU5NTc2MjQtNTk1Yy00NjE4LThjMDQtNWQ0NDkyNzA5MTEwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYmE4NjRlMzUtNmVhMi00MWRlLThkNjYtZWEyYWI3NDA4MmM2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR45,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BNDgzMDViM2ItOTk5OS00OGUwLTk0YjktYzUzOTk4MjM1MTAyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt6751668/",

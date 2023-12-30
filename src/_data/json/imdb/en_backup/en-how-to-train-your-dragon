@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "how-to-train-your-dragon",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "director": "Dean DeBlois"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "How to Train Your Dragon",
+    "description": "How to Train Your Dragon: Directed by Dean DeBlois, Chris Sanders. With Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera. A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "slug": "how-to-train-your-dragon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Dean DeBlois",
+    "year": "2010",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjIyMDc5NjU2Nl5BMl5BanBnXkFtZTcwNDIwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwNDIzMzM3Nl5BMl5BanBnXkFtZTcwNTIwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMjE2NjY5N15BMl5BanBnXkFtZTcwODIwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NDkwMDEyNF5BMl5BanBnXkFtZTcwMDMwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4NjQxOTk3MF5BMl5BanBnXkFtZTcwMjMwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMjI1MzQ0MV5BMl5BanBnXkFtZTcwNDMwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1MDQyNTY0OV5BMl5BanBnXkFtZTcwNjMwNDAzMw@@._V1_QL75_UY140_CR87,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMjQ3Njc3MV5BMl5BanBnXkFtZTcwNzMwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyNDk5ODk0M15BMl5BanBnXkFtZTcwOTMwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3MjQ1MTM5OV5BMl5BanBnXkFtZTcwMDQwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NTk2MTc3NF5BMl5BanBnXkFtZTcwMTQwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMjIwMzkyMF5BMl5BanBnXkFtZTcwMjQwNDAzMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0892769/",
+        "rating": "8.1/10"
+      },
+      "year": "2010",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0213450/",
+        "name": "Dean DeBlois"
+      },
+      "seo": {
+        "title": "How to Train Your Dragon (2010)",
+        "description": "How to Train Your Dragon: Directed by Dean DeBlois, Chris Sanders. With Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera. A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
+      }
+    }
+  }
+}

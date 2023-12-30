@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "dances-with-wolves",
+    "title": "Dances with Wolves",
+    "year": "1990",
+    "director": "Kevin Costner"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Dances with Wolves",
+    "description": "Dances with Wolves: Directed by Kevin Costner. With Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant. Lieutenant John Dunbar, assigned to a remote western Civil War outpost, finds himself engaging with a neighbouring Sioux settlement, causing him to question his own purpose.",
+    "slug": "dances-with-wolves",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "director": "Kevin Costner",
+    "year": "1990",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDVlYTRjYWEtMDVjYi00ZjJiLWIyMjYtYTIzNGMwYTYyYTk5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg4ZDFhM2YtZGJkNS00YjY3LWI1YTAtMjAxOWYwOWMxNjJmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Y0MmZjZmQtODJjOC00NDBlLWI0N2QtNzIzYTM4NDI5MzM3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzYTVlNWMtNmNhMC00Mzk0LTkyMzgtYThlODMyZmFlYjllXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzZmZWZhYTUtMjZmNy00NTQyLTgxNDgtMjE4MDczMzU4ODE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTQwNTI0Ml5BMl5BanBnXkFtZTcwNDkzNDY3Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4OTc5NTA2MF5BMl5BanBnXkFtZTcwNTkzNDY3Mw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMjY2ODc3Nl5BMl5BanBnXkFtZTcwNjkzNDY3Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2MDAxNl5BMl5BanBnXkFtZTcwNzkzNDY3Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3MTUyODk0N15BMl5BanBnXkFtZTcwODkzNDY3Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0MjA2Njg1NF5BMl5BanBnXkFtZTcwOTkzNDY3Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzNjUxNTgzNl5BMl5BanBnXkFtZTcwMDA0NDY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0099348/",
+        "rating": "8/10"
+      },
+      "year": "1990",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000126/",
+        "name": "Kevin Costner"
+      },
+      "seo": {
+        "title": "Dances with Wolves (1990)",
+        "description": "Dances with Wolves: Directed by Kevin Costner. With Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant. Lieutenant John Dunbar, assigned to a remote western Civil War outpost, finds himself engaging with a neighbouring Sioux settlement, causing him to question his own purpose."
+      }
+    }
+  }
+}

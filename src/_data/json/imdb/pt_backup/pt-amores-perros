@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "amores-perros",
+    "title": "Amores Brutos",
+    "year": "2000",
+    "director": "Alejandro G. Iñárritu"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Amores Brutos",
+    "description": "Amores Brutos: Dirigido por Alejandro G. Iñárritu. Com Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero. Um terrível acidente de carro conecta três histórias, cada uma envolvendo personagens que lidam com a perda, o arrependimento e as duras realidades da vida, tudo em nome do amor.",
+    "slug": "amores-perros",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Alejandro G. Iñárritu",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjMwMjg3MTIyMF5BMl5BanBnXkFtZTcwNzQ2NzIwNw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNDgyMTE5OF5BMl5BanBnXkFtZTcwODQ2NzIwNw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTYwNDcwMzAyNl5BMl5BanBnXkFtZTcwOTQ2NzIwNw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxMzcyNjY3N15BMl5BanBnXkFtZTcwMDU2NzIwNw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzIxNjkyODAyOV5BMl5BanBnXkFtZTcwMTU2NzIwNw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDdiOGZiMjAtMTNhNy00NGRmLTg5NGYtNjdmM2YyNDM3OWY5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y0NDdhYWEtNTQ5My00OWViLWE0YzYtMTA0OWJiNzZhNGM1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNDEyODgxMV5BMl5BanBnXkFtZTYwMjMyMzk5._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyNTA5MzQ5N15BMl5BanBnXkFtZTcwNjIyNTgxMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1MTU2MjQwOF5BMl5BanBnXkFtZTcwNTY2MDc4MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzNTE0MTc5M15BMl5BanBnXkFtZTYwNjQxNDY5._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0245712/",
+        "rating": "8.1/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0327944/",
+        "name": "Alejandro G. Iñárritu"
+      },
+      "seo": {
+        "title": "Amores Brutos (2000)",
+        "description": "Amores Brutos: Dirigido por Alejandro G. Iñárritu. Com Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero. Um terrível acidente de carro conecta três histórias, cada uma envolvendo personagens que lidam com a perda, o arrependimento e as duras realidades da vida, tudo em nome do amor."
+      }
+    }
+  }
+}

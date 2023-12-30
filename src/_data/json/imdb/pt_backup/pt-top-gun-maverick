@@ -3,16 +3,12 @@
     "slug": "top-gun-maverick",
     "title": "Top Gun: Maverick",
     "year": "2022",
-    "genres": [
-      "Ação",
-      "Drama"
-    ],
     "director": "Joseph Kosinski"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Top Gun: Maverick",
-    "description": "Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra.",
+    "description": "Top Gun: Maverick: Dirigido por Joseph Kosinski. Com Tom Cruise, Val Kilmer, Miles Teller, Jennifer Connelly. Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra.",
     "slug": "top-gun-maverick",
     "image": "https://m.media-amazon.com/images/M/MV5BMGU1MWFkYzEtYTFjZS00NDIxLThiYzAtN2ExMGJhOTE2MWVhXkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Top Gun: Maverick (2022)",
-        "description": "Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra."
+        "description": "Top Gun: Maverick: Dirigido por Joseph Kosinski. Com Tom Cruise, Val Kilmer, Miles Teller, Jennifer Connelly. Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra."
       }
     }
   }

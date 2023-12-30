@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "dead-poets-society",
+    "title": "Dead Poets Society",
+    "year": "1989",
+    "director": "Peter Weir"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Dead Poets Society",
+    "description": "Dead Poets Society: Directed by Peter Weir. With Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles. Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+    "slug": "dead-poets-society",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Peter Weir",
+    "year": "1989",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDcwNDE5YTctNzg5YS00ZjU0LTljNWYtYjhhOWY2N2M0NzkzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3ODk1OTI4M15BMl5BanBnXkFtZTgwMTU4ODIwMjE@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0MDI3NTg4MV5BMl5BanBnXkFtZTgwMjU4ODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MDA5NzczMF5BMl5BanBnXkFtZTgwMDU4ODIwMjE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NDA0MTgxMF5BMl5BanBnXkFtZTcwNzM3NjAyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxNzI4NzIyMl5BMl5BanBnXkFtZTcwODM3NjAyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgzODEzMjQyMV5BMl5BanBnXkFtZTcwOTM3NjAyNw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NTc4NTA5N15BMl5BanBnXkFtZTcwMDQ3NjAyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjI1NTMwODY5OF5BMl5BanBnXkFtZTcwMTQ3NjAyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMDU4MTM1NF5BMl5BanBnXkFtZTcwMjQ3NjAyNw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NTkyMjIyM15BMl5BanBnXkFtZTcwMzQ3NjAyNw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI5ZmY0MjctNzc2Mi00ZGUyLWFhYjUtYTAwOWU3MjMwYjc0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0097165/",
+        "rating": "8.1/10"
+      },
+      "year": "1989",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001837/",
+        "name": "Peter Weir"
+      },
+      "seo": {
+        "title": "Dead Poets Society (1989)",
+        "description": "Dead Poets Society: Directed by Peter Weir. With Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles. Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "on-the-waterfront",
+    "title": "On the Waterfront",
+    "year": "1954",
+    "director": "Elia Kazan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "On the Waterfront",
+    "description": "On the Waterfront: Directed by Elia Kazan. With Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger. An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+    "slug": "on-the-waterfront",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Elia Kazan",
+    "year": "1954",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDNkZWNmZjYtMDlmNC00YjZjLTk3NWEtODk3Yjc1Y2YzMTI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzVhZmRmMDMtZWNiMS00ZGVlLWJkZTAtODZjNzEzNTNmMjkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTRiNjRiYzMtMThhZC00MTZhLWI4NjEtMTFlYTg4MTNmZmZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQzODYxNDM4Nl5BMl5BanBnXkFtZTgwMjAwOTc5MTE@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk3ODc5NzI2N15BMl5BanBnXkFtZTgwMzAwOTc5MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMTEyOTEzOV5BMl5BanBnXkFtZTgwNDAwOTc5MTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAyMDIzMzg5OTheQTJeQWpwZ15BbWU4MDUwMDk3OTEx._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMjUzNjk5Nl5BMl5BanBnXkFtZTYwOTMzMTU2._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI5ZDAyYTEtNzUwYi00MzM1LWE5ODctZjM4NTA0Mjk5YjNjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2NjA2MDQ5Ml5BMl5BanBnXkFtZTYwNTQzMTU2._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0ODczMTk0NV5BMl5BanBnXkFtZTYwNzQzMTU2._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MDk2NDI4OF5BMl5BanBnXkFtZTYwOTQzMTU2._V1_QL75_UY140_CR32,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0047296/",
+        "rating": "8.1/10"
+      },
+      "year": "1954",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001415/",
+        "name": "Elia Kazan"
+      },
+      "seo": {
+        "title": "On the Waterfront (1954)",
+        "description": "On the Waterfront: Directed by Elia Kazan. With Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger. An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims."
+      }
+    }
+  }
+}

@@ -3,17 +3,12 @@
     "slug": "jaws",
     "title": "Jaws",
     "year": "1975",
-    "genres": [
-      "Adventure",
-      "Mystery",
-      "Thriller"
-    ],
     "director": "Steven Spielberg"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Jaws",
-    "description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "description": "Jaws: Directed by Steven Spielberg. With Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary. When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
     "slug": "jaws",
     "image": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Jaws (1975)",
-        "description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+        "description": "Jaws: Directed by Steven Spielberg. With Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary. When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
       }
     }
   }

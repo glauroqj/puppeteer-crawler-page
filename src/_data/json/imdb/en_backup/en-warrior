@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "warrior",
+    "title": "Warrior",
+    "year": "2011",
+    "director": "Gavin O&apos;Connor"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Warrior",
+    "description": "Warrior: Directed by Gavin O'Connor. With Joel Edgerton, Tom Hardy, Nick Nolte, Jennifer Morrison. The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "slug": "warrior",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Gavin O&apos;Connor",
+    "year": "2011",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTc3Njk5Mzg2MF5BMl5BanBnXkFtZTcwNjQ1NDMyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1ODg2ODAwMV5BMl5BanBnXkFtZTcwNzQ1NDMyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxNDM4ODY1MF5BMl5BanBnXkFtZTcwODQ1NDMyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMzI2MDQ3Nl5BMl5BanBnXkFtZTcwMDU1NDMyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyMTAzODA2Ml5BMl5BanBnXkFtZTcwMTU1NDMyNw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzAwODU1NDM4N15BMl5BanBnXkFtZTcwMjU1NDMyNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3ODM2MDA5NF5BMl5BanBnXkFtZTcwNzQwNzE2Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NDcxNTg4NV5BMl5BanBnXkFtZTcwMjUwNzE2Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NzcyMDI3NV5BMl5BanBnXkFtZTcwMTMwNzE2Ng@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3Mjc3MTcyN15BMl5BanBnXkFtZTcwOTMwNzE2Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzczMjA0MzA0Ml5BMl5BanBnXkFtZTcwMDYwNzE2Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3OTUxNTEzMV5BMl5BanBnXkFtZTcwODYwNzE2Ng@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1291584/",
+        "rating": "8.1/10"
+      },
+      "year": "2011",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0640334/",
+        "name": "Gavin O&apos;Connor"
+      },
+      "seo": {
+        "title": "Warrior (2011)",
+        "description": "Warrior: Directed by Gavin O'Connor. With Joel Edgerton, Tom Hardy, Nick Nolte, Jennifer Morrison. The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother."
+      }
+    }
+  }
+}

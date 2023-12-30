@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "all-about-eve",
+    "title": "All About Eve",
+    "year": "1950",
+    "director": "Joseph L. Mankiewicz"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "All About Eve",
+    "description": "All About Eve: Directed by Joseph L. Mankiewicz. With Bette Davis, Anne Baxter, George Sanders, Celeste Holm. A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+    "slug": "all-about-eve",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmE1M2Y3NTYtYTI0Mi00N2JlLTkzMzItOTY1MTlhNWNkMDgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Joseph L. Mankiewicz",
+    "year": "1950",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTIzOTU4ZDEtZTFkMy00ZGY5LWJmMWUtNzA4YTMxZWE0Y2QyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmY1N2I4YTYtMWNlNi00ZmQzLWExYzYtOWYzY2I3ODE3NDlhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU1OGMzZmYtYjM1NC00OTUzLThmOTctYTAzMDc0NzFmMTI4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGRkZjM2YmEtNzdkYy00NmQyLThlNjktOTA4ZjliYmJmYWY5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzdlYWU5YzYtMWE1Yy00NWY1LTkzODUtY2U2ZGY2MDY2OTM5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTllNGI1OTYtMzllNC00NjU0LTgxZjgtMzQ0NjFhZGZjMGE3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTU5MzY4NWYtYjYxZi00NjE4LTg0ZmYtYTEyNzI1MjBkMzE4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjY1NWExODItNTUzNC00MTIzLWE5ODMtNTRiMDQ0ODkwYTg4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA2OWZmZGItZTM3Yy00YjIwLTk3NTgtYThkYjAyZmY4ZWJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MTQ0NjY0NV5BMl5BanBnXkFtZTcwMDcyMDMxOA@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MjIyMzIyMl5BMl5BanBnXkFtZTcwNDA5NzU4NA@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzIyOTA3MDYzMV5BMl5BanBnXkFtZTcwNjA5NzU4NA@@._V1_QL75_UY140_CR20,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0042192/",
+        "rating": "8.2/10"
+      },
+      "year": "1950",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000581/",
+        "name": "Joseph L. Mankiewicz"
+      },
+      "seo": {
+        "title": "All About Eve (1950)",
+        "description": "All About Eve: Directed by Joseph L. Mankiewicz. With Bette Davis, Anne Baxter, George Sanders, Celeste Holm. A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "inside-out",
+    "title": "Inside Out",
+    "year": "2015",
+    "director": "Pete Docter"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Inside Out",
+    "description": "Inside Out: Directed by Pete Docter, Ronnie Del Carmen. With Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader. After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "slug": "inside-out",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Pete Docter",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTUyMjU5MTQzNF5BMl5BanBnXkFtZTgwNjc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwODk0Mzk4NF5BMl5BanBnXkFtZTgwNzc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2Mzc3NjU3NV5BMl5BanBnXkFtZTgwODc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEzMDM4MjYxMjheQTJeQWpwZ15BbWU4MDA3NzIwMTYx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1OTc1NTA5NV5BMl5BanBnXkFtZTgwMTc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1ODkyMDAwNF5BMl5BanBnXkFtZTgwMjc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzMDEyODQ0OV5BMl5BanBnXkFtZTgwMzc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMTE4NzI3MF5BMl5BanBnXkFtZTgwNDc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAzMTIyNzU5OTleQTJeQWpwZ15BbWU4MDU3NzIwMTYx._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2ODQ3Nzc1MDheQTJeQWpwZ15BbWU4MDg2NzIwMTYx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2ODg0ODgxOF5BMl5BanBnXkFtZTgwOTY3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMzYxMTg4NF5BMl5BanBnXkFtZTgwNzY3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2096673/",
+        "rating": "8.1/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0230032/",
+        "name": "Pete Docter"
+      },
+      "seo": {
+        "title": "Inside Out (2015)",
+        "description": "Inside Out: Directed by Pete Docter, Ronnie Del Carmen. With Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader. After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+      }
+    }
+  }
+}

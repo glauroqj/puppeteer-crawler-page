@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-apartment",
+    "title": "Se Meu Apartamento Falasse",
+    "year": "1960",
+    "director": "Billy Wilder"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Se Meu Apartamento Falasse",
+    "description": "Se Meu Apartamento Falasse: Dirigido por Billy Wilder. Com Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston. Um homem tenta subir na empresa permitindo que seus executivos usem seu apartamento para encontros, mas surgem complicações e um romance próprio.",
+    "slug": "the-apartment",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Billy Wilder",
+    "year": "1960",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTRiNzZhMGYtMDAxYy00NzM1LWJkZGUtMGM1YzgzMmQwM2VjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzM5ODZiMTAtYWY1MC00OTdjLThmYjMtMDIyMmRmODY1ZjkwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjM5MzZkYTUtZDI1Yi00NTYxLWEyMDYtOGEwZTNmMDU3MTBiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDI3MmNiYWUtYjJiYy00ZGRlLTg0YWMtZjNiNDlkMzdhODk2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2IyMGYyMGEtODljZi00ZjE1LTg2ODItNWU5NTMwNmU5ODZkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDFmMDgyMTktNTNkYS00MTEyLThkNjEtN2RjNmYyMzRlNTJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk4ZWNhMjUtZWU5OS00MGJkLTg4ZDUtZTkyNmI4MjgwNmE5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MDkyODU1Ml5BMl5BanBnXkFtZTcwNTMwNjYyNw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwNDE2NzgyNzNeQTJeQWpwZ15BbWU3MDA5MDYzMjQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NTI3Njg1MF5BMl5BanBnXkFtZTcwMTkwNjMyNA@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMjM0MzE5OV5BMl5BanBnXkFtZTcwMjkwNjMyNA@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzODAxMTMzNV5BMl5BanBnXkFtZTcwNTkwNjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0053604/",
+        "rating": "8.3/10"
+      },
+      "year": "1960",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000697/",
+        "name": "Billy Wilder"
+      },
+      "seo": {
+        "title": "Se Meu Apartamento Falasse (1960)",
+        "description": "Se Meu Apartamento Falasse: Dirigido por Billy Wilder. Com Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston. Um homem tenta subir na empresa permitindo que seus executivos usem seu apartamento para encontros, mas surgem complicações e um romance próprio."
+      }
+    }
+  }
+}

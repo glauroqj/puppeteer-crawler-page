@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "there-will-be-blood",
+    "title": "There Will Be Blood",
+    "year": "2007",
+    "director": "Paul Thomas Anderson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "There Will Be Blood",
+    "description": "There Will Be Blood: Directed by Paul Thomas Anderson. With Daniel Day-Lewis, Martin Stringer, Matthew Braden Stringer, Jacob Stringer. A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "slug": "there-will-be-blood",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Paul Thomas Anderson",
+    "year": "2007",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTEwMjQwNzcyNl5BMl5BanBnXkFtZTcwNDYwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2NDkwNjU1OV5BMl5BanBnXkFtZTcwNzYwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODEwMjg5NDk4N15BMl5BanBnXkFtZTcwODYwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5NDEzOTI1Nl5BMl5BanBnXkFtZTcwOTYwNjExNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxMjE3MjgwNF5BMl5BanBnXkFtZTcwMTcwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMTUxNzAxNV5BMl5BanBnXkFtZTcwMjcwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2OTAzMDIwOF5BMl5BanBnXkFtZTcwNTcwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg1NDgzNTQyNV5BMl5BanBnXkFtZTcwNjcwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzNjkwMzM3MF5BMl5BanBnXkFtZTcwNzcwNjExNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyNDcyODA3M15BMl5BanBnXkFtZTcwOTcwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5NTAwNTU5OF5BMl5BanBnXkFtZTcwMDgwNjExNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2NDIzNzUyNl5BMl5BanBnXkFtZTcwMTgwNjExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0469494/",
+        "rating": "8.2/10"
+      },
+      "year": "2007",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000759/",
+        "name": "Paul Thomas Anderson"
+      },
+      "seo": {
+        "title": "There Will Be Blood (2007)",
+        "description": "There Will Be Blood: Directed by Paul Thomas Anderson. With Daniel Day-Lewis, Martin Stringer, Matthew Braden Stringer, Jacob Stringer. A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+      }
+    }
+  }
+}

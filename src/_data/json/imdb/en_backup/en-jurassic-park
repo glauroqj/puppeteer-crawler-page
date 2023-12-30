@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "jurassic-park",
+    "title": "Jurassic Park",
+    "year": "1993",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Jurassic Park",
+    "description": "Jurassic Park: Directed by Steven Spielberg. With Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough. A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "slug": "jurassic-park",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Steven Spielberg",
+    "year": "1993",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDJkODEyNDQtODRkZC00MTVkLWFlMTAtYzM1M2U1MzdmZjZkXkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MTc1NDkyN15BMl5BanBnXkFtZTgwOTMzOTIwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjcyMDc0MTExNV5BMl5BanBnXkFtZTgwMjEzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMTQzOTg4OF5BMl5BanBnXkFtZTgwNDAzOTIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzY5MDIzNTEwNl5BMl5BanBnXkFtZTgwMzEzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxOTE2NzI4NF5BMl5BanBnXkFtZTgwOTgyOTIwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg5NjQyNDExNF5BMl5BanBnXkFtZTgwMTEzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA3NTI4Mzg0MjZeQTJeQWpwZ15BbWU4MDI5MjkyMDIx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNDk3NjMxMF5BMl5BanBnXkFtZTgwNTkyOTIwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwMDQzMTA1Ml5BMl5BanBnXkFtZTgwNDgyOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NzAxNzE2OV5BMl5BanBnXkFtZTgwNjAzOTIwMjE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMzMzMjc5NV5BMl5BanBnXkFtZTgwMzAzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0107290/",
+        "rating": "8.2/10"
+      },
+      "year": "1993",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "Jurassic Park (1993)",
+        "description": "Jurassic Park: Directed by Steven Spielberg. With Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough. A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+      }
+    }
+  }
+}

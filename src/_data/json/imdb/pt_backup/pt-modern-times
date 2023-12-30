@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "modern-times",
+    "title": "Tempos Modernos",
+    "year": "1936",
+    "director": "Charles Chaplin"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Tempos Modernos",
+    "description": "Tempos Modernos: Dirigido por Charles Chaplin. Com Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford. Um vagabundo luta para viver na sociedade industrial moderna com a ajuda de uma jovem.",
+    "slug": "modern-times",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzk1MDkxMWUtMTFmYS00YzA0LWE1YjctZjAxNjUwZTJkNTZkXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Charles Chaplin",
+    "year": "1936",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA4ODM4NDc5MF5BMl5BanBnXkFtZTcwNTc0NDQyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzUwNDQyNDc0N15BMl5BanBnXkFtZTcwNjc0NDQyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxNzQ0ODgzNF5BMl5BanBnXkFtZTcwNzc0NDQyNw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2NDA1NTUzOV5BMl5BanBnXkFtZTcwODc0NDQyNw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5ODgxNDk1OV5BMl5BanBnXkFtZTcwODc3NzE5Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NTI5MDE1NV5BMl5BanBnXkFtZTcwMDg3NzE5Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzMTgwNDE3M15BMl5BanBnXkFtZTcwNDA4Njc0NQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MDUzNTgyNl5BMl5BanBnXkFtZTcwNTA4Njc0NQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2MDgzNjM2Nl5BMl5BanBnXkFtZTcwNjA4Njc0NQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1Mzg4NjU4N15BMl5BanBnXkFtZTcwNzA4Njc0NQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMTgyMTI2OV5BMl5BanBnXkFtZTcwODA4Njc0NQ@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxOTE3MDI0NV5BMl5BanBnXkFtZTcwMDE4Njc0NQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0027977/",
+        "rating": "8.5/10"
+      },
+      "year": "1936",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000122/",
+        "name": "Charles Chaplin"
+      },
+      "seo": {
+        "title": "Tempos Modernos (1936)",
+        "description": "Tempos Modernos: Dirigido por Charles Chaplin. Com Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford. Um vagabundo luta para viver na sociedade industrial moderna com a ajuda de uma jovem."
+      }
+    }
+  }
+}

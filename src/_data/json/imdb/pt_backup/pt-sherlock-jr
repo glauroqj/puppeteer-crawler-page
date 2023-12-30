@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "sherlock-jr",
+    "title": "Bancando o Águia",
+    "year": "1924",
+    "director": "Buster Keaton"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Bancando o Águia",
+    "description": "Bancando o Águia: Dirigido por Buster Keaton. Com Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly. Um projecionista de cinema deseja ser um detetive e coloca suas magras habilidades em prática quando um rival o incrimina por roubar o relógio de bolso do pai de sua namorada.",
+    "slug": "sherlock-jr",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Romance"
+    ],
+    "director": "Buster Keaton",
+    "year": "1924",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjEzNzg3OTM5Ml5BMl5BanBnXkFtZTcwNTkyMDMzNA@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NDIxMzUwNV5BMl5BanBnXkFtZTcwNjkyMDMzNA@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMzQ3NjkyOF5BMl5BanBnXkFtZTcwNzkyMDMzNA@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNDIyNTg4Ml5BMl5BanBnXkFtZTcwOTkyMDMzNA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MDA3NDE5Nl5BMl5BanBnXkFtZTYwOTM2ODU2._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MjM5NDg1Ml5BMl5BanBnXkFtZTYwMTQ2ODU2._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMzg3ODA1Ml5BMl5BanBnXkFtZTgwNjAyODk2MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwMDQ1MDMwNl5BMl5BanBnXkFtZTgwMzAwNjgwMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODI1ODI1NzQzOV5BMl5BanBnXkFtZTgwMjc5NTgwMTE@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTJiOWVhMDktN2Q0Zi00YmU4LTljODQtN2IxYWQzNjhkMmE5XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJjZWFkMjctNjQ1ZS00N2M0LThkNzEtYzJjMjM2MjYwOWZmXkEyXkFqcGdeQXVyMTEyNDI2MTc2._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTVkMGY3ODAtOTlkOC00NmUwLWE2YWYtOGRhZDMwYjM1NjlkXkEyXkFqcGdeQXVyMTEyNDI2MTc2._V1_QL75_UY140_CR33,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0015324/",
+        "rating": "8.2/10"
+      },
+      "year": "1924",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000036/",
+        "name": "Buster Keaton"
+      },
+      "seo": {
+        "title": "Bancando o Águia (1924)",
+        "description": "Bancando o Águia: Dirigido por Buster Keaton. Com Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly. Um projecionista de cinema deseja ser um detetive e coloca suas magras habilidades em prática quando um rival o incrimina por roubar o relógio de bolso do pai de sua namorada."
+      }
+    }
+  }
+}

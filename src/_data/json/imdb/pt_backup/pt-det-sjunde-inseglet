@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "det-sjunde-inseglet",
+    "title": "O Sétimo Selo",
+    "year": "1957",
+    "director": "Ingmar Bergman"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Sétimo Selo",
+    "description": "O Sétimo Selo: Dirigido por Ingmar Bergman. Com Gunnar Björnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow. Um homem procura respostas sobre a vida, a morte e a existência de Deus enquanto joga xadrez contra a morte durante a Morte Negra.",
+    "slug": "det-sjunde-inseglet",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjczMjliYTEtZmI0My00NDk3LTlmOGUtY2U1ZDgzZTkzYTYxXkEyXkFqcGdeQXVyMTE2OTczNjU4._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Fantasia"
+    ],
+    "director": "Ingmar Bergman",
+    "year": "1957",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYTZkMTVhOGEtY2U5MS00ZjI1LTlmYTctNTI2Mzc4NTg4OWJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTkyMjg0NmItOTIzMS00YzVjLTkzZDQtNTQ0M2Y5OTdkMDkyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY3YWM4MTctOTBlOC00NTgzLWEwOTUtMjNjZDRiNWY1OTFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxNDIxOTE4Ml5BMl5BanBnXkFtZTcwMTY4MjE5Ng@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQ1MjgwNDY1N15BMl5BanBnXkFtZTcwMjY4MjE5Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYwMDc1ODcxN15BMl5BanBnXkFtZTYwOTA0OTM2._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NTY5NzU1OV5BMl5BanBnXkFtZTYwMzE0OTM2._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczOTY5MTU3MF5BMl5BanBnXkFtZTYwNzE0OTM2._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MTQyODQ1MF5BMl5BanBnXkFtZTYwOTE0OTM2._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzM1ZTRlYjEtZTM4NS00YjQ1LWE2NTEtZGRkM2EzODEzOTVmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzlkN2E4NzktMDYzNC00ZjFhLTg1MWUtZWM1NjVlZjY4MTFiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIzODM4NzcwMV5BMl5BanBnXkFtZTYwOTQzNDg4._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0050976/",
+        "rating": "8.1/10"
+      },
+      "year": "1957",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000005/",
+        "name": "Ingmar Bergman"
+      },
+      "seo": {
+        "title": "O Sétimo Selo (1957)",
+        "description": "O Sétimo Selo: Dirigido por Ingmar Bergman. Com Gunnar Björnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow. Um homem procura respostas sobre a vida, a morte e a existência de Deus enquanto joga xadrez contra a morte durante a Morte Negra."
+      }
+    }
+  }
+}

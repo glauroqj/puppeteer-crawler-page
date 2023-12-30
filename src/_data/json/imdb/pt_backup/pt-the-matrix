@@ -3,16 +3,12 @@
     "slug": "the-matrix",
     "title": "Matrix",
     "year": "1999",
-    "genres": [
-      "Ação",
-      "Ficção científica"
-    ],
     "director": "Lana Wachowski"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Matrix",
-    "description": "Um hacker aprende com os misteriosos rebeldes sobre a verdadeira natureza de sua realidade e seu papel na guerra contra seus controladores.",
+    "description": "Matrix: Dirigido por Lana Wachowski, Lilly Wachowski. Com Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving. Um hacker aprende com os misteriosos rebeldes sobre a verdadeira natureza de sua realidade e seu papel na guerra contra seus controladores.",
     "slug": "the-matrix",
     "image": "https://m.media-amazon.com/images/M/MV5BMzYxZGIyM2MtZDQ0NC00Y2M5LTk0NTAtNDk5ZTg1MjZjMTFiXkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Matrix (1999)",
-        "description": "Um hacker aprende com os misteriosos rebeldes sobre a verdadeira natureza de sua realidade e seu papel na guerra contra seus controladores."
+        "description": "Matrix: Dirigido por Lana Wachowski, Lilly Wachowski. Com Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving. Um hacker aprende com os misteriosos rebeldes sobre a verdadeira natureza de sua realidade e seu papel na guerra contra seus controladores."
       }
     }
   }

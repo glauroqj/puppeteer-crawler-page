@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "raiders-of-the-lost-ark",
+    "title": "Raiders of the Lost Ark",
+    "year": "1981",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Raiders of the Lost Ark",
+    "description": "Raiders of the Lost Ark: Directed by Steven Spielberg. With Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey. In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+    "slug": "raiders-of-the-lost-ark",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "year": "1981",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmNiODlmNmUtZTRhZC00Mjg4LWJkOGQtYmNlYjgxMmQxMjAxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGMwNzVjMTYtZTAwOS00YzNjLWI3ZWYtZTVjMjQ5N2M5NmRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR66,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTBlNjdhNWEtN2I2Zi00OTM1LWJiMDUtY2I5NzRiNWE0Yzg2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjYyMTRhNmItMTA0NC00ZmU5LThjNWYtNTMzZGYyNzM1MTNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR72,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJjZDIyY2EtMjQzZS00NzQ5LTllODktZGZiOTMyZGNmMWQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmYwMThiYWMtZTI5Mi00ODYwLTkwNTgtY2Y2ZTYwNTUyNDZmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTgwYjg2Y2YtNTE4Ny00NGM5LWEyNWItYWMwNDQxZjVkMThmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR71,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTkwNDgwNjUwMV5BMl5BanBnXkFtZTcwODk0MzA4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzMDUzNjE5OV5BMl5BanBnXkFtZTcwOTk0MzA4NA@@._V1_QL75_UY140_CR74,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwNzI5NTA1MV5BMl5BanBnXkFtZTcwMDA1MzA4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2ODIzODkzNl5BMl5BanBnXkFtZTcwMTA1MzA4NA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDExMDYyMjYzM15BMl5BanBnXkFtZTcwMjA1MzA4NA@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0082971/",
+        "rating": "8.4/10"
+      },
+      "year": "1981",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "Raiders of the Lost Ark (1981)",
+        "description": "Raiders of the Lost Ark: Directed by Steven Spielberg. With Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey. In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers."
+      }
+    }
+  }
+}

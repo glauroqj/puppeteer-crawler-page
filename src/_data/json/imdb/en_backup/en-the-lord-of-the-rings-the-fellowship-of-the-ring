@@ -3,17 +3,12 @@
     "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": "2001",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
     "director": "Peter Jackson"
   },
   "poster_lang": {
     "lang": "en",
     "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "description": "The Lord of the Rings: The Fellowship of the Ring: Directed by Peter Jackson. With Alan Howard, Noel Appleby, Sean Astin, Sala Baker. A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
     "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
     "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
     "genres": [
@@ -45,7 +40,7 @@
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt0120737/",
-        "rating": "8.8/10"
+        "rating": "8.9/10"
       },
       "year": "2001",
       "country": "",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+        "description": "The Lord of the Rings: The Fellowship of the Ring: Directed by Peter Jackson. With Alan Howard, Noel Appleby, Sean Astin, Sala Baker. A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
       }
     }
   }

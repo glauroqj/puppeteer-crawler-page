@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "double-indemnity",
+    "title": "Double Indemnity",
+    "year": "1944",
+    "director": "Billy Wilder"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Double Indemnity",
+    "description": "Double Indemnity: Directed by Billy Wilder. With Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Porter Hall. A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+    "slug": "double-indemnity",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "director": "Billy Wilder",
+    "year": "1944",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjRmNzgzODctZGU5ZC00ODc4LTllMzItNjk4NWU5YjY0MTVhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDgwNzgyM15BMl5BanBnXkFtZTgwNzMwODM3MDI@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MzM5MDU3NV5BMl5BanBnXkFtZTgwODMwODM3MDI@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwODI0MDczOF5BMl5BanBnXkFtZTgwOTMwODM3MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MjkzOTEwN15BMl5BanBnXkFtZTgwMDQwODM3MDI@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2NDc2NzE3ODZeQTJeQWpwZ15BbWU4MDI0MDgzNzAy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxMjMzMDM1NF5BMl5BanBnXkFtZTgwMzQwODM3MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzZlZDZjMzctZTUxNC00OTFmLWE3OTAtZjFiOGFlZDUzYzg2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjgyMmVhZjktOGVmYS00ODBlLWExYzQtODMyNGU1MzM2ZGJmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2I0NTFkYTctYWU1Yy00YTQ1LWJmNjYtMzdjYWExMTRlMDA2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTBkYjI4YWEtOWFiMi00NTAyLTlkZDAtMGJjMTUxNDI4NDIxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY2MjI5NWItY2MzYi00MTE3LTkxYTktYTMzZDhiYWFjMzVkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0036775/",
+        "rating": "8.3/10"
+      },
+      "year": "1944",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000697/",
+        "name": "Billy Wilder"
+      },
+      "seo": {
+        "title": "Double Indemnity (1944)",
+        "description": "Double Indemnity: Directed by Billy Wilder. With Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Porter Hall. A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator."
+      }
+    }
+  }
+}

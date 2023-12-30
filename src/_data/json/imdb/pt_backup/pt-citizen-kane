@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "citizen-kane",
+    "title": "Cidadão Kane",
+    "year": "1941",
+    "director": "Orson Welles"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Cidadão Kane",
+    "description": "Cidadão Kane: Dirigido por Orson Welles. Com Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick. Após a morte de um magnata na indústria editorial, jornalistas correm para descobrir o significado da última palavra que ele pronunciou.",
+    "slug": "citizen-kane",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjhjYzBiMzItZjgxNy00MGRmLTgyYjEtMDE1MjBiMDY4M2EwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mistério"
+    ],
+    "director": "Orson Welles",
+    "year": "1941",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjhmMmRiZTctNDQzNS00YzVkLWI4YTgtZDk0MmNmNjQ1Y2FhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGYzODViNWYtZWI3ZS00MzVlLWIyMDgtOGNkMWYxYzc4ZTdjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQyN2Q3MWEtZGIxNS00YTI5LTliYzktOTM4ZWUwYzQ2ZjU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjIzZTU4NzMtZDZmMi00MDM2LWEwMTctMzUyZTAwZWMwMWRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTA2MmI0M2QtMWMxZC00ZTg1LTgzYjgtZGIyNjhmODRmZGExXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDBjNmEwMDgtN2EwZS00NjNjLWFlNGUtMmI5YTQ1MWUxZWE2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzJjYTg3YjctNzRjZS00Njc0LWFjMDYtZmZmMzU5M2JhNjdmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmMwOGQ0M2ItN2ZmYi00MjYyLTk5M2UtM2QzOGViZGJmNWIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWMwYTFlNWEtOGI3My00NWZlLTliNTgtZDZhYWFmYjE4ZTU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmI4YTI2MDItODMxMS00MGMwLTkwZDgtZTdhN2JiZmE1Y2E0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTUzMWE3NTMtNmQ1NC00NjAwLWE0MWEtMWI4ZGU4ZDg4MWJhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2VjOWQ5YjctM2RlYS00N2VhLTk1Y2QtYzVlMjBmZmE4ODI0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR28,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0033467/",
+        "rating": "8.3/10"
+      },
+      "year": "1941",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000080/",
+        "name": "Orson Welles"
+      },
+      "seo": {
+        "title": "Cidadão Kane (1941)",
+        "description": "Cidadão Kane: Dirigido por Orson Welles. Com Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick. Após a morte de um magnata na indústria editorial, jornalistas correm para descobrir o significado da última palavra que ele pronunciou."
+      }
+    }
+  }
+}

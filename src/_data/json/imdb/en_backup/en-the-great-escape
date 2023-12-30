@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-great-escape",
+    "title": "The Great Escape",
+    "year": "1963",
+    "director": "John Sturges"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Great Escape",
+    "description": "The Great Escape: Directed by John Sturges. With Steve McQueen, James Garner, Richard Attenborough, James Donald. Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+    "slug": "the-great-escape",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "director": "John Sturges",
+    "year": "1963",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjVkMDQ2MzctYTE2OC00NWQ0LWJlMDAtZmVlZWIwYmM0MzI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzFmM2Q0YWYtYjhhZC00MDhiLTk0YTktOTYxMzQxYWRkMzkzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2MzAzMTYxOF5BMl5BanBnXkFtZTcwODc4MTkzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3NDQ0ODcxOV5BMl5BanBnXkFtZTcwOTc4MTkzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MDgyMTczN15BMl5BanBnXkFtZTcwMDg4MTkzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NDQ2NTA0Ml5BMl5BanBnXkFtZTcwMTg4MTkzNA@@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MjYxNDg3Ml5BMl5BanBnXkFtZTcwMjg4MTkzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNDczODM1NF5BMl5BanBnXkFtZTcwMzg4MTkzNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3NjM1NDI1NF5BMl5BanBnXkFtZTcwNDg4MTkzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTU0MTMwMzg2M15BMl5BanBnXkFtZTcwNTg4MTkzNA@@._V1_QL75_UY140_CR3,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0NzkyNzk2OF5BMl5BanBnXkFtZTcwNjg4MTkzNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4OTY5NTkwMl5BMl5BanBnXkFtZTcwNzg4MTkzNA@@._V1_QL75_UY140_CR3,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0057115/",
+        "rating": "8.2/10"
+      },
+      "year": "1963",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0836328/",
+        "name": "John Sturges"
+      },
+      "seo": {
+        "title": "The Great Escape (1963)",
+        "description": "The Great Escape: Directed by John Sturges. With Steve McQueen, James Garner, Richard Attenborough, James Donald. Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II."
+      }
+    }
+  }
+}

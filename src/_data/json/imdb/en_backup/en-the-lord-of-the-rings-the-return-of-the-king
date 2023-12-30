@@ -3,17 +3,12 @@
     "slug": "the-lord-of-the-rings-the-return-of-the-king",
     "title": "The Lord of the Rings: The Return of the King",
     "year": "2003",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
     "director": "Peter Jackson"
   },
   "poster_lang": {
     "lang": "en",
     "title": "The Lord of the Rings: The Return of the King",
-    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "description": "The Lord of the Rings: The Return of the King: Directed by Peter Jackson. With Noel Appleby, Ali Astin, Sean Astin, David Aston. Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
     "slug": "the-lord-of-the-rings-the-return-of-the-king",
     "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "The Lord of the Rings: The Return of the King (2003)",
-        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+        "description": "The Lord of the Rings: The Return of the King: Directed by Peter Jackson. With Noel Appleby, Ali Astin, Sean Astin, David Aston. Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
       }
     }
   }

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "la-haine",
+    "title": "La haine",
+    "year": "1995",
+    "director": "Mathieu Kassovitz"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "La haine",
+    "description": "La haine: Directed by Mathieu Kassovitz. With Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili. 24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "slug": "la-haine",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Mathieu Kassovitz",
+    "year": "1995",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA2NDU0MTI2OV5BMl5BanBnXkFtZTcwNDYyMTE0NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwNzExNDk1Ml5BMl5BanBnXkFtZTcwNTYyMTE0NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNjYwNDU0NV5BMl5BanBnXkFtZTcwOTYyMTE0NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2JjNjE2OTgtNjFjYy00YjA4LTk1MDEtZjc2NDM4ZmU0NDhlXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzEwZmEwY2MtODA0NS00NDZkLWI5MzAtNmI0MzNiMDEzZWEyXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3OTAyOTMyM15BMl5BanBnXkFtZTcwNTMxMTI0MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNDI3MzQ3NF5BMl5BanBnXkFtZTYwNTMxMzI5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNzk4Nzc2Ml5BMl5BanBnXkFtZTYwNDY4MTM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwODE5NTc1M15BMl5BanBnXkFtZTYwMTQyNjM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5NTUwNzAxNl5BMl5BanBnXkFtZTYwMjQyNjM5._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MDczNjkxMl5BMl5BanBnXkFtZTYwMzQyNjM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5NzY1MTQ0NF5BMl5BanBnXkFtZTYwNDQyNjM5._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0113247/",
+        "rating": "8.1/10"
+      },
+      "year": "1995",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0440913/",
+        "name": "Mathieu Kassovitz"
+      },
+      "seo": {
+        "title": "La haine (1995)",
+        "description": "La haine: Directed by Mathieu Kassovitz. With Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili. 24 hours in the lives of three young men in the French suburbs the day after a violent riot."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "to-kill-a-mockingbird",
+    "title": "O Sol é para Todos",
+    "year": "1962",
+    "director": "Robert Mulligan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Sol é para Todos",
+    "description": "O Sol é para Todos: Dirigido por Robert Mulligan. Com Gregory Peck, John Megna, Frank Overton, Rosemary Murphy. Atticus Finch, um advogado no sul da era da Depressão, defende um homem negro contra uma acusação de estupro imerecida, e seus filhos contra o preconceito.",
+    "slug": "to-kill-a-mockingbird",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "director": "Robert Mulligan",
+    "year": "1962",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzNmMzgzNTgtNjc5OS00N2I2LThmOGQtZWExN2Q3NTU0MDM2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWExMGE1NTMtNjc2OC00NjVjLThjODEtODQ4NzgyNTNhOTZhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDNhMzIzMzQtZGNiMC00YzhhLWE1ZDYtN2QzNTY5ZDg2NDVkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyNTQxNjQ4NV5BMl5BanBnXkFtZTgwODI5ODk5MTE@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1NjE5NzY3N15BMl5BanBnXkFtZTgwOTI5ODk5MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNzMyMTMxM15BMl5BanBnXkFtZTgwMDM5ODk5MTE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU2ODEyMzk4OF5BMl5BanBnXkFtZTgwMTM5ODk5MTE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM3MTQ5NTMxOV5BMl5BanBnXkFtZTcwNjYwODQyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1MDg4ODc1N15BMl5BanBnXkFtZTcwODAxODQyNw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3NzUxMTI4Ml5BMl5BanBnXkFtZTcwMjExODQyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NDEzMTcyOF5BMl5BanBnXkFtZTcwMzExODQyNw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NjcyODk5MF5BMl5BanBnXkFtZTcwNTgyMjM4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0056592/",
+        "rating": "8.3/10"
+      },
+      "year": "1962",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0612322/",
+        "name": "Robert Mulligan"
+      },
+      "seo": {
+        "title": "O Sol é para Todos (1962)",
+        "description": "O Sol é para Todos: Dirigido por Robert Mulligan. Com Gregory Peck, John Megna, Frank Overton, Rosemary Murphy. Atticus Finch, um advogado no sul da era da Depressão, defende um homem negro contra uma acusação de estupro imerecida, e seus filhos contra o preconceito."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "casablanca",
+    "title": "Casablanca",
+    "year": "1942",
+    "director": "Michael Curtiz"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Casablanca",
+    "description": "Casablanca: Directed by Michael Curtiz. With Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains. A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "slug": "casablanca",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "director": "Michael Curtiz",
+    "year": "1942",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNmVhNjI1YTktYTAxZS00MTNjLTlkNmItMjI1NGYxOGZkYjdlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDMxNzk0NV5BMl5BanBnXkFtZTgwMjI1MTI2NDM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4ODYyODcxM15BMl5BanBnXkFtZTgwMzI1MTI2NDM@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxOTc1NjI0Ml5BMl5BanBnXkFtZTgwODA1MTI2NDM@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4NDUxNzI1MV5BMl5BanBnXkFtZTgwOTA1MTI2NDM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2OTA3OTkxNF5BMl5BanBnXkFtZTgwMDE1MTI2NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2MzY0MjU4N15BMl5BanBnXkFtZTgwMTE1MTI2NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzYxNjMxOTA3MV5BMl5BanBnXkFtZTgwMjE1MTI2NDM@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5Mzg3MzI4Ml5BMl5BanBnXkFtZTgwMzE1MTI2NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQ2NjM4NDA1M15BMl5BanBnXkFtZTgwNDE1MTI2NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MzQzMjU1MV5BMl5BanBnXkFtZTgwNTE1MTI2NDM@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0MTE3MzYyMl5BMl5BanBnXkFtZTgwNjE1MTI2NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0034583/",
+        "rating": "8.5/10"
+      },
+      "year": "1942",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0002031/",
+        "name": "Michael Curtiz"
+      },
+      "seo": {
+        "title": "Casablanca (1942)",
+        "description": "Casablanca: Directed by Michael Curtiz. With Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains. A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "some-like-it-hot",
+    "title": "Some Like It Hot",
+    "year": "1959",
+    "director": "Billy Wilder"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Some Like It Hot",
+    "description": "Some Like It Hot: Directed by Billy Wilder. With Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft. After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "slug": "some-like-it-hot",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "director": "Billy Wilder",
+    "year": "1959",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTE2N2JkY2ItYmRlMi00NjgxLWFmODMtN2M1NTMzMWEyYWRlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWI3NGI5OTAtZjY1ZC00ZDJkLTgwZjUtODBiOTc0OTJmYTI1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmI1ZGI1Y2EtOTQyNy00ZDg5LTllMWUtY2EzYjdjZmYxNTlmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkzNjU0MTYtOTUzYy00ODJkLTllZDAtNTZkYWUyYzFjZjIxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGRkMDE2MmQtZjExZC00NGQ2LTg4NmYtOTkxMzRhNGQ1MGYxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGMyYWQ4YjQtNDU4NC00ZDFjLWFjMzctMTdkMTQxNDc2YTk1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWI4MGY4NzQtOTU3OC00ZjFiLWI1YjMtZWRlYWRkMjI1ZDUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNTA1NjQ0NV5BMl5BanBnXkFtZTgwNTU2ODk5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczOTY0NjMyMV5BMl5BanBnXkFtZTgwNjU2ODk5MTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NjYxOTk2OV5BMl5BanBnXkFtZTcwODM0NDQyNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMTk3NDM4M15BMl5BanBnXkFtZTcwMTQ0NDQyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MDYxMTU4Nl5BMl5BanBnXkFtZTcwMjQ0NDQyNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0053291/",
+        "rating": "8.2/10"
+      },
+      "year": "1959",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000697/",
+        "name": "Billy Wilder"
+      },
+      "seo": {
+        "title": "Some Like It Hot (1959)",
+        "description": "Some Like It Hot: Directed by Billy Wilder. With Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft. After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in."
+      }
+    }
+  }
+}

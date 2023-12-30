@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "mr-smith-goes-to-washington",
+    "title": "Mr. Smith Goes to Washington",
+    "year": "1939",
+    "director": "Frank Capra"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Mr. Smith Goes to Washington",
+    "description": "Mr. Smith Goes to Washington: Directed by Frank Capra. With Jean Arthur, James Stewart, Claude Rains, Edward Arnold. A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+    "slug": "mr-smith-goes-to-washington",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Frank Capra",
+    "year": "1939",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzU4ZTY4N2ItZDM3MS00YTc0LWJhNmItYzEzZmEyNjk4ZDFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwMTU5NzA5Ml5BMl5BanBnXkFtZTgwNjk4Nzc5MTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODEyMDE5MzQ4OV5BMl5BanBnXkFtZTgwNTk4Nzc5MTE@._V1_QL75_UY140_CR13,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxMzMxNzY1MV5BMl5BanBnXkFtZTcwMjEwNjk5Nw@@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc1MzUyNDUtNTNhYS00MzIwLThiODYtZDQ5ZWZiY2RjYmMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDlmNDZiZjMtMmM3Yi00N2RkLTgxOGItMWNmODZiNzVmY2FjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmU0ZjNhOGQtZmNkMi00ZWNhLWI1MDAtZDkyOGM2M2QxM2E4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTgxYTdmODEtMDEzNS00M2E4LTljN2YtNGFiOGE0ZmFkYmI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjNkMGUwMzgtZjA0Ny00M2Y4LTg2MDMtNWI4ZmE1OWViYzNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzU2MWY4OWEtZjY1Yy00YzNiLWIyNzAtYThiMWZlMjc3OTViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWU1ZGY5ZGYtMDlmZS00ZThiLWJkZmMtNzJjNzA1NWMxZjRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjNkZDY3MjUtNmIxNi00OTRjLWExZjctZmUwOGM3MTMzMjgyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR20,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0031679/",
+        "rating": "8.1/10"
+      },
+      "year": "1939",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001008/",
+        "name": "Frank Capra"
+      },
+      "seo": {
+        "title": "Mr. Smith Goes to Washington (1939)",
+        "description": "Mr. Smith Goes to Washington: Directed by Frank Capra. With Jean Arthur, James Stewart, Claude Rains, Edward Arnold. A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character."
+      }
+    }
+  }
+}

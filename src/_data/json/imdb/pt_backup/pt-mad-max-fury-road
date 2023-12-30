@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "mad-max-fury-road",
+    "title": "Mad Max: Estrada da Fúria",
+    "year": "2015",
+    "director": "George Miller"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Mad Max: Estrada da Fúria",
+    "description": "Mad Max: Estrada da Fúria: Dirigido por George Miller. Com Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne. Em um mundo pós-apocalíptico, uma mulher se rebela contra um governante tirânico em busca de sua terra natal com a ajuda de um grupo de prisioneiras, um adorador psicótico e um nômade chamado Max.",
+    "slug": "mad-max-fury-road",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzg5ZGFjYTMtYmU3My00NTE0LThiNTctMmJjZWY5NGQ2N2U5XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "George Miller",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU3ODM0MjUzOV5BMl5BanBnXkFtZTgwNjY0NDI2MDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1OTg2OTU5MV5BMl5BanBnXkFtZTgwOTQ3NTE2NTE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2NDMxODcyMV5BMl5BanBnXkFtZTgwNjQ3NTE2NTE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwODI4MTE4OV5BMl5BanBnXkFtZTgwNzQ3NTE2NTE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5NDUwNDY3MF5BMl5BanBnXkFtZTgwODQ3NTE2NTE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMDU2OTUzMl5BMl5BanBnXkFtZTgwMDM3NTE2NTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjEyODY5MzEwMV5BMl5BanBnXkFtZTgwMTM3NTE2NTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA0MjgwNTY1MDNeQTJeQWpwZ15BbWU4MDIzNzUxNjUx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMDk1ODI5Ml5BMl5BanBnXkFtZTgwMzM3NTE2NTE@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQzMDU4NDIzMV5BMl5BanBnXkFtZTgwNDM3NTE2NTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODI0ODcxODYxOV5BMl5BanBnXkFtZTgwNTM3NTE2NTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMDkzMDM1OF5BMl5BanBnXkFtZTgwMzI3NTE2NTE@._V1_QL75_UY140_CR33,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1392190/",
+        "rating": "8.1/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0004306/",
+        "name": "George Miller"
+      },
+      "seo": {
+        "title": "Mad Max: Estrada da Fúria (2015)",
+        "description": "Mad Max: Estrada da Fúria: Dirigido por George Miller. Com Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne. Em um mundo pós-apocalíptico, uma mulher se rebela contra um governante tirânico em busca de sua terra natal com a ajuda de um grupo de prisioneiras, um adorador psicótico e um nômade chamado Max."
+      }
+    }
+  }
+}

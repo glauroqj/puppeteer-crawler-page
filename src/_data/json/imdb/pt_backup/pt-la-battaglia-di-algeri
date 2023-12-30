@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "la-battaglia-di-algeri",
+    "title": "A Batalha de Argel",
+    "year": "1966",
+    "director": "Gillo Pontecorvo"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Batalha de Argel",
+    "description": "A Batalha de Argel: Dirigido por Gillo Pontecorvo. Com Brahim Hadjadj, Jean Martin, Yacef Saadi, Samia Kerbash. Nos anos 50, o medo e a violência aumentam à medida que o povo de Argel lutava pela independência do governo francês.",
+    "slug": "la-battaglia-di-algeri",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Gillo Pontecorvo",
+    "year": "1966",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY4OTkwMjA1NV5BMl5BanBnXkFtZTgwODg1ODg3NTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI3NDA1NjA1NF5BMl5BanBnXkFtZTgwNTc1ODg3NTE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNjUyMzU3N15BMl5BanBnXkFtZTgwNDc1ODg3NTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3ODMyMzM4M15BMl5BanBnXkFtZTgwMzc1ODg3NTE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4NDEyNTAwOF5BMl5BanBnXkFtZTgwMjc1ODg3NTE@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxNzkyODQ1Nl5BMl5BanBnXkFtZTgwMTc1ODg3NTE@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxMTQ5MzIzNF5BMl5BanBnXkFtZTgwMDc1ODg3NTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMzgzODIwNTheQTJeQWpwZ15BbWU4MDc2NTg4NzUx._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyOTY3MDkwN15BMl5BanBnXkFtZTcwMzI5ODQwNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTMyMTE3NjIwOF5BMl5BanBnXkFtZTcwNDI5ODQwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwOTU5MzcyOF5BMl5BanBnXkFtZTcwNTI5ODQwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDY2MDA0ODUyMF5BMl5BanBnXkFtZTcwNjI5ODQwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0058946/",
+        "rating": "8.1/10"
+      },
+      "year": "1966",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0690597/",
+        "name": "Gillo Pontecorvo"
+      },
+      "seo": {
+        "title": "A Batalha de Argel (1966)",
+        "description": "A Batalha de Argel: Dirigido por Gillo Pontecorvo. Com Brahim Hadjadj, Jean Martin, Yacef Saadi, Samia Kerbash. Nos anos 50, o medo e a violência aumentam à medida que o povo de Argel lutava pela independência do governo francês."
+      }
+    }
+  }
+}

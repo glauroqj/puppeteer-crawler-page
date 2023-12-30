@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "ikiru",
+    "title": "Viver",
+    "year": "1952",
+    "director": "Akira Kurosawa"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Viver",
+    "description": "Viver: Dirigido por Akira Kurosawa. Com Takashi Shimura, Shin'ichi Himori, Haruo Tanaka, Minoru Chiaki. Depois de descobrir que tem câncer terminal, um burocrata tenta encontrar um sentido para sua vida.",
+    "slug": "ikiru",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWM1YmZkNTctZDAwNy00ZTY4LWFjMTktYzU4ZjViMmU1OTJmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Akira Kurosawa",
+    "year": "1952",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY5OTYyOTg5Ml5BMl5BanBnXkFtZTcwNzc0MTc4Ng@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NDIzOTQxNF5BMl5BanBnXkFtZTcwOTc0MTc4Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNjY0ODYyMV5BMl5BanBnXkFtZTcwMDg0MTc4Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTYyNDliZGUtYmNmZS00NzNiLTg0NTctNDEwN2ZjNjQ5MTg3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2RiZGJhY2QtOTQyYi00YmE1LTg3NWYtMmI2YTQ5ODNiZmE2L2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTUzMzFkN2YtZDhiNS00ZGNkLTkwZTMtODNkMmMzODVjZjIwL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWM1YjQ1MjEtNDVmOC00NWJmLTliZDAtNjI5ZGM2NTU4NTE5L2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjI5NDZjYjQtMWJjMS00YWUwLWE0YzktODdiY2Y5NTk3ZTY4L2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJhMzJiMjgtYjE5Ni00NGRjLWE1NDctOGU4NmE1M2QzNGQ2L2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3ZTYzZDgtNmJlYy00YzNiLTgzMDgtYTExY2U1MGFhZTBkL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzc4ZmE5YTgtNDMwMS00Y2VhLTkzZWYtYjM5NjY2ZmI4NDUzL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGY0NzViZTctNzM1Ny00NTZiLThhYWMtMDI0Mjk5N2FkMzM3L2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0044741/",
+        "rating": "8.3/10"
+      },
+      "year": "1952",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000041/",
+        "name": "Akira Kurosawa"
+      },
+      "seo": {
+        "title": "Viver (1952)",
+        "description": "Viver: Dirigido por Akira Kurosawa. Com Takashi Shimura, Shin'ichi Himori, Haruo Tanaka, Minoru Chiaki. Depois de descobrir que tem câncer terminal, um burocrata tenta encontrar um sentido para sua vida."
+      }
+    }
+  }
+}

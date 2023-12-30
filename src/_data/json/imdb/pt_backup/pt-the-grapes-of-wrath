@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "the-grapes-of-wrath",
+    "title": "As Vinhas da Ira",
+    "year": "1940",
+    "director": "John Ford"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "As Vinhas da Ira",
+    "description": "As Vinhas da Ira: Dirigido por John Ford. Com Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin. Uma família pobre no Centro-Oeste é forçada a abandonar suas terras. Eles viajam para a Califórnia, sofrendo os infortúnios dos sem-teto na Grande Depressão.",
+    "slug": "the-grapes-of-wrath",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "John Ford",
+    "year": "1940",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk4NjQzNTUxOV5BMl5BanBnXkFtZTgwNzA3NDAyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0MDk4NjMwOV5BMl5BanBnXkFtZTgwNTY4NTIwMjE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwMjE4NTcwNl5BMl5BanBnXkFtZTgwNjY4NTIwMjE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMjk5OTc3MF5BMl5BanBnXkFtZTgwMjY4NTIwMjE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4NjYyMzYwMV5BMl5BanBnXkFtZTgwMzY4NTIwMjE@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwMzgyNjg3MzVeQTJeQWpwZ15BbWU4MDU1ODUyMDIx._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNDQ2MjkyNF5BMl5BanBnXkFtZTgwNjU4NTIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2MzY1ODM1M15BMl5BanBnXkFtZTgwNzU4NTIwMjE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzMjgxMjU0Ml5BMl5BanBnXkFtZTgwODU4NTIwMjE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwNjEzODY0MV5BMl5BanBnXkFtZTgwOTU4NTIwMjE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM2NzI3NDk1NV5BMl5BanBnXkFtZTgwMDY4NTIwMjE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU3NjU1NjA2Nl5BMl5BanBnXkFtZTgwMTY4NTIwMjE@._V1_QL75_UY140_CR32,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0032551/",
+        "rating": "8.1/10"
+      },
+      "year": "1940",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000406/",
+        "name": "John Ford"
+      },
+      "seo": {
+        "title": "As Vinhas da Ira (1940)",
+        "description": "As Vinhas da Ira: Dirigido por John Ford. Com Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin. Uma família pobre no Centro-Oeste é forçada a abandonar suas terras. Eles viajam para a Califórnia, sofrendo os infortúnios dos sem-teto na Grande Depressão."
+      }
+    }
+  }
+}

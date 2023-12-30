@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "to-be-or-not-to-be",
+    "title": "To Be or Not to Be",
+    "year": "1942",
+    "director": "Ernst Lubitsch"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "To Be or Not to Be",
+    "description": "To Be or Not to Be: Directed by Ernst Lubitsch. With Carole Lombard, Jack Benny, Robert Stack, Felix Bressart. During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    "slug": "to-be-or-not-to-be",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "director": "Ernst Lubitsch",
+    "year": "1942",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Romance",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDk2OTkzMTYwMF5BMl5BanBnXkFtZTgwNTM3Nzk5MTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NDY4NTA3MV5BMl5BanBnXkFtZTgwNjM3Nzk5MTE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4NjM3ODY2MV5BMl5BanBnXkFtZTgwNzM3Nzk5MTE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODEzNzEyNzM5MF5BMl5BanBnXkFtZTgwNDM3Nzk5MTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1MjkxMDAzNF5BMl5BanBnXkFtZTgwNzYwMDI0MjE@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMDAyNzM4NjNeQTJeQWpwZ15BbWU4MDg2MDAyNDIx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDgzMzI5NDc3MV5BMl5BanBnXkFtZTgwOTYwMDI0MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg5MTI2Njc3MF5BMl5BanBnXkFtZTgwNDYwMDI0MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzU0ZjE4MjItZjIxZi00NGJmLWE5ZDQtODMyODY3YWYwYmI4XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGEyNTRmMWQtYTc4Mi00MWQ3LTkxMjYtZWE3YzNhMDg2ZDc0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDA0M2ExMGQtZjYwMy00NWJjLTkzY2EtNzhmODU1ODg4YjdmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGVlNjZkZDUtNThjYy00OGM4LWFmYzAtODg4YjkyMjI5MjVjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0035446/",
+        "rating": "8.1/10"
+      },
+      "year": "1942",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0523932/",
+        "name": "Ernst Lubitsch"
+      },
+      "seo": {
+        "title": "To Be or Not to Be (1942)",
+        "description": "To Be or Not to Be: Directed by Ernst Lubitsch. With Carole Lombard, Jack Benny, Robert Stack, Felix Bressart. During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy."
+      }
+    }
+  }
+}

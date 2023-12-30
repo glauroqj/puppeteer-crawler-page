@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "la-confidential",
+    "title": "Los Angeles: Cidade Proibida",
+    "year": "1997",
+    "director": "Curtis Hanson"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Los Angeles: Cidade Proibida",
+    "description": "Los Angeles: Cidade Proibida: Dirigido por Curtis Hanson. Com Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell. A corrupção cresce em Los Angeles nos anos 50. Três policiais estão investigando uma série de assassinatos com sua própria marca de justiça.",
+    "slug": "la-confidential",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "Curtis Hanson",
+    "year": "1997",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTUyMDA4NDIwM15BMl5BanBnXkFtZTgwMjgzNDA0MzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwNDA3OTc3Nl5BMl5BanBnXkFtZTgwNTgzNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzODYxMDQ1MV5BMl5BanBnXkFtZTgwNjgzNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2MDkxOTgyMl5BMl5BanBnXkFtZTgwNzgzNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MDIyMjk0OF5BMl5BanBnXkFtZTgwODgzNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMzc1MjA0MF5BMl5BanBnXkFtZTgwNjczNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjc4MjEwOTkxN15BMl5BanBnXkFtZTgwNzczNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2NDE2NjM0OF5BMl5BanBnXkFtZTgwODczNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3Nzk1NDU2Ml5BMl5BanBnXkFtZTgwOTczNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0OTg5ODg3M15BMl5BanBnXkFtZTgwMDgzNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0MTcwMzM2Ml5BMl5BanBnXkFtZTgwMTgzNDA0MzI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMjgyOTExMV5BMl5BanBnXkFtZTcwODkyNTIwNA@@._V1_QL75_UY140_CR90,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0119488/",
+        "rating": "8.2/10"
+      },
+      "year": "1997",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000436/",
+        "name": "Curtis Hanson"
+      },
+      "seo": {
+        "title": "Los Angeles: Cidade Proibida (1997)",
+        "description": "Los Angeles: Cidade Proibida: Dirigido por Curtis Hanson. Com Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell. A corrupção cresce em Los Angeles nos anos 50. Três policiais estão investigando uma série de assassinatos com sua própria marca de justiça."
+      }
+    }
+  }
+}

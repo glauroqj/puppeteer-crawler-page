@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "avengers-infinity-war",
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "director": "Anthony Russo"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Avengers: Infinity War",
+    "description": "Avengers: Infinity War: Directed by Anthony Russo, Joe Russo. With Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans. The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "slug": "avengers-infinity-war",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Anthony Russo",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA0MTg0MjUwMF5BMl5BanBnXkFtZTgwMjc4MjkzNTM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjI4NzM2MTM1M15BMl5BanBnXkFtZTgwMzc4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwNTgxMTEwNl5BMl5BanBnXkFtZTgwNDc4MjkzNTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0OTc5Njg5M15BMl5BanBnXkFtZTgwNTc4MjkzNTM@._V1_QL75_UY140_CR64,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5ODU5MzY5OV5BMl5BanBnXkFtZTgwNjc4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM4NjE0MTYwM15BMl5BanBnXkFtZTgwNzc4MjkzNTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2NTM1MTY0OV5BMl5BanBnXkFtZTgwODc4MjkzNTM@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1MjMwNTQ3MF5BMl5BanBnXkFtZTgwMDg4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg0ODU3ODY2NF5BMl5BanBnXkFtZTgwMTg4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc1NTY4ODM1Nl5BMl5BanBnXkFtZTgwMjg4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ2NTQ3MDI3Nl5BMl5BanBnXkFtZTgwMzg4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM0OTk4NjEwMV5BMl5BanBnXkFtZTgwNDg4MjkzNTM@._V1_QL75_UY140_CR63,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt4154756/",
+        "rating": "8.4/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0751577/",
+        "name": "Anthony Russo"
+      },
+      "seo": {
+        "title": "Avengers: Infinity War (2018)",
+        "description": "Avengers: Infinity War: Directed by Anthony Russo, Joe Russo. With Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans. The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "coco",
+    "title": "Coco",
+    "year": "2017",
+    "director": "Lee Unkrich"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Coco",
+    "description": "Coco: Directed by Lee Unkrich, Adrian Molina. With Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach. Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "slug": "coco",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Lee Unkrich",
+    "year": "2017",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjM2MzIwNDYyMV5BMl5BanBnXkFtZTgwMTEzMjMyNDM@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMTA2ODMxNl5BMl5BanBnXkFtZTgwMzEzMjMyNDM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4Njg3MDIxN15BMl5BanBnXkFtZTgwNDEzMjMyNDM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ4NzA3MzgzNV5BMl5BanBnXkFtZTgwNTEzMjMyNDM@._V1_QL75_UY140_CR67,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM2Mjc0OTAyNl5BMl5BanBnXkFtZTgwNzEzMjMyNDM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1Nzg0MDc1MF5BMl5BanBnXkFtZTgwODEzMjMyNDM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc2MjE3MzQ0M15BMl5BanBnXkFtZTgwNzkyMjMyNDM@._V1_QL75_UY140_CR89,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxNjg0NTg1Nl5BMl5BanBnXkFtZTgwODkyMjMyNDM@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNTQwNTc5OF5BMl5BanBnXkFtZTgwOTkyMjMyNDM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MDE4MzI2Nl5BMl5BanBnXkFtZTgwMDAzMjMyNDM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzEwOTkyNDE0OV5BMl5BanBnXkFtZTgwMjAzMjMyNDM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY5MTE1MTMyMV5BMl5BanBnXkFtZTgwNDAzMjMyNDM@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2380307/",
+        "rating": "8.4/10"
+      },
+      "year": "2017",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0881279/",
+        "name": "Lee Unkrich"
+      },
+      "seo": {
+        "title": "Coco (2017)",
+        "description": "Coco: Directed by Lee Unkrich, Adrian Molina. With Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach. Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+      }
+    }
+  }
+}

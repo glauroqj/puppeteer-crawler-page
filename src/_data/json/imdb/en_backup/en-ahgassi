@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "ahgassi",
+    "title": "Ah-ga-ssi",
+    "year": "2016",
+    "director": "Park Chan-wook"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Ah-ga-ssi",
+    "description": "The Handmaiden: Directed by Park Chan-wook. With Kim Tae-ri, Lee Yong-nyeo, Yoo Min-chae, Lee Dong-hwi. A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+    "slug": "ahgassi",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "director": "Park Chan-wook",
+    "year": "2016",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTYzNDIyMTE2Ml5BMl5BanBnXkFtZTgwOTQ4MzkzMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyNDQyNTc4NF5BMl5BanBnXkFtZTgwMDU4MzkzMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwNTM2OTEzMF5BMl5BanBnXkFtZTgwNDQ4MzkzMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgyNjI2ODUwMF5BMl5BanBnXkFtZTgwODQ4MzkzMDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDAyNDY3MV5BMl5BanBnXkFtZTgwNTcyMjE5ODE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE0MjM0NDQzNjheQTJeQWpwZ15BbWU4MDc3MjIxOTgx._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4ODc1Nzg3NF5BMl5BanBnXkFtZTgwODcyMjE5ODE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MjUxMzExMF5BMl5BanBnXkFtZTgwMTgyMjE5ODE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3NTkzNDU4Ml5BMl5BanBnXkFtZTgwNTE2MTE5ODE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwOTk3OTQyMl5BMl5BanBnXkFtZTgwMjE2MTE5ODE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWIxMTc5MDAtYTQ1Zi00NjMzLThmMjItNDRiYjFhMjE0YTE1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzg0MGU4ZWItNTY4ZC00YzQzLWJhOTUtOTA1NmY3NjViYzM5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt4016934/",
+        "rating": "8.1/10"
+      },
+      "year": "2016",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0661791/",
+        "name": "Park Chan-wook"
+      },
+      "seo": {
+        "title": "The Handmaiden (2016)",
+        "description": "The Handmaiden: Directed by Park Chan-wook. With Kim Tae-ri, Lee Yong-nyeo, Yoo Min-chae, Lee Dong-hwi. A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her."
+      }
+    }
+  }
+}

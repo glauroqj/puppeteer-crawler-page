@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "hotel-rwanda",
+    "title": "Hotel Ruanda",
+    "year": "2004",
+    "director": "Terry George"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Hotel Ruanda",
+    "description": "Hotel Ruanda: Dirigido por Terry George. Com Xolani Mali, Don Cheadle, Desmond Dube, Hakeem Kae-Kazim. Paul Rusesabagina era o gerente de um hotel que abrigava mais de mil refugiados tutsis durante sua luta contra a milícia hutu em Ruanda.",
+    "slug": "hotel-rwanda",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDA2ODZhYTktMjI3MC00N2NlLTk5ZjgtNGQ1OGI1MWIyOTk0XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "História"
+    ],
+    "director": "Terry George",
+    "year": "2004",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama",
+        "História"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTg4MjY1NDIwNF5BMl5BanBnXkFtZTcwMzUxNjMyNA@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyMzc0NzUyOV5BMl5BanBnXkFtZTcwNDUxNjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MTY0NjMzM15BMl5BanBnXkFtZTcwNjUxNjMyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1Mzk4MDQ3MF5BMl5BanBnXkFtZTcwNzUxNjMyNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MzMxMjY3NV5BMl5BanBnXkFtZTcwODUxNjMyNA@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4MDU1OTk4OV5BMl5BanBnXkFtZTcwOTUxNjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODAyMzA2MDM2N15BMl5BanBnXkFtZTcwMDYxNjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzMjM3MTY1OF5BMl5BanBnXkFtZTcwMTYxNjMyNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2MzUyODU1Nl5BMl5BanBnXkFtZTcwMjYxNjMyNA@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4ODg0Mzg2OV5BMl5BanBnXkFtZTcwMzYxNjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5OTcyNzk4MF5BMl5BanBnXkFtZTcwNDYxNjMyNA@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0ODI4MzkyM15BMl5BanBnXkFtZTcwNTYxNjMyNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0395169/",
+        "rating": "8.1/10"
+      },
+      "year": "2004",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0313623/",
+        "name": "Terry George"
+      },
+      "seo": {
+        "title": "Hotel Ruanda (2004)",
+        "description": "Hotel Ruanda: Dirigido por Terry George. Com Xolani Mali, Don Cheadle, Desmond Dube, Hakeem Kae-Kazim. Paul Rusesabagina era o gerente de um hotel que abrigava mais de mil refugiados tutsis durante sua luta contra a milícia hutu em Ruanda."
+      }
+    }
+  }
+}

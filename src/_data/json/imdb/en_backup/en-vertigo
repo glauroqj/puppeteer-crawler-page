@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "vertigo",
+    "title": "Vertigo",
+    "year": "1958",
+    "director": "Alfred Hitchcock"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Vertigo",
+    "description": "Vertigo: Directed by Alfred Hitchcock. With James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore. A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+    "slug": "vertigo",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "year": "1958",
+    "infos": {
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYTMzYWRlODktNjgxNi00YzQ3LTg1OGItOTA5MzhhODQzNjZjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1NjlmOTEtYjgzZi00YTViLWFkYTgtY2U0Njc1NTk1NzRlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk1ODA4OTcxM15BMl5BanBnXkFtZTgwMDU0NTc0NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ1MDQ2NzcwM15BMl5BanBnXkFtZTgwMjU0NTc0NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNDAwNzQ4MF5BMl5BanBnXkFtZTgwNDU0NTc0NTM@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMTQwMTAxM15BMl5BanBnXkFtZTcwNTM4NTM2Nw@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNDM3NjYwNV5BMl5BanBnXkFtZTcwODYzMjAyNw@@._V1_QL75_UY140_CR52,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgyMzU4NTY3NV5BMl5BanBnXkFtZTcwOTYzMjAyNw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ5NTYwMDExNF5BMl5BanBnXkFtZTcwMjg3MjU4Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MDQ4OTMxMV5BMl5BanBnXkFtZTcwMzg3MjU4Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk2MTk5OTEzNV5BMl5BanBnXkFtZTcwNDg3MjU4Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2NjkzMTI3OF5BMl5BanBnXkFtZTYwNTAwMTc3._V1_QL75_UY140_CR42,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0052357/",
+        "rating": "8.3/10"
+      },
+      "year": "1958",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000033/",
+        "name": "Alfred Hitchcock"
+      },
+      "seo": {
+        "title": "Vertigo (1958)",
+        "description": "Vertigo: Directed by Alfred Hitchcock. With James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore. A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed."
+      }
+    }
+  }
+}

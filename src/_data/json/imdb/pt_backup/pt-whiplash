@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "whiplash",
+    "title": "Whiplash: Em Busca da Perfeição",
+    "year": "2014",
+    "director": "Damien Chazelle"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Whiplash: Em Busca da Perfeição",
+    "description": "Whiplash: Em Busca da Perfeição: Dirigido por Damien Chazelle. Com Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist. Um jovem e promissor baterista se matricula em um conservatório de música onde seus sonhos são guiados por um instrutor que não pára por nada para perceber o potencial de um aluno.",
+    "slug": "whiplash",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjZiNTFmNzAtMzFiMi00ZmFmLTkzZDItZWQzNGJkZjk5NGNlXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "director": "Damien Chazelle",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTkzNzgwOTY4NV5BMl5BanBnXkFtZTgwMTQ1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDA4MjgxODI2NV5BMl5BanBnXkFtZTgwMzQ1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM4MzA0MDE0M15BMl5BanBnXkFtZTgwNTQ1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg0NzI5MTg0NF5BMl5BanBnXkFtZTgwNjM1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1MDg2MzgyMF5BMl5BanBnXkFtZTgwNzM1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyODEwOTIwMV5BMl5BanBnXkFtZTgwODM1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NzQ2ODQ0OF5BMl5BanBnXkFtZTgwOTM1NTE4MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyODU3NzczOV5BMl5BanBnXkFtZTgwMTM1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxOTc5NzI2MV5BMl5BanBnXkFtZTgwMjM1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDExMzYyMjEyMF5BMl5BanBnXkFtZTgwNDM1NTE4MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3ODM1MDM5Nl5BMl5BanBnXkFtZTgwNTM1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4NzkyNjg5M15BMl5BanBnXkFtZTgwOTI1NTE4MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2582802/",
+        "rating": "8.5/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3227090/",
+        "name": "Damien Chazelle"
+      },
+      "seo": {
+        "title": "Whiplash: Em Busca da Perfeição (2014)",
+        "description": "Whiplash: Em Busca da Perfeição: Dirigido por Damien Chazelle. Com Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist. Um jovem e promissor baterista se matricula em um conservatório de música onde seus sonhos são guiados por um instrutor que não pára por nada para perceber o potencial de um aluno."
+      }
+    }
+  }
+}

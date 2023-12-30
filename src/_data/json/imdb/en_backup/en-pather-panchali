@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "pather-panchali",
+    "title": "Pather Panchali",
+    "year": "1955",
+    "director": "Satyajit Ray"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Pather Panchali",
+    "description": "Pather Panchali: Directed by Satyajit Ray. With Kanu Bannerjee, Karuna Bannerjee, Chunibala Devi, Uma Das Gupta. Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "slug": "pather-panchali",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Satyajit Ray",
+    "year": "1955",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NjQzMDQyMl5BMl5BanBnXkFtZTgwNTQzMTI1NTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY4ODQxMTEyN15BMl5BanBnXkFtZTgwNjQzMTI1NTE@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4NTUwOTk3MF5BMl5BanBnXkFtZTgwNzQzMTI1NTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1Mjk4OTc0NV5BMl5BanBnXkFtZTgwODQzMTI1NTE@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTJlNGU2NTUtN2M1ZS00NDU1LTg0YmMtNWZhNjEzYjNkM2ExXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTNmY2M0YzgtZmM2OS00NDBkLWEzYjMtMGFhN2U4OWEyYzE2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzQ3MDFkYjMtN2M1YS00OTQ2LWFkMTUtZWI2NTVkYjQ5NDM3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc4ODMzMmUtNTViNS00ZmMxLTk4M2YtN2MzYTI5ZjdhZGRlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTczMTExMzgtMDNkMC00Mzc2LTgzOTMtOGY5ZjU5MmI1MDI0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTAyNmFlZTEtYWY2OS00ZWMxLTlkNDctMjNlMTkwNDBkNjlhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjE5NTIxZTctYzE5Yy00OWNiLWJmYTYtN2ZiZWIyNTc1Y2ExXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTIyNmE2ZGYtOTI5ZS00YjA0LTg1ZjMtOGZiMTA3YzFhZjZmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR18,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0048473/",
+        "rating": "8.2/10"
+      },
+      "year": "1955",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0006249/",
+        "name": "Satyajit Ray"
+      },
+      "seo": {
+        "title": "Pather Panchali (1955)",
+        "description": "Pather Panchali: Directed by Satyajit Ray. With Kanu Bannerjee, Karuna Bannerjee, Chunibala Devi, Uma Das Gupta. Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "stand-by-me",
+    "title": "Conta Comigo",
+    "year": "1986",
+    "director": "Rob Reiner"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Conta Comigo",
+    "description": "Conta Comigo: Dirigido por Rob Reiner. Com Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell. Depois da morte de um de seus velhos amigos, um escritor relembra sua viagem com os amigos de infância para encontrar o corpo de um menino desaparecido.",
+    "slug": "stand-by-me",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWVlY2M1ZGYtNDRjMy00YjM4LThkMzUtZTQ4NzdjNGVjNTkxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Rob Reiner",
+    "year": "1986",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTU0ZmMyOGYtYmQyNS00YTA4LTgwYjQtYWQ0NDFhZGNhNmFkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM3ODc2OTcwM15BMl5BanBnXkFtZTgwOTg5OTUwNDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzODI4NzU1NV5BMl5BanBnXkFtZTgwMzE2ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzNDc4NzUxN15BMl5BanBnXkFtZTgwOTA2ODIwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3NTA3NDgzMV5BMl5BanBnXkFtZTgwODA2ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5Nzc4MjQ0OV5BMl5BanBnXkFtZTgwMDE2ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0NTYwOTYzMl5BMl5BanBnXkFtZTgwMjA2ODIwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzgwMDQwOTQ4NV5BMl5BanBnXkFtZTgwNzk1ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzUyODc5NTU5M15BMl5BanBnXkFtZTgwNTA2ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4NzAxMDU4OV5BMl5BanBnXkFtZTgwNjA2ODIwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4MTY2MTYzN15BMl5BanBnXkFtZTgwNzA2ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5ODM5MjY4Ml5BMl5BanBnXkFtZTgwODk1ODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0092005/",
+        "rating": "8.1/10"
+      },
+      "year": "1986",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001661/",
+        "name": "Rob Reiner"
+      },
+      "seo": {
+        "title": "Conta Comigo (1986)",
+        "description": "Conta Comigo: Dirigido por Rob Reiner. Com Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell. Depois da morte de um de seus velhos amigos, um escritor relembra sua viagem com os amigos de infância para encontrar o corpo de um menino desaparecido."
+      }
+    }
+  }
+}

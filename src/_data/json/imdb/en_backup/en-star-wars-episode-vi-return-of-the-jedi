@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "en",
     "title": "Star Wars: Episode VI - Return of the Jedi",
-    "description": "After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side.",
+    "description": "Star Wars: Episode VI - Return of the Jedi: Directed by Richard Marquand. With Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams. After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side.",
     "slug": "star-wars-episode-vi-return-of-the-jedi",
     "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
     "genres": [
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
-        "description": "After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side."
+        "description": "Star Wars: Episode VI - Return of the Jedi: Directed by Richard Marquand. With Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams. After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side."
       }
     }
   }

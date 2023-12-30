@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "snatch",
+    "title": "Snatch",
+    "year": "2000",
+    "director": "Guy Ritchie"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Snatch",
+    "description": "Snatch: Directed by Guy Ritchie. With Ade, William Beck, Andy Beckwith, Ewen Bremner. Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "slug": "snatch",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Guy Ritchie",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDdkZTkwYTQtN2Q2OS00ZmMwLWI2ZmItNGE3NDZhYjIxOWNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxNTIyNzMxMV5BMl5BanBnXkFtZTcwMTQ3OTczNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNzUxODEyMV5BMl5BanBnXkFtZTcwMzQ3OTczNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxMjAzMzUwNl5BMl5BanBnXkFtZTcwNDQ3OTczNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAyMDM5OTIzNDdeQTJeQWpwZ15BbWU3MDY0Nzk3MzU@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMTQ1Njk2Nl5BMl5BanBnXkFtZTcwOTQ3OTczNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1Mzc5OTIwN15BMl5BanBnXkFtZTcwMDU3OTczNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxMzE0MTkwN15BMl5BanBnXkFtZTcwMDM2NDkxNA@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMTE5OTAyNF5BMl5BanBnXkFtZTcwMjM2NDkxNA@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MzUyMjc4OF5BMl5BanBnXkFtZTcwNDM2NDkxNA@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2NDE1NzQzMV5BMl5BanBnXkFtZTcwNTM2NDkxNA@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDc4MjUzNTYwOF5BMl5BanBnXkFtZTcwNjM2NDkxNA@@._V1_QL75_UY140_CR27,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0208092/",
+        "rating": "8.2/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0005363/",
+        "name": "Guy Ritchie"
+      },
+      "seo": {
+        "title": "Snatch (2000)",
+        "description": "Snatch: Directed by Guy Ritchie. With Ade, William Beck, Andy Beckwith, Ewen Bremner. Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond."
+      }
+    }
+  }
+}

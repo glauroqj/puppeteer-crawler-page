@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-prestige",
+    "title": "O Grande Truque",
+    "year": "2006",
+    "director": "Christopher Nolan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Grande Truque",
+    "description": "O Grande Truque: Dirigido por Christopher Nolan. Com Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo. Depois de um trágico acidente, dois magos do palco se engajam em uma batalha para criar a ilusão final enquanto sacrificam tudo o que têm para enganar um ao outro.",
+    "slug": "the-prestige",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjljNGQ2OWMtZWI2NC00NGQ5LWE3MTctODg3ZDllNGMxZGZiXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mistério",
+      "Ficção científica"
+    ],
+    "director": "Christopher Nolan",
+    "year": "2006",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTE0MzQ2NTk5MV5BMl5BanBnXkFtZTcwNjkzNDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODc0MzkxOTg5N15BMl5BanBnXkFtZTcwODkzNDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxMjIwNjI2Nl5BMl5BanBnXkFtZTcwOTkzNDMyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4OTYyMDE0M15BMl5BanBnXkFtZTcwMDA0NDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzNDMxMTQ3NV5BMl5BanBnXkFtZTcwMTA0NDMyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NzIyNDk1N15BMl5BanBnXkFtZTcwMjA0NDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MjY0MTk0MV5BMl5BanBnXkFtZTcwMzA0NDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NDYxMDM2MF5BMl5BanBnXkFtZTcwNDA0NDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MjE3ODQ2Nl5BMl5BanBnXkFtZTcwNTA0NDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MzkwNjgzM15BMl5BanBnXkFtZTcwNjA0NDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NDE4NjI4MF5BMl5BanBnXkFtZTcwMjUzNDMyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMjQ3NTcwMl5BMl5BanBnXkFtZTcwMzUzNDMyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0482571/",
+        "rating": "8.5/10"
+      },
+      "year": "2006",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      },
+      "seo": {
+        "title": "O Grande Truque (2006)",
+        "description": "O Grande Truque: Dirigido por Christopher Nolan. Com Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo. Depois de um trágico acidente, dois magos do palco se engajam em uma batalha para criar a ilusão final enquanto sacrificam tudo o que têm para enganar um ao outro."
+      }
+    }
+  }
+}

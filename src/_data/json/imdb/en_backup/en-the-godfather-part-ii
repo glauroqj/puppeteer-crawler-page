@@ -3,16 +3,12 @@
     "slug": "the-godfather-part-ii",
     "title": "The Godfather Part II",
     "year": "1974",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
     "director": "Francis Ford Coppola"
   },
   "poster_lang": {
     "lang": "en",
     "title": "The Godfather Part II",
-    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "description": "The Godfather Part II: Directed by Francis Ford Coppola. With Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro. The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
     "slug": "the-godfather-part-ii",
     "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "The Godfather Part II (1974)",
-        "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+        "description": "The Godfather Part II: Directed by Francis Ford Coppola. With Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro. The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
       }
     }
   }

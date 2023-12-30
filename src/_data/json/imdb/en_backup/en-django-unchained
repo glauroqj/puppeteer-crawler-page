@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "django-unchained",
+    "title": "Django Unchained",
+    "year": "2012",
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Django Unchained",
+    "description": "Django Unchained: Directed by Quentin Tarantino. With Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington. With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+    "slug": "django-unchained",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2012",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY2Mzg1ODYyOF5BMl5BanBnXkFtZTcwOTgwMzQ3OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0NzU1Nzk2MF5BMl5BanBnXkFtZTcwNjE4Mzg2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzMTMxNjMyNV5BMl5BanBnXkFtZTcwNzE4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNDY5ODQ4MF5BMl5BanBnXkFtZTcwODE4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3OTc3NzUyOV5BMl5BanBnXkFtZTcwOTE4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyODQxNDE3NV5BMl5BanBnXkFtZTcwMDI4Mzg2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNzQxNjgxOF5BMl5BanBnXkFtZTcwMTI4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5MTQ0NjQ5MV5BMl5BanBnXkFtZTcwMjI4Mzg2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MDcyODg0M15BMl5BanBnXkFtZTcwMzI4Mzg2OA@@._V1_QL75_UY140_CR72,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5Nzc4ODY0NF5BMl5BanBnXkFtZTcwNDI4Mzg2OA@@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MzI1MTkyNV5BMl5BanBnXkFtZTcwNTI4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODUyNzEwNDkzNl5BMl5BanBnXkFtZTcwMzcwMDYzOA@@._V1_QL75_UY140_CR30,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1853728/",
+        "rating": "8.5/10"
+      },
+      "year": "2012",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Django Unchained (2012)",
+        "description": "Django Unchained: Directed by Quentin Tarantino. With Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington. With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
+      }
+    }
+  }
+}

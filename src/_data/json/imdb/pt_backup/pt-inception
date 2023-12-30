@@ -3,17 +3,12 @@
     "slug": "inception",
     "title": "A Origem",
     "year": "2010",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Ficção científica"
-    ],
     "director": "Christopher Nolan"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "A Origem",
-    "description": "Um ladrão que rouba segredos corporativos através da tecnologia de entrar no subconsciente recebe a tarefa inversa de plantar uma idéia na mente do diretor de uma grande empresa.",
+    "description": "A Origem: Dirigido por Christopher Nolan. Com Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy. Um ladrão que rouba segredos corporativos através da tecnologia de entrar no subconsciente recebe a tarefa inversa de plantar uma idéia na mente do diretor de uma grande empresa.",
     "slug": "inception",
     "image": "https://m.media-amazon.com/images/M/MV5BN2NiZDM5ZjQtNGJjNy00NzhmLWI1NzktZTgzYTkyZDFmYTg2XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "A Origem (2010)",
-        "description": "Um ladrão que rouba segredos corporativos através da tecnologia de entrar no subconsciente recebe a tarefa inversa de plantar uma idéia na mente do diretor de uma grande empresa."
+        "description": "A Origem: Dirigido por Christopher Nolan. Com Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy. Um ladrão que rouba segredos corporativos através da tecnologia de entrar no subconsciente recebe a tarefa inversa de plantar uma idéia na mente do diretor de uma grande empresa."
       }
     }
   }

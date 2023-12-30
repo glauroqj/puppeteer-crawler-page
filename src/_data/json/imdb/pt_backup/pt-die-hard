@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "die-hard",
+    "title": "Duro de Matar",
+    "year": "1988",
+    "director": "John McTiernan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Duro de Matar",
+    "description": "Duro de Matar: Dirigido por John McTiernan. Com Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason. John McClane, agente do departamento de polícia de Nova York, tenta salvar sua esposa, Holly Gennaro, e outras pessoas que o terrorista alemão Hans Gruber tomou como reféns durante a festa de Natal no Nakatomi Plaza, em Los Angeles.",
+    "slug": "die-hard",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU4MWNjYzQtMDEzNS00ZDA1LWI1YTQtM2ZlMzY2MTg1MmM3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Suspense"
+    ],
+    "director": "John McTiernan",
+    "year": "1988",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODg5MGJmNGUtNDBmNC00ODk4LWJmZmQtYzc4ZTk2MzUyZDM3XkEyXkFqcGdeQXVyMjYzNTQ5Njc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjJjYjA0ODctYmQyZi00ZWIyLWE4M2ItNTNhZDU3NzE1OWM2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODcyY2JiNTUtN2JmOC00MDA2LTk5ODEtY2RlMzkwYzI3Mzc0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjU2YTlhYzUtM2FkMC00ZTc3LWE3MGItZWUxZDM4NDg0YzY3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDIyZmE0ZmQtNmJkYy00N2RlLWJiMWUtYTBjMzA3OWQyMWFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1ODE3NzcyN15BMl5BanBnXkFtZTgwNjY3ODIwMjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5NTU0ODA4NF5BMl5BanBnXkFtZTcwNDM2NDAxMw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwMzQ1MTgxMl5BMl5BanBnXkFtZTYwMTI3ODg2._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMjk5MzMzOV5BMl5BanBnXkFtZTYwNDI3ODg2._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDM4MTU1Njk0Nl5BMl5BanBnXkFtZTYwNTI3ODg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U5NWE2NWItYjMzNy00MzYyLWI1MDgtNWE1MDk3NDc3MjJlXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxNzQyNDQ0OV5BMl5BanBnXkFtZTcwMzUzNzY5OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0095016/",
+        "rating": "8.2/10"
+      },
+      "year": "1988",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001532/",
+        "name": "John McTiernan"
+      },
+      "seo": {
+        "title": "Duro de Matar (1988)",
+        "description": "Duro de Matar: Dirigido por John McTiernan. Com Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason. John McClane, agente do departamento de polícia de Nova York, tenta salvar sua esposa, Holly Gennaro, e outras pessoas que o terrorista alemão Hans Gruber tomou como reféns durante a festa de Natal no Nakatomi Plaza, em Los Angeles."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "metropolis",
+    "title": "Metropolis",
+    "year": "1927",
+    "director": "Fritz Lang"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Metropolis",
+    "description": "Metropolis: Directed by Fritz Lang. With Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge, Fritz Rasp. In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+    "slug": "metropolis",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Fritz Lang",
+    "year": "1927",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjg4NTEwNDAzMF5BMl5BanBnXkFtZTgwOTczMjYzMzE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQxNTgyNTU5Nl5BMl5BanBnXkFtZTgwMTczMjYzMzE@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODUwNTM5MTAwMl5BMl5BanBnXkFtZTgwMjYzMjYzMzE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2ODA5MTk1NF5BMl5BanBnXkFtZTgwOTAzMjYzMzE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MzU4MzQ3MV5BMl5BanBnXkFtZTgwMDA5ODUxMzE@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM2MTk1NzE5Ml5BMl5BanBnXkFtZTgwODg4ODUxMzE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkyNzU0ODUzN15BMl5BanBnXkFtZTgwNjg4ODUxMzE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDM1MjkwMTgzNV5BMl5BanBnXkFtZTgwNzc4ODUxMzE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NDc0NjEyM15BMl5BanBnXkFtZTgwMjc4ODUxMzE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQxMzQwNDIzNV5BMl5BanBnXkFtZTgwNDY4ODUxMzE@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1NjgxOTA5Ml5BMl5BanBnXkFtZTgwMTg1MTEwMzE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5MDYyMDkzM15BMl5BanBnXkFtZTgwMjg1MTEwMzE@._V1_QL75_UY140_CR23,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0017136/",
+        "rating": "8.3/10"
+      },
+      "year": "1927",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000485/",
+        "name": "Fritz Lang"
+      },
+      "seo": {
+        "title": "Metropolis (1927)",
+        "description": "Metropolis: Directed by Fritz Lang. With Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge, Fritz Rasp. In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-shining",
+    "title": "The Shining",
+    "year": "1980",
+    "director": "Stanley Kubrick"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Shining",
+    "description": "The Shining: Directed by Stanley Kubrick. With Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers. A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "slug": "the-shining",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "director": "Stanley Kubrick",
+    "year": "1980",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTc5MjM4Njg3Nl5BMl5BanBnXkFtZTgwNTk1NDU2NjM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA0NzUxMjU3OTJeQTJeQWpwZ15BbWU4MDc5NTQ1NjYz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MTkwMjQ1MF5BMl5BanBnXkFtZTgwODk1NDU2NjM@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NTY0MzUyMF5BMl5BanBnXkFtZTgwMDA2NDU2NjM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzczMTIxMjk4Nl5BMl5BanBnXkFtZTgwOTMzMDYwNDI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0MzkzODUwNV5BMl5BanBnXkFtZTgwODM1MjEwNDI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxNTc1MjQ0NV5BMl5BanBnXkFtZTgwNTY1MjY5NzE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNzI4NDc2Nl5BMl5BanBnXkFtZTgwNjY1MjY5NzE@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzg3MzY3MzYxNF5BMl5BanBnXkFtZTgwODg1OTEwMjE@._V1_QL75_UY140_CR15,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NTYxNjIzNl5BMl5BanBnXkFtZTcwNDk4NDIwNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwODM3ODgxNl5BMl5BanBnXkFtZTcwNTk4NDIwNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MjQxNDI2Ml5BMl5BanBnXkFtZTcwNjk4NDIwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0081505/",
+        "rating": "8.4/10"
+      },
+      "year": "1980",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000040/",
+        "name": "Stanley Kubrick"
+      },
+      "seo": {
+        "title": "The Shining (1980)",
+        "description": "The Shining: Directed by Stanley Kubrick. With Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers. A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+      }
+    }
+  }
+}

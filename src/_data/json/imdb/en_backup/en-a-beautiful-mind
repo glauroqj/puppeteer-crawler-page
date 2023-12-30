@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "a-beautiful-mind",
+    "title": "A Beautiful Mind",
+    "year": "2001",
+    "director": "Ron Howard"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "A Beautiful Mind",
+    "description": "A Beautiful Mind: Directed by Ron Howard. With Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer. After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "slug": "a-beautiful-mind",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Ron Howard",
+    "year": "2001",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTY1NTZhNDUtMzIzZC00YjgzLTlhMzEtYWUzM2U1NzIzZWI3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4ODE4Nl5BMl5BanBnXkFtZTYwMjA2NTE3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTMxNDg2MTg1Ml5BMl5BanBnXkFtZTYwNDA2NTE3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyNjE2ODMzNl5BMl5BanBnXkFtZTYwODA2NTE3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzNjE2NjY3NV5BMl5BanBnXkFtZTYwMTE2NTE3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzODc0NDQwOV5BMl5BanBnXkFtZTYwMjE2NTE3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzODMzMzg1NF5BMl5BanBnXkFtZTYwNDE2NTE3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2Nzc3ODczNl5BMl5BanBnXkFtZTYwODE2NTE3._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0MTE0NzgyM15BMl5BanBnXkFtZTYwMDI2NTE3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI0OTcxMDE0M15BMl5BanBnXkFtZTYwMTI2NTE3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1OTU1NDc5OV5BMl5BanBnXkFtZTYwNTI2NTE3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4OTMxNzg4NV5BMl5BanBnXkFtZTYwNzI2NTE3._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0268978/",
+        "rating": "8.2/10"
+      },
+      "year": "2001",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000165/",
+        "name": "Ron Howard"
+      },
+      "seo": {
+        "title": "A Beautiful Mind (2001)",
+        "description": "A Beautiful Mind: Directed by Ron Howard. With Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer. After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish."
+      }
+    }
+  }
+}

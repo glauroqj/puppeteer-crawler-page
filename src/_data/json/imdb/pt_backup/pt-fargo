@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "fargo",
+    "title": "Fargo: Uma Comédia de Erros",
+    "year": "1996",
+    "director": "Joel Coen"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Fargo: Uma Comédia de Erros",
+    "description": "Fargo: Uma Comédia de Erros: Dirigido por Joel Coen, Ethan Coen. Com William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd. O crime de Jerry Lundegaard se desfaz devido à falta de sorte dele e de seus colegas e ao persistente trabalho polícia.",
+    "slug": "fargo",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Suspense"
+    ],
+    "director": "Joel Coen",
+    "year": "1996",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNGRhOWQ4MmEtZDAzNy00ZGU5LTk4YTQtOWVjNjViMDJiNGRmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzhkOTU3MmUtZmI3Mi00NjZjLThjN2ItNmVlNGU0ZDMzYWYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGYyMmQ2NGEtNzc0Ni00NGUxLWE1MjMtNzA1NzM5YWJjODJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmNhN2E5YmMtMWRkZC00NjcyLThjODQtNGUwZjFlMTUyMmQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyMTM4ZjgtYzU4NS00YjM2LWJhNGQtY2NkNTQyMzhkZGI2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzJkNWFjOTAtN2FkZC00NGZmLTk4ODgtYTkzMDg2N2ViMGI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg3MTQ2ODg2N15BMl5BanBnXkFtZTcwODIwNjM5NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxOTgzNDczMl5BMl5BanBnXkFtZTcwOTIwNjM5NA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg0MDMyNjQ3NF5BMl5BanBnXkFtZTcwOTgzNjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1MjI5OTQ0NF5BMl5BanBnXkFtZTcwMDkzNjMyNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNzA3NjU4OF5BMl5BanBnXkFtZTcwMTkzNjMyNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTI2NzU0Mzc1NF5BMl5BanBnXkFtZTcwNDkzNjMyNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0116282/",
+        "rating": "8.1/10"
+      },
+      "year": "1996",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001054/",
+        "name": "Joel Coen"
+      },
+      "seo": {
+        "title": "Fargo: Uma Comédia de Erros (1996)",
+        "description": "Fargo: Uma Comédia de Erros: Dirigido por Joel Coen, Ethan Coen. Com William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd. O crime de Jerry Lundegaard se desfaz devido à falta de sorte dele e de seus colegas e ao persistente trabalho polícia."
+      }
+    }
+  }
+}

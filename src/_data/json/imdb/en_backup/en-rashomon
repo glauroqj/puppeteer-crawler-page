@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "rashomon",
+    "title": "Rashômon",
+    "year": "1950",
+    "director": "Akira Kurosawa"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Rashômon",
+    "description": "Rashomon: Directed by Akira Kurosawa. With Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura. The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    "slug": "rashomon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Akira Kurosawa",
+    "year": "1950",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjJhYjEzYjQtNDg2Mi00MTkzLWI4N2QtZmZjYTM1MzdlNGMyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDBiZjc2YjktNmJiYi00YWE3LTk0N2EtN2E4OWZjN2UxZjI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4ODQ0ODY1OV5BMl5BanBnXkFtZTcwODY0MTc4Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0NDYzMzMzOF5BMl5BanBnXkFtZTcwOTY0MTc4Ng@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNzQ3ODcxMl5BMl5BanBnXkFtZTcwMDc0MTc4Ng@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2ODE1NjM0NV5BMl5BanBnXkFtZTcwNDc5MDI2NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExNTk0NTAxNF5BMl5BanBnXkFtZTgwMTM2OTE4MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NDkxNDQ4MF5BMl5BanBnXkFtZTcwMjY5NjYxMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTE3Y2E5MTAtNmJiOS00NmJlLThlMDUtODViYTkxNzk4ZjI5XkEyXkFqcGdeQXVyNDAyMjk2NDI@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDRlMWJkZGItMTMwMC00OTlhLWIyNzQtODUwZmUyZjU3NDNhXkEyXkFqcGdeQXVyNDAyMjk2NDI@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMTY0ZjgtMDQ3Yi00MTdkLWE1OWItNTVmMTU4OTAwMzIwXkEyXkFqcGdeQXVyNDAyMjk2NDI@._V1_QL75_UY140_CR19,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0042876/",
+        "rating": "8.2/10"
+      },
+      "year": "1950",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000041/",
+        "name": "Akira Kurosawa"
+      },
+      "seo": {
+        "title": "Rashomon (1950)",
+        "description": "Rashomon: Directed by Akira Kurosawa. With Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura. The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter."
+      }
+    }
+  }
+}

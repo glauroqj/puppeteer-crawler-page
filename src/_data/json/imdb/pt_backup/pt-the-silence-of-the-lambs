@@ -3,17 +3,12 @@
     "slug": "the-silence-of-the-lambs",
     "title": "O Silêncio dos Inocentes",
     "year": "1991",
-    "genres": [
-      "Policial",
-      "Drama",
-      "Suspense"
-    ],
     "director": "Jonathan Demme"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "O Silêncio dos Inocentes",
-    "description": "Uma jovem deve receber a ajuda de um assassino canibal manipulador e preso para ajudar a capturar outro assassino em série, um louco que ataca suas vítimas.",
+    "description": "O Silêncio dos Inocentes: Dirigido por Jonathan Demme. Com Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine. Uma jovem deve receber a ajuda de um assassino canibal manipulador e preso para ajudar a capturar outro assassino em série, um louco que ataca suas vítimas.",
     "slug": "the-silence-of-the-lambs",
     "image": "https://m.media-amazon.com/images/M/MV5BMzNkMGM2OWItYmNiYS00YmZhLTg0ZjctOGYxMTE2ODZmNGFiXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "O Silêncio dos Inocentes (1991)",
-        "description": "Uma jovem deve receber a ajuda de um assassino canibal manipulador e preso para ajudar a capturar outro assassino em série, um louco que ataca suas vítimas."
+        "description": "O Silêncio dos Inocentes: Dirigido por Jonathan Demme. Com Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine. Uma jovem deve receber a ajuda de um assassino canibal manipulador e preso para ajudar a capturar outro assassino em série, um louco que ataca suas vítimas."
       }
     }
   }

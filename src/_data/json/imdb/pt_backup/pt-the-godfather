@@ -3,16 +3,12 @@
     "slug": "the-godfather",
     "title": "O Poderoso Chefão",
     "year": "1972",
-    "genres": [
-      "Policial",
-      "Drama"
-    ],
     "director": "Francis Ford Coppola"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "O Poderoso Chefão",
-    "description": "O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+    "description": "O Poderoso Chefão: Dirigido por Francis Ford Coppola. Com Marlon Brando, Al Pacino, James Caan, Richard S. Castellano. O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
     "slug": "the-godfather",
     "image": "https://m.media-amazon.com/images/M/MV5BZjgwNzE5ODgtYzAyZC00YTZhLThhNDktMDVlOGNhYzk5NTVkXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "O Poderoso Chefão (1972)",
-        "description": "O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante."
+        "description": "O Poderoso Chefão: Dirigido por Francis Ford Coppola. Com Marlon Brando, Al Pacino, James Caan, Richard S. Castellano. O patriarca idoso de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante."
       }
     }
   }

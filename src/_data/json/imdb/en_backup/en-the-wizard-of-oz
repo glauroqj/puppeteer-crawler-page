@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-wizard-of-oz",
+    "title": "The Wizard of Oz",
+    "year": "1939",
+    "director": "Victor Fleming"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Wizard of Oz",
+    "description": "The Wizard of Oz: Directed by Victor Fleming, King Vidor. With Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr. Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+    "slug": "the-wizard-of-oz",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NjNDU1ZjctN2VhZi00Nzc5LTljNmItMTZiOTg1ODkwYjgwXkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Victor Fleming",
+    "year": "1939",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BN2Y2NTc0N2UtOTJhYS00MDNmLWE4NzQtMzE1YjI2ZTYwN2Y3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3YzQ4NmYtYmI2ZC00MzQwLWJkZGEtN2JhMTZkMzE2ZDQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjBkYTQ2NTItYTcxYi00OTI5LThmMjUtODllZWE5OTFjOTU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGRlYzZiYTItYjlmMy00NDliLTljNjEtNzAyMjA0NDRjNmUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGY0MzEyZWQtN2JlZC00MWZjLWI1YWQtMzcxZTUzNjhkYmU5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2M5ZGRjMzQtOTQyZi00YjcxLWFiYWQtNzQ2OGY4MDA3NzdmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg4YWIzMGQtMzkwNC00NTQ5LWFmY2QtMjYwNzk0NjUwZGE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzU5ODc3ODQtMTI3Ny00YTNiLTlmM2ItMjA0OTBkMmNlOGFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc3YTI5NWYtYjFkZi00YWQ1LTg5NzktYTJhYmY1N2YwNTRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmRiNWE2OGYtOWJkNS00NWFmLTkyYTMtNGE5ZjY0Y2QwMTJkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGEwYWE1OGMtYmUzNi00MzdkLTllZWYtNGU3NmRiNzBhZjM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjdkMjYxODItYWRkNi00YTI4LTg0MzAtNGQxYzA5Y2E3OWYzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0032138/",
+        "rating": "8.1/10"
+      },
+      "year": "1939",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0281808/",
+        "name": "Victor Fleming"
+      },
+      "seo": {
+        "title": "The Wizard of Oz (1939)",
+        "description": "The Wizard of Oz: Directed by Victor Fleming, King Vidor. With Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr. Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes."
+      }
+    }
+  }
+}

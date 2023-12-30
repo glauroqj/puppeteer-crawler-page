@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "gone-with-the-wind",
+    "title": "Gone with the Wind",
+    "year": "1939",
+    "director": "Victor Fleming"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Gone with the Wind",
+    "description": "Gone with the Wind: Directed by Victor Fleming, George Cukor, Sam Wood. With Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes. A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+    "slug": "gone-with-the-wind",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "director": "Victor Fleming",
+    "year": "1939",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODM0M2ZjYjAtNzdjZS00ZWFkLTgzNmEtZDVkZjNhODJkMzE1XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2MjcxNTU2Nl5BMl5BanBnXkFtZTgwOTQyODE2MjI@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM2NTMyMTc5MV5BMl5BanBnXkFtZTgwNDMyODE2MjI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc0Mzg2NzMyNF5BMl5BanBnXkFtZTgwNTMyODE2MjI@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1OTI5OTAyN15BMl5BanBnXkFtZTgwNjMyODE2MjI@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjk1NGRiNjMtOTBmOS00ZjkxLTg1MmMtNWE5OTZhNDQ5ZjMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDY4MDc0ODQtMDkxMi00NDMzLWFkZmYtNDM5NmVlN2I5YTU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MDYwNzkyN15BMl5BanBnXkFtZTgwMzYxODYyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTMzODk4MDE1MF5BMl5BanBnXkFtZTgwNDYxODYyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQyMzYxOTQyNl5BMl5BanBnXkFtZTgwMTUzOTY5MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDk1ODk5MV5BMl5BanBnXkFtZTgwODUzOTY5MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxNTUwMzU1M15BMl5BanBnXkFtZTcwNjY2ODMxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0031381/",
+        "rating": "8.2/10"
+      },
+      "year": "1939",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0281808/",
+        "name": "Victor Fleming"
+      },
+      "seo": {
+        "title": "Gone with the Wind (1939)",
+        "description": "Gone with the Wind: Directed by Victor Fleming, George Cukor, Sam Wood. With Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes. A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods."
+      }
+    }
+  }
+}

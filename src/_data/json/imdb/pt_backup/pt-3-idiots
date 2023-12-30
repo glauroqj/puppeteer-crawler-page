@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "3-idiots",
+    "title": "3 Idiotas",
+    "year": "2009",
+    "director": "Rajkumar Hirani"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "3 Idiotas",
+    "description": "3 Idiotas: Dirigido por Rajkumar Hirani. Com Aamir Khan, Madhavan, Sharman Joshi, Kareena Kapoor. Dois amigos procuram seu companheiro perdido. Eles se lembram de seus dias de faculdade e como seu amigo os inspirou a pensar de maneira diferente, mesmo quando o resto do mundo os chamava idiotas.",
+    "slug": "3-idiots",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Rajkumar Hirani",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNWQ5YTc5ZDQtOTkzYS00ODRlLTlkMDEtNjU1MjcyMDVkMDIwL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDc3NjdiNDItNGY4Mi00OWMwLTgyY2MtZjhmMzU0MWY4YTIzL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2MzkxMDk0NF5BMl5BanBnXkFtZTcwOTg0NDMwNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1Nzg0NzczMF5BMl5BanBnXkFtZTcwMzk0NDMwNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NDA5NjEzOV5BMl5BanBnXkFtZTcwMTA1NDMwNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NTczNjYzMl5BMl5BanBnXkFtZTcwNTc0NTMwNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQyNjY1MDg2M15BMl5BanBnXkFtZTcwMTg2MzkwMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1ODMzMjMwOF5BMl5BanBnXkFtZTcwMjg2MzkwMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDQ5NjQ0Nl5BMl5BanBnXkFtZTcwMzg2MzkwMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxNjQ1NzY0M15BMl5BanBnXkFtZTcwNDg2MzkwMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNjEwODY5NV5BMl5BanBnXkFtZTcwNTg2MzkwMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMzYxMTUzNl5BMl5BanBnXkFtZTcwNjg2MzkwMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1187043/",
+        "rating": "8.4/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0386246/",
+        "name": "Rajkumar Hirani"
+      },
+      "seo": {
+        "title": "3 Idiotas (2009)",
+        "description": "3 Idiotas: Dirigido por Rajkumar Hirani. Com Aamir Khan, Madhavan, Sharman Joshi, Kareena Kapoor. Dois amigos procuram seu companheiro perdido. Eles se lembram de seus dias de faculdade e como seu amigo os inspirou a pensar de maneira diferente, mesmo quando o resto do mundo os chamava idiotas."
+      }
+    }
+  }
+}

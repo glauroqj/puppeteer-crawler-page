@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "aladdin",
+    "title": "Aladdin",
+    "year": "1992",
+    "director": "Ron Clements"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Aladdin",
+    "description": "Aladdin: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "slug": "aladdin",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Ron Clements",
+    "year": "1992",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTA3NzYxMDQ3ODZeQTJeQWpwZ15BbWU4MDY4ODI2OTcx._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNjc2Mjc4Ml5BMl5BanBnXkFtZTgwNzg4MjY5NzE@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg1Nzk2NzU4MV5BMl5BanBnXkFtZTgwMjg4MjY5NzE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwODYyMzY5OV5BMl5BanBnXkFtZTgwMzg4MjY5NzE@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgzNDI3ODUyMV5BMl5BanBnXkFtZTgwNDg4MjY5NzE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NDMzOTU4OV5BMl5BanBnXkFtZTgwODc4MjY5NzE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM2Mzg0OTAxNV5BMl5BanBnXkFtZTgwOTc4MjY5NzE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3NzQwOTc1MF5BMl5BanBnXkFtZTgwMDg4MjY5NzE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEzNTA2MjI0ODBeQTJeQWpwZ15BbWU4MDE4ODI2OTcx._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMTc4MjY4NV5BMl5BanBnXkFtZTgwNTc4MjY5NzE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwNTgwMDYzOV5BMl5BanBnXkFtZTgwNjc4MjY5NzE@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzODAxMjU2MF5BMl5BanBnXkFtZTgwNzc4MjY5NzE@._V1_QL75_UY140_CR50,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0103639/",
+        "rating": "8/10"
+      },
+      "year": "1992",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0166256/",
+        "name": "Ron Clements"
+      },
+      "seo": {
+        "title": "Aladdin (1992)",
+        "description": "Aladdin: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+      }
+    }
+  }
+}

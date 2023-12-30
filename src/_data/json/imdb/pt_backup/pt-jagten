@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "jagten",
+    "title": "A Caça",
+    "year": "2012",
+    "director": "Thomas Vinterberg"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Caça",
+    "description": "A Caça: Dirigido por Thomas Vinterberg. Com Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm. Um professor vive uma vida solitária enquanto luta pela custódia de seu filho. Sua vida melhora lentamente quando ele encontra o amor e recebe boas notícias de seu filho, mas sua sorte está prestes a mudar por uma pequena mentira inocente.",
+    "slug": "jagten",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjg2Nzg3MzQtZDk0Mi00OTJjLWI4YTAtNzUwZTI3N2E0ZDIzXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Thomas Vinterberg",
+    "year": "2012",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM3OTc2NzQ0N15BMl5BanBnXkFtZTcwOTk3NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyODA2NTA0MV5BMl5BanBnXkFtZTcwMDA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY5NTkyMjc5OF5BMl5BanBnXkFtZTcwMTA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5OTA0MTkzNV5BMl5BanBnXkFtZTcwMjA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxOTkxNzIwMF5BMl5BanBnXkFtZTcwMzA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNTc0MTg4M15BMl5BanBnXkFtZTcwMDc4ODIwOQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY5MzUyNTg1NV5BMl5BanBnXkFtZTcwMzA1OTA2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg2NDI2OTg2MF5BMl5BanBnXkFtZTcwNzU4NjY4Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MzIzMTg1OV5BMl5BanBnXkFtZTcwMTY4NjY4Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MTI1MTA2OV5BMl5BanBnXkFtZTcwMTkwNTM4Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzOTA3Njk0MV5BMl5BanBnXkFtZTcwMjkwNTM4Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyODM1NjAxMV5BMl5BanBnXkFtZTcwMzkwNTM4Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2106476/",
+        "rating": "8.3/10"
+      },
+      "year": "2012",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0899121/",
+        "name": "Thomas Vinterberg"
+      },
+      "seo": {
+        "title": "A Caça (2012)",
+        "description": "A Caça: Dirigido por Thomas Vinterberg. Com Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm. Um professor vive uma vida solitária enquanto luta pela custódia de seu filho. Sua vida melhora lentamente quando ele encontra o amor e recebe boas notícias de seu filho, mas sua sorte está prestes a mudar por uma pequena mentira inocente."
+      }
+    }
+  }
+}

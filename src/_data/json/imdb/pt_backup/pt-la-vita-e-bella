@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "la-vita-e-bella",
+    "title": "A Vida é Bela",
+    "year": "1997",
+    "director": "Roberto Benigni"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Vida é Bela",
+    "description": "A Vida é Bela: Dirigido por Roberto Benigni. Com Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano. Quando um bibliotecário judeu e seu filho se tornarem vítimas do Holocausto, ele usará uma mistura perfeita de vontade, humor e imaginação para proteger seu filho dos perigos do campo de concentração.",
+    "slug": "la-vita-e-bella",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTY3M2NhODAtMTRiNC00OThlLTg3YTAtNjIwNjU2Zjg1MDFhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Roberto Benigni",
+    "year": "1997",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjM5MjMwMjg0N15BMl5BanBnXkFtZTgwNjkxMTkwNTM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4OTc5NzQ4OV5BMl5BanBnXkFtZTgwMjg0OTYyMTI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4OTcwMjUxOV5BMl5BanBnXkFtZTYwNzI1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MTM0Mjg2NV5BMl5BanBnXkFtZTYwOTI1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNzg5NDEyNl5BMl5BanBnXkFtZTYwMTM1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMjUxNzMzOF5BMl5BanBnXkFtZTYwMzM1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI0NzAwNzQ0OV5BMl5BanBnXkFtZTYwNTM1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMTA1OTE4OF5BMl5BanBnXkFtZTYwNzM1NDM3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MTMzMzY3Ml5BMl5BanBnXkFtZTYwMzY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMjgyMjQzN15BMl5BanBnXkFtZTYwNTY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI4MjYzMjU2OV5BMl5BanBnXkFtZTYwNzY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTgzNjYwNV5BMl5BanBnXkFtZTYwOTY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0118799/",
+        "rating": "8.6/10"
+      },
+      "year": "1997",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000905/",
+        "name": "Roberto Benigni"
+      },
+      "seo": {
+        "title": "A Vida é Bela (1997)",
+        "description": "A Vida é Bela: Dirigido por Roberto Benigni. Com Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano. Quando um bibliotecário judeu e seu filho se tornarem vítimas do Holocausto, ele usará uma mistura perfeita de vontade, humor e imaginação para proteger seu filho dos perigos do campo de concentração."
+      }
+    }
+  }
+}

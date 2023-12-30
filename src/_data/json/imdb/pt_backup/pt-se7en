@@ -3,17 +3,12 @@
     "slug": "se7en",
     "title": "Seven: Os Sete Crimes Capitais",
     "year": "1995",
-    "genres": [
-      "Policial",
-      "Drama",
-      "Mistério"
-    ],
     "director": "David Fincher"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Seven: Os Sete Crimes Capitais",
-    "description": "Dois detetives, um novato e um veterano, perseguem um assassino em série que usa os sete pecados capitais como motivos.",
+    "description": "Seven: Os Sete Crimes Capitais: Dirigido por David Fincher. Com Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt. Dois detetives, um novato e um veterano, perseguem um assassino em série que usa os sete pecados capitais como motivos.",
     "slug": "se7en",
     "image": "https://m.media-amazon.com/images/M/MV5BZDgyZmY5MmItY2I3Ny00NjA4LWFhNmItMGQ4ZGJhZDk5YjU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Seven: Os Sete Crimes Capitais (1995)",
-        "description": "Dois detetives, um novato e um veterano, perseguem um assassino em série que usa os sete pecados capitais como motivos."
+        "description": "Seven: Os Sete Crimes Capitais: Dirigido por David Fincher. Com Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt. Dois detetives, um novato e um veterano, perseguem um assassino em série que usa os sete pecados capitais como motivos."
       }
     }
   }

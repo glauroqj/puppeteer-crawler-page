@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-grand-budapest-hotel",
+    "title": "The Grand Budapest Hotel",
+    "year": "2014",
+    "director": "Wes Anderson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Grand Budapest Hotel",
+    "description": "The Grand Budapest Hotel: Directed by Wes Anderson. With Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody. A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "slug": "the-grand-budapest-hotel",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Wes Anderson",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjM1MjYzODE4N15BMl5BanBnXkFtZTgwNzU4ODY2OTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MDc5NDM1MV5BMl5BanBnXkFtZTgwNDQ4ODY2OTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwOTgxNDkzNl5BMl5BanBnXkFtZTgwNjAwNTU3MTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5NDA5MDQ3M15BMl5BanBnXkFtZTgwNjcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MDQyODI1M15BMl5BanBnXkFtZTgwNzcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwNjcyODA0Nl5BMl5BanBnXkFtZTgwODcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMTk2NzM2M15BMl5BanBnXkFtZTgwODYwODYyMTE@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1OTE0NDU4Nl5BMl5BanBnXkFtZTgwOTYwODYyMTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3ODIyNzEyOV5BMl5BanBnXkFtZTgwMjcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NjkzMzY5M15BMl5BanBnXkFtZTgwNDcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ0MDU2NDcyNV5BMl5BanBnXkFtZTgwNTcwODYyMTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4ODQyMTk4MV5BMl5BanBnXkFtZTgwMDYwODYyMTE@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2278388/",
+        "rating": "8.1/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0027572/",
+        "name": "Wes Anderson"
+      },
+      "seo": {
+        "title": "The Grand Budapest Hotel (2014)",
+        "description": "The Grand Budapest Hotel: Directed by Wes Anderson. With Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody. A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge."
+      }
+    }
+  }
+}

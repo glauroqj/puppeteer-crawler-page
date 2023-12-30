@@ -1,14 +1,14 @@
 {
   "poster_table": {
     "slug": "star-wars",
-    "title": "Star Wars: Episode IV - A New Hope",
+    "title": "Star Wars",
     "year": "1977",
     "director": "George Lucas"
   },
   "poster_lang": {
     "lang": "en",
-    "title": "Star Wars: Episode IV - A New Hope",
-    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+    "title": "Star Wars",
+    "description": "Star Wars: Episode IV - A New Hope: Directed by George Lucas. With Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing. Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
     "slug": "star-wars",
     "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
     "genres": [
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Star Wars: Episode IV - A New Hope (1977)",
-        "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ..."
+        "description": "Star Wars: Episode IV - A New Hope: Directed by George Lucas. With Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing. Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
       }
     }
   }

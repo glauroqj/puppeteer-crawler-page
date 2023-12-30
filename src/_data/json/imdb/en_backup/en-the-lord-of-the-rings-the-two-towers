@@ -3,17 +3,12 @@
     "slug": "the-lord-of-the-rings-the-two-towers",
     "title": "The Lord of the Rings: The Two Towers",
     "year": "2002",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
     "director": "Peter Jackson"
   },
   "poster_lang": {
     "lang": "en",
     "title": "The Lord of the Rings: The Two Towers",
-    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "description": "The Lord of the Rings: The Two Towers: Directed by Peter Jackson. With Bruce Allpress, Sean Astin, John Bach, Sala Baker. While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
     "slug": "the-lord-of-the-rings-the-two-towers",
     "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "The Lord of the Rings: The Two Towers (2002)",
-        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+        "description": "The Lord of the Rings: The Two Towers: Directed by Peter Jackson. With Bruce Allpress, Sean Astin, John Bach, Sala Baker. While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
       }
     }
   }

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "idi-i-smotri",
+    "title": "Idi i smotri",
+    "year": "1985",
+    "director": "Elem Klimov"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Idi i smotri",
+    "description": "Come and See: Directed by Elem Klimov. With Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas. After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+    "slug": "idi-i-smotri",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "director": "Elem Klimov",
+    "year": "1985",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjAyMjg3MzY0MF5BMl5BanBnXkFtZTgwNDM4MTI2MTE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyODk0OTIzMF5BMl5BanBnXkFtZTgwNTM4MTI2MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1MzM1NzE2N15BMl5BanBnXkFtZTgwNjM4MTI2MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3ODMwNjAxMF5BMl5BanBnXkFtZTgwNzM4MTI2MTE@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDc5MDQ2NTMxN15BMl5BanBnXkFtZTgwODM4MTI2MTE@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDVhOGE5MzQtZGEyYy00NmFkLWIzYjYtODJkNjJkZGU4YTFiXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE1OWRlM2YtYThiYi00MTU3LThjZTctYjcxOWRmMTQ3MDdmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyMjM4NTQ2OF5BMl5BanBnXkFtZTgwOTM4MTI2MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwODE3NzU2MV5BMl5BanBnXkFtZTgwMTQ4MTI2MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NDU5NTQ0N15BMl5BanBnXkFtZTgwMzY5MTA2MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4MDc1ODc3NV5BMl5BanBnXkFtZTcwNjMyODA4MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI0NDYyNzk5OV5BMl5BanBnXkFtZTYwMzY1Mjk4._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0091251/",
+        "rating": "8.4/10"
+      },
+      "year": "1985",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0459552/",
+        "name": "Elem Klimov"
+      },
+      "seo": {
+        "title": "Come and See (1985)",
+        "description": "Come and See: Directed by Elem Klimov. With Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas. After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II."
+      }
+    }
+  }
+}

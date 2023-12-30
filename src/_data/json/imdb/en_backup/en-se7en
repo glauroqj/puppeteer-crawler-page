@@ -3,17 +3,12 @@
     "slug": "se7en",
     "title": "Se7en",
     "year": "1995",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
     "director": "David Fincher"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Se7en",
-    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "description": "Se7en: Directed by David Fincher. With Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt. Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
     "slug": "se7en",
     "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Se7en (1995)",
-        "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+        "description": "Se7en: Directed by David Fincher. With Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt. Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
       }
     }
   }

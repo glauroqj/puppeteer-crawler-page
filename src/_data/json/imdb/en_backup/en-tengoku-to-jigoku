@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "tengoku-to-jigoku",
+    "title": "Tengoku to jigoku",
+    "year": "1963",
+    "director": "Akira Kurosawa"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Tengoku to jigoku",
+    "description": "High and Low: Directed by Akira Kurosawa. With Toshirô Mifune, Tatsuya Nakadai, Kyôko Kagawa, Tatsuya Mihashi. An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+    "slug": "tengoku-to-jigoku",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Akira Kurosawa",
+    "year": "1963",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTgxNTk0NzU2Ml5BMl5BanBnXkFtZTcwNzI5MTU4Mw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3NTg0MDMzMF5BMl5BanBnXkFtZTcwODI5MTU4Mw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwODU0NjUyN15BMl5BanBnXkFtZTcwOTI5MTU4Mw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTJjNjA4MjgtMjE4Ni00MDU5LTkzZDAtZDAyZWM5ZGY5MjgwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMTM4NzcyOV5BMl5BanBnXkFtZTgwMjA1MDkwMzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4MTE4NTc5NF5BMl5BanBnXkFtZTYwOTcyMjU5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGFjMGY5NGUtYzFhMC00NzE1LTg5ZDctYzNkOGIwODU5ZDQ5XkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_QL75_UY140_CR91,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODJhYjAwMTUtM2FkYy00MDU3LWJlOTQtZWRmOWUzMGQ4ZWRjXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGYxOTBkYWYtZTllYi00YWEwLWIxZjktMTIwNTUzNTdkMGFjXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDIxNTI5YTUtODU0OS00YjE1LTg4YWQtOWZhZDkzNzI4ODllXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjRjNDE0NjQtMThmNC00ZmUwLWE4ZDMtMDQ2NGYwN2E5N2FmXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWVmZWFlZjAtMGYyYi00N2NiLWE4NDEtYmNkYWFlMzgzNDFmXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0057565/",
+        "rating": "8.4/10"
+      },
+      "year": "1963",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000041/",
+        "name": "Akira Kurosawa"
+      },
+      "seo": {
+        "title": "High and Low (1963)",
+        "description": "High and Low: Directed by Akira Kurosawa. With Toshirô Mifune, Tatsuya Nakadai, Kyôko Kagawa, Tatsuya Mihashi. An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "heat",
+    "title": "Fogo Contra Fogo",
+    "year": "1995",
+    "director": "Michael Mann"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Fogo Contra Fogo",
+    "description": "Fogo Contra Fogo: Dirigido por Michael Mann. Com Al Pacino, Robert De Niro, Val Kilmer, Jon Voight. Um grupo de profissionais roubando bancos sospeitam que a polícia está tráis deles quando deixam uma pista no seu último roubo.",
+    "slug": "heat",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Drama"
+    ],
+    "director": "Michael Mann",
+    "year": "1995",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTliYjEwZDQtYzRiYi00YzEwLTg5ZDEtMzQ2MzA1YjdjMTFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJiMjdiZDEtMGVlZC00Y2NhLTljNzMtNmNjZjgwMjE5YzBjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTc4MWU0ZDUtZWZlMC00M2M1LWJhNzUtMzdiYzMzNDEwZDc4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzUxNzQxNTk4NF5BMl5BanBnXkFtZTgwNTYwNTQ3NjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTExNTA2MTc5MDNeQTJeQWpwZ15BbWU4MDQ2MDU0NzYx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3NzQ5NjQ0Nl5BMl5BanBnXkFtZTgwMzYwNTQ3NjE@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNzgxMDkwNF5BMl5BanBnXkFtZTgwMTYwNTQ3NjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzODUyMDc4N15BMl5BanBnXkFtZTcwNTY3MjgxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NDg5MTMzOV5BMl5BanBnXkFtZTcwNjEzNzIwNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNDg4Mjg2MV5BMl5BanBnXkFtZTcwNzEzNzIwNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0MTg4OTc2Ml5BMl5BanBnXkFtZTcwOTEzNzIwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5MDE0NDU5OV5BMl5BanBnXkFtZTcwMTIzNzIwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0113277/",
+        "rating": "8.3/10"
+      },
+      "year": "1995",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000520/",
+        "name": "Michael Mann"
+      },
+      "seo": {
+        "title": "Fogo Contra Fogo (1995)",
+        "description": "Fogo Contra Fogo: Dirigido por Michael Mann. Com Al Pacino, Robert De Niro, Val Kilmer, Jon Voight. Um grupo de profissionais roubando bancos sospeitam que a polícia está tráis deles quando deixam uma pista no seu último roubo."
+      }
+    }
+  }
+}

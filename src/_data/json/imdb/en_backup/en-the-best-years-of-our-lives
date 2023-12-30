@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-best-years-of-our-lives",
+    "title": "The Best Years of Our Lives",
+    "year": "1946",
+    "director": "William Wyler"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Best Years of Our Lives",
+    "description": "The Best Years of Our Lives: Directed by William Wyler. With Myrna Loy, Fredric March, Dana Andrews, Teresa Wright. Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+    "slug": "the-best-years-of-our-lives",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "director": "William Wyler",
+    "year": "1946",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMWEyMDM1MmUtMWJjNi00YWJlLTgzMjEtZmQ1NzA0YTI3MjRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTU3MDYwODgyNl5BMl5BanBnXkFtZTcwNTU4OTQwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWM0ODk3MjctN2I2NS00ZWE2LWI3MTktN2ZkNzI1YjY3OGJkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTY0MDM2NV5BMl5BanBnXkFtZTcwMTU4OTQwNw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTI1MTk1MjgyOV5BMl5BanBnXkFtZTcwNzU4OTQwNw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjJlMTQ2YmYtNGYwNy00MGJhLWExZGMtMzYzYzdlMTJhMDUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWFjNDIyZmItNzc3NS00ZjBkLTkzYzgtZDhhOGYzNzA4YTUyXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDYyMGMzZDktYmY4MS00ZTY2LTg1OTUtYmEzNWFkNjhhMzZiXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGMzNjY3YWItZjllZC00YjE3LWEyNjYtMDQxMGM0MmY3Yjc2XkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWViMWRjMTEtMGZmOC00NDEzLWExY2YtYjY5YzI1ZTYwOTNkXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGE3NmI4MjUtY2IzYy00YjY3LTg2NWQtNzBkNTFjY2ZmMTQ2XkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGNmYTgxZGYtYTgyNi00OTgwLTg0ZWEtZGFlYTdlOGZkZjc0XkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0036868/",
+        "rating": "8.1/10"
+      },
+      "year": "1946",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0943758/",
+        "name": "William Wyler"
+      },
+      "seo": {
+        "title": "The Best Years of Our Lives (1946)",
+        "description": "The Best Years of Our Lives: Directed by William Wyler. With Myrna Loy, Fredric March, Dana Andrews, Teresa Wright. Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed."
+      }
+    }
+  }
+}

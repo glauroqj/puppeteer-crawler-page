@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "inglourious-basterds",
+    "title": "Bastardos Inglórios",
+    "year": "2009",
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Bastardos Inglórios",
+    "description": "Bastardos Inglórios: Dirigido por Quentin Tarantino. Com Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth. Na França ocupada pelos nazistas durante a Segunda Guerra Mundial, um plano para assassinar líderes nazistas por parte de um grupo de soldados judeus dos EUA coincide com os planos de vingança da dona de uma sala de cinema.",
+    "slug": "inglourious-basterds",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M5YzVlMDctZWI2ZC00MjdlLWE1YzctMTQ5OGQ1NGJhZWMyXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTAxNTIyMTIxMzReQTJeQWpwZ15BbWU4MDk3Mjc5NzEy._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxNTE5MjEzM15BMl5BanBnXkFtZTgwMDgyNzk3MTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyNzcwODE2MV5BMl5BanBnXkFtZTgwNTAwNDI2MTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgxMjg1MDA0M15BMl5BanBnXkFtZTgwNzc1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxODA4NzIyNF5BMl5BanBnXkFtZTgwMDg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MTYzNTYxMl5BMl5BanBnXkFtZTgwODc1MDc3MTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MDM1NDQyM15BMl5BanBnXkFtZTgwMTg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0MTY3Njk5OF5BMl5BanBnXkFtZTgwMjg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1NjA1MDMyNF5BMl5BanBnXkFtZTgwMzg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3NzcwMjMwN15BMl5BanBnXkFtZTcwODA0OTY3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0OTYyMjk0OF5BMl5BanBnXkFtZTcwOTA0OTY3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NzIyMDQ1OV5BMl5BanBnXkFtZTcwMDE0OTY3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0361748/",
+        "rating": "8.4/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Bastardos Inglórios (2009)",
+        "description": "Bastardos Inglórios: Dirigido por Quentin Tarantino. Com Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth. Na França ocupada pelos nazistas durante a Segunda Guerra Mundial, um plano para assassinar líderes nazistas por parte de um grupo de soldados judeus dos EUA coincide com os planos de vingança da dona de uma sala de cinema."
+      }
+    }
+  }
+}

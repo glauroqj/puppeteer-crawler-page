@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-kid",
+    "title": "The Kid",
+    "year": "1921",
+    "director": "Charles Chaplin"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Kid",
+    "description": "The Kid: Directed by Charles Chaplin. With Charles Chaplin, Jackie Coogan, Carl Miller, Edna Purviance. The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+    "slug": "the-kid",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "director": "Charles Chaplin",
+    "year": "1921",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk5NDIwMjcxNV5BMl5BanBnXkFtZTcwMjU2NzIwNw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMTY2MzYyMl5BMl5BanBnXkFtZTcwMzU2NzIwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMzE5MDI4N15BMl5BanBnXkFtZTcwNTU2NzIwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTQzMTM4NGEtNGFjNy00YWNkLThkZjAtZmY4YWMyNTUyNzhkXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzcxYzQzNDktNzBhNy00ZDFiLTk3MjgtMTUwNzZkZmVjYWI2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1ODc2MTYyOV5BMl5BanBnXkFtZTgwODQ3MjI2MzE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MTcxNzM1NV5BMl5BanBnXkFtZTgwNzQ3MjI2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1MTY5MjY3MV5BMl5BanBnXkFtZTgwOTY1MjgwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2Mjk1NzAzODBeQTJeQWpwZ15BbWU4MDA3NTI4MDIx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNzIzODY5MF5BMl5BanBnXkFtZTgwODY1MjgwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MzYzOTg4Ml5BMl5BanBnXkFtZTgwNzM5NTEyMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ2NjA3MDcwMF5BMl5BanBnXkFtZTgwODMxMjk5MDE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0012349/",
+        "rating": "8.2/10"
+      },
+      "year": "1921",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000122/",
+        "name": "Charles Chaplin"
+      },
+      "seo": {
+        "title": "The Kid (1921)",
+        "description": "The Kid: Directed by Charles Chaplin. With Charles Chaplin, Jackie Coogan, Carl Miller, Edna Purviance. The Tramp cares for an abandoned child, but events put their relationship in jeopardy."
+      }
+    }
+  }
+}

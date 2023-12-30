@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "gone-girl",
+    "title": "Garota Exemplar",
+    "year": "2014",
+    "director": "David Fincher"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Garota Exemplar",
+    "description": "Garota Exemplar: Dirigido por David Fincher. Com Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry. Desde que o desaparecimento de sua esposa se tornou o foco de um intenso circo da mídia, um homem vê como esta se concentra nele quando suspeitam que pode não ser inocente.",
+    "slug": "gone-girl",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2UwMWYzZjEtZjQyZS00MmQ0LTg5ZmItNDEyNDg3ZDdjMWQ5XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "David Fincher",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTg2OTk1ODA5OV5BMl5BanBnXkFtZTgwMDQwMTI4MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MzEzMTU0OF5BMl5BanBnXkFtZTgwMjcyOTM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM5MzcwNDQ0NV5BMl5BanBnXkFtZTgwMTcyOTM3MjE@._V1_QL75_UY140_CR58,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzMjk2MzMzN15BMl5BanBnXkFtZTgwMzcyOTM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3NTQwMjI3MV5BMl5BanBnXkFtZTgwODAxOTM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzOTEwMzc4MV5BMl5BanBnXkFtZTgwMjk3MDM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2NTU3MTYxM15BMl5BanBnXkFtZTgwOTg3MDM3MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4NDgyMDk3Nl5BMl5BanBnXkFtZTgwNjg3MDM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwMzc2NDg2MV5BMl5BanBnXkFtZTgwMDk3MDM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczNzkyNzUwMl5BMl5BanBnXkFtZTgwNzg3MDM3MjE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI2Nzg4MzE1MV5BMl5BanBnXkFtZTgwMTk3MDM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ5NTI4NzU0N15BMl5BanBnXkFtZTgwNTE3MDM3MjE@._V1_QL75_UY140_CR29,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2267998/",
+        "rating": "8.1/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000399/",
+        "name": "David Fincher"
+      },
+      "seo": {
+        "title": "Garota Exemplar (2014)",
+        "description": "Garota Exemplar: Dirigido por David Fincher. Com Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry. Desde que o desaparecimento de sua esposa se tornou o foco de um intenso circo da mídia, um homem vê como esta se concentra nele quando suspeitam que pode não ser inocente."
+      }
+    }
+  }
+}

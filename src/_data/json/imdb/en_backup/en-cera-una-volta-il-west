@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "cera-una-volta-il-west",
+    "title": "C'era una volta il West",
+    "year": "1968",
+    "director": "Sergio Leone"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "C'era una volta il West",
+    "description": "Once Upon a Time in the West: Directed by Sergio Leone. With Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson. A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "slug": "cera-una-volta-il-west",
+    "image": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Western"
+    ],
+    "director": "Sergio Leone",
+    "year": "1968",
+    "infos": {
+      "genres": [
+        "Western"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWRkZmZkYmMtZjQ1Ni00MGQwLTkxZjUtOWU3ODlkZDRmY2FjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2NTQ2MzkwNV5BMl5BanBnXkFtZTcwMjU1ODIwNw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1Njg3ODA2MF5BMl5BanBnXkFtZTcwNDU1ODIwNw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgzNDM5NTY3NF5BMl5BanBnXkFtZTcwNjA4MTc4Mw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyNjc4NTM1MV5BMl5BanBnXkFtZTcwNzA4MTc4Mw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgyODk4MTIwOF5BMl5BanBnXkFtZTcwODA4MTc4Mw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyODg4NTA1NF5BMl5BanBnXkFtZTcwOTYwMTUzNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk5OTcyMjQzM15BMl5BanBnXkFtZTcwMzU1ODIwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzZiNjA5NzMtOGU1My00NjRiLTg4ODQtMTllNTNlZjYxNjQ3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxOTEwOTU0MV5BMl5BanBnXkFtZTgwNDc4NjQ3MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg2NDIyODM2NV5BMl5BanBnXkFtZTgwMjI4OTU0MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg1NTcyNjc2M15BMl5BanBnXkFtZTgwMzI4OTU0MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0064116/",
+        "rating": "8.5/10"
+      },
+      "year": "1968",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001466/",
+        "name": "Sergio Leone"
+      },
+      "seo": {
+        "title": "Once Upon a Time in the West (1968)",
+        "description": "Once Upon a Time in the West: Directed by Sergio Leone. With Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson. A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad."
+      }
+    }
+  }
+}

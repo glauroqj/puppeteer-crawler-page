@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-thing",
+    "title": "The Thing",
+    "year": "1982",
+    "director": "John Carpenter"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Thing",
+    "description": "The Thing: Directed by John Carpenter. With Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon. A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "slug": "the-thing",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "John Carpenter",
+    "year": "1982",
+    "infos": {
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzE0NGU2ZTQtYTJlZC00ODQ5LTg3NmYtMTdlMDk3YzViMDNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk4Mzg1Njg0Ml5BMl5BanBnXkFtZTgwMzQzMzE2NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMjM2NDE5MF5BMl5BanBnXkFtZTgwODAwMDIwNTM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ3NDg5MDA0OV5BMl5BanBnXkFtZTgwMTEwMDIwNTM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyNzc0MTI0NV5BMl5BanBnXkFtZTcwNTc4MTI2NQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg3NDE4OTAzN15BMl5BanBnXkFtZTcwNjc4MTI2NQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MDQ1NzA4MV5BMl5BanBnXkFtZTcwNzc4MTI2NQ@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4NDIzOTQ2N15BMl5BanBnXkFtZTcwODc4MTI2NQ@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MDM0NjYzNF5BMl5BanBnXkFtZTcwOTc4MTI2NQ@@._V1_QL75_UY140_CR79,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MjI0ODQ2OF5BMl5BanBnXkFtZTcwMDg4MTI2NQ@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDEwMTY4NDEzN15BMl5BanBnXkFtZTcwMTg4MTI2NQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3ODk5NzU0NF5BMl5BanBnXkFtZTcwMzg4MTI2NQ@@._V1_QL75_UY140_CR16,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0084787/",
+        "rating": "8.2/10"
+      },
+      "year": "1982",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000118/",
+        "name": "John Carpenter"
+      },
+      "seo": {
+        "title": "The Thing (1982)",
+        "description": "The Thing: Directed by John Carpenter. With Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon. A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+      }
+    }
+  }
+}

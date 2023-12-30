@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "reservoir-dogs",
+    "title": "Cães de Aluguel",
+    "year": "1992",
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Cães de Aluguel",
+    "description": "Cães de Aluguel: Dirigido por Quentin Tarantino. Com Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn. Quando um simples roubo de jóias dá errado, os criminosos sobreviventes começam a suspeitar que um deles é um informante da polícia.",
+    "slug": "reservoir-dogs",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWQwZGMwMWUtYzUwNy00NDk3LTk5YjktMGQ1M2E0NmI5M2MyXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Suspense"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "1992",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ4OTkyNzM4Ml5BMl5BanBnXkFtZTgwODkxOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0MDc5MTQ3OF5BMl5BanBnXkFtZTgwOTkxOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1NTI1MTc2NF5BMl5BanBnXkFtZTgwNjkxOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2OTk1ODc3M15BMl5BanBnXkFtZTgwNTg3OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU3MDYwMTMyMF5BMl5BanBnXkFtZTgwMzg3OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MDY2NDQzNV5BMl5BanBnXkFtZTgwOTc3OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWRlOGVmZjAtODVmMC00YmRhLThlYTItNTY3MDliYjVkYWFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2MDc1ODk5MF5BMl5BanBnXkFtZTgwMjg3OTEwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NjM2OTU4OF5BMl5BanBnXkFtZTcwNDUzMDg0Nw@@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MjQ2NzI4OV5BMl5BanBnXkFtZTcwNTUzMDg0Nw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0MTExOTcwMF5BMl5BanBnXkFtZTcwNjUzMDg0Nw@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzM5NjYyODk3Ml5BMl5BanBnXkFtZTcwNzUzMDg0Nw@@._V1_QL75_UY140_CR95,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0105236/",
+        "rating": "8.3/10"
+      },
+      "year": "1992",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Cães de Aluguel (1992)",
+        "description": "Cães de Aluguel: Dirigido por Quentin Tarantino. Com Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn. Quando um simples roubo de jóias dá errado, os criminosos sobreviventes começam a suspeitar que um deles é um informante da polícia."
+      }
+    }
+  }
+}

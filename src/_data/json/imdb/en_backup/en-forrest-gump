@@ -3,16 +3,12 @@
     "slug": "forrest-gump",
     "title": "Forrest Gump",
     "year": "1994",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
     "director": "Robert Zemeckis"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Forrest Gump",
-    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "description": "Forrest Gump: Directed by Robert Zemeckis. With Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys. The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
     "slug": "forrest-gump",
     "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Forrest Gump (1994)",
-        "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+        "description": "Forrest Gump: Directed by Robert Zemeckis. With Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys. The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
       }
     }
   }

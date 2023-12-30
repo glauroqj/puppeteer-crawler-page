@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "el-laberinto-del-fauno",
+    "title": "O Labirinto do Fauno",
+    "year": "2006",
+    "director": "Guillermo del Toro"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Labirinto do Fauno",
+    "description": "O Labirinto do Fauno: Dirigido por Guillermo del Toro. Com Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones. Na Espanha de 1944, a filha dum oficial do exército escapa a um mundo de fantasia.",
+    "slug": "el-laberinto-del-fauno",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM2NzM3MzMtODk4NC00NjJiLWFmMGUtOTYwZTE4NjI1NzMxXkEyXkFqcGdeQXVyMTU3NTI2OTky._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Guerra"
+    ],
+    "director": "Guillermo del Toro",
+    "year": "2006",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Fantasia",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTg5ODQxODI4M15BMl5BanBnXkFtZTcwODk2MzA1OQ@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyNTcyODI3M15BMl5BanBnXkFtZTcwNjIzMTg0NA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMjc5MTQyM15BMl5BanBnXkFtZTcwNzIzMTg0NA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczNTY5NDMzOF5BMl5BanBnXkFtZTcwNDI5MDg3Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5NTg0MDI1NV5BMl5BanBnXkFtZTcwNTI5MDg3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODkyMzk4OTAyNF5BMl5BanBnXkFtZTcwNjI5MDg3Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA3ZjYxMWQtNjMzMi00ZWJmLWEwMmItNDY3MGI5YWI4OTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjU1NzA0NDYxN15BMl5BanBnXkFtZTgwMDUwNzkzMjI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMjY1ODEyNF5BMl5BanBnXkFtZTYwMjI2NzE2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1Mjg5NTk0Ml5BMl5BanBnXkFtZTYwMzM2NzE2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4Mzk2MTk2NF5BMl5BanBnXkFtZTYwNjM2NzE2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyOTY1MDQ5OF5BMl5BanBnXkFtZTYwOTM2NzE2._V1_QL75_UY140_CR32,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0457430/",
+        "rating": "8.2/10"
+      },
+      "year": "2006",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0868219/",
+        "name": "Guillermo del Toro"
+      },
+      "seo": {
+        "title": "O Labirinto do Fauno (2006)",
+        "description": "O Labirinto do Fauno: Dirigido por Guillermo del Toro. Com Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones. Na Espanha de 1944, a filha dum oficial do exército escapa a um mundo de fantasia."
+      }
+    }
+  }
+}

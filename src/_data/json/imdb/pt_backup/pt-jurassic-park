@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "jurassic-park",
+    "title": "Jurassic Park - O Parque dos Dinossauros",
+    "year": "1993",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Jurassic Park - O Parque dos Dinossauros",
+    "description": "Jurassic Park - O Parque dos Dinossauros: Dirigido por Steven Spielberg. Com Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough. Um milionário traz à vida dinossauros extintos há milhares de anos, criando um imenso parque. Mas os gigantes pré-históricos começam a ameaçar a vida dos visitantes.",
+    "slug": "jurassic-park",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTY4NjIxYTctZDcwNS00MjNmLTlhYTQtMzI3OWYyNzQwMjdkXkEyXkFqcGdeQXVyNTk2MDQ0MjA@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "Steven Spielberg",
+    "year": "1993",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDJkODEyNDQtODRkZC00MTVkLWFlMTAtYzM1M2U1MzdmZjZkXkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MTc1NDkyN15BMl5BanBnXkFtZTgwOTMzOTIwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjcyMDc0MTExNV5BMl5BanBnXkFtZTgwMjEzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMTQzOTg4OF5BMl5BanBnXkFtZTgwNDAzOTIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzY5MDIzNTEwNl5BMl5BanBnXkFtZTgwMzEzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxOTE2NzI4NF5BMl5BanBnXkFtZTgwOTgyOTIwMjE@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg5NjQyNDExNF5BMl5BanBnXkFtZTgwMTEzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA3NTI4Mzg0MjZeQTJeQWpwZ15BbWU4MDI5MjkyMDIx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNDk3NjMxMF5BMl5BanBnXkFtZTgwNTkyOTIwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwMDQzMTA1Ml5BMl5BanBnXkFtZTgwNDgyOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NzAxNzE2OV5BMl5BanBnXkFtZTgwNjAzOTIwMjE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMzMzMjc5NV5BMl5BanBnXkFtZTgwMzAzOTIwMjE@._V1_QL75_UY140_CR39,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0107290/",
+        "rating": "8.2/10"
+      },
+      "year": "1993",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "Jurassic Park - O Parque dos Dinossauros (1993)",
+        "description": "Jurassic Park - O Parque dos Dinossauros: Dirigido por Steven Spielberg. Com Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough. Um milionário traz à vida dinossauros extintos há milhares de anos, criando um imenso parque. Mas os gigantes pré-históricos começam a ameaçar a vida dos visitantes."
+      }
+    }
+  }
+}

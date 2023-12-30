@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "yojinbo",
+    "title": "Yôjinbô",
+    "year": "1961",
+    "director": "Akira Kurosawa"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Yôjinbô",
+    "description": "Yojimbo: Directed by Akira Kurosawa. With Toshirô Mifune, Tatsuya Nakadai, Yôko Tsukasa, Isuzu Yamada. A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "slug": "yojinbo",
+    "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Akira Kurosawa",
+    "year": "1961",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjI1MjQxODAxNl5BMl5BanBnXkFtZTcwNTU0MTc4Ng@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5NDI2MTkxMl5BMl5BanBnXkFtZTcwNjU0MTc4Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5NDU3NzQ1Ml5BMl5BanBnXkFtZTcwNzU0MTc4Ng@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk3MTI3ODIwMV5BMl5BanBnXkFtZTcwODU0MTc4Ng@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0NTk1Mjc0OF5BMl5BanBnXkFtZTcwOTU0MTc4Ng@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWIwMjgxYjctZDYyZi00YzM2LWEwNmYtM2E5NjhkM2Y5NDQ4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0MDMzMDI2M15BMl5BanBnXkFtZTgwNjg5ODQyNjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI4OTM4OTIwOV5BMl5BanBnXkFtZTgwNzg5ODQyNjE@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQxMTUzMjI0M15BMl5BanBnXkFtZTgwODg5ODQyNjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ2MDgzMjczOV5BMl5BanBnXkFtZTgwOTg5ODQyNjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyMDA2ODU1Ml5BMl5BanBnXkFtZTgwMTg5ODQyNjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDY0MDYxMDQyOF5BMl5BanBnXkFtZTgwMjg5ODQyNjE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0055630/",
+        "rating": "8.2/10"
+      },
+      "year": "1961",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000041/",
+        "name": "Akira Kurosawa"
+      },
+      "seo": {
+        "title": "Yojimbo (1961)",
+        "description": "Yojimbo: Directed by Akira Kurosawa. With Toshirô Mifune, Tatsuya Nakadai, Yôko Tsukasa, Isuzu Yamada. A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town."
+      }
+    }
+  }
+}

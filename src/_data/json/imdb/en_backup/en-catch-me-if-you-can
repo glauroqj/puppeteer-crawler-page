@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "catch-me-if-you-can",
+    "title": "Catch Me If You Can",
+    "year": "2002",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Catch Me If You Can",
+    "description": "Catch Me If You Can: Directed by Steven Spielberg. With Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen. Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+    "slug": "catch-me-if-you-can",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Steven Spielberg",
+    "year": "2002",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM3ODM4ODU3OV5BMl5BanBnXkFtZTcwMDI4OTcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk0NDQ5NTgwOF5BMl5BanBnXkFtZTcwMTI4OTcxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NDQ5NDA1MF5BMl5BanBnXkFtZTcwMzI4OTcxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY4MTUzNjc4M15BMl5BanBnXkFtZTcwNDI4OTcxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwODcxNDUxMV5BMl5BanBnXkFtZTcwNTI4OTcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0MTA0OTkxOF5BMl5BanBnXkFtZTcwNzI4OTcxNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwMzM5ODc2ODZeQTJeQWpwZ15BbWU3MDgyODk3MTQ@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MzM5MDc0Nl5BMl5BanBnXkFtZTcwOTI4OTcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzNjE2NTc3M15BMl5BanBnXkFtZTcwMTM4OTcxNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5NDI4MDg3MF5BMl5BanBnXkFtZTcwMjM4OTcxNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3NzU2Mjg5N15BMl5BanBnXkFtZTcwMzM4OTcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMTY5NjAwNl5BMl5BanBnXkFtZTcwNDM4OTcxNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0264464/",
+        "rating": "8.1/10"
+      },
+      "year": "2002",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "Catch Me If You Can (2002)",
+        "description": "Catch Me If You Can: Directed by Steven Spielberg. With Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen. Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit."
+      }
+    }
+  }
+}

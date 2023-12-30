@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "the-help",
+    "title": "Histórias Cruzadas",
+    "year": "2011",
+    "director": "Tate Taylor"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Histórias Cruzadas",
+    "description": "Histórias Cruzadas: Dirigido por Tate Taylor. Com Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer. Uma aspirante a escritora durante o movimento dos direitos civis nos anos 60 nos Estados Unidos decide escrever um livro sobre as experiências das criadas negras que trabalhavam para as famílias brancas.",
+    "slug": "the-help",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Tate Taylor",
+    "year": "2011",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjAxMDgwNzc3M15BMl5BanBnXkFtZTcwOTE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNDk0MzUxOF5BMl5BanBnXkFtZTcwMDI1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NzYyNTk1M15BMl5BanBnXkFtZTcwMTI1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMDI4MzMxNjdeQTJeQWpwZ15BbWU3MDIyNTg1ODU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMDU1MTc4N15BMl5BanBnXkFtZTcwMzI1ODU4NQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMjMzMzc1NTleQTJeQWpwZ15BbWU3MDAxNTg1ODU@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTA1Mjk1MDY0NF5BMl5BanBnXkFtZTcwMTE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3ODc5NTM3OV5BMl5BanBnXkFtZTcwMjE1ODU4NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMDU3NDQ0N15BMl5BanBnXkFtZTcwMzE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDkzNTc3MTAzNF5BMl5BanBnXkFtZTcwNDE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3NTQ3MTIyMV5BMl5BanBnXkFtZTcwNTE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NzA1ODIyOF5BMl5BanBnXkFtZTcwNjE1ODU4NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1454029/",
+        "rating": "8.1/10"
+      },
+      "year": "2011",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0853238/",
+        "name": "Tate Taylor"
+      },
+      "seo": {
+        "title": "Histórias Cruzadas (2011)",
+        "description": "Histórias Cruzadas: Dirigido por Tate Taylor. Com Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer. Uma aspirante a escritora durante o movimento dos direitos civis nos anos 60 nos Estados Unidos decide escrever um livro sobre as experiências das criadas negras que trabalhavam para as famílias brancas."
+      }
+    }
+  }
+}

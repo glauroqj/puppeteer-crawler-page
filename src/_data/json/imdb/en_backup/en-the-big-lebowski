@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-big-lebowski",
+    "title": "The Big Lebowski",
+    "year": "1998",
+    "director": "Joel Coen"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Big Lebowski",
+    "description": "The Big Lebowski: Directed by Joel Coen, Ethan Coen. With Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi. Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "slug": "the-big-lebowski",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Joel Coen",
+    "year": "1998",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTFmMzM1NmQtOTJhYS00NjM1LTgxYzYtZWU1ZDQ4MDEyNDA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMDk5MjE4NV5BMl5BanBnXkFtZTgwMzc0MTAwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQwMTAzOTkxNV5BMl5BanBnXkFtZTgwMjc0MTAwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyMDAwMDM4OF5BMl5BanBnXkFtZTcwMDgzNDE0NQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA3NzM0NzcwMTZeQTJeQWpwZ15BbWU3MDYyNTcyNzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMzI4MDc1M15BMl5BanBnXkFtZTcwNzI1NzI3Mg@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyNTUwMzc4NF5BMl5BanBnXkFtZTcwODI1NzI3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg1MjU3NjE0OV5BMl5BanBnXkFtZTcwOTI1NzI3Mg@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MTQxMzA2OV5BMl5BanBnXkFtZTcwMDM1NzI3Mg@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MDkxODMyNF5BMl5BanBnXkFtZTcwMTM1NzI3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxNDcyNjMzMF5BMl5BanBnXkFtZTcwMjM1NzI3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MTEzOTM0MF5BMl5BanBnXkFtZTcwMzM1NzI3Mg@@._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0118715/",
+        "rating": "8.1/10"
+      },
+      "year": "1998",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001054/",
+        "name": "Joel Coen"
+      },
+      "seo": {
+        "title": "The Big Lebowski (1998)",
+        "description": "The Big Lebowski: Directed by Joel Coen, Ethan Coen. With Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi. Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
+      }
+    }
+  }
+}

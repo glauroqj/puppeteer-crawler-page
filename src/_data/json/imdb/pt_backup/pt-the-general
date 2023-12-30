@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-general",
+    "title": "A General",
+    "year": "1926",
+    "director": "Clyde Bruckman"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A General",
+    "description": "A General: Dirigido por Clyde Bruckman, Buster Keaton. Com Buster Keaton, Marion Mack, Glen Cavender, Jim Farley. Uns espiões roubam a amada locomotiva de um engenheiro, ele a persegue sozinho através das linhas inimigas.",
+    "slug": "the-general",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Clyde Bruckman",
+    "year": "1926",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTg3OTU5NTUxMl5BMl5BanBnXkFtZTgwMTczNjc5MTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4Mzg3MDY4MF5BMl5BanBnXkFtZTcwOTI0MDMzNA@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMTQwOTEzMV5BMl5BanBnXkFtZTcwMDM0MDMzNA@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MjIxMDY4OF5BMl5BanBnXkFtZTcwMTM0MDMzNA@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODM1MzU5MzcwOV5BMl5BanBnXkFtZTcwMjM0MDMzNA@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4MTY0NDg1NV5BMl5BanBnXkFtZTYwMTUwMjI2._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5Nzg1NTE0N15BMl5BanBnXkFtZTgwOTM3NTY2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2MjM0ODk5OF5BMl5BanBnXkFtZTgwMDQ3NTY2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2OTk2MzIyMF5BMl5BanBnXkFtZTgwNDM3NTY2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg1MzU1NjU3Ml5BMl5BanBnXkFtZTgwNTM3NTY2MzE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE0NTQ0NTY3NF5BMl5BanBnXkFtZTgwNjM3NTY2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1MDI5MTE0MV5BMl5BanBnXkFtZTgwODM3NTY2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0017925/",
+        "rating": "8.1/10"
+      },
+      "year": "1926",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0115669/",
+        "name": "Clyde Bruckman"
+      },
+      "seo": {
+        "title": "A General (1926)",
+        "description": "A General: Dirigido por Clyde Bruckman, Buster Keaton. Com Buster Keaton, Marion Mack, Glen Cavender, Jim Farley. Uns espiões roubam a amada locomotiva de um engenheiro, ele a persegue sozinho através das linhas inimigas."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "le-fabuleux-destin-damelie-poulain",
+    "title": "Le fabuleux destin d'Amélie Poulain",
+    "year": "2001",
+    "director": "Jean-Pierre Jeunet"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Le fabuleux destin d'Amélie Poulain",
+    "description": "Amélie: Directed by Jean-Pierre Jeunet. With Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta. Despite being caught in her imaginative world, Amelie, a young waitress, decides to help people find happiness. Her quest to spread joy leads her on a journey where she finds true love.",
+    "slug": "le-fabuleux-destin-damelie-poulain",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Jean-Pierre Jeunet",
+    "year": "2001",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTA5OTI1NDI0MjNeQTJeQWpwZ15BbWU4MDk0Nzk4NzUz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzgwNjA5ODc0M15BMl5BanBnXkFtZTgwMDU3OTg3NTM@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkzOTExNjE2N15BMl5BanBnXkFtZTcwODU0MzU5Ng@@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjY4NTM0OTc3NF5BMl5BanBnXkFtZTcwNzU0MzU5Ng@@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI5MDc5NTU4OF5BMl5BanBnXkFtZTcwOTU0MzU5Ng@@._V1_QL75_UY140_CR52,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ1NTUxOTg3OV5BMl5BanBnXkFtZTcwMDY0MzU5Ng@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3MjM1NzEyOV5BMl5BanBnXkFtZTcwMzI1NDc3Mw@@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3OTAyNjg3Ml5BMl5BanBnXkFtZTcwNDI1NDc3Mw@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MTYyNzUxMF5BMl5BanBnXkFtZTcwNTI1NDc3Mw@@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNDk0ODI2M15BMl5BanBnXkFtZTYwMjMzMjQ3._V1_QL75_UY140_CR82,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMzc4MTQ3MV5BMl5BanBnXkFtZTYwNDMzMjQ3._V1_QL75_UY140_CR51,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0NDc2Njc5NF5BMl5BanBnXkFtZTYwNjMzMjQ3._V1_QL75_UY140_CR50,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0211915/",
+        "rating": "8.3/10"
+      },
+      "year": "2001",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000466/",
+        "name": "Jean-Pierre Jeunet"
+      },
+      "seo": {
+        "title": "Amélie (2001)",
+        "description": "Amélie: Directed by Jean-Pierre Jeunet. With Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta. Despite being caught in her imaginative world, Amelie, a young waitress, decides to help people find happiness. Her quest to spread joy leads her on a journey where she finds true love."
+      }
+    }
+  }
+}

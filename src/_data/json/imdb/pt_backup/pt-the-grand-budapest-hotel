@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-grand-budapest-hotel",
+    "title": "O Grande Hotel Budapeste",
+    "year": "2014",
+    "director": "Wes Anderson"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Grande Hotel Budapeste",
+    "description": "O Grande Hotel Budapeste: Dirigido por Wes Anderson. Com Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody. As aventuras de Gustave H, um lendário porteiro dum famoso hotel da ficcional República de Zubrowka entre a primeira y a segunda guerra mundial.",
+    "slug": "the-grand-budapest-hotel",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGE0YjdkOWMtYzA2ZS00NTJlLWE3NTYtODI3YjUzZmFkYTViXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Policial"
+    ],
+    "director": "Wes Anderson",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Comédia",
+        "Policial"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjM1MjYzODE4N15BMl5BanBnXkFtZTgwNzU4ODY2OTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MDc5NDM1MV5BMl5BanBnXkFtZTgwNDQ4ODY2OTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwOTgxNDkzNl5BMl5BanBnXkFtZTgwNjAwNTU3MTE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5NDA5MDQ3M15BMl5BanBnXkFtZTgwNjcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MDQyODI1M15BMl5BanBnXkFtZTgwNzcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwNjcyODA0Nl5BMl5BanBnXkFtZTgwODcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMTk2NzM2M15BMl5BanBnXkFtZTgwODYwODYyMTE@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1OTE0NDU4Nl5BMl5BanBnXkFtZTgwOTYwODYyMTE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3ODIyNzEyOV5BMl5BanBnXkFtZTgwMjcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NjkzMzY5M15BMl5BanBnXkFtZTgwNDcwODYyMTE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ0MDU2NDcyNV5BMl5BanBnXkFtZTgwNTcwODYyMTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4ODQyMTk4MV5BMl5BanBnXkFtZTgwMDYwODYyMTE@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2278388/",
+        "rating": "8.1/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0027572/",
+        "name": "Wes Anderson"
+      },
+      "seo": {
+        "title": "O Grande Hotel Budapeste (2014)",
+        "description": "O Grande Hotel Budapeste: Dirigido por Wes Anderson. Com Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody. As aventuras de Gustave H, um lendário porteiro dum famoso hotel da ficcional República de Zubrowka entre a primeira y a segunda guerra mundial."
+      }
+    }
+  }
+}

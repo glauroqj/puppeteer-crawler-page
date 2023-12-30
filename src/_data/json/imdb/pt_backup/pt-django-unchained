@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "django-unchained",
+    "title": "Django Livre",
+    "year": "2012",
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Django Livre",
+    "description": "Django Livre: Dirigido por Quentin Tarantino. Com Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington. Com a ajuda de um caçador de recompensas alemão, um escravo libertado sai para resgatar sua esposa de um brutal dono de uma plantação no Mississipi.",
+    "slug": "django-unchained",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGVjNDhlYmQtMzZkMS00ZjkxLTg5Y2MtYzk4ZjI5NzBhMDJmXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Faroeste"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2012",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Faroeste"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY2Mzg1ODYyOF5BMl5BanBnXkFtZTcwOTgwMzQ3OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0NzU1Nzk2MF5BMl5BanBnXkFtZTcwNjE4Mzg2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzMTMxNjMyNV5BMl5BanBnXkFtZTcwNzE4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNDY5ODQ4MF5BMl5BanBnXkFtZTcwODE4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3OTc3NzUyOV5BMl5BanBnXkFtZTcwOTE4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyODQxNDE3NV5BMl5BanBnXkFtZTcwMDI4Mzg2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNzQxNjgxOF5BMl5BanBnXkFtZTcwMTI4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5MTQ0NjQ5MV5BMl5BanBnXkFtZTcwMjI4Mzg2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MDcyODg0M15BMl5BanBnXkFtZTcwMzI4Mzg2OA@@._V1_QL75_UY140_CR72,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5Nzc4ODY0NF5BMl5BanBnXkFtZTcwNDI4Mzg2OA@@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MzI1MTkyNV5BMl5BanBnXkFtZTcwNTI4Mzg2OA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODUyNzEwNDkzNl5BMl5BanBnXkFtZTcwMzcwMDYzOA@@._V1_QL75_UY140_CR30,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1853728/",
+        "rating": "8.5/10"
+      },
+      "year": "2012",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Django Livre (2012)",
+        "description": "Django Livre: Dirigido por Quentin Tarantino. Com Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington. Com a ajuda de um caçador de recompensas alemão, um escravo libertado sai para resgatar sua esposa de um brutal dono de uma plantação no Mississipi."
+      }
+    }
+  }
+}

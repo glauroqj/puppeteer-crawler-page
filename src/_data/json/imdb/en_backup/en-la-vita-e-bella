@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "la-vita-e-bella",
+    "title": "La vita è bella",
+    "year": "1997",
+    "director": "Roberto Benigni"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "La vita è bella",
+    "description": "Life Is Beautiful: Directed by Roberto Benigni. With Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano. When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+    "slug": "la-vita-e-bella",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Roberto Benigni",
+    "year": "1997",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjM5MjMwMjg0N15BMl5BanBnXkFtZTgwNjkxMTkwNTM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4OTc5NzQ4OV5BMl5BanBnXkFtZTgwMjg0OTYyMTI@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4OTcwMjUxOV5BMl5BanBnXkFtZTYwNzI1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MTM0Mjg2NV5BMl5BanBnXkFtZTYwOTI1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNzg5NDEyNl5BMl5BanBnXkFtZTYwMTM1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyMjUxNzMzOF5BMl5BanBnXkFtZTYwMzM1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI0NzAwNzQ0OV5BMl5BanBnXkFtZTYwNTM1NDM3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMTA1OTE4OF5BMl5BanBnXkFtZTYwNzM1NDM3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MTMzMzY3Ml5BMl5BanBnXkFtZTYwMzY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxMjgyMjQzN15BMl5BanBnXkFtZTYwNTY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI4MjYzMjU2OV5BMl5BanBnXkFtZTYwNzY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTgzNjYwNV5BMl5BanBnXkFtZTYwOTY4NTMz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0118799/",
+        "rating": "8.6/10"
+      },
+      "year": "1997",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000905/",
+        "name": "Roberto Benigni"
+      },
+      "seo": {
+        "title": "Life Is Beautiful (1997)",
+        "description": "Life Is Beautiful: Directed by Roberto Benigni. With Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano. When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+      }
+    }
+  }
+}

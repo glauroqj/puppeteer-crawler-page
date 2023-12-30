@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-thing",
+    "title": "O Enigma de Outro Mundo",
+    "year": "1982",
+    "director": "John Carpenter"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Enigma de Outro Mundo",
+    "description": "O Enigma de Outro Mundo: Dirigido por John Carpenter. Com Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon. Um team de investigação na Antartica é perseguido por extraterrestres.",
+    "slug": "the-thing",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTliMTUwYWEtYWEyMS00OGY5LTk5MDQtZmNmNWUzZTc3M2RlXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Terror",
+      "Mistério",
+      "Ficção científica"
+    ],
+    "director": "John Carpenter",
+    "year": "1982",
+    "infos": {
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzE0NGU2ZTQtYTJlZC00ODQ5LTg3NmYtMTdlMDk3YzViMDNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk4Mzg1Njg0Ml5BMl5BanBnXkFtZTgwMzQzMzE2NjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMjM2NDE5MF5BMl5BanBnXkFtZTgwODAwMDIwNTM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ3NDg5MDA0OV5BMl5BanBnXkFtZTgwMTEwMDIwNTM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyNzc0MTI0NV5BMl5BanBnXkFtZTcwNTc4MTI2NQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg3NDE4OTAzN15BMl5BanBnXkFtZTcwNjc4MTI2NQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MDQ1NzA4MV5BMl5BanBnXkFtZTcwNzc4MTI2NQ@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4NDIzOTQ2N15BMl5BanBnXkFtZTcwODc4MTI2NQ@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MDM0NjYzNF5BMl5BanBnXkFtZTcwOTc4MTI2NQ@@._V1_QL75_UY140_CR79,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MjI0ODQ2OF5BMl5BanBnXkFtZTcwMDg4MTI2NQ@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDEwMTY4NDEzN15BMl5BanBnXkFtZTcwMTg4MTI2NQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3ODk5NzU0NF5BMl5BanBnXkFtZTcwMzg4MTI2NQ@@._V1_QL75_UY140_CR16,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0084787/",
+        "rating": "8.2/10"
+      },
+      "year": "1982",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000118/",
+        "name": "John Carpenter"
+      },
+      "seo": {
+        "title": "O Enigma de Outro Mundo (1982)",
+        "description": "O Enigma de Outro Mundo: Dirigido por John Carpenter. Com Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon. Um team de investigação na Antartica é perseguido por extraterrestres."
+      }
+    }
+  }
+}

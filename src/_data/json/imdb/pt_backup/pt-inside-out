@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "inside-out",
+    "title": "Divertida Mente",
+    "year": "2015",
+    "director": "Pete Docter"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Divertida Mente",
+    "description": "Divertida Mente: Dirigido por Pete Docter, Ronnie Del Carmen. Com Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader. Quando o jovem Riley se muda á San Francisco deberá lidiar com suas emoções.",
+    "slug": "inside-out",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQzMjI5MTctNzUwMC00OTJmLWJhYzUtNWRlYmQ3YmMzMWU1XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Pete Docter",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTUyMjU5MTQzNF5BMl5BanBnXkFtZTgwNjc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwODk0Mzk4NF5BMl5BanBnXkFtZTgwNzc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2Mzc3NjU3NV5BMl5BanBnXkFtZTgwODc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEzMDM4MjYxMjheQTJeQWpwZ15BbWU4MDA3NzIwMTYx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1OTc1NTA5NV5BMl5BanBnXkFtZTgwMTc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1ODkyMDAwNF5BMl5BanBnXkFtZTgwMjc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzMDEyODQ0OV5BMl5BanBnXkFtZTgwMzc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMTE4NzI3MF5BMl5BanBnXkFtZTgwNDc3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAzMTIyNzU5OTleQTJeQWpwZ15BbWU4MDU3NzIwMTYx._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2ODQ3Nzc1MDheQTJeQWpwZ15BbWU4MDg2NzIwMTYx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2ODg0ODgxOF5BMl5BanBnXkFtZTgwOTY3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMzYxMTg4NF5BMl5BanBnXkFtZTgwNzY3MjAxNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2096673/",
+        "rating": "8.1/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0230032/",
+        "name": "Pete Docter"
+      },
+      "seo": {
+        "title": "Divertida Mente (2015)",
+        "description": "Divertida Mente: Dirigido por Pete Docter, Ronnie Del Carmen. Com Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader. Quando o jovem Riley se muda á San Francisco deberá lidiar com suas emoções."
+      }
+    }
+  }
+}

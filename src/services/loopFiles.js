@@ -6,6 +6,7 @@ const Promise = require("bluebird");
 const path = require("path");
 
 async function loopFiles(api) {
+  const folderPath_TEST = path.join(__dirname, `../_data/json/imdb/_temp_test`);
   const folderPath_EN = path.join(__dirname, `../_data/json/imdb/en`);
   const folderPath_PT = path.join(__dirname, `../_data/json/imdb/pt`);
 
@@ -32,7 +33,7 @@ async function loopFiles(api) {
         return await callApi(data);
       },
       {
-        concurrency: 10,
+        concurrency: 30,
       }
     )
       .then((allData) => {
@@ -47,6 +48,14 @@ async function loopFiles(api) {
               `${backupFolder}/${lang}_backup/${lang}-${slug}`,
               slug
             );
+
+            // ------------- TEST MODE ------------
+
+            // moveFiles(
+            //   `${backupFolder}/_temp_test/${lang}-${slug}`,
+            //   `${backupFolder}/${lang}_backup/${lang}-${slug}`,
+            //   slug
+            // );
           }
         }
         return allData;
@@ -57,14 +66,19 @@ async function loopFiles(api) {
   }
 
   try {
+    // const TEST_DATA = await fileReader(folderPath_TEST);
+    // const result_TEST = await dealParallelRequests(TEST_DATA, "en");
+    // console.log("< LOOP FILES : TEST_DATA > ", result_TEST.length, result_TEST);
+    // return [result_TEST];
+    // ----------------- TEST ABOVE --------------------
     const EN_DATA = await fileReader(folderPath_EN);
     const result_EN = await dealParallelRequests(EN_DATA, "en");
     console.log("< LOOP FILES : EN_DATA > ", EN_DATA.length, result_EN);
-
+    // ----------------- END EN LOOP -------------------
     const PT_DATA = await fileReader(folderPath_PT);
     const result_PT = await dealParallelRequests(PT_DATA, "pt");
     console.log("< LOOP FILES : PT_DATA > ", PT_DATA.length, result_PT);
-
+    // ----------------- END PT LOOP -------------------
     return [result_EN, result_PT];
   } catch (e) {
     console.error(e);

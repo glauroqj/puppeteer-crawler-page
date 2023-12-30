@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "dangal",
+    "title": "Dangal",
+    "year": "2016",
+    "director": "Nitesh Tiwari"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Dangal",
+    "description": "Dangal: Directed by Nitesh Tiwari. With Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Sakshi Tanwar. Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "slug": "dangal",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "director": "Nitesh Tiwari",
+    "year": "2016",
+    "infos": {
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTE3MGVlZjMtZTQyNi00ZmNlLWI4YjAtZTY2NzAwZjhhODg5L2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWRhNWRmMzktOTA3MS00NmU4LWE4MmMtMGRjNWExOGExZDJkL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJhNDc5ZmEtNzQwMC00NmFkLWJjNzktMjE3NjhjMDk1Y2NiL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDQwODdkZTUtZjQ0Ny00MGU3LWJhOWItYzI4ZjBmYzI3Njc2L2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4NDkyMTY0N15BMl5BanBnXkFtZTgwMDc0NTA5MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDE4YzA3MGMtNmQ1ZS00NTkzLWFkYjQtMGQ2NDlhYTU4NjgxXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2Q1MDUyZDktMGJiNC00ZmVkLWI5OGMtZTg5Y2EzMWRiNzNiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmYzYjMzNjMtNGJiZS00ZTE3LWJmYjUtZWExMjlkZjZjYjRkXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGYzZGU4YjUtMzBjMC00YzY2LWI5NDAtZDE5YjQ3MjllZjA5XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjc4MDJkOTUtN2YzNC00ZGQ3LTg2ZDQtMDEwNzQ5ZmY3YjFhXkEyXkFqcGdeQXVyNjk5NjUxMTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTkyZDNmOWEtOTcxNy00MTY4LWI0NTUtZjk1MDkwMjljODMwXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3NDg1MTYtYzZlZi00OTBjLWI3OWItNTIzNWU5NGQ5MzRiXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt5074352/",
+        "rating": "8.3/10"
+      },
+      "year": "2016",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm4318159/",
+        "name": "Nitesh Tiwari"
+      },
+      "seo": {
+        "title": "Dangal (2016)",
+        "description": "Dangal: Directed by Nitesh Tiwari. With Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Sakshi Tanwar. Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression."
+      }
+    }
+  }
+}

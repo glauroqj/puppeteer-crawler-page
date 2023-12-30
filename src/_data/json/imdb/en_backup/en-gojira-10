@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "gojira-10",
+    "title": "Gojira -1.0",
+    "year": "2023",
+    "director": "Takashi Yamazaki"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Gojira -1.0",
+    "description": "Godzilla Minus One: Directed by Takashi Yamazaki. With Minami Hamabe, Ryunosuke Kamiki, Sakura Ando, Kuranosuke Sasaki. Post war Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+    "slug": "gojira-10",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZkNWQyMDEtMmRhNi00Nzc5LWFhNjQtMWRiOTllYmEzOWE5XkEyXkFqcGdeQXVyMTMwNzYxMTUx._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Takashi Yamazaki",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BN2VmZTM5MDEtMDdjYy00ZGM4LWJmMzItMjY3ZDAxYjU3NjI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2M1MzI1MTQtZTJiZS00MGFmLWJmOWQtOGZiN2VkYzU1ODA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTFhMGI0OTAtODAzYS00NzBiLTg1ZDEtYjMwYzgwZGY4YzM4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTJiZWZiNTEtOWZhOS00MjI5LTljMzAtY2QwNjZjYzdhNDliXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWU1ZTJlMTYtNjMxMi00OWMyLWE1NDItMzQ1ZjRjNTIyYzcwXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR62,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzNmNjA2NmYtNjdkMi00ZGU5LWJiYjUtNWViYzU1MmZjNWFiXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR62,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmI0YTRkOGEtNGYzYy00MTg2LWJhZjktNmU3ZmJkN2I3MTEzXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR102,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2M2ZGIzN2ItZDhmNi00MGQwLTllNDMtMzc3ZjllMzFiMDFlXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR113,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGQyZDczZGYtNDU3Ni00OGQyLWFiOGItY2MxNDI0YjdkMTEwXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTFiMTI3MDgtMmJmZi00NDFkLTkxOGUtODY2NGQ4YTQ5N2Q2XkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U2ZDUzNDMtMWIyZi00YzY3LTk0NmUtODgyNmIwOTYwNDU3XkEyXkFqcGdeQXVyNjE2MDMxNTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ0ZjZmMmMtYmMyZS00NGFmLTk1MDMtNGI1N2Y1ZGM1NWExXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt23289160/",
+        "rating": "8.4/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0945724/",
+        "name": "Takashi Yamazaki"
+      },
+      "seo": {
+        "title": "Godzilla Minus One (2023)",
+        "description": "Godzilla Minus One: Directed by Takashi Yamazaki. With Minami Hamabe, Ryunosuke Kamiki, Sakura Ando, Kuranosuke Sasaki. Post war Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb."
+      }
+    }
+  }
+}

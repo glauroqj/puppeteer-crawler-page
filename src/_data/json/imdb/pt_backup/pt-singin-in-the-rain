@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "singin-in-the-rain",
+    "title": "Cantando na Chuva",
+    "year": "1952",
+    "director": "Stanley Donen"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Cantando na Chuva",
+    "description": "Cantando na Chuva: Dirigido por Stanley Donen, Gene Kelly. Com Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen. Uma produtora de cinema e elenco fazem uma transição difíci.",
+    "slug": "singin-in-the-rain",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWFmYmQ0YTEtMWExMi00ZjFmLTgyOTQtMDY3M2I2MDViNzgzXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Stanley Donen",
+    "year": "1952",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Musical",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzhkNTkxOTEtZDY4My00ZWRmLWJlNDctZTUxZmQzYmFlNzM3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA1NTNkMDQtMjVkMi00Mzk1LWI5ZGQtMjQzYzI4MjRkYjAwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTg0YWVmNDctM2QyNy00NmE2LTkyOWQtNDRiOTE0ZWE2NWQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODZhNWI3ODEtMGJlMC00Mzk4LTg4YzQtYmM1NmUwYTBkZDJkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGI1M2IyOTYtMTM1OC00YThhLTk2YzItYWMzZDA1N2FlMGM4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTBlODc2ZWMtMDNmZC00ZjEyLTk1OTItMWExNjE2YjRhZDQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyMTg0MDY4Ml5BMl5BanBnXkFtZTgwMzUxODUyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2NDg0MjA5NzdeQTJeQWpwZ15BbWU4MDU2MDg1MjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE0NzI2NTg2ODJeQTJeQWpwZ15BbWU4MDY1OTc1MjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA5MTA3MjQxNjBeQTJeQWpwZ15BbWU4MDc0OTc1MjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYxNjE4MjM2Nl5BMl5BanBnXkFtZTgwNTc4NzUyMTI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4NGQyMmEtZDE2YS00NDZiLWI0NDktYjJjYjY1MjA3NGNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0045152/",
+        "rating": "8.3/10"
+      },
+      "year": "1952",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0002045/",
+        "name": "Stanley Donen"
+      },
+      "seo": {
+        "title": "Cantando na Chuva (1952)",
+        "description": "Cantando na Chuva: Dirigido por Stanley Donen, Gene Kelly. Com Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen. Uma produtora de cinema e elenco fazem uma transição difíci."
+      }
+    }
+  }
+}

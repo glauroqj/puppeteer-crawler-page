@@ -1,19 +1,15 @@
 {
   "poster_table": {
-    "slug": "the-good-the-bad-and-the-ugly",
-    "title": "The Good, the Bad and the Ugly",
+    "slug": "il-buono-il-brutto-il-cattivo",
+    "title": "Il buono, il brutto, il cattivo",
     "year": "1966",
-    "genres": [
-      "Adventure",
-      "Western"
-    ],
     "director": "Sergio Leone"
   },
   "poster_lang": {
     "lang": "en",
-    "title": "The Good, the Bad and the Ugly",
-    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
-    "slug": "the-good-the-bad-and-the-ugly",
+    "title": "Il buono, il brutto, il cattivo",
+    "description": "The Good, the Bad and the Ugly: Directed by Sergio Leone. With Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè. A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "slug": "il-buono-il-brutto-il-cattivo",
     "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
     "genres": [
       "Adventure",
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "The Good, the Bad and the Ugly (1966)",
-        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+        "description": "The Good, the Bad and the Ugly: Directed by Sergio Leone. With Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè. A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
       }
     }
   }

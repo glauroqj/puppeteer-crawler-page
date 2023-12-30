@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "hauru-no-ugoku-shiro",
+    "title": "Hauru no ugoku shiro",
+    "year": "2004",
+    "director": "Hayao Miyazaki"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Hauru no ugoku shiro",
+    "description": "Howl's Moving Castle: Directed by Hayao Miyazaki. With Chieko Baishô, Takuya Kimura, Akihiro Miwa, Tatsuya Gashûin. When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "slug": "hauru-no-ugoku-shiro",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "director": "Hayao Miyazaki",
+    "year": "2004",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDQwNDk1ODkzMl5BMl5BanBnXkFtZTcwMDk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MTg2MjAzN15BMl5BanBnXkFtZTcwMTk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3NzI5MTg2Nl5BMl5BanBnXkFtZTcwMjk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1NTE5NjQ0OF5BMl5BanBnXkFtZTcwMzk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzMjgxNjYyOV5BMl5BanBnXkFtZTcwNDk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyNTExOTM2OV5BMl5BanBnXkFtZTcwNTk1NzEyNw@@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNTg1Mzc1NV5BMl5BanBnXkFtZTcwNjk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MTkwMDcxNF5BMl5BanBnXkFtZTcwNzk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3OTMzNzgzNl5BMl5BanBnXkFtZTcwODk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2NDE1NDI2OV5BMl5BanBnXkFtZTcwOTk1NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyNDA0MzQyMV5BMl5BanBnXkFtZTcwMDA2NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjczNjI2NTIwMV5BMl5BanBnXkFtZTcwMTA2NzEyNw@@._V1_QL75_UY140_CR60,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0347149/",
+        "rating": "8.2/10"
+      },
+      "year": "2004",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0594503/",
+        "name": "Hayao Miyazaki"
+      },
+      "seo": {
+        "title": "Howl's Moving Castle (2004)",
+        "description": "Howl's Moving Castle: Directed by Hayao Miyazaki. With Chieko Baishô, Takuya Kimura, Akihiro Miwa, Tatsuya Gashûin. When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle."
+      }
+    }
+  }
+}

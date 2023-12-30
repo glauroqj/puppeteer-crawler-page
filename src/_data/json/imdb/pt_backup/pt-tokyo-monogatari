@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "tokyo-monogatari",
+    "title": "Era uma Vez em Tóquio",
+    "year": "1953",
+    "director": "Yasujirô Ozu"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Era uma Vez em Tóquio",
+    "description": "Era uma Vez em Tóquio: Dirigido por Yasujirô Ozu. Com Chishû Ryû, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura. Um casal de idosos visita seus filhos e netos na cidade, mas recebe pouca atenção.",
+    "slug": "tokyo-monogatari",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQwYmRmOTgtYmNjZC00NGZkLTg0ZGItMWMwY2ExMDllYWRiXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Yasujirô Ozu",
+    "year": "1953",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTkyMjY3MTYxMF5BMl5BanBnXkFtZTgwMTM0ODk5MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczODI1NTgzN15BMl5BanBnXkFtZTgwMzM0ODk5MTE@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM0NjEyNjkwMF5BMl5BanBnXkFtZTgwMjM0ODk5MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NjQxNzUyNF5BMl5BanBnXkFtZTcwMDY2NzIwNw@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3NzY5ODYzNl5BMl5BanBnXkFtZTcwMTY2NzIwNw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwNzMyMDczMTheQTJeQWpwZ15BbWU3MDI2NjcyMDc@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTgwMjA4NDc0Ml5BMl5BanBnXkFtZTcwMzY2NzIwNw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NDk4NjI5MF5BMl5BanBnXkFtZTcwNDY2NzIwNw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjU5ZjBiZGUtN2ZlNy00YjUzLTkzMTQtZDUwMzlkMmQ3NzAzXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGE2OGE5MWUtMTA2ZC00NTAwLWIxMjktMWQ1OTFmZTc0MGVmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg1ZGQ2YjItMGRiZS00YTYyLThlNTktZmMzNzlkNjRiYmRjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjMwZTQ1NmYtMWQ4NS00NmE0LWFhZTItNmY0OThmNDU4Y2ZhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0046438/",
+        "rating": "8.1/10"
+      },
+      "year": "1953",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0654868/",
+        "name": "Yasujirô Ozu"
+      },
+      "seo": {
+        "title": "Era uma Vez em Tóquio (1953)",
+        "description": "Era uma Vez em Tóquio: Dirigido por Yasujirô Ozu. Com Chishû Ryû, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura. Um casal de idosos visita seus filhos e netos na cidade, mas recebe pouca atenção."
+      }
+    }
+  }
+}

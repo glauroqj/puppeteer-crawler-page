@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "lawrence-of-arabia",
+    "title": "Lawrence da Arábia",
+    "year": "1962",
+    "director": "David Lean"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Lawrence da Arábia",
+    "description": "Lawrence da Arábia: Dirigido por David Lean. Com Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins. A história de T. E. Lawrence, o oficial inglês que conseguiu unir e liderar várias tribos árabes, durante a Primeira Guerra Mundial para lutar contra os turcos.",
+    "slug": "lawrence-of-arabia",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDIyYzBjZWEtZTc3YS00MDIxLTgwODctOGFmZjZhZDQ4ODA3XkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Biografia",
+      "Drama"
+    ],
+    "director": "David Lean",
+    "year": "1962",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Biografia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BM2NiYzgzZTQtYTdhZS00ZjUwLTk0MWItODVlZmRmYzFiY2U5XkEyXkFqcGdeQXVyMjYzNTQ5Njc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmRiODBiMDgtZTRjMy00ZmFjLWJiNDQtYmJjNTgyYjA3ZmMxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2MzQ3NTg3MV5BMl5BanBnXkFtZTgwMTY3ODk5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4NjcwNzE2Ml5BMl5BanBnXkFtZTgwMjY3ODk5MTE@._V1_QL75_UY140_CR64,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwNjUyMDgxMTFeQTJeQWpwZ15BbWU4MDM2Nzg5OTEx._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NDU1OTY3NF5BMl5BanBnXkFtZTgwNDY3ODk5MTE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU1MjUyNzQwMl5BMl5BanBnXkFtZTgwMjQ5OTc5MTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3NzkxNzU1N15BMl5BanBnXkFtZTgwOTM5OTc5MTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQ1MzExOTA5OV5BMl5BanBnXkFtZTgwMDQ5OTc5MTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MjI0Njc4NV5BMl5BanBnXkFtZTgwMTQ5OTc5MTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0MDI2OTk2Ml5BMl5BanBnXkFtZTgwODM5OTc5MTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1Njc2MzE1MV5BMl5BanBnXkFtZTYwODU3Nzc2._V1_QL75_UY140_CR92,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0056172/",
+        "rating": "8.3/10"
+      },
+      "year": "1962",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000180/",
+        "name": "David Lean"
+      },
+      "seo": {
+        "title": "Lawrence da Arábia (1962)",
+        "description": "Lawrence da Arábia: Dirigido por David Lean. Com Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins. A história de T. E. Lawrence, o oficial inglês que conseguiu unir e liderar várias tribos árabes, durante a Primeira Guerra Mundial para lutar contra os turcos."
+      }
+    }
+  }
+}

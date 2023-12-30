@@ -3,16 +3,12 @@
     "slug": "pulp-fiction",
     "title": "Pulp Fiction",
     "year": "1994",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
     "director": "Quentin Tarantino"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Pulp Fiction",
-    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "description": "Pulp Fiction: Directed by Quentin Tarantino. With Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta. The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
     "slug": "pulp-fiction",
     "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Pulp Fiction (1994)",
-        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+        "description": "Pulp Fiction: Directed by Quentin Tarantino. With Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta. The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
       }
     }
   }

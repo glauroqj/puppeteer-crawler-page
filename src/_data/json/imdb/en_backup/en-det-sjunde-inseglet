@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "det-sjunde-inseglet",
+    "title": "Det sjunde inseglet",
+    "year": "1957",
+    "director": "Ingmar Bergman"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Det sjunde inseglet",
+    "description": "The Seventh Seal: Directed by Ingmar Bergman. With Gunnar Björnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow. A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "slug": "det-sjunde-inseglet",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Ingmar Bergman",
+    "year": "1957",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYTZkMTVhOGEtY2U5MS00ZjI1LTlmYTctNTI2Mzc4NTg4OWJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTkyMjg0NmItOTIzMS00YzVjLTkzZDQtNTQ0M2Y5OTdkMDkyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY3YWM4MTctOTBlOC00NTgzLWEwOTUtMjNjZDRiNWY1OTFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxNDIxOTE4Ml5BMl5BanBnXkFtZTcwMTY4MjE5Ng@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQ1MjgwNDY1N15BMl5BanBnXkFtZTcwMjY4MjE5Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYwMDc1ODcxN15BMl5BanBnXkFtZTYwOTA0OTM2._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NTY5NzU1OV5BMl5BanBnXkFtZTYwMzE0OTM2._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczOTY5MTU3MF5BMl5BanBnXkFtZTYwNzE0OTM2._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MTQyODQ1MF5BMl5BanBnXkFtZTYwOTE0OTM2._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzM1ZTRlYjEtZTM4NS00YjQ1LWE2NTEtZGRkM2EzODEzOTVmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzlkN2E4NzktMDYzNC00ZjFhLTg1MWUtZWM1NjVlZjY4MTFiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIzODM4NzcwMV5BMl5BanBnXkFtZTYwOTQzNDg4._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0050976/",
+        "rating": "8.1/10"
+      },
+      "year": "1957",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000005/",
+        "name": "Ingmar Bergman"
+      },
+      "seo": {
+        "title": "The Seventh Seal (1957)",
+        "description": "The Seventh Seal: Directed by Ingmar Bergman. With Gunnar Björnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow. A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague."
+      }
+    }
+  }
+}

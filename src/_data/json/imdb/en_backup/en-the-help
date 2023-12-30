@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "the-help",
+    "title": "The Help",
+    "year": "2011",
+    "director": "Tate Taylor"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Help",
+    "description": "The Help: Directed by Tate Taylor. With Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer. An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+    "slug": "the-help",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Tate Taylor",
+    "year": "2011",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjAxMDgwNzc3M15BMl5BanBnXkFtZTcwOTE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNDk0MzUxOF5BMl5BanBnXkFtZTcwMDI1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NzYyNTk1M15BMl5BanBnXkFtZTcwMTI1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMDI4MzMxNjdeQTJeQWpwZ15BbWU3MDIyNTg1ODU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMDU1MTc4N15BMl5BanBnXkFtZTcwMzI1ODU4NQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMjMzMzc1NTleQTJeQWpwZ15BbWU3MDAxNTg1ODU@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTA1Mjk1MDY0NF5BMl5BanBnXkFtZTcwMTE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3ODc5NTM3OV5BMl5BanBnXkFtZTcwMjE1ODU4NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMDU3NDQ0N15BMl5BanBnXkFtZTcwMzE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDkzNTc3MTAzNF5BMl5BanBnXkFtZTcwNDE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3NTQ3MTIyMV5BMl5BanBnXkFtZTcwNTE1ODU4NQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NzA1ODIyOF5BMl5BanBnXkFtZTcwNjE1ODU4NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1454029/",
+        "rating": "8.1/10"
+      },
+      "year": "2011",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0853238/",
+        "name": "Tate Taylor"
+      },
+      "seo": {
+        "title": "The Help (2011)",
+        "description": "The Help: Directed by Tate Taylor. With Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer. An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis."
+      }
+    }
+  }
+}

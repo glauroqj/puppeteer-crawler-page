@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "toy-story",
+    "title": "Toy Story",
+    "year": "1995",
+    "director": "John Lasseter"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Toy Story",
+    "description": "Toy Story: Directed by John Lasseter. With Tom Hanks, Tim Allen, Don Rickles, Jim Varney. A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+    "slug": "toy-story",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "John Lasseter",
+    "year": "1995",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BN2Q4NWY3ZTYtYWNjNi00OGExLWI0YTAtZDM0NTY5MDY3OWZhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjFjMTdkOGQtZDJjZS00YzIzLWE1NTItZDdhYzY1NzE1Njg2XkEyXkFqcGdeQXVyMjg0NjA1Mzk@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNTQwMTUwMl5BMl5BanBnXkFtZTgwOTI2OTYwMzI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NTc5NTYyM15BMl5BanBnXkFtZTcwMzk0MjIyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY3Njk2MDgwM15BMl5BanBnXkFtZTcwNDk0MjIyNw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MTE1MzkwN15BMl5BanBnXkFtZTcwNTk0MjIyNw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk1NjgzMzc1MF5BMl5BanBnXkFtZTcwNzk0MjIyNw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzODkyMjk2Ml5BMl5BanBnXkFtZTcwOTk0MjIyNw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI5NTM0MDU0Nl5BMl5BanBnXkFtZTcwNTc4NjIyNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2MDU0OTI0M15BMl5BanBnXkFtZTcwOTgyNDAxMw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1Nzk2MzU3Ml5BMl5BanBnXkFtZTcwMzAzMzc4Mg@@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTYxOTg0Mjc4Nl5BMl5BanBnXkFtZTcwNDAzMzc4Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0114709/",
+        "rating": "8.3/10"
+      },
+      "year": "1995",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0005124/",
+        "name": "John Lasseter"
+      },
+      "seo": {
+        "title": "Toy Story (1995)",
+        "description": "Toy Story: Directed by John Lasseter. With Tom Hanks, Tim Allen, Don Rickles, Jim Varney. A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom."
+      }
+    }
+  }
+}

@@ -3,17 +3,12 @@
     "slug": "oppenheimer",
     "title": "Oppenheimer",
     "year": "2023",
-    "genres": [
-      "Biografia",
-      "Drama",
-      "História"
-    ],
     "director": "Christopher Nolan"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Oppenheimer",
-    "description": "A história do cientista americano J. Robert Oppenheimer e o seu papel no desenvolvimento da bomba atômica.",
+    "description": "Oppenheimer: Dirigido por Christopher Nolan. Com Cillian Murphy, Emily Blunt, Robert Downey Jr., Alden Ehrenreich. A história do cientista americano J. Robert Oppenheimer e o seu papel no desenvolvimento da bomba atômica.",
     "slug": "oppenheimer",
     "image": "https://m.media-amazon.com/images/M/MV5BMjg4OTkxNzUtOGQ0My00MzQxLWIyZmItMzIyY2FlZTRhMDcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
     "genres": [
@@ -45,7 +40,7 @@
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt15398776/",
-        "rating": "8.5/10"
+        "rating": "8.4/10"
       },
       "year": "2023",
       "country": "",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Oppenheimer (2023)",
-        "description": "A história do cientista americano J. Robert Oppenheimer e o seu papel no desenvolvimento da bomba atômica."
+        "description": "Oppenheimer: Dirigido por Christopher Nolan. Com Cillian Murphy, Emily Blunt, Robert Downey Jr., Alden Ehrenreich. A história do cientista americano J. Robert Oppenheimer e o seu papel no desenvolvimento da bomba atômica."
       }
     }
   }

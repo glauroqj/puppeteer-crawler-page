@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "network",
+    "title": "Rede de Intrigas",
+    "year": "1976",
+    "director": "Sidney Lumet"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Rede de Intrigas",
+    "description": "Rede de Intrigas: Dirigido por Sidney Lumet. Com Faye Dunaway, William Holden, Peter Finch, Robert Duvall. Uma rede de televisão explora os delírios e revelações de um homem perturbado.",
+    "slug": "network",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sidney Lumet",
+    "year": "1976",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTViYzZjY2ItZWVkZi00YjhmLThmZDQtMzM4MGMxMzZkNGU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzRjZWQxZTQtNGI2NC00NmNiLThmMmEtMmQ2MzY5ZjJlMWEwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjZmYmY1NWYtZDIwNi00NmVhLWI5MTMtMDAzYTQxM2JlYmEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0Mjk3MzIzN15BMl5BanBnXkFtZTcwMDgyMjM4NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwOTY3MDQ4OV5BMl5BanBnXkFtZTcwODA5NjMyNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA5NzIzNDM3Nl5BMl5BanBnXkFtZTcwOTA5NjMyNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyNzA5MjE1MF5BMl5BanBnXkFtZTcwMDE5NjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMjI3NjMyOV5BMl5BanBnXkFtZTcwMTE5NjMyNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExNTQyMTM3Nl5BMl5BanBnXkFtZTcwMjE5NjMyNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNjE0NzA2M15BMl5BanBnXkFtZTcwMzE5NjMyNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzMjQxNjMwOV5BMl5BanBnXkFtZTcwNDE5NjMyNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzMjM5ODUxMF5BMl5BanBnXkFtZTcwNTE5NjMyNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0074958/",
+        "rating": "8.1/10"
+      },
+      "year": "1976",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001486/",
+        "name": "Sidney Lumet"
+      },
+      "seo": {
+        "title": "Rede de Intrigas (1976)",
+        "description": "Rede de Intrigas: Dirigido por Sidney Lumet. Com Faye Dunaway, William Holden, Peter Finch, Robert Duvall. Uma rede de televisão explora os delírios e revelações de um homem perturbado."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "braveheart",
+    "title": "Braveheart",
+    "year": "1995",
+    "director": "Mel Gibson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Braveheart",
+    "description": "Braveheart: Directed by Mel Gibson. With James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo. Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "slug": "braveheart",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Mel Gibson",
+    "year": "1995",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDViMDA2OGMtZWEyNC00NDFhLWFkOWMtY2Y0OTU0MmY4M2U1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDRmMmU4ZDMtYWEzNi00MzYyLTk0MzctMjcxN2Q1N2M3ODBjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk2ZDQxZWQtMWE3Yi00MTgyLTkwYmEtZGE5ZmU0Y2ViYWI1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWY0MDQ2MGMtYzMyYS00ZDA2LWFkYTEtZDZlNTZmY2E1YmVhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmI3MjBmZTQtMDU2ZC00ZmY3LThmMDktMTE0MWRkNGM5OWM1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTUyNTVhNzEtOTUyMS00NDI1LThhZTQtOGNiOWU0YzBlYmUzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjU3ZjczMWItOTYxOC00M2Y1LTllODQtOGNhOWE3MTY4NDUxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDFiYWU4MzktNGY4Yy00YTc5LThmOTMtNjFiN2IzNWZlYTYwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwYTExZjMtYmM1Mi00MDAxLWJmMGItOWI0YzAzMjI3ZTBjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRkODZkMjgtYmY5YS00ZTRhLWFlYjMtMzI5N2E5ZWU2YjJiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyNDY3MzQzNl5BMl5BanBnXkFtZTgwNTEyNzU5MTE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3ODM5OTI5OF5BMl5BanBnXkFtZTgwNzEyNzU5MTE@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0112573/",
+        "rating": "8.3/10"
+      },
+      "year": "1995",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000154/",
+        "name": "Mel Gibson"
+      },
+      "seo": {
+        "title": "Braveheart (1995)",
+        "description": "Braveheart: Directed by Mel Gibson. With James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo. Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+      }
+    }
+  }
+}

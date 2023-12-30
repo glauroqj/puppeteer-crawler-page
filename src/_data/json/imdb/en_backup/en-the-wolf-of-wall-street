@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-wolf-of-wall-street",
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "director": "Martin Scorsese"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Wolf of Wall Street",
+    "description": "The Wolf of Wall Street: Directed by Martin Scorsese. With Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey. Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "slug": "the-wolf-of-wall-street",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Martin Scorsese",
+    "year": "2013",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA4NjQ5MDI2MV5BMl5BanBnXkFtZTgwNjg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5ODI4NTEwNl5BMl5BanBnXkFtZTgwNzg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA1NjA4NTg1N15BMl5BanBnXkFtZTgwNDg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NDg4OTg0NF5BMl5BanBnXkFtZTgwNTg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTExMDk1MDE4NzVeQTJeQWpwZ15BbWU4MDM4NDM0ODAx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0NzAxODAyMl5BMl5BanBnXkFtZTgwMDg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIwMDIxNzk3Ml5BMl5BanBnXkFtZTgwMTg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NDgwOF5BMl5BanBnXkFtZTgwMjg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2NTk3MDM1NF5BMl5BanBnXkFtZTgwODc0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzOTg5MDA2MF5BMl5BanBnXkFtZTgwOTc0MzQ4MDE@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU0NTI5MDU3MF5BMl5BanBnXkFtZTgwNTc0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3MTY4NDk4Nl5BMl5BanBnXkFtZTgwNjc0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0993846/",
+        "rating": "8.2/10"
+      },
+      "year": "2013",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000217/",
+        "name": "Martin Scorsese"
+      },
+      "seo": {
+        "title": "The Wolf of Wall Street (2013)",
+        "description": "The Wolf of Wall Street: Directed by Martin Scorsese. With Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey. Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+      }
+    }
+  }
+}

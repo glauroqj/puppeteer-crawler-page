@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "babam-ve-oglum",
+    "title": "Meu Pai e Meu Filho",
+    "year": "2005",
+    "director": "Çagan Irmak"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Meu Pai e Meu Filho",
+    "description": "Meu Pai e Meu Filho: Dirigido por Çagan Irmak. Com Çetin Tekindor, Fikret Kuskan, Hümeyra, Ege Tanman. A família de um jornalista de esquerda é separada após o golpe militar na Turquia em 1980.",
+    "slug": "babam-ve-oglum",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Família"
+    ],
+    "director": "Çagan Irmak",
+    "year": "2005",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Família"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTI1NTQ3MjEyM15BMl5BanBnXkFtZTcwMzUxMzIzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDgzOGU1ODMtMmE4ZC00ZTlkLTg5ZTAtZmJlNWI2NmRhMDdkXkEyXkFqcGdeQXVyNjg1NzYyMDA@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmQxZGM1NTAtOTJiYi00ZmYyLWI0MjMtODU0OWZlY2FiYmViXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDNkMjEyNzAtMDlmNi00NTcyLWJiMDMtODU2YzQ4NzlmNDkxXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmEzODhlMWItYTY0Zi00ZDQzLTgyNmEtMzRhMGJkOTU2NTAxXkEyXkFqcGdeQXVyNjIxMTc5MTA@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzIzZmE5YWQtMWNmNi00MTE0LWJiNDYtOTFiY2I1Mzc3NTFmXkEyXkFqcGdeQXVyNjIxMTc5MTA@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDY2YjcxODgtZmRkYy00MjZhLTg0YjEtYWYwNGY2NWFjYjMwXkEyXkFqcGdeQXVyNjUzNjA4NzA@._V1_QL75_UY140_CR72,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2VjNzEwM2UtMWRmYy00NTdhLTlkMjAtMTcxZWIxZTY5ZjQ5XkEyXkFqcGdeQXVyNjUzNjA4NzA@._V1_QL75_UY140_CR62,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ4NTExZDQtOGNiMC00ZDIxLWI3NWMtZTRkYjk2OWVjMDVlXkEyXkFqcGdeQXVyNjUzNjA4NzA@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTRiNzk2Y2ItMzIxZS00OTJiLWE5MGUtMDRjMThhMTYyMDllXkEyXkFqcGdeQXVyNjUzNjA4NzA@._V1_QL75_UY140_CR62,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWRkYzkzMDMtNzAxYS00MWU5LTllNWMtNjE3ZWNhOWE4NzE4XkEyXkFqcGdeQXVyNjUzNjA4NzA@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM2MTFmZGUtNmNiMi00MWI5LWE3YjYtYTkyMjNjNTNiYTkxXkEyXkFqcGdeQXVyNjU5NDc2MjA@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0476735/",
+        "rating": "8.2/10"
+      },
+      "year": "2005",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1463981/",
+        "name": "Çagan Irmak"
+      },
+      "seo": {
+        "title": "Meu Pai e Meu Filho (2005)",
+        "description": "Meu Pai e Meu Filho: Dirigido por Çagan Irmak. Com Çetin Tekindor, Fikret Kuskan, Hümeyra, Ege Tanman. A família de um jornalista de esquerda é separada após o golpe militar na Turquia em 1980."
+      }
+    }
+  }
+}

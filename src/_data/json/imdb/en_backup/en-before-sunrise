@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "before-sunrise",
+    "title": "Before Sunrise",
+    "year": "1995",
+    "director": "Richard Linklater"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Before Sunrise",
+    "description": "Before Sunrise: Directed by Richard Linklater. With Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl. A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "slug": "before-sunrise",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Linklater",
+    "year": "1995",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTMxZWQ0ZGMtOWE2MS00Mjk5LThiOTYtNGRhOWVkNTY0NWU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQyODYzNTAxNV5BMl5BanBnXkFtZTgwMDcxNzM2MjI@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwNTE5NzczOV5BMl5BanBnXkFtZTgwMjcxNzM2MjI@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM2MDQ0MTQ2Ml5BMl5BanBnXkFtZTgwMzcxNzM2MjI@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMTk4NTI3N15BMl5BanBnXkFtZTgwNjgxNzU5MTE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDgwNTg5NDk2NV5BMl5BanBnXkFtZTgwMjgxNzU5MTE@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2Mjk2NTkxNl5BMl5BanBnXkFtZTgwMzgxNzU5MTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4OTA0OTYzMl5BMl5BanBnXkFtZTgwNTgxNzU5MTE@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzQ2MzAzNjAzOF5BMl5BanBnXkFtZTgwNDg5NjY3MTE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzNzY1NDk0NV5BMl5BanBnXkFtZTgwMzg5NjY3MTE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MTUzMzE0M15BMl5BanBnXkFtZTcwNjYxNDAxMw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGUwYTliZjMtNzNmZS00Yzk4LWFmYjktOGVjODc1OWIxMTU2XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0112471/",
+        "rating": "8.1/10"
+      },
+      "year": "1995",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000500/",
+        "name": "Richard Linklater"
+      },
+      "seo": {
+        "title": "Before Sunrise (1995)",
+        "description": "Before Sunrise: Directed by Richard Linklater. With Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl. A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together."
+      }
+    }
+  }
+}

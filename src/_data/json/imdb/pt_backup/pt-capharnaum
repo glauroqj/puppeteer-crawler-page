@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "capharnaum",
+    "title": "Cafarnaum",
+    "year": "2018",
+    "director": "Nadine Labaki"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Cafarnaum",
+    "description": "Cafarnaum: Dirigido por Nadine Labaki. Com Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole, Kawsar Al Haddad. Ao cumprir uma sentença de cinco anos por um crime violento, uma criança de 12 anos processou seus pais por negligência.",
+    "slug": "capharnaum",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2NTYyMTMtZTY0YS00ZWVlLTg3OTktOTY1NmM4MzExOTZhXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Nadine Labaki",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYThjNjBjMTgtNjRlNS00YTdjLWI3NjItY2Y1NzEzMGM4ZTA4XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRkODM4NjUtMGU0Mi00ZjIyLTk1YWQtMzY5MWRlYjc4NWNmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGY3YzQxZWQtYjA4NS00ZDU1LWJhZmYtZjhlYmMxY2QzZGY1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjRiOTA2MmItNjhhYi00Nzg2LWE1YzMtMWUwNjFiYTBjMDFiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTMzM2IxYTItN2M3OS00MDFhLWJmNDktMmFlNWU0YjgxN2ZiXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmI3MDQxNjYtYzRkMy00MmUyLTljMjMtNDczYjZmM2Y0MjMyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTNkOGUzZWUtZjY3Yi00Y2U4LWE2MjEtMDkyNzcyZjA1ZDY2XkEyXkFqcGdeQXVyMTY1ODc5NjMx._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzc2MzY3MjItMWU2ZC00OGUwLWI2ZmMtZDcwYzFkMTE1MmYyXkEyXkFqcGdeQXVyMTY1ODc5NjMx._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDE4ODdiZDMtOGMxZS00NGMwLWI3ZjgtMzgzOWE0MWQ2MTA1XkEyXkFqcGdeQXVyMTY1ODc5NjMx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjBjYThkODktMWViZi00NzNmLTgzODAtMjNiMGQxNjc3NGU3XkEyXkFqcGdeQXVyMTY1ODc5NjMx._V1_QL75_UY140_CR51,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWNjN2U1Y2YtZjVkYS00ZmYyLTgyYjItZjQ0N2QyZmJhYzEyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4MzE2MWItY2FiNS00NjEwLTllYmItYTI4NTZmZWFmNDVhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8267604/",
+        "rating": "8.4/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1701024/",
+        "name": "Nadine Labaki"
+      },
+      "seo": {
+        "title": "Cafarnaum (2018)",
+        "description": "Cafarnaum: Dirigido por Nadine Labaki. Com Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole, Kawsar Al Haddad. Ao cumprir uma sentença de cinco anos por um crime violento, uma criança de 12 anos processou seus pais por negligência."
+      }
+    }
+  }
+}

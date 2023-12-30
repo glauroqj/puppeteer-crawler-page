@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "inglourious-basterds",
+    "title": "Inglourious Basterds",
+    "year": "2009",
+    "director": "Quentin Tarantino"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Inglourious Basterds",
+    "description": "Inglourious Basterds: Directed by Quentin Tarantino. With Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth. In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "slug": "inglourious-basterds",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "director": "Quentin Tarantino",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTAxNTIyMTIxMzReQTJeQWpwZ15BbWU4MDk3Mjc5NzEy._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxNTE5MjEzM15BMl5BanBnXkFtZTgwMDgyNzk3MTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyNzcwODE2MV5BMl5BanBnXkFtZTgwNTAwNDI2MTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODgxMjg1MDA0M15BMl5BanBnXkFtZTgwNzc1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxODA4NzIyNF5BMl5BanBnXkFtZTgwMDg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1MTYzNTYxMl5BMl5BanBnXkFtZTgwODc1MDc3MTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1MDM1NDQyM15BMl5BanBnXkFtZTgwMTg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0MTY3Njk5OF5BMl5BanBnXkFtZTgwMjg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1NjA1MDMyNF5BMl5BanBnXkFtZTgwMzg1MDc3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3NzcwMjMwN15BMl5BanBnXkFtZTcwODA0OTY3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0OTYyMjk0OF5BMl5BanBnXkFtZTcwOTA0OTY3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NzIyMDQ1OV5BMl5BanBnXkFtZTcwMDE0OTY3Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0361748/",
+        "rating": "8.4/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000233/",
+        "name": "Quentin Tarantino"
+      },
+      "seo": {
+        "title": "Inglourious Basterds (2009)",
+        "description": "Inglourious Basterds: Directed by Quentin Tarantino. With Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth. In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+      }
+    }
+  }
+}

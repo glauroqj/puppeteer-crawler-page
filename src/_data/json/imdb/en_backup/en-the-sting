@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-sting",
+    "title": "The Sting",
+    "year": "1973",
+    "director": "George Roy Hill"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Sting",
+    "description": "The Sting: Directed by George Roy Hill. With Paul Newman, Robert Redford, Robert Shaw, Charles Durning. Two grifters team up to pull off the ultimate con.",
+    "slug": "the-sting",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "director": "George Roy Hill",
+    "year": "1973",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU1ODc3MjkyN15BMl5BanBnXkFtZTcwOTYwODQyNw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1MzM2MjYyNV5BMl5BanBnXkFtZTcwODU0ODQyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MTcyNzYzM15BMl5BanBnXkFtZTYwNzI1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNjU1MjEyM15BMl5BanBnXkFtZTYwMDM1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIzMDE3MzYxOF5BMl5BanBnXkFtZTYwNDM1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1ODg4NjI5N15BMl5BanBnXkFtZTYwNzM1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc3NTA3ODg5MV5BMl5BanBnXkFtZTYwMDQ1NjQ2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3OTEyMzM1NV5BMl5BanBnXkFtZTYwNjQ1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE3OTM1NTg5Ml5BMl5BanBnXkFtZTYwOTQ1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3ODczMDI1NV5BMl5BanBnXkFtZTYwMjU1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIzNjA0NDY0Nl5BMl5BanBnXkFtZTYwNTU1NjQ2._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxNzIwMDIzOV5BMl5BanBnXkFtZTYwODU1NjQ2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0070735/",
+        "rating": "8.3/10"
+      },
+      "year": "1973",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001351/",
+        "name": "George Roy Hill"
+      },
+      "seo": {
+        "title": "The Sting (1973)",
+        "description": "The Sting: Directed by George Roy Hill. With Paul Newman, Robert Redford, Robert Shaw, Charles Durning. Two grifters team up to pull off the ultimate con."
+      }
+    }
+  }
+}

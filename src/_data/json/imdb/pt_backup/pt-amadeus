@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "amadeus",
+    "title": "Amadeus",
+    "year": "1984",
+    "director": "Milos Forman"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Amadeus",
+    "description": "Amadeus: Dirigido por Milos Forman. Com F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice. A vida, sucessos e tribulações de Wolfgang Amadeus Mozart de acordo com Antonio Salieri, um compositor que era contemporâneo, que sempre teve ciúmes dele e que alegou tê-lo matado.",
+    "slug": "amadeus",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzI2MjM5NDEtNjJmZS00NTJiLTlkY2UtYjJhOGViYmU2ZTIxXkEyXkFqcGdeQXVyMTU3NTI2OTky._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Milos Forman",
+    "year": "1984",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BM2FjMjdlY2ItNjdhOC00ZWM3LWE0YjQtOGVhNTk4MTE5YTM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWRjY2E3NmYtMWFkZi00NGU1LWFkODItNTllNzIxYWRhMzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNzcyMTM5Nl5BMl5BanBnXkFtZTgwMzM1NDA1NDM@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4MjAzNDIxMl5BMl5BanBnXkFtZTgwMTEwNjU5MTE@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3OTA0MjcxM15BMl5BanBnXkFtZTYwMjc3MDk2._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxNDkwNjc1NV5BMl5BanBnXkFtZTYwNDc3MDk2._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMTU5NzkzNF5BMl5BanBnXkFtZTYwNjc3MDk2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzA5MzIwOTE4Nl5BMl5BanBnXkFtZTYwODc3MDk2._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3NzcwMjYwNF5BMl5BanBnXkFtZTYwMDg3MDk2._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2MTQ4NTkyNF5BMl5BanBnXkFtZTYwMjg3MDk2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI3OTk5MjA1OF5BMl5BanBnXkFtZTYwNDg3MDk2._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3NzE1MTM3MV5BMl5BanBnXkFtZTYwNTg3MDk2._V1_QL75_UY140_CR39,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0086879/",
+        "rating": "8.4/10"
+      },
+      "year": "1984",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001232/",
+        "name": "Milos Forman"
+      },
+      "seo": {
+        "title": "Amadeus (1984)",
+        "description": "Amadeus: Dirigido por Milos Forman. Com F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice. A vida, sucessos e tribulações de Wolfgang Amadeus Mozart de acordo com Antonio Salieri, um compositor que era contemporâneo, que sempre teve ciúmes dele e que alegou tê-lo matado."
+      }
+    }
+  }
+}

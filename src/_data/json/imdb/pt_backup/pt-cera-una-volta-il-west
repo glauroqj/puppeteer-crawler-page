@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "cera-una-volta-il-west",
+    "title": "Era uma Vez no Oeste",
+    "year": "1968",
+    "director": "Sergio Leone"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Era uma Vez no Oeste",
+    "description": "Era uma Vez no Oeste: Dirigido por Sergio Leone. Com Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson. Um misterioso estranhoe se junta com um bandido para proteger a uma viúva.",
+    "slug": "cera-una-volta-il-west",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzZiNjA5NzMtOGU1My00NjRiLTg4ODQtMTllNTNlZjYxNjQ3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Faroeste"
+    ],
+    "director": "Sergio Leone",
+    "year": "1968",
+    "infos": {
+      "genres": [
+        "Faroeste"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWRkZmZkYmMtZjQ1Ni00MGQwLTkxZjUtOWU3ODlkZDRmY2FjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2NTQ2MzkwNV5BMl5BanBnXkFtZTcwMjU1ODIwNw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1Njg3ODA2MF5BMl5BanBnXkFtZTcwNDU1ODIwNw@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgzNDM5NTY3NF5BMl5BanBnXkFtZTcwNjA4MTc4Mw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyNjc4NTM1MV5BMl5BanBnXkFtZTcwNzA4MTc4Mw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgyODk4MTIwOF5BMl5BanBnXkFtZTcwODA4MTc4Mw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyODg4NTA1NF5BMl5BanBnXkFtZTcwOTYwMTUzNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk5OTcyMjQzM15BMl5BanBnXkFtZTcwMzU1ODIwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxOTEwOTU0MV5BMl5BanBnXkFtZTgwNDc4NjQ3MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg2NDIyODM2NV5BMl5BanBnXkFtZTgwMjI4OTU0MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg1NTcyNjc2M15BMl5BanBnXkFtZTgwMzI4OTU0MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIxODM2ODAzM15BMl5BanBnXkFtZTgwNDI4OTU0MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0064116/",
+        "rating": "8.5/10"
+      },
+      "year": "1968",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001466/",
+        "name": "Sergio Leone"
+      },
+      "seo": {
+        "title": "Era uma Vez no Oeste (1968)",
+        "description": "Era uma Vez no Oeste: Dirigido por Sergio Leone. Com Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson. Um misterioso estranhoe se junta com um bandido para proteger a uma viúva."
+      }
+    }
+  }
+}

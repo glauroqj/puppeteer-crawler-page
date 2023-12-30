@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "eternal-sunshine-of-the-spotless-mind",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
+    "director": "Michel Gondry"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "Eternal Sunshine of the Spotless Mind: Directed by Michel Gondry. With Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood. When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+    "slug": "eternal-sunshine-of-the-spotless-mind",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Michel Gondry",
+    "year": "2004",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODkyMTYzNDExNl5BMl5BanBnXkFtZTcwNTAwOTMyMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQwODU1MjcwM15BMl5BanBnXkFtZTcwNjAwOTMyMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyODk3MDA0N15BMl5BanBnXkFtZTcwODAwOTMyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyODk4NDM2Ml5BMl5BanBnXkFtZTcwOTAwOTMyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2NTMwOTE0OF5BMl5BanBnXkFtZTcwMDEwOTMyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA1MzAzNTc5MDleQTJeQWpwZ15BbWU3MDExMDkzMjM@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxODcxMTYzNV5BMl5BanBnXkFtZTcwMzEwOTMyMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMjE1MzEwMl5BMl5BanBnXkFtZTcwNDEwOTMyMw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2MDEyOTU0ODVeQTJeQWpwZ15BbWU3MDY4OTgzMjM@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0OTU2NjE5NF5BMl5BanBnXkFtZTcwODg5ODMyMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MDAwMzcyOF5BMl5BanBnXkFtZTcwOTg5ODMyMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2OTg3MDMxN15BMl5BanBnXkFtZTcwMTk5ODMyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0338013/",
+        "rating": "8.3/10"
+      },
+      "year": "2004",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0327273/",
+        "name": "Michel Gondry"
+      },
+      "seo": {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "description": "Eternal Sunshine of the Spotless Mind: Directed by Michel Gondry. With Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood. When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever."
+      }
+    }
+  }
+}

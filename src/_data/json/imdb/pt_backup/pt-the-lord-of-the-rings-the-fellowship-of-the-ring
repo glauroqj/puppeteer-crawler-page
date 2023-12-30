@@ -3,17 +3,12 @@
     "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
     "title": "O Senhor dos Anéis: A Sociedade do Anel",
     "year": "2001",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Drama"
-    ],
     "director": "Peter Jackson"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "O Senhor dos Anéis: A Sociedade do Anel",
-    "description": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas.",
+    "description": "O Senhor dos Anéis: A Sociedade do Anel: Dirigido por Peter Jackson. Com Alan Howard, Noel Appleby, Sean Astin, Sala Baker. Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas.",
     "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
     "image": "https://m.media-amazon.com/images/M/MV5BNDEyMzU0ODUtMTdjOS00Y2E2LWJlZmEtYmJjMmQ2NWZlNGQ1XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
     "genres": [
@@ -45,7 +40,7 @@
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt0120737/",
-        "rating": "8.8/10"
+        "rating": "8.9/10"
       },
       "year": "2001",
       "country": "",
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "O Senhor dos Anéis: A Sociedade do Anel (2001)",
-        "description": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas."
+        "description": "O Senhor dos Anéis: A Sociedade do Anel: Dirigido por Peter Jackson. Com Alan Howard, Noel Appleby, Sean Astin, Sala Baker. Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas."
       }
     }
   }

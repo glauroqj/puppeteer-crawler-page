@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "jagten",
+    "title": "Jagten",
+    "year": "2012",
+    "director": "Thomas Vinterberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Jagten",
+    "description": "The Hunt: Directed by Thomas Vinterberg. With Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm. A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "slug": "jagten",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Thomas Vinterberg",
+    "year": "2012",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM3OTc2NzQ0N15BMl5BanBnXkFtZTcwOTk3NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIyODA2NTA0MV5BMl5BanBnXkFtZTcwMDA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY5NTkyMjc5OF5BMl5BanBnXkFtZTcwMTA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5OTA0MTkzNV5BMl5BanBnXkFtZTcwMjA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxOTkxNzIwMF5BMl5BanBnXkFtZTcwMzA4NTc3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNTc0MTg4M15BMl5BanBnXkFtZTcwMDc4ODIwOQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY5MzUyNTg1NV5BMl5BanBnXkFtZTcwMzA1OTA2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg2NDI2OTg2MF5BMl5BanBnXkFtZTcwNzU4NjY4Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MzIzMTg1OV5BMl5BanBnXkFtZTcwMTY4NjY4Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MTI1MTA2OV5BMl5BanBnXkFtZTcwMTkwNTM4Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzOTA3Njk0MV5BMl5BanBnXkFtZTcwMjkwNTM4Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyODM1NjAxMV5BMl5BanBnXkFtZTcwMzkwNTM4Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2106476/",
+        "rating": "8.3/10"
+      },
+      "year": "2012",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0899121/",
+        "name": "Thomas Vinterberg"
+      },
+      "seo": {
+        "title": "The Hunt (2012)",
+        "description": "The Hunt: Directed by Thomas Vinterberg. With Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm. A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie."
+      }
+    }
+  }
+}

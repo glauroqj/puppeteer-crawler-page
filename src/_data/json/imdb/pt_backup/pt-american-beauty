@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "american-beauty",
+    "title": "Beleza Americana",
+    "year": "1999",
+    "director": "Sam Mendes"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Beleza Americana",
+    "description": "Beleza Americana: Dirigido por Sam Mendes. Com Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley. Um pai sexualmente frustrado tem uma crise existencial depois de conhecer a melhor amiga da sua filha.",
+    "slug": "american-beauty",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDk1NWNjMzQtYjEzYy00YzhmLWEzYzgtMGU1NWZiYzljMWNjXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sam Mendes",
+    "year": "1999",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTYzNjIwNzI0OV5BMl5BanBnXkFtZTcwNjIyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NjYyMzExMV5BMl5BanBnXkFtZTcwODEyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NzU3NzM2N15BMl5BanBnXkFtZTcwOTEyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMjYwMDM5Ml5BMl5BanBnXkFtZTcwMDIyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4MzEwODQzOF5BMl5BanBnXkFtZTcwMTIyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1Mzk4NzIxNl5BMl5BanBnXkFtZTcwMzIyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0NDYyOTE5OF5BMl5BanBnXkFtZTcwNDIyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4MTE3Mzc3OF5BMl5BanBnXkFtZTcwNTIyODY3Mw@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2NTIwODM0MF5BMl5BanBnXkFtZTYwNjc0Mzk2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNzkyODA0N15BMl5BanBnXkFtZTYwODc0Mzk2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMzM0MDEyOV5BMl5BanBnXkFtZTYwMDg0Mzk2._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0NzgzOTU3NF5BMl5BanBnXkFtZTYwMTg0Mzk2._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0169547/",
+        "rating": "8.3/10"
+      },
+      "year": "1999",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0005222/",
+        "name": "Sam Mendes"
+      },
+      "seo": {
+        "title": "Beleza Americana (1999)",
+        "description": "Beleza Americana: Dirigido por Sam Mendes. Com Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley. Um pai sexualmente frustrado tem uma crise existencial depois de conhecer a melhor amiga da sua filha."
+      }
+    }
+  }
+}

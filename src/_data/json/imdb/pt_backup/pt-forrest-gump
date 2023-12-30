@@ -3,16 +3,12 @@
     "slug": "forrest-gump",
     "title": "Forrest Gump: O Contador de Histórias",
     "year": "1994",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
     "director": "Robert Zemeckis"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Forrest Gump: O Contador de Histórias",
-    "description": "Os governos dos presidentes Kennedy e Johnson, os eventos do Vietnã e Watergate e outras histórias são mostradas através da perspectiva de um homem do Alabama com baixo quociente intelectual.",
+    "description": "Forrest Gump: O Contador de Histórias: Dirigido por Robert Zemeckis. Com Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys. Os governos dos presidentes Kennedy e Johnson, os eventos do Vietnã e Watergate e outras histórias são mostradas através da perspectiva de um homem do Alabama com baixo quociente intelectual.",
     "slug": "forrest-gump",
     "image": "https://m.media-amazon.com/images/M/MV5BYWYwNWY0ZjMtYzUxZS00ODI3LTllNzctODNiNjhlNjcyNWM0XkEyXkFqcGdeQXVyMjcwMzM0OTI@._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Forrest Gump: O Contador de Histórias (1994)",
-        "description": "Os governos dos presidentes Kennedy e Johnson, os eventos do Vietnã e Watergate e outras histórias são mostradas através da perspectiva de um homem do Alabama com baixo quociente intelectual."
+        "description": "Forrest Gump: O Contador de Histórias: Dirigido por Robert Zemeckis. Com Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys. Os governos dos presidentes Kennedy e Johnson, os eventos do Vietnã e Watergate e outras histórias são mostradas através da perspectiva de um homem do Alabama com baixo quociente intelectual."
       }
     }
   }

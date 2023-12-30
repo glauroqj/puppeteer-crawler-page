@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "12-years-a-slave",
+    "title": "12 Years a Slave",
+    "year": "2013",
+    "director": "Steve McQueen"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "12 Years a Slave",
+    "description": "12 Years a Slave: Directed by Steve McQueen. With Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt. In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "slug": "12-years-a-slave",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Steve McQueen",
+    "year": "2013",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY3NjE5Mzk3NV5BMl5BanBnXkFtZTgwNzQ5MTE0MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NjYzNTUzM15BMl5BanBnXkFtZTgwODQ5MTE0MDE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MTU3MDQ4Ml5BMl5BanBnXkFtZTgwOTQ5MTE0MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MTUwOTQ3N15BMl5BanBnXkFtZTgwMDU5MTE0MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2Nzk1MTU3NjheQTJeQWpwZ15BbWU4MDE1OTExNDAx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3OTYyMTYwM15BMl5BanBnXkFtZTgwMjU5MTE0MDE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4ODExMzk5NV5BMl5BanBnXkFtZTgwNjQ5MTE0MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyOTUwNDg1N15BMl5BanBnXkFtZTgwNjczOTkzMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQwODg5NzI5N15BMl5BanBnXkFtZTcwMDEwMzY3OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA1MDg4NjgzMTdeQTJeQWpwZ15BbWU3MDIxMDM2Nzk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NDUwOTE0MF5BMl5BanBnXkFtZTcwNDEwMzY3OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODE3NzE5NzEyNl5BMl5BanBnXkFtZTcwNTEwMzY3OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2024544/",
+        "rating": "8.1/10"
+      },
+      "year": "2013",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2588606/",
+        "name": "Steve McQueen"
+      },
+      "seo": {
+        "title": "12 Years a Slave (2013)",
+        "description": "12 Years a Slave: Directed by Steve McQueen. With Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt. In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+      }
+    }
+  }
+}

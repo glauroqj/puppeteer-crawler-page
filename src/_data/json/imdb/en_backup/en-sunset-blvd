@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "sunset-blvd",
+    "title": "Sunset Blvd.",
+    "year": "1950",
+    "director": "Billy Wilder"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Sunset Blvd.",
+    "description": "Sunset Blvd.: Directed by Billy Wilder. With William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson. A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "slug": "sunset-blvd",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "director": "Billy Wilder",
+    "year": "1950",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTVjMTA4YTMtYTc3Ny00NWE0LTlmYjktYTM2MDY3ZmFlYzQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNDQxMTg3Nl5BMl5BanBnXkFtZTcwNzEzODQ0Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjkyNTUwMTY2Nl5BMl5BanBnXkFtZTcwODEzODQ0Nw@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIyMjg5MzU3Ml5BMl5BanBnXkFtZTcwMTIzODQ0Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI5MDQ3NjcwOV5BMl5BanBnXkFtZTcwMjIzODQ0Nw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNjIwMTAxMV5BMl5BanBnXkFtZTYwMjYyODM2._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMTcwMDE4NF5BMl5BanBnXkFtZTYwNjYyODM2._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMjQzODU5MV5BMl5BanBnXkFtZTYwNTcyODM2._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5Mzg2MTk2N15BMl5BanBnXkFtZTYwMzIxODQ2._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA2MTgyMDU3NTleQTJeQWpwZ15BbWU2MDUyMTg0Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzE2NTIzMjY0NV5BMl5BanBnXkFtZTYwOTIxODQ2._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI0ODA5NTY5M15BMl5BanBnXkFtZTYwMTMxODQ2._V1_QL75_UY140_CR25,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0043014/",
+        "rating": "8.4/10"
+      },
+      "year": "1950",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000697/",
+        "name": "Billy Wilder"
+      },
+      "seo": {
+        "title": "Sunset Blvd. (1950)",
+        "description": "Sunset Blvd.: Directed by Billy Wilder. With William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson. A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return."
+      }
+    }
+  }
+}

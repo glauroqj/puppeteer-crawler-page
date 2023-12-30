@@ -3,17 +3,12 @@
     "slug": "the-lord-of-the-rings-the-two-towers",
     "title": "O Senhor dos Anéis: As Duas Torres",
     "year": "2002",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Drama"
-    ],
     "director": "Peter Jackson"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "O Senhor dos Anéis: As Duas Torres",
-    "description": "Enquanto Frodo e Sam estão perto de Mordor com a ajuda de Gollum, a divida comunhão luta contra Saruman e os Isengards.",
+    "description": "O Senhor dos Anéis: As Duas Torres: Dirigido por Peter Jackson. Com Bruce Allpress, Sean Astin, John Bach, Sala Baker. Enquanto Frodo e Sam estão perto de Mordor com a ajuda de Gollum, a divida comunhão luta contra Saruman e os Isengards.",
     "slug": "the-lord-of-the-rings-the-two-towers",
     "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "O Senhor dos Anéis: As Duas Torres (2002)",
-        "description": "Enquanto Frodo e Sam estão perto de Mordor com a ajuda de Gollum, a divida comunhão luta contra Saruman e os Isengards."
+        "description": "O Senhor dos Anéis: As Duas Torres: Dirigido por Peter Jackson. Com Bruce Allpress, Sean Astin, John Bach, Sala Baker. Enquanto Frodo e Sam estão perto de Mordor com a ajuda de Gollum, a divida comunhão luta contra Saruman e os Isengards."
       }
     }
   }

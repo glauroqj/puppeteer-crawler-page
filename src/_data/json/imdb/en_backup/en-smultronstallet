@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "smultronstallet",
+    "title": "Smultronstället",
+    "year": "1957",
+    "director": "Ingmar Bergman"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Smultronstället",
+    "description": "Wild Strawberries: Directed by Ingmar Bergman. With Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand. After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+    "slug": "smultronstallet",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Ingmar Bergman",
+    "year": "1957",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDM4YzAzNTktYzFjMi00MzM5LWE1ODUtZGQ4OGZlMzFjZWFjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODNkNmI1NGEtMWUwYi00NjZjLTk0NjUtM2RmYzU4MTBhZGM5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1Njg0MDMyOV5BMl5BanBnXkFtZTcwNjg4MjE5Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyOTA5Njg1Nl5BMl5BanBnXkFtZTcwODg4MjE5Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0Nzk0NjM3N15BMl5BanBnXkFtZTcwMjg5MDI2NQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwMzM5NTI1OF5BMl5BanBnXkFtZTcwMzg5MDI2NQ@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTMyMzcxMTMwM15BMl5BanBnXkFtZTcwNDg5MDI2NQ@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzODg1MDUwM15BMl5BanBnXkFtZTcwNTg5MDI2NQ@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMzk0OTQ2Ml5BMl5BanBnXkFtZTcwNjg5MDI2NQ@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5OTA0NDc2OV5BMl5BanBnXkFtZTcwNzg5MDI2NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjE0NTNhYzEtNTI2YS00NmFkLWJhMzAtYThlMGE2YWM4NzYxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQ0YzM3MTUtOGQ5YS00ZGY0LWIzMTUtY2JmNGFmMWE0MTczXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0050986/",
+        "rating": "8.1/10"
+      },
+      "year": "1957",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000005/",
+        "name": "Ingmar Bergman"
+      },
+      "seo": {
+        "title": "Wild Strawberries (1957)",
+        "description": "Wild Strawberries: Directed by Ingmar Bergman. With Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand. After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence."
+      }
+    }
+  }
+}

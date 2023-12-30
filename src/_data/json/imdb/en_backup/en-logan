@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "logan",
+    "title": "Logan",
+    "year": "2017",
+    "director": "James Mangold"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Logan",
+    "description": "Logan: Directed by James Mangold. With Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook. In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "slug": "logan",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "James Mangold",
+    "year": "2017",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDI3MzgwMmYtY2JjYy00ZWQ2LTgzNjUtNjAyZDc3MDFhOTg0XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjZmMmVhNTctYTlhYy00YWJmLTk4NzktYmFkMjg4NzljMDlkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzQxMDA3MDYtYTkyNi00Yjg3LWFmYTMtOTFlOGQ4Mzc4NzU3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTVhN2JhMmUtYWVkOS00YTMzLTgzNWQtMzAxNWMxM2NiODllXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWNmYmVmZjctY2MyZS00OGMyLWJmZTYtODcxYTcxNGFmZThkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmM4ODMwY2EtMzZhNC00MmUwLTg4ZDAtMTdhNzc4MDVhNTA1XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU2ZjEwYzctNTAzMS00MmUzLWE0NWUtYTViZjZkM2I1MTM3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjRlZTVkZGItMTA4YS00MDAyLThkZGEtMGUwYTYwNzNhODM3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NjU4ZjktNzczOS00YzlkLTliNTMtNWUwZTJlYTA1N2ZmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGViMDdhYWItMjU1Yy00MDEyLThmZDctNmQzOWUyYWI4NmIwXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDA4MGNhMDUtZmM3Zi00MDdmLWE3MjMtNDU3YmNhMmQ2Y2Q5XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg3Y2I2ODgtM2M3Zi00OWJmLWFlZDgtZjg2MmVlZDZhYjQyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3315342/",
+        "rating": "8.1/10"
+      },
+      "year": "2017",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0003506/",
+        "name": "James Mangold"
+      },
+      "seo": {
+        "title": "Logan (2017)",
+        "description": "Logan: Directed by James Mangold. With Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook. In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety."
+      }
+    }
+  }
+}

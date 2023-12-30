@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "benhur",
+    "title": "Ben-Hur",
+    "year": "1959",
+    "director": "William Wyler"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Ben-Hur",
+    "description": "Ben-Hur: Dirigido por William Wyler. Com Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd. Quando um príncipe de Jerusalém é traído e enviado à escravidão por um amigo romano, ele recupera sua liberdade e retorna para se vingar.",
+    "slug": "benhur",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Drama"
+    ],
+    "director": "William Wyler",
+    "year": "1959",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZWRkNmQ4ZGYtODQ5MC00YjM1LWE0OTctZTZiYTdiOWYzNjRhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjc4NmI2Y2QtZmNkOC00MzM0LWE5MDItNzc0NzE2YjE4NDhmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg2Njg5NjY0MF5BMl5BanBnXkFtZTgwMDUxMzM1MjI@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NjUyMTMwMF5BMl5BanBnXkFtZTcwMjk3OTIyNw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTAwODU3NzgxMl5BMl5BanBnXkFtZTcwMzk3OTIyNw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1MjU4NDYwM15BMl5BanBnXkFtZTcwNDk3OTIyNw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5OTk4Nzg5MF5BMl5BanBnXkFtZTcwNTAyNTQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQ4NDA0NjE5MF5BMl5BanBnXkFtZTcwNzAyNTQ5Ng@@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0NzAwOTA1OV5BMl5BanBnXkFtZTcwMzEyNTQ5Ng@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2NTQ2NzEwNF5BMl5BanBnXkFtZTcwNDEyNTQ5Ng@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyMjU4NjU3N15BMl5BanBnXkFtZTcwODEyNTQ5Ng@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1OTU2NjQ1NV5BMl5BanBnXkFtZTcwOTEyNTQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0052618/",
+        "rating": "8.1/10"
+      },
+      "year": "1959",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0943758/",
+        "name": "William Wyler"
+      },
+      "seo": {
+        "title": "Ben-Hur (1959)",
+        "description": "Ben-Hur: Dirigido por William Wyler. Com Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd. Quando um príncipe de Jerusalém é traído e enviado à escravidão por um amigo romano, ele recupera sua liberdade e retorna para se vingar."
+      }
+    }
+  }
+}

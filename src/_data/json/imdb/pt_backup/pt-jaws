@@ -3,17 +3,12 @@
     "slug": "jaws",
     "title": "Tubarão",
     "year": "1975",
-    "genres": [
-      "Aventura",
-      "Mistério",
-      "Suspense"
-    ],
     "director": "Steven Spielberg"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Tubarão",
-    "description": "Quando um tubarão desencadea caos numa praia, um xerife, um biologista e um marinheiro daram caça ao animal.",
+    "description": "Tubarão: Dirigido por Steven Spielberg. Com Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary. Quando um tubarão desencadea caos numa praia, um xerife, um biologista e um marinheiro daram caça ao animal.",
     "slug": "jaws",
     "image": "https://m.media-amazon.com/images/M/MV5BNWJiMGQ5YTQtZDk2Mi00ZDExLTgzMGUtM2M2ODVkYmNlYWJkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Tubarão (1975)",
-        "description": "Quando um tubarão desencadea caos numa praia, um xerife, um biologista e um marinheiro daram caça ao animal."
+        "description": "Tubarão: Dirigido por Steven Spielberg. Com Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary. Quando um tubarão desencadea caos numa praia, um xerife, um biologista e um marinheiro daram caça ao animal."
       }
     }
   }

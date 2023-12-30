@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "city-lights",
+    "title": "Luzes da Cidade",
+    "year": "1931",
+    "director": "Charles Chaplin"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Luzes da Cidade",
+    "description": "Luzes da Cidade: Dirigido por Charles Chaplin. Com Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia. Com a ajuda de um homem rico, bêbado e imprevisível, um vagabundo ingênuo que se apaixonou por uma florista cega tenta conseguir dinheiro para fornecer ajuda médica.",
+    "slug": "city-lights",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Charles Chaplin",
+    "year": "1931",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTk5OTUwMTUzMF5BMl5BanBnXkFtZTcwOTAzMDMyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5NDAyOTIwNF5BMl5BanBnXkFtZTcwMDEzMDMyNw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMyMTA5NDk3NV5BMl5BanBnXkFtZTcwMTEzMDMyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2NjE5ODIwOV5BMl5BanBnXkFtZTcwMjEzMDMyNw@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MTM4NzQzNV5BMl5BanBnXkFtZTcwMzEzMDMyNw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMzc0NTA0Nl5BMl5BanBnXkFtZTcwNDEzMDMyNw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MzQ2NzAwMF5BMl5BanBnXkFtZTcwNTEzMDMyNw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTIzODMwODU2NF5BMl5BanBnXkFtZTcwNzY3NzE5Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4OTM0ODU1Ml5BMl5BanBnXkFtZTcwODY3NzE5Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0Mjg5MjcxMV5BMl5BanBnXkFtZTcwOTY3NzE5Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3NjQ2NjU4Nl5BMl5BanBnXkFtZTYwMDc1MjY3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwODIxMjgyMl5BMl5BanBnXkFtZTYwNjc1MjY3._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0021749/",
+        "rating": "8.5/10"
+      },
+      "year": "1931",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000122/",
+        "name": "Charles Chaplin"
+      },
+      "seo": {
+        "title": "Luzes da Cidade (1931)",
+        "description": "Luzes da Cidade: Dirigido por Charles Chaplin. Com Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia. Com a ajuda de um homem rico, bêbado e imprevisível, um vagabundo ingênuo que se apaixonou por uma florista cega tenta conseguir dinheiro para fornecer ajuda médica."
+      }
+    }
+  }
+}

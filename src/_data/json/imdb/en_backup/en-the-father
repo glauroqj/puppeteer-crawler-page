@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-father",
+    "title": "The Father",
+    "year": "2020",
+    "director": "Florian Zeller"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Father",
+    "description": "The Father: Directed by Florian Zeller. With Olivia Colman, Anthony Hopkins, Mark Gatiss, Olivia Williams. A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+    "slug": "the-father",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Florian Zeller",
+    "year": "2020",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZmNiMGJlNzItNWQ4Yi00N2JlLWFjNDYtYTQzMTU1M2VkMGMwXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWE1Y2NhYzgtYjhiMC00YTQ1LWE1ZmQtNmYyODkxYTNmMmQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWVhMDY2NmQtN2Y3MC00MDM1LTlhODctNTY0MzEzNzQyOGQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTU0ZjM3ZjgtYjFkYy00ZTc3LTg3ZTctZGQ5ZGE3YTk0NTBjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQ3MjBjN2MtMjIxYS00MjBlLWFmYTktN2RlZmVkMWUzYTYwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzY3OTRjYTktYzNiOC00YTI1LWJhMDEtZTY1ZmQ0ODA3NzZhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNDI2ZDEtYjBiNi00YzAwLWJkOTgtNzJiNDQzZDIwODU5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzJkYWQ2M2QtMTJjOS00MjY0LWFmNjEtNDM0NDdlZDQ4ZTBhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmY5ZTJiMDUtOWVlMy00YWQyLTllZDEtMTMwNDc0OGQ4YWE3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTE2ZjRiM2YtMTA5NS00N2NmLTk4NTctZTBhZWZlNGI2NmRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg4ZmVjNzctNGM3NS00MDUxLTkzNjYtYjMwM2E2ODc2YjE1XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE2YjY1NGEtMzVkMy00YjQ0LWJmNTQtYjk2MjI5MDE2NTJkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt10272386/",
+        "rating": "8.2/10"
+      },
+      "year": "2020",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1725469/",
+        "name": "Florian Zeller"
+      },
+      "seo": {
+        "title": "The Father (2020)",
+        "description": "The Father: Directed by Florian Zeller. With Olivia Colman, Anthony Hopkins, Mark Gatiss, Olivia Williams. A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality."
+      }
+    }
+  }
+}

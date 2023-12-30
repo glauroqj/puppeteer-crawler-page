@@ -1,19 +1,15 @@
 {
   "poster_table": {
-    "slug": "the-good-the-bad-and-the-ugly",
+    "slug": "il-buono-il-brutto-il-cattivo",
     "title": "Três Homens em Conflito",
     "year": "1966",
-    "genres": [
-      "Aventura",
-      "Faroeste"
-    ],
     "director": "Sergio Leone"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Três Homens em Conflito",
-    "description": "Um impostor se junta com dois homens para encontrar fortuna num remoto cemitério.",
-    "slug": "the-good-the-bad-and-the-ugly",
+    "description": "Três Homens em Conflito: Dirigido por Sergio Leone. Com Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè. Um impostor se junta com dois homens para encontrar fortuna num remoto cemitério.",
+    "slug": "il-buono-il-brutto-il-cattivo",
     "image": "https://m.media-amazon.com/images/M/MV5BNzE2MDJkNTktMzVkYS00ZWFlLWIzOWYtYzRhYjcyYzBmM2MwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
     "genres": [
       "Aventura",
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Três Homens em Conflito (1966)",
-        "description": "Um impostor se junta com dois homens para encontrar fortuna num remoto cemitério."
+        "description": "Três Homens em Conflito: Dirigido por Sergio Leone. Com Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè. Um impostor se junta com dois homens para encontrar fortuna num remoto cemitério."
       }
     }
   }

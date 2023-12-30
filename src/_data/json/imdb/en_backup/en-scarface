@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "scarface",
+    "title": "Scarface",
+    "year": "1983",
+    "director": "Brian De Palma"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Scarface",
+    "description": "Scarface: Directed by Brian De Palma. With Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio. In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "slug": "scarface",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Brian De Palma",
+    "year": "1983",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzczMjI1NmEtZjhhMC00Zjk5LWI4OGUtODg5MWVmMTU1NzcyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzZmMTRjZjEtOTQ3YS00YjNkLWI5YjgtMWZkZjYzZjRhMzYxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGVlMDZiZTctM2I0ZC00ZTcyLTg2ZmUtNzdhNjM3YzEwMDYwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWNiOTBjOTAtYjk4MC00NWZmLWEyYTMtOGVmNDE3ZDM1OWJkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWY3YjQ3ZjMtMDg1MC00ZjM3LWI5ODUtNmU4NzUxYWI5MzU5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzg0YWQ4YjEtNDFkNi00ZjJjLTgyMzQtNTEwZTYxYmFiOWFjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmIyMzg0NzEtOWE0ZS00ZThiLWExODgtMzU4ODRiNGE2OTAyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWI5NWM4MTgtMzIyZi00MWU2LTg2ZjEtOTg3ZDg3YTg1ZWE3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzcyNjZlNDQtYTA2MC00MDJjLWExNmItNDI1MmUyMzM5NmFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGRmM2Q3MDItY2MxOS00NWExLThiMmUtNTEyNGE3YmJmOGIyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmMxZmYyYzgtZTZiZC00OTI5LTkyMTYtZmM0ZDRlMjAzOWVhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWViNDQ0M2QtZWM4MC00NTFiLWFhZmUtYzEyNTFiYzFmMGQwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0086250/",
+        "rating": "8.3/10"
+      },
+      "year": "1983",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000361/",
+        "name": "Brian De Palma"
+      },
+      "seo": {
+        "title": "Scarface (1983)",
+        "description": "Scarface: Directed by Brian De Palma. With Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio. In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed."
+      }
+    }
+  }
+}

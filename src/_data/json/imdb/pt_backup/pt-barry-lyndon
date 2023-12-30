@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "barry-lyndon",
+    "title": "Barry Lyndon",
+    "year": "1975",
+    "director": "Stanley Kubrick"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Barry Lyndon",
+    "description": "Barry Lyndon: Dirigido por Stanley Kubrick. Com Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger. Um irlandês conquista o coração de uma viúva rica e assume a posição aristocrática de seu falecido marido na Inglaterra do século XVIII.",
+    "slug": "barry-lyndon",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWI2YjBiNDQtMWI0Ni00NzUzLWI0NTgtZGMxYWYyNzA4M2Y2XkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Stanley Kubrick",
+    "year": "1975",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BY2NlYWRjMjUtZjlmOC00NDEwLTlkYjYtZmQzMDFiZDEwY2M5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjllNDViZjUtMzA4My00MzBjLTg1OWMtYzk5ZjYzMzU2MGE3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxNDczODk3Nl5BMl5BanBnXkFtZTgwODM1OTEwMjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0NTIyODY1NF5BMl5BanBnXkFtZTgwNzE0NTU5MTE@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3MzA3Nzc0OF5BMl5BanBnXkFtZTgwMjE0NTU5MTE@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwMTQ0MDU5Ml5BMl5BanBnXkFtZTgwMzE0NTU5MTE@._V1_QL75_UY140_CR41,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzOTgyNjgyN15BMl5BanBnXkFtZTgwNDE0NTU5MTE@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MjMwMjY3MV5BMl5BanBnXkFtZTgwNTE0NTU5MTE@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0MDUwMDM0M15BMl5BanBnXkFtZTgwNjE0NTU5MTE@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc2MDQ4NTU3N15BMl5BanBnXkFtZTcwOTMxMTQyNw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3NTc1ODEyNV5BMl5BanBnXkFtZTcwNTA1NDAxMw@@._V1_QL75_UY140_CR50,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2OTAwNjA3Nl5BMl5BanBnXkFtZTYwNzA5ODQ2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0072684/",
+        "rating": "8.1/10"
+      },
+      "year": "1975",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000040/",
+        "name": "Stanley Kubrick"
+      },
+      "seo": {
+        "title": "Barry Lyndon (1975)",
+        "description": "Barry Lyndon: Dirigido por Stanley Kubrick. Com Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger. Um irlandês conquista o coração de uma viúva rica e assume a posição aristocrática de seu falecido marido na Inglaterra do século XVIII."
+      }
+    }
+  }
+}

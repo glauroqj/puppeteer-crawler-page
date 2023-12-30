@@ -3,15 +3,12 @@
     "slug": "fight-club",
     "title": "Clube da Luta",
     "year": "1999",
-    "genres": [
-      "Drama"
-    ],
     "director": "David Fincher"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Clube da Luta",
-    "description": "Um trabalhador de escritório e um fabricante de sabonetes formam um clube de luta clandestino que evolui para algo muito maior.",
+    "description": "Clube da Luta: Dirigido por David Fincher. Com Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier. Um trabalhador de escritório e um fabricante de sabonetes formam um clube de luta clandestino que evolui para algo muito maior.",
     "slug": "fight-club",
     "image": "https://m.media-amazon.com/images/M/MV5BNDVhNjJlZmMtODJhOS00OWE4LTgxMzAtNjVlMzI0ZjI0OTMzXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
     "genres": [
@@ -49,7 +46,7 @@
       },
       "seo": {
         "title": "Clube da Luta (1999)",
-        "description": "Um trabalhador de escritório e um fabricante de sabonetes formam um clube de luta clandestino que evolui para algo muito maior."
+        "description": "Clube da Luta: Dirigido por David Fincher. Com Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier. Um trabalhador de escritório e um fabricante de sabonetes formam um clube de luta clandestino que evolui para algo muito maior."
       }
     }
   }

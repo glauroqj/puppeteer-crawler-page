@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+    "title": "Dr. Fantástico",
+    "year": "1964",
+    "director": "Stanley Kubrick"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Dr. Fantástico",
+    "description": "Dr. Fantástico: Dirigido por Stanley Kubrick. Com Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn. Um general alienado provoca um potencial holocausto nuclear que uma sala de guerra cheia de políticos e generais tenta freneticamente parar.",
+    "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWM4NDkwNDAtMmZjZC00YTIxLWI0Y2QtOGYyNzdlMTBhMjc5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Guerra"
+    ],
+    "director": "Stanley Kubrick",
+    "year": "1964",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYmUwYzE0YmUtMzZmNy00YTQ3LWE3ZGYtZjIwNWRlNjI5YmFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJiMDhkY2YtMzUyNC00ZmZmLWJiNDQtY2E5NzA0Y2ZhMWEyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWFiYzY2MzEtZGZjYi00NDE3LTg5OTMtNzhiZjgwMmEyMzdkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk2NTM2MGQtZWMxYy00NjdjLTgzYmMtNGQwOTI1YTZjYWUzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzM5NmQ5YTYtMGM1ZC00MWY2LTgwODEtMTliZTA5NGQzZDhiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDBiYmJiMjAtNDgyMy00ZDAyLWEwNmEtMzhhZTA2NGRjNjY3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ3MzJiMDQtNmI0Mi00NGJjLTljOWMtY2IxZTJmYzk5YWFjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI4Yjk5MmEtODk5ZC00OThmLWI2MDEtZGY1ZTE4NWE1MDU3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEyNTcyMjk5MzZeQTJeQWpwZ15BbWU4MDM5OTE5MDUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNjA0NjcxNF5BMl5BanBnXkFtZTgwNTE0OTEwMjE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4ODg5MDAxMF5BMl5BanBnXkFtZTcwNjE0MDkxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4NTI5ODU5Nl5BMl5BanBnXkFtZTcwODE0MDkxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0057012/",
+        "rating": "8.4/10"
+      },
+      "year": "1964",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000040/",
+        "name": "Stanley Kubrick"
+      },
+      "seo": {
+        "title": "Dr. Fantástico (1964)",
+        "description": "Dr. Fantástico: Dirigido por Stanley Kubrick. Com Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn. Um general alienado provoca um potencial holocausto nuclear que uma sala de guerra cheia de políticos e generais tenta freneticamente parar."
+      }
+    }
+  }
+}

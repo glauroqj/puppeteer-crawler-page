@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-truman-show",
+    "title": "O Show de Truman: O Show da Vida",
+    "year": "1998",
+    "director": "Peter Weir"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Show de Truman: O Show da Vida",
+    "description": "O Show de Truman: O Show da Vida: Dirigido por Peter Weir. Com Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone. Um vendedor de seguros descobre que sua vida é um programa de televisão.",
+    "slug": "the-truman-show",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmFjMjA4YjYtOTExYy00ZDM1LWIwZmYtZWY5Yjg4ODNkNjRiXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Peter Weir",
+    "year": "1998",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTMzMDk5MDg3M15BMl5BanBnXkFtZTcwOTQ3NDU0NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2MDM0MzA1Ml5BMl5BanBnXkFtZTcwNzU3NDU0NQ@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0NTUyNTg1NV5BMl5BanBnXkFtZTcwMjY3NDU0NQ@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1MjU5MDE2Nl5BMl5BanBnXkFtZTcwNTY3NDU0NQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NDc5NDgzNl5BMl5BanBnXkFtZTcwODk3NDU0NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk1MDk5ODc0Nl5BMl5BanBnXkFtZTcwMDA4NDU0NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc2OTcwMTk0MF5BMl5BanBnXkFtZTcwMTA4NDU0NQ@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMjMyNDEyMF5BMl5BanBnXkFtZTcwNjM0ODcxNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5OTUzMTAwNF5BMl5BanBnXkFtZTcwNzM0ODcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4NjU1MDcyNV5BMl5BanBnXkFtZTcwODM0ODcxNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjMwOTA4MjQwNV5BMl5BanBnXkFtZTcwMjQ0ODcxNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5ODAzOTIyMV5BMl5BanBnXkFtZTcwMzQ0ODcxNA@@._V1_QL75_UY140_CR29,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120382/",
+        "rating": "8.2/10"
+      },
+      "year": "1998",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001837/",
+        "name": "Peter Weir"
+      },
+      "seo": {
+        "title": "O Show de Truman: O Show da Vida (1998)",
+        "description": "O Show de Truman: O Show da Vida: Dirigido por Peter Weir. Com Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone. Um vendedor de seguros descobre que sua vida é um programa de televisão."
+      }
+    }
+  }
+}

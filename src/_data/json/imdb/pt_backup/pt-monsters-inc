@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "monsters-inc",
+    "title": "Monstros S.A.",
+    "year": "2001",
+    "director": "Pete Docter"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Monstros S.A.",
+    "description": "Monstros S.A.: Dirigido por Pete Docter, David Silverman, Lee Unkrich. Com John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi. Para poder dar electricidade a sua cidade, os monstros tem que assustar a crianças. Pensando que as crianças são perigosas para eles, dois monstros acham que as coisas podem ser diferentes.",
+    "slug": "monsters-inc",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Pete Docter",
+    "year": "2001",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY4Mzg1MzI5OF5BMl5BanBnXkFtZTgwMjg2NzgxMzE@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIzNDMxNDQyNV5BMl5BanBnXkFtZTgwMzg2NzgxMzE@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTMzNzY5NzQwOF5BMl5BanBnXkFtZTgwNDg2NzgxMzE@._V1_QL75_UY140_CR46,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjEzODAzMjUwNV5BMl5BanBnXkFtZTgwNTg2NzgxMzE@._V1_QL75_UY140_CR44,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTI3MTY2NTM3NV5BMl5BanBnXkFtZTgwNzg2NzgxMzE@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4NTQxMDYyOV5BMl5BanBnXkFtZTgwODg2NzgxMzE@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1NTg3NjQ3Ml5BMl5BanBnXkFtZTgwMDk2NzgxMzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxODc4MTcwMV5BMl5BanBnXkFtZTgwMTk2NzgxMzE@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNzc1ODk4NF5BMl5BanBnXkFtZTcwNzQ4MDIyNw@@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4MTM5MTE3Ml5BMl5BanBnXkFtZTcwNjE2NDc3Mw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzOTM4MDE0OV5BMl5BanBnXkFtZTcwNzE2NDc3Mw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDU3MjI3Nl5BMl5BanBnXkFtZTcwODE2NDc3Mw@@._V1_QL75_UY140_CR60,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0198781/",
+        "rating": "8.1/10"
+      },
+      "year": "2001",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0230032/",
+        "name": "Pete Docter"
+      },
+      "seo": {
+        "title": "Monstros S.A. (2001)",
+        "description": "Monstros S.A.: Dirigido por Pete Docter, David Silverman, Lee Unkrich. Com John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi. Para poder dar electricidade a sua cidade, os monstros tem que assustar a crianças. Pensando que as crianças são perigosas para eles, dois monstros acham que as coisas podem ser diferentes."
+      }
+    }
+  }
+}

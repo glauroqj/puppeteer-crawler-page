@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-sixth-sense",
+    "title": "The Sixth Sense",
+    "year": "1999",
+    "director": "M. Night Shyamalan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Sixth Sense",
+    "description": "The Sixth Sense: Directed by M. Night Shyamalan. With Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams. Malcolm Crowe, a child psychologist, starts treating a young boy, Cole, who encounters dead people and convinces him to help them. In turn, Cole helps Malcolm reconcile with his estranged wife.",
+    "slug": "the-sixth-sense",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "M. Night Shyamalan",
+    "year": "1999",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjIzMDEwOTI3MF5BMl5BanBnXkFtZTgwMTQ2MTk5NDM@._V1_QL75_UY140_CR41,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0MzcwNjMxN15BMl5BanBnXkFtZTcwMjYyODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMjY2OTE1NF5BMl5BanBnXkFtZTcwMzYyODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4OTUxMDYyMF5BMl5BanBnXkFtZTcwNDYyODY3Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTUyMTAxNV5BMl5BanBnXkFtZTcwNTYyODY3Mw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMzM0NTE5OV5BMl5BanBnXkFtZTcwNjYyODY3Mw@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0Nzk1Nzc5Nl5BMl5BanBnXkFtZTcwNDgzNDAxMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNDkzMjg3OV5BMl5BanBnXkFtZTYwMzQ5ODA3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MTg4NzAwM15BMl5BanBnXkFtZTYwNTQ5ODA3._V1_QL75_UY140_CR10,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMjkxOTI3Ml5BMl5BanBnXkFtZTYwNzQ5ODA3._V1_QL75_UY140_CR14,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4NDg0MjM4NV5BMl5BanBnXkFtZTYwMDU5ODA3._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0Mzk4MDY4Ml5BMl5BanBnXkFtZTYwMzU5ODA3._V1_QL75_UY140_CR32,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0167404/",
+        "rating": "8.2/10"
+      },
+      "year": "1999",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0796117/",
+        "name": "M. Night Shyamalan"
+      },
+      "seo": {
+        "title": "The Sixth Sense (1999)",
+        "description": "The Sixth Sense: Directed by M. Night Shyamalan. With Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams. Malcolm Crowe, a child psychologist, starts treating a young boy, Cole, who encounters dead people and convinces him to help them. In turn, Cole helps Malcolm reconcile with his estranged wife."
+      }
+    }
+  }
+}

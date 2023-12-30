@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-wolf-of-wall-street",
+    "title": "O Lobo de Wall Street",
+    "year": "2013",
+    "director": "Martin Scorsese"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Lobo de Wall Street",
+    "description": "O Lobo de Wall Street: Dirigido por Martin Scorsese. Com Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey. Baseada na verdadeira história de Jordan Belfort, desde sua ascensão como corretor de valores até a sua queda e envolvimento no crime e corrupção com o governo.",
+    "slug": "the-wolf-of-wall-street",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTk1Y2ViODktYjc5Mi00MTQwLWI1ZjItODQwYmI1NDQzMDU0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Comédia",
+      "Policial"
+    ],
+    "director": "Martin Scorsese",
+    "year": "2013",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Comédia",
+        "Policial"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA4NjQ5MDI2MV5BMl5BanBnXkFtZTgwNjg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5ODI4NTEwNl5BMl5BanBnXkFtZTgwNzg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA1NjA4NTg1N15BMl5BanBnXkFtZTgwNDg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NDg4OTg0NF5BMl5BanBnXkFtZTgwNTg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTExMDk1MDE4NzVeQTJeQWpwZ15BbWU4MDM4NDM0ODAx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0NzAxODAyMl5BMl5BanBnXkFtZTgwMDg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIwMDIxNzk3Ml5BMl5BanBnXkFtZTgwMTg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NDgwOF5BMl5BanBnXkFtZTgwMjg0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2NTk3MDM1NF5BMl5BanBnXkFtZTgwODc0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMzOTg5MDA2MF5BMl5BanBnXkFtZTgwOTc0MzQ4MDE@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU0NTI5MDU3MF5BMl5BanBnXkFtZTgwNTc0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3MTY4NDk4Nl5BMl5BanBnXkFtZTgwNjc0MzQ4MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0993846/",
+        "rating": "8.2/10"
+      },
+      "year": "2013",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000217/",
+        "name": "Martin Scorsese"
+      },
+      "seo": {
+        "title": "O Lobo de Wall Street (2013)",
+        "description": "O Lobo de Wall Street: Dirigido por Martin Scorsese. Com Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey. Baseada na verdadeira história de Jordan Belfort, desde sua ascensão como corretor de valores até a sua queda e envolvimento no crime e corrupção com o governo."
+      }
+    }
+  }
+}

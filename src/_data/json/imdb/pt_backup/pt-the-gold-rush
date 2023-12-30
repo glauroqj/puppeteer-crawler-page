@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-gold-rush",
+    "title": "Em Busca do Ouro",
+    "year": "1925",
+    "director": "Charles Chaplin"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Em Busca do Ouro",
+    "description": "Em Busca do Ouro: Dirigido por Charles Chaplin. Com Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman. Um garimpeiro vai ao Klondike em busca de ouro e encontra muito mais que isso.",
+    "slug": "the-gold-rush",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Charles Chaplin",
+    "year": "1925",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODIwNGRjYTQtZmNiMC00ZThlLWEzNGYtYzU3NjkwMzhiMTAyXkEyXkFqcGdeQXVyODM4MjcwMjk@._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5ODIzNjM1MF5BMl5BanBnXkFtZTcwMTQ2NzIwNw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMDUxNDcwMl5BMl5BanBnXkFtZTcwMjQ2NzIwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTgzMTAzMTI1NF5BMl5BanBnXkFtZTcwMzQ2NzIwNw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4MjA4NDgxOV5BMl5BanBnXkFtZTcwNDQ2NzIwNw@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA0MDUzNDkzODVeQTJeQWpwZ15BbWU3MDU0NjcyMDc@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2ODA5OTQwNF5BMl5BanBnXkFtZTcwNjQ2NzIwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWQ1NTU0NzgtMDI1My00MjcyLTllZjEtMTBkNTQ5MDkzNTNiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjdmZDM0YjktYjA0NC00MjcwLTg4ZGQtNWU3ODc0MzAzOTJiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0ODkzNDE4MF5BMl5BanBnXkFtZTgwNDI3NTY2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0NzE3MDMwOF5BMl5BanBnXkFtZTgwMDgwMTYxMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MTkxMDYyNF5BMl5BanBnXkFtZTgwMjg0MTkzMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0015864/",
+        "rating": "8.1/10"
+      },
+      "year": "1925",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000122/",
+        "name": "Charles Chaplin"
+      },
+      "seo": {
+        "title": "Em Busca do Ouro (1925)",
+        "description": "Em Busca do Ouro: Dirigido por Charles Chaplin. Com Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman. Um garimpeiro vai ao Klondike em busca de ouro e encontra muito mais que isso."
+      }
+    }
+  }
+}

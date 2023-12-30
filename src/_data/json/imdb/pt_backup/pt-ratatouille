@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "ratatouille",
+    "title": "Ratatouille",
+    "year": "2007",
+    "director": "Brad Bird"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Ratatouille",
+    "description": "Ratatouille: Dirigido por Brad Bird, Jan Pinkava. Com Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy. Um rato que pode cozinhar forja uma aliança incomum com um jovem garoto em um famoso restaurante em Paris.",
+    "slug": "ratatouille",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjdkM2Y5YTEtNDgyYS00YzU2LTgwYjQtNjQxOGYwYTRmMzNmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Brad Bird",
+    "year": "2007",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDQwNjUzNDE3NV5BMl5BanBnXkFtZTcwMjA5MzMzMw@@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3ODA3MTQ3NV5BMl5BanBnXkFtZTcwMzA5MzMzMw@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzM2Njg0OTU2MV5BMl5BanBnXkFtZTcwNDA5MzMzMw@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4Mzc1Njc2MV5BMl5BanBnXkFtZTcwNTA5MzMzMw@@._V1_QL75_UY140_CR101,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0MzIzNDI2OV5BMl5BanBnXkFtZTcwNjA5MzMzMw@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg5Njc4MjU3OV5BMl5BanBnXkFtZTcwNzA5MzMzMw@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNjU5NTQ5N15BMl5BanBnXkFtZTcwODA5MzMzMw@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzNDIwMjU5OF5BMl5BanBnXkFtZTcwOTA5MzMzMw@@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4MDA5MDYzOV5BMl5BanBnXkFtZTcwMDE5MzMzMw@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyMTQ4NDMzNV5BMl5BanBnXkFtZTcwMTE5MzMzMw@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMjQ1NjcwMF5BMl5BanBnXkFtZTcwMjE5MzMzMw@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxODkwNjQ5M15BMl5BanBnXkFtZTcwNDE5MzMzMw@@._V1_QL75_UY140_CR56,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0382932/",
+        "rating": "8.1/10"
+      },
+      "year": "2007",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0083348/",
+        "name": "Brad Bird"
+      },
+      "seo": {
+        "title": "Ratatouille (2007)",
+        "description": "Ratatouille: Dirigido por Brad Bird, Jan Pinkava. Com Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy. Um rato que pode cozinhar forja uma aliança incomum com um jovem garoto em um famoso restaurante em Paris."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "rebecca",
+    "title": "Rebecca",
+    "year": "1940",
+    "director": "Alfred Hitchcock"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Rebecca",
+    "description": "Rebecca: Directed by Alfred Hitchcock. With Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson. A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    "slug": "rebecca",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "director": "Alfred Hitchcock",
+    "year": "1940",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDg5Njc5NzYtOGIyYS00YzYxLTk5MTYtNjRkMWE3ZWVkMjc1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQwODEwOTQ2OV5BMl5BanBnXkFtZTgwNzEwNjAyMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwMDI5MTA3NV5BMl5BanBnXkFtZTcwOTYyNjYyNw@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTEyNjg4YjMtYmVkMy00MmYyLWFjMzctYmVmNGQ3NDRkZWYwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWQyNjA5ZTQtODg1Yy00OTVjLTgzZGMtZTA3MWQyNjJmZmM3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI3NTY0OTEtMTY3MC00NWE5LTllZWMtZTViOGU2MzRkNjc5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDlkODBlMTYtNmE4My00NTVjLTliMDAtOTA4ZWE5ZjgwZjBhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTQ4NDViMWMtYzYzNi00ODIzLTlkOWUtYmZkNWMwODA5YjAwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWRiZjZhMjItM2Q5ZS00MDYxLTlkOTYtMzBhZGE0MWZjNzRlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzU3YmE2MjYtYTQxNi00MDYzLTgwNDMtODA3NTczNTE3ZjRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2M3M2I1OTYtYTgwMC00YTgxLTgwZDYtZGU3ZGQzYTYyNTAzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDUxYmUxNjktYzdmOC00ZjEwLWIzN2MtYmM1MGExNWRmMTRkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0032976/",
+        "rating": "8.1/10"
+      },
+      "year": "1940",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000033/",
+        "name": "Alfred Hitchcock"
+      },
+      "seo": {
+        "title": "Rebecca (1940)",
+        "description": "Rebecca: Directed by Alfred Hitchcock. With Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson. A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence."
+      }
+    }
+  }
+}

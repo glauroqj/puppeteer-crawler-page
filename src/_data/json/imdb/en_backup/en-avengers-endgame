@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "avengers-endgame",
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "director": "Anthony Russo"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Avengers: Endgame",
+    "description": "Avengers: Endgame: Directed by Anthony Russo, Joe Russo. With Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth. After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "slug": "avengers-endgame",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Anthony Russo",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTlmOGE2ZWMtODA4MS00M2Q0LTg5MDktYzY2MmYzOWRhZWVlXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ1YjBkNGEtYzUxZi00NzUyLTgwZGUtYmFhZTkzYTJkOTk0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRmNjhmOGItNWMzNi00NTMyLTgzZTktY2UxMzQ4YjhhN2YxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGFmYWU1OGUtYmUxNS00N2E4LTkxYmMtZGYxM2NmYzhjZjJkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQ5OGI3Y2EtNjVmMi00Zjc0LWEyMTgtODk3MDlmNGE2ZTEwXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGU5NzNiODEtZGVjOC00MjliLTkwZWQtNzk5Y2U2NTc5ODljXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGJjZTk1NTYtM2I4Yi00NjJhLTg5OWEtZDlkZjMzZjMyY2VkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWI0NDBmOWMtYTEzYy00OTcxLTgwMTgtZWNjMjg0NzBjN2M3XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQxOGNiZDQtYWM0MS00YmQxLTg1ODctNDQ4YTg5ZTBiYzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGE1YzQwNWMtNTk0ZC00NWMxLWJhZjctNDYyNWJhYmM2NGIwXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTJlNjEwODgtMDdiNy00ZDE1LWEwZTQtZjM2ZTYwYzkzY2M0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIxNDIxOTktZGUyZC00NGNlLWIzNjYtZDlmMGMzNzc2MzVjXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UY140_CR63,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt4154796/",
+        "rating": "8.4/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0751577/",
+        "name": "Anthony Russo"
+      },
+      "seo": {
+        "title": "Avengers: Endgame (2019)",
+        "description": "Avengers: Endgame: Directed by Anthony Russo, Joe Russo. With Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth. After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+      }
+    }
+  }
+}

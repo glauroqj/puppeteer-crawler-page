@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "seppuku",
+    "title": "Seppuku",
+    "year": "1962",
+    "director": "Masaki Kobayashi"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Seppuku",
+    "description": "Harakiri: Directed by Masaki Kobayashi. With Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsurô Tanba. When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+    "slug": "seppuku",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Masaki Kobayashi",
+    "year": "1962",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY1NjE0MzIwOF5BMl5BanBnXkFtZTcwNDE5NjM5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwMDc1MjY4MF5BMl5BanBnXkFtZTcwNTE5NjM5Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MTcxMjg0OF5BMl5BanBnXkFtZTcwNjE5NjM5Ng@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NzA3NTg3MF5BMl5BanBnXkFtZTcwNzE5NjM5Ng@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NjgzNjg5M15BMl5BanBnXkFtZTcwODE5NjM5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA3Njg0NDA5MF5BMl5BanBnXkFtZTcwOTE5NjM5Ng@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMDk3NDM3M15BMl5BanBnXkFtZTcwMDI5NjM5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMyNjQ5NDIzM15BMl5BanBnXkFtZTcwMTI5NjM5Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2FiMzJiMTYtY2RiNS00Y2ExLWJkMTYtNzJhMmZmMDlhMDQzXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzBkNGE4YTItNTA3ZC00NmUwLWFkMmItN2I5ZTJhYjcyNjUwXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmJkYWFiMWMtMDc3Yi00NDQxLWIxNmEtMTBjYWViN2M3MzEyXkEyXkFqcGdeQXVyMTM2ODk1OTQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg2MzMwNjk5Ml5BMl5BanBnXkFtZTgwNTQwOTkxMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0056058/",
+        "rating": "8.6/10"
+      },
+      "year": "1962",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0462030/",
+        "name": "Masaki Kobayashi"
+      },
+      "seo": {
+        "title": "Harakiri (1962)",
+        "description": "Harakiri: Directed by Masaki Kobayashi. With Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsurô Tanba. When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity."
+      }
+    }
+  }
+}

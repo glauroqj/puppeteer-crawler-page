@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "rush",
+    "title": "Rush",
+    "year": "2013",
+    "director": "Ron Howard"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Rush",
+    "description": "Rush: Directed by Ron Howard. With Chris Hemsworth, Daniel Brühl, Olivia Wilde, Alexandra Maria Lara. The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "slug": "rush",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "director": "Ron Howard",
+    "year": "2013",
+    "infos": {
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTcxMDcyNjY2Nl5BMl5BanBnXkFtZTgwNTIxNzY3MDE@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzIxNzg5NjEwMV5BMl5BanBnXkFtZTgwMDIwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEyNTk5MzkyMDdeQTJeQWpwZ15BbWU4MDUzMDc4MDAx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg4Mzg2MTQyOV5BMl5BanBnXkFtZTgwNzMwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTk5NTg4MF5BMl5BanBnXkFtZTgwODMwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NjUwMjcwOF5BMl5BanBnXkFtZTgwMTQwNzgwMDE@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MTE4MDM3M15BMl5BanBnXkFtZTgwMjQwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4NjY2MjEwM15BMl5BanBnXkFtZTgwNDQwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MDI3MDE5OF5BMl5BanBnXkFtZTgwNTQwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjIxMTc4ODg5OV5BMl5BanBnXkFtZTgwNzQwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNjM1NjAxOV5BMl5BanBnXkFtZTgwODQwNzgwMDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxODk3MTI2NF5BMl5BanBnXkFtZTcwODI2MzI4OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1979320/",
+        "rating": "8.1/10"
+      },
+      "year": "2013",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000165/",
+        "name": "Ron Howard"
+      },
+      "seo": {
+        "title": "Rush (2013)",
+        "description": "Rush: Directed by Ron Howard. With Chris Hemsworth, Daniel Brühl, Olivia Wilde, Alexandra Maria Lara. The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-great-dictator",
+    "title": "O Grande Ditador",
+    "year": "1940",
+    "director": "Charles Chaplin"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Grande Ditador",
+    "description": "O Grande Ditador: Dirigido por Charles Chaplin. Com Charles Chaplin, Jack Oakie, Reginald Gardiner, Henry Daniell. O ditador Hynkel tenta expandir seu império enquanto um pobre barbeiro judeu tenta evitar a perseguição do regime de Hynkel.",
+    "slug": "the-great-dictator",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Guerra"
+    ],
+    "director": "Charles Chaplin",
+    "year": "1940",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Guerra"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjYyNjJmMGMtMjFiNy00ZWJhLTg4MTMtNDc1N2ZiZGNlOTE4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3MTk5NzMxN15BMl5BanBnXkFtZTcwODA4NzMyNw@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MDM0NzU4OV5BMl5BanBnXkFtZTcwOTA4NzMyNw@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NTMxOTI1OF5BMl5BanBnXkFtZTcwOTg3NzE5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM4MjE0MDQyM15BMl5BanBnXkFtZTcwMDk3NzE5Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyODUxNTMxNV5BMl5BanBnXkFtZTcwMTk3NzE5Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NzA2MDAxN15BMl5BanBnXkFtZTcwMjk3NzE5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjcxNjM0MzY5NF5BMl5BanBnXkFtZTcwMzk3NzE5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxNDc3OTM3OF5BMl5BanBnXkFtZTcwNDk3NzE5Ng@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2OTc4OTI2MF5BMl5BanBnXkFtZTcwNTk3NzE5Ng@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0OTIzODgzN15BMl5BanBnXkFtZTcwNjk3NzE5Ng@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJmZDQ2MzktZTFlMi00NTE5LWE3MmItNTI5MTBhMjc1ZjI2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0032553/",
+        "rating": "8.4/10"
+      },
+      "year": "1940",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000122/",
+        "name": "Charles Chaplin"
+      },
+      "seo": {
+        "title": "O Grande Ditador (1940)",
+        "description": "O Grande Ditador: Dirigido por Charles Chaplin. Com Charles Chaplin, Jack Oakie, Reginald Gardiner, Henry Daniell. O ditador Hynkel tenta expandir seu império enquanto um pobre barbeiro judeu tenta evitar a perseguição do regime de Hynkel."
+      }
+    }
+  }
+}

@@ -3,16 +3,12 @@
     "slug": "pulp-fiction",
     "title": "Pulp Fiction - Tempo de Violência",
     "year": "1994",
-    "genres": [
-      "Policial",
-      "Drama"
-    ],
     "director": "Quentin Tarantino"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Pulp Fiction - Tempo de Violência",
-    "description": "As vidas de dois assassinos da máfia, um boxeador, um gângster e sua esposa, e um par de bandidos se entrelaçam em quatro histórias de violência e redenção.",
+    "description": "Pulp Fiction - Tempo de Violência: Dirigido por Quentin Tarantino. Com Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta. As vidas de dois assassinos da máfia, um boxeador, um gângster e sua esposa, e um par de bandidos se entrelaçam em quatro histórias de violência e redenção.",
     "slug": "pulp-fiction",
     "image": "https://m.media-amazon.com/images/M/MV5BN2RiMTA1ZGQtOTNhYi00MjQyLTk0MzAtMWE1OTM2NWUxNzBkXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
     "genres": [
@@ -52,7 +48,7 @@
       },
       "seo": {
         "title": "Pulp Fiction - Tempo de Violência (1994)",
-        "description": "As vidas de dois assassinos da máfia, um boxeador, um gângster e sua esposa, e um par de bandidos se entrelaçam em quatro histórias de violência e redenção."
+        "description": "Pulp Fiction - Tempo de Violência: Dirigido por Quentin Tarantino. Com Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta. As vidas de dois assassinos da máfia, um boxeador, um gângster e sua esposa, e um par de bandidos se entrelaçam em quatro histórias de violência e redenção."
       }
     }
   }

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "le-salaire-de-la-peur",
+    "title": "O Salário do Medo",
+    "year": "1953",
+    "director": "Henri-Georges Clouzot"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Salário do Medo",
+    "description": "O Salário do Medo: Dirigido por Henri-Georges Clouzot. Com Yves Montand, Charles Vanel, Folco Lulli, Peter van Eyck. Em uma aldeia da América do Sul, quatro homens são contratados para transportar uma remessa urgente de nitroglicerina, mas sem o equipamento de segurança.",
+    "slug": "le-salaire-de-la-peur",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwZWMzOTQtZTJjYy00ZTYwLThlODEtNjkxNzhiNGU0MWQ5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Henri-Georges Clouzot",
+    "year": "1953",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTkzNjEwODQ2MV5BMl5BanBnXkFtZTcwMTU1NTg0Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMjg4MDAzNl5BMl5BanBnXkFtZTcwMDU0MTc4Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3NzA5NjQ3NV5BMl5BanBnXkFtZTcwMTU0MTc4Ng@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIwMjYzNDM3NV5BMl5BanBnXkFtZTcwMzU0MTc4Ng@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMjE2ODE2Nl5BMl5BanBnXkFtZTcwNDU0MTc4Ng@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ1MTUyMDA1N15BMl5BanBnXkFtZTgwNjk2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2NDYwNDgzMF5BMl5BanBnXkFtZTgwMjk2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2OTIyMTY5N15BMl5BanBnXkFtZTgwMzk2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxOTkxMjM2Ml5BMl5BanBnXkFtZTgwNTk2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3MjU2Mzg2MF5BMl5BanBnXkFtZTgwOTg2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE3NDAyMDY1Nl5BMl5BanBnXkFtZTgwMTk2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA2NzYwOTc2Nl5BMl5BanBnXkFtZTgwNzg2MTMzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0046268/",
+        "rating": "8.2/10"
+      },
+      "year": "1953",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0167241/",
+        "name": "Henri-Georges Clouzot"
+      },
+      "seo": {
+        "title": "O Salário do Medo (1953)",
+        "description": "O Salário do Medo: Dirigido por Henri-Georges Clouzot. Com Yves Montand, Charles Vanel, Folco Lulli, Peter van Eyck. Em uma aldeia da América do Sul, quatro homens são contratados para transportar uma remessa urgente de nitroglicerina, mas sem o equipamento de segurança."
+      }
+    }
+  }
+}

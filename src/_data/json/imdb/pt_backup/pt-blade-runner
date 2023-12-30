@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "blade-runner",
+    "title": "Blade Runner: O Caçador de Androides",
+    "year": "1982",
+    "director": "Ridley Scott"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Blade Runner: O Caçador de Androides",
+    "description": "Blade Runner: O Caçador de Androides: Dirigido por Ridley Scott. Com Harrison Ford, Sean Young, Rutger Hauer, Edward James Olmos. Um corredor deberá perseguir é acabar com quatro replicantes que roubaram uma nave no espaço, e deberá regresar á Terra e encontrar seu criador.",
+    "slug": "blade-runner",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjIwZTVkOWMtNTk0My00NDRkLWI3ZDktOWMzOWRmOGViMzBkXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Ficção científica"
+    ],
+    "director": "Ridley Scott",
+    "year": "1982",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Drama",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTUzNTU3Nzc3NF5BMl5BanBnXkFtZTgwNjQ3OTI1NTM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYxNTE0ODc5NF5BMl5BanBnXkFtZTgwNzQ3OTI1NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU1ODgyODM2OV5BMl5BanBnXkFtZTgwODQ3OTI1NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2MTcwNjMzNl5BMl5BanBnXkFtZTgwOTQ3OTI1NTM@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMDU2NzA2M15BMl5BanBnXkFtZTgwMDU3OTI1NTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkzMjQ1MzYwNV5BMl5BanBnXkFtZTgwMTU3OTI1NTM@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyNjY4MjA4N15BMl5BanBnXkFtZTgwMjU3OTI1NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjkzNTk4NDg2N15BMl5BanBnXkFtZTgwMzU3OTI1NTM@._V1_QL75_UY140_CR77,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxNjIwMzI5OF5BMl5BanBnXkFtZTgwNDU3OTI1NTM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDc1NzE1MzYxMF5BMl5BanBnXkFtZTgwNTU3OTI1NTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDIwNzEyNjE2NV5BMl5BanBnXkFtZTgwMjM3OTI1NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1NDI3MTQ1MV5BMl5BanBnXkFtZTgwNDM3OTI1NTM@._V1_QL75_UY140_CR33,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0083658/",
+        "rating": "8.1/10"
+      },
+      "year": "1982",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000631/",
+        "name": "Ridley Scott"
+      },
+      "seo": {
+        "title": "Blade Runner: O Caçador de Androides (1982)",
+        "description": "Blade Runner: O Caçador de Androides: Dirigido por Ridley Scott. Com Harrison Ford, Sean Young, Rutger Hauer, Edward James Olmos. Um corredor deberá perseguir é acabar com quatro replicantes que roubaram uma nave no espaço, e deberá regresar á Terra e encontrar seu criador."
+      }
+    }
+  }
+}

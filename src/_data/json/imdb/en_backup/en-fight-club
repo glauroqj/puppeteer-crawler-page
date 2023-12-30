@@ -3,17 +3,14 @@
     "slug": "fight-club",
     "title": "Fight Club",
     "year": "1999",
-    "genres": [
-      "Drama"
-    ],
     "director": "David Fincher"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Fight Club",
-    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "description": "Fight Club: Directed by David Fincher. With Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier. An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
     "slug": "fight-club",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
     "genres": [
       "Drama"
     ],
@@ -49,7 +46,7 @@
       },
       "seo": {
         "title": "Fight Club (1999)",
-        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+        "description": "Fight Club: Directed by David Fincher. With Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier. An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
       }
     }
   }

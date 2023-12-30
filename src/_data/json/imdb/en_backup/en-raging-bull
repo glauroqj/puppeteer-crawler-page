@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "raging-bull",
+    "title": "Raging Bull",
+    "year": "1980",
+    "director": "Martin Scorsese"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Raging Bull",
+    "description": "Raging Bull: Directed by Martin Scorsese. With Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent. The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "slug": "raging-bull",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Martin Scorsese",
+    "year": "1980",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjE3OTY3MzQtMDcwYy00NDY1LTkxYTgtOWZhNjAzNzFiYjU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0NDEyMDgzOV5BMl5BanBnXkFtZTgwMDAwNzg1MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc4NDQ3MzMzNl5BMl5BanBnXkFtZTgwMTAwNzg1MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExODc1NTc0OF5BMl5BanBnXkFtZTgwMjAwNzg1MDI@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwNDQ1OTMyM15BMl5BanBnXkFtZTgwODk5Njg1MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI5NTg5MzcwNl5BMl5BanBnXkFtZTcwODkwNjMwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMTMzODc2M15BMl5BanBnXkFtZTcwOTkwNjMwNA@@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEyMDQ3NTc3MDleQTJeQWpwZ15BbWU3MDAwMTYzMDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTY3ODQyOTM5M15BMl5BanBnXkFtZTcwMTAxNjMwNA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTUxNTkwODg4M15BMl5BanBnXkFtZTcwMjAxNjMwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MjgwNjQxOV5BMl5BanBnXkFtZTcwMzAxNjMwNA@@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4MDExMjQwOF5BMl5BanBnXkFtZTcwNDAxNjMwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0081398/",
+        "rating": "8.1/10"
+      },
+      "year": "1980",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000217/",
+        "name": "Martin Scorsese"
+      },
+      "seo": {
+        "title": "Raging Bull (1980)",
+        "description": "Raging Bull: Directed by Martin Scorsese. With Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent. The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
+      }
+    }
+  }
+}

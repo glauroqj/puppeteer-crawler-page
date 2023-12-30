@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-elephant-man",
+    "title": "The Elephant Man",
+    "year": "1980",
+    "director": "David Lynch"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Elephant Man",
+    "description": "The Elephant Man: Directed by David Lynch. With Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud. A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+    "slug": "the-elephant-man",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "David Lynch",
+    "year": "1980",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU1NTkyNzcxOF5BMl5BanBnXkFtZTgwNTc0ODA1MjI@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA4MjYwMzkwN15BMl5BanBnXkFtZTcwODM4ODgwMw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMDAyOTk2MF5BMl5BanBnXkFtZTcwNDY4ODgwMw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQ2NzMzOTc0Nl5BMl5BanBnXkFtZTcwNDg4ODgwMw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3OTI3MzMwNV5BMl5BanBnXkFtZTcwMTk3ODgwMw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1MjA4MDU3NF5BMl5BanBnXkFtZTcwNjE4ODgwMw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwMjg3NzA3M15BMl5BanBnXkFtZTcwMDc3ODgwMw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5NjM1OTc0Nl5BMl5BanBnXkFtZTcwNjk2ODgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTYzOTY5MzU5M15BMl5BanBnXkFtZTcwNTI3ODgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMDk3NDE5MV5BMl5BanBnXkFtZTcwMjU3ODgwMw@@._V1_QL75_UY140_CR29,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzNzQzMTExMV5BMl5BanBnXkFtZTcwNjc2ODgwMw@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0080678/",
+        "rating": "8.2/10"
+      },
+      "year": "1980",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000186/",
+        "name": "David Lynch"
+      },
+      "seo": {
+        "title": "The Elephant Man (1980)",
+        "description": "The Elephant Man: Directed by David Lynch. With Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud. A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication."
+      }
+    }
+  }
+}
