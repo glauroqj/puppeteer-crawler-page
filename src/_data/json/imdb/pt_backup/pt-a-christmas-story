@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "a-christmas-story",
+    "title": "Uma História de Natal",
+    "year": "1983",
+    "director": "Bob Clark"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Uma História de Natal",
+    "description": "Uma História de Natal: Dirigido por Bob Clark. Com Melinda Dillon, Darren McGavin, Scott Schwartz, Jean Shepherd. Nos anos 40, um menino chamado Ralphie tenta convencer seus pais, seu professor e Papai Noel de que uma pistola de ar é realmente o presente de Natal perfeito.",
+    "slug": "a-christmas-story",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Família"
+    ],
+    "director": "Bob Clark",
+    "year": "1983",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Família"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTUyNzQyMzQ3N15BMl5BanBnXkFtZTgwMjY2MTU5NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxODAzNjI5N15BMl5BanBnXkFtZTgwOTA1Mjg3MDI@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjIxMzY2NTYzOF5BMl5BanBnXkFtZTcwOTQ5NDAyMg@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMjgwODY2N15BMl5BanBnXkFtZTcwMDU5NDAyMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MTY4NjU3MV5BMl5BanBnXkFtZTcwMTU5NDAyMg@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTc3NjAzOTYyOV5BMl5BanBnXkFtZTcwMjU5NDAyMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTU0NDg1NjgyNl5BMl5BanBnXkFtZTcwNjQ5NDAyMg@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3ODcwNTE5NV5BMl5BanBnXkFtZTcwNzQ5NDAyMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQyODQ1MzY0MV5BMl5BanBnXkFtZTgwOTk1MTU5NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNTIwMjMwMV5BMl5BanBnXkFtZTcwMDAyOTYxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MzIxODQyM15BMl5BanBnXkFtZTcwMjAyOTYxOA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NzE5MTM5Ml5BMl5BanBnXkFtZTcwNDk2OTIwMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0085334/",
+        "rating": "7.9/10"
+      },
+      "year": "1983",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0163706/",
+        "name": "Bob Clark"
+      },
+      "seo": {
+        "title": "Uma História de Natal (1983)",
+        "description": "Uma História de Natal: Dirigido por Bob Clark. Com Melinda Dillon, Darren McGavin, Scott Schwartz, Jean Shepherd. Nos anos 40, um menino chamado Ralphie tenta convencer seus pais, seu professor e Papai Noel de que uma pistola de ar é realmente o presente de Natal perfeito."
+      }
+    }
+  }
+}

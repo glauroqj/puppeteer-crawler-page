@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "all-of-us-strangers",
+    "title": "All of Us Strangers",
+    "year": "2023",
+    "director": "Andrew Haigh"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "All of Us Strangers",
+    "description": "All of Us Strangers: Directed by Andrew Haigh. With Andrew Scott, Paul Mescal, Carter John Grout, Jamie Bell. A screenwriter drawn back to his childhood home enters into a fledgling relationship with a mysterious neighbor as he then discovers his parents appear to be living just as they were on the day they died, 30 years before.",
+    "slug": "all-of-us-strangers",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmYzMjMzN2EtMGYwNi00ODc3LWI3YTctMjA5YjI1MGFkYTlhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Andrew Haigh",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTkwMjE5NjgtMzJmYy00OGU1LWJiZGQtNmM2YjgyZDI5MGU1XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2MTg5MGItNzYzYS00ZDUyLWE2MTktN2ZlOWUwNzdkMjhhXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY140_CR91,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmJjZDhjZTctYzZmOC00NTNhLWEwNmEtMjljY2Q0YWJjYmZiXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmZiNGIzZTAtNmIyYi00MWJhLTkzM2ItYmM0ZDMzZThjZWJhXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTI4YjQ2MTUtNmY5NS00ZDZkLTljMTgtY2EzYjc4OGQwZjY4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR44,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQxMGQ0NTAtMGMyMC00YjlmLWExNTMtNjdhYzA0Y2I3YmU3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZhZjAxNGYtODliMi00N2JhLTg3YmQtZGE4NGU2OGY5MjA0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODJjYmYyMGQtYzYyZS00M2U1LWE2NWEtOTYxYzgwMTFhYjZhXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQzZDVmMmQtYmI0Ni00MWZlLTgxODMtMzY3YTU1NjBhMWFmXkEyXkFqcGdeQXVyMTY5Mjc4Nzk4._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjA1NzczZGItNDJkMS00NWM3LWI0MjItYjZjMDJlMzNjMmMwXkEyXkFqcGdeQXVyMTY5Mjc4Nzk4._V1_QL75_UY140_CR135,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjI1NTczZjEtNDQ3ZS00ZWY4LThmODYtY2ZkOTU4Nzc4NjFmXkEyXkFqcGdeQXVyMTY5Mjc4Nzk4._V1_QL75_UY140_CR105,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2IwNjZmNDktZDg5OS00YjUzLTk2OWUtNGVkYTk2YjY5Y2U5XkEyXkFqcGdeQXVyMTAwNjE3MjI1._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21192142/",
+        "rating": "8.1/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0354091/",
+        "name": "Andrew Haigh"
+      },
+      "seo": {
+        "title": "All of Us Strangers (2023)",
+        "description": "All of Us Strangers: Directed by Andrew Haigh. With Andrew Scott, Paul Mescal, Carter John Grout, Jamie Bell. A screenwriter drawn back to his childhood home enters into a fledgling relationship with a mysterious neighbor as he then discovers his parents appear to be living just as they were on the day they died, 30 years before."
+      }
+    }
+  }
+}

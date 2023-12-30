@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "x",
+    "title": "X",
+    "year": "2022",
+    "director": "Ti West"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "X",
+    "description": "X: Directed by Ti West. With Mia Goth, Jenna Ortega, Brittany Snow, Kid Cudi. In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+    "slug": "x",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Ti West",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzAxODcwNWMtMWY4Mi00Y2RiLTgyYmMtZmJmOGEwZWQyNzRkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWJhZmNiNzAtZmQ1OS00M2QyLWFmNzktZmMxMmIyN2YwNThkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTM4ZTY0NWUtMTgzNC00NDE4LTliYTktYTZjN2QxZmEwZDVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjUxMWM3OTctYTNlMi00MDA0LTg3NDgtYTM2NDQyZThkNWIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg3MzE5NjgtM2Y4NC00ZTc1LTljNWUtYTEyY2RkMTNhODBkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmQxZmRhMGItZWQ1OS00Yjg5LTgzNDAtMWRkYzcxZjRlMzQyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZlMGRmMjUtNTQ4NC00ZDUzLWE3YmQtZWJiMWI2NTNmMzRkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdmMTVmNDMtMzM2Ni00Zjk3LWI5YjAtMDY0YjMzMzI5YWJkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDFjZTljNGItOWM0MC00NDA2LWI0MmUtNzZhYTJmNGUwMTU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjRkOTI5YTQtN2IzMy00ZmUyLWE3MmQtOGIxYzllYmYxMzMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWUzNzExMjgtMDBlNC00MDUzLWIzNzUtZmM4OTM1NjkwZGViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDAwNGFjNTEtMzIwZi00NDk4LTg2ZDEtN2MzZGVlMTE1NWVkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13560574/",
+        "rating": "6.5/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1488800/",
+        "name": "Ti West"
+      },
+      "seo": {
+        "title": "X (2022)",
+        "description": "X: Directed by Ti West. With Mia Goth, Jenna Ortega, Brittany Snow, Kid Cudi. In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "chicken-run",
+    "title": "A Fuga das Galinhas",
+    "year": "2000",
+    "director": "Peter Lord"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "A Fuga das Galinhas",
+    "description": "A Fuga das Galinhas: Dirigido por Peter Lord, Nick Park. Com Phil Daniels, Lynn Ferguson, Mel Gibson, Tony Haygarth. Quando um galo aparentemente voa para uma fazenda de galinhas, as galinhas o veem como uma oportunidade de escapar de seus maus proprietários.",
+    "slug": "chicken-run",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzdmMzMyNzItY2ZkNS00NTZmLTlmMmItNzA2MDkzYTYxNzA5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Peter Lord",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ3OTQ4NjE1Nl5BMl5BanBnXkFtZTcwMTM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODYxMTA2NzQ2NF5BMl5BanBnXkFtZTcwMjM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzUxMzI1OTgwNF5BMl5BanBnXkFtZTcwMzM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDI3ODY4NjYzMF5BMl5BanBnXkFtZTcwNDM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA0ODQzNTk4Nl5BMl5BanBnXkFtZTcwNTM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNTQ0MTkzMV5BMl5BanBnXkFtZTcwNzM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODI3NjkxMjMyMV5BMl5BanBnXkFtZTcwODM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0NjE4ODI3NF5BMl5BanBnXkFtZTcwOTM3MjUzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNzAzMDIwNV5BMl5BanBnXkFtZTcwMDQ3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMTQ5NTAxN15BMl5BanBnXkFtZTcwMjQ3MjUzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0MDc4OTAyMF5BMl5BanBnXkFtZTcwMzQ3MjUzMw@@._V1_QL75_UY140_CR76,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MjE3MjQzMV5BMl5BanBnXkFtZTcwMTU3MjUzMw@@._V1_QL75_UY140_CR20,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120630/",
+        "rating": "7.1/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0520485/",
+        "name": "Peter Lord"
+      },
+      "seo": {
+        "title": "A Fuga das Galinhas (2000)",
+        "description": "A Fuga das Galinhas: Dirigido por Peter Lord, Nick Park. Com Phil Daniels, Lynn Ferguson, Mel Gibson, Tony Haygarth. Quando um galo aparentemente voa para uma fazenda de galinhas, as galinhas o veem como uma oportunidade de escapar de seus maus proprietários."
+      }
+    }
+  }
+}

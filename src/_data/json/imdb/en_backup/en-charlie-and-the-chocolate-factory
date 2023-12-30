@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "charlie-and-the-chocolate-factory",
+    "title": "Charlie and the Chocolate Factory",
+    "year": "2005",
+    "director": "Tim Burton"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Charlie and the Chocolate Factory",
+    "description": "Charlie and the Chocolate Factory: Directed by Tim Burton. With Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter. A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "slug": "charlie-and-the-chocolate-factory",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Tim Burton",
+    "year": "2005",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTI5Njk1NTQ2M15BMl5BanBnXkFtZTcwNzIyNTIyMw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0OTg0NzU1MF5BMl5BanBnXkFtZTcwODIyNTIyMw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDU5NzE3NF5BMl5BanBnXkFtZTcwOTIyNTIyMw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMTE5MzM0OV5BMl5BanBnXkFtZTcwMDMyNTIyMw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxNDM0NTQyMl5BMl5BanBnXkFtZTcwMTMyNTIyMw@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NzA5MjMxMl5BMl5BanBnXkFtZTcwMjMyNTIyMw@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MDkzMjA5NV5BMl5BanBnXkFtZTcwMzMyNTIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NzExMDQ5NF5BMl5BanBnXkFtZTcwNTMyNTIyMw@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1Mjc0MzE4Ml5BMl5BanBnXkFtZTcwNjMyNTIyMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxNjg2ODgxOV5BMl5BanBnXkFtZTcwMzEyNTIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NDYwMTg1Nl5BMl5BanBnXkFtZTcwNDEyNTIyMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2ODQxMDAxN15BMl5BanBnXkFtZTcwNTEyNTIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0367594/",
+        "rating": "6.7/10"
+      },
+      "year": "2005",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000318/",
+        "name": "Tim Burton"
+      },
+      "seo": {
+        "title": "Charlie and the Chocolate Factory (2005)",
+        "description": "Charlie and the Chocolate Factory: Directed by Tim Burton. With Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter. A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker."
+      }
+    }
+  }
+}

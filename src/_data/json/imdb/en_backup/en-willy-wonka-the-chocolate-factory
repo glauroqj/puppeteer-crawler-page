@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "willy-wonka-the-chocolate-factory",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": "1971",
+    "director": "Mel Stuart"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "description": "Willy Wonka & the Chocolate Factory: Directed by Mel Stuart. With Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear. A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+    "slug": "willy-wonka-the-chocolate-factory",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_.jpg",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "director": "Mel Stuart",
+    "year": "1971",
+    "infos": {
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDI3YmVjMmUtZTExMS00YTM3LTk2ZDktMDQ2Nzk5YmIyMGU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR14,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U1ZDA2MmMtYjY3NC00MDQyLWI4ODgtN2E3Zjg0OTE3NjFjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzFkZDRiYjYtMmExZi00NTRiLWFiNDEtMTViYzdiMGJiMmM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWQyMTU0NDItYTc4NC00NjU2LTg1ZmQtNjMyY2I2OGFkYmVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzhjNzBhYTctM2MwZS00NmM4LTg0ZGUtOTEyNzcwNDI1ODBkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR13,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM3OGU2ZTQtOGIzMi00ZDMwLWIyMWYtMDNlNjVlZTA2YmJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTYxMmY5NWUtYWI1Zi00MjU0LTkxYmItMmI3ZGFmY2Q2YTQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxMTU5NjEwM15BMl5BanBnXkFtZTcwNDgyNTYyNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4Nzk0NjgyNV5BMl5BanBnXkFtZTcwNTgyNTYyNw@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyNzIyOTI3Nl5BMl5BanBnXkFtZTcwMjMzOTUwNw@@._V1_QL75_UY140_CR2,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3ODc5NDc1MF5BMl5BanBnXkFtZTcwMzMzOTUwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5NDgyNjU3MF5BMl5BanBnXkFtZTcwNTMzOTUwNw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0067992/",
+        "rating": "7.8/10"
+      },
+      "year": "1971",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0835799/",
+        "name": "Mel Stuart"
+      },
+      "seo": {
+        "title": "Willy Wonka & the Chocolate Factory (1971)",
+        "description": "Willy Wonka & the Chocolate Factory: Directed by Mel Stuart. With Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear. A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory."
+      }
+    }
+  }
+}

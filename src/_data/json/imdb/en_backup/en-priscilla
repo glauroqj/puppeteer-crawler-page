@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "priscilla",
+    "title": "Priscilla",
+    "year": "2023",
+    "director": "Sofia Coppola"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Priscilla",
+    "description": "Priscilla: Directed by Sofia Coppola. With Cailee Spaeny, Jacob Elordi, Ari Cohen, Dagmara Dominczyk. When teenage Priscilla Beaulieu meets Elvis Presley, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
+    "slug": "priscilla",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQyZTBiMjAtZTNjZi00ZjU0LWFkMTQtMDE3Nzc1MjVmMTM4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "director": "Sofia Coppola",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTAxMTI2ZWEtNjhiNS00YzY3LThjMDgtYTFiZDM2MTU5ZGE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTdiNWExZmQtZjJmMy00ZjM0LWI0OGItOTBlOWMzODlmYTBjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTY4NGMzOWItNTMxMS00ZjIyLTllNDctOGYzMTAwYmZjODIxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2MxZmVlMDktMzZjMy00NDI4LTk1NzEtNjc5MzY2NWZlY2JlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2E0MjU2MWItZDAxNy00OTViLWE2OGQtN2FhNTllOTI2MGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGU2OTBiMWUtMWU5Zi00ZGZiLTkxOGEtMTYwNzg0OWFiYmZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzNkZDdhNjktYzcyMS00ZjFkLWFlZWEtZjMyNGI5ZmNmZjc0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJkMWQ2YmQtODA3Yi00NzlhLTkzMzYtZGI3ZDk4NGM3MzQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGQwZDBlYjYtYzZiOS00YTM3LWJmZmQtMDRmNWExMWU4MDAwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjc1ODIwNjAtNWMzMi00NGM3LTg1M2MtOWYwY2MyOTQ1YTU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzM1NTA5ZmYtNzUyNS00OWI0LTlhMzQtOTY5NzA3N2JkZTEzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzQ1YjZmNDEtZTRjOC00NDZmLWI1M2UtNGZlMDVhZTcyMzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt22041854/",
+        "rating": "6.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001068/",
+        "name": "Sofia Coppola"
+      },
+      "seo": {
+        "title": "Priscilla (2023)",
+        "description": "Priscilla: Directed by Sofia Coppola. With Cailee Spaeny, Jacob Elordi, Ari Cohen, Dagmara Dominczyk. When teenage Priscilla Beaulieu meets Elvis Presley, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend."
+      }
+    }
+  }
+}

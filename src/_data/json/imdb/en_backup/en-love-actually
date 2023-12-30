@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "love-actually",
+    "title": "Love Actually",
+    "year": "2003",
+    "director": "Richard Curtis"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Love Actually",
+    "description": "Love Actually: Directed by Richard Curtis. With Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth. Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+    "slug": "love-actually",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Curtis",
+    "year": "2003",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTU0NzMzODQ0N15BMl5BanBnXkFtZTgwMzA1MDg4NjM@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4NDgxOTA0OV5BMl5BanBnXkFtZTgwNDQxMTQzNDM@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5NzIyMjU1NF5BMl5BanBnXkFtZTgwMzczMTMyMDI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwMDkxMjIyMF5BMl5BanBnXkFtZTgwMjczMTMyMDI@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2ODM2NjkyOV5BMl5BanBnXkFtZTYwMzM5NDM3._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwNDE3OTQ2N15BMl5BanBnXkFtZTYwNzM5NDM3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwODcxMTM1Nl5BMl5BanBnXkFtZTYwOTM5NDM3._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5Nzk2Nzc3Nl5BMl5BanBnXkFtZTYwMTQ5NDM3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4NTYzNjczMl5BMl5BanBnXkFtZTYwMzQ5NDM3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMTE5NjQzNV5BMl5BanBnXkFtZTYwNTQ5NDM3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg5Nzk3NjA5NF5BMl5BanBnXkFtZTYwNzQ5NDM3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MTY3Mzc1OF5BMl5BanBnXkFtZTYwOTQ5NDM3._V1_QL75_UY140_CR38,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0314331/",
+        "rating": "7.6/10"
+      },
+      "year": "2003",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0193485/",
+        "name": "Richard Curtis"
+      },
+      "seo": {
+        "title": "Love Actually (2003)",
+        "description": "Love Actually: Directed by Richard Curtis. With Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth. Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England."
+      }
+    }
+  }
+}

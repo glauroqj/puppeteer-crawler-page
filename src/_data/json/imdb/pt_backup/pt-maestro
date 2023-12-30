@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "maestro",
+    "title": "Maestro",
+    "year": "2023",
+    "director": "Bradley Cooper"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Maestro",
+    "description": "Maestro: Dirigido por Bradley Cooper. Com Carey Mulligan, Bradley Cooper, Matt Bomer, Vincenzo Amato. O amor complexo de Leonard Bernstein e Felicia Montealegre, desde o momento em que se conheceram em 1946 em uma festa e continuando por dois noivados, um casamento de 25 anos e três filhos.",
+    "slug": "maestro",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGFjNDZiYTctNDE3OC00ZDNiLThlM2EtNDE4OGY5OWJlNTM5XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Bradley Cooper",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDgzMDdmNTUtNmRkMy00NmIxLWEwZDMtYmU2Y2IyNTY1MWI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmNhOTdlN2YtNDI5Mi00YzBjLWFhNDAtZTZiMzAyY2NiNmQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmE3ZWU3ZDEtYzFjOC00OGM2LWFjZDUtZmM2MmE5NzQwZjg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWFlNDJmMzMtOTJhOS00ZmQ4LTkxN2EtNzdkZjk5MWRlNTc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGMzNTBlM2YtNzg1OS00YjI1LTg5MjQtYjI0ZThmYzZhYzA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmZhZWMzYTYtZWQzYS00MTcyLWI4NWUtYzdhZDYyNDIzM2Y5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGJkNWY0OGItZTE4ZS00MGU1LTlhZTUtNzAzM2E2MGZjZjYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzAzZTU1YTEtNzZiMi00NjU4LTk3NmUtMzA3MGQ1N2NkYzE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGUyNjM5MjItZTUwYy00NjU0LThjMWQtOTYxNWRiYjRmOTA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2QzZjM4ODQtYjk5My00NWY5LThmNTctZjczMzUzYzhlZjBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTg0ZDM1Y2ItMjhjYi00ZDdhLWI4YmYtZmY1ZjJhYjJkNGM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGY5NmJjM2UtNmRiMS00ZjQ1LTk0ZjAtODhlZjdlNTM1MGZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt5535276/",
+        "rating": "6.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0177896/",
+        "name": "Bradley Cooper"
+      },
+      "seo": {
+        "title": "Maestro (2023)",
+        "description": "Maestro: Dirigido por Bradley Cooper. Com Carey Mulligan, Bradley Cooper, Matt Bomer, Vincenzo Amato. O amor complexo de Leonard Bernstein e Felicia Montealegre, desde o momento em que se conheceram em 1946 em uma festa e continuando por dois noivados, um casamento de 25 anos e três filhos."
+      }
+    }
+  }
+}

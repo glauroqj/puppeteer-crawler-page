@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-killer",
+    "title": "O Assassino",
+    "year": "2023",
+    "director": "David Fincher"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Assassino",
+    "description": "O Assassino: Dirigido por David Fincher. Com Michael Fassbender, Tilda Swinton, Charles Parnell, Arliss Howard. Um assassino começa a colapsar psicologicamente enquanto começa a desenvolver uma consciência, mesmo enquanto seus clientes continuam a solicitar seus serviços.",
+    "slug": "the-killer",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjc2YTcwYTEtNDU1NS00ZmVlLWIyMWEtOTQwMTBjN2Q4NzNmXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Policial"
+    ],
+    "director": "David Fincher",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Policial"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmVmNTAwOGEtMjk5Mi00NWM2LWJhMzktZTU4YzA3NTFmMzFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzU0NTcyNDEtM2VlYS00M2YyLWE4NjAtZTVjMzA1MGRhMTgwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjVmN2UyZGMtMTZjYi00MzBiLWFlMTYtZjkxYThiOGYyY2YzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGRlZjgwNjMtZDg5Zi00MDFiLWEyMjMtOTliOWZkODhhMGRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODE0YmY1ZTUtMWQ0MS00ZmM3LTljOTMtNGVkODBiMGVkNWY1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDdlY2VhMzMtNDY3NC00ZjdmLWI0ODYtMmU5ZTkwNTQ5YmVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGZkNDI3MTgtYTFkMS00ZjQzLWI5ODctNjc5NjBlZGJjNmU0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjNhMjRiNzgtYzJiYi00NTQyLWEwMTctMjlhNmNjYjVkMTc1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODc0ZDBiMjUtZTQwYi00YWVkLTg0ZjgtZjNlNDRjMmZiZDZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmUwNzU2MDktYWJhNS00ODYxLWE2NjItNzNlOGMwOTRjZWE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWZiZWI1NjQtYjMxMS00YzJkLWExYzctYmE4ZDY1MDEzMGQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAxNDhiM2UtZTE2Ny00NmI5LThhOTYtMjIyY2Y1ZmRiZjhhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1136617/",
+        "rating": "6.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000399/",
+        "name": "David Fincher"
+      },
+      "seo": {
+        "title": "O Assassino (2023)",
+        "description": "O Assassino: Dirigido por David Fincher. Com Michael Fassbender, Tilda Swinton, Charles Parnell, Arliss Howard. Um assassino começa a colapsar psicologicamente enquanto começa a desenvolver uma consciência, mesmo enquanto seus clientes continuam a solicitar seus serviços."
+      }
+    }
+  }
+}

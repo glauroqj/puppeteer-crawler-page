@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "a-christmas-carol",
+    "title": "Os Fantasmas de Scrooge",
+    "year": "2009",
+    "director": "Robert Zemeckis"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Os Fantasmas de Scrooge",
+    "description": "Os Fantasmas de Scrooge: Dirigido por Robert Zemeckis. Com Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan. O avarento Ebenezer Scrooge não se importa com o Natal e despreza as pessoas, mas tudo muda quando os fantasmas do Natal Passado, do Natal Presente e do Natal Futuro o levam numa viagem reveladora de muitas verdades.",
+    "slug": "a-christmas-carol",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGYzN2MwZjktY2NjYy00YzFkLTg2ZWUtZjZmMzNkNzcwNWZkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Aventura",
+      "Comédia"
+    ],
+    "director": "Robert Zemeckis",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Aventura",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTMzNTc3NTkzMF5BMl5BanBnXkFtZTcwMjc5NDQ5Mg@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMzQ5NDUyMV5BMl5BanBnXkFtZTcwMzc5NDQ5Mg@@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQ4Nzg3MDg3N15BMl5BanBnXkFtZTcwNDc5NDQ5Mg@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMzI4Mjk3MF5BMl5BanBnXkFtZTcwNTc5NDQ5Mg@@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgzMDg2MTc2MF5BMl5BanBnXkFtZTcwNjc5NDQ5Mg@@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NTg4NjMzN15BMl5BanBnXkFtZTcwODc5NDQ5Mg@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAzMzM0NjM4NzNeQTJeQWpwZ15BbWU3MDk3OTQ0OTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MTQ0MF5BMl5BanBnXkFtZTcwMDg5NDQ5Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxMTI3NjM5Ml5BMl5BanBnXkFtZTcwMTg5NDQ5Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MzYyMjA4MF5BMl5BanBnXkFtZTcwMjg5NDQ5Mg@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3MDcwODYzM15BMl5BanBnXkFtZTcwMDc5NDQ5Mg@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NzE2OTI4N15BMl5BanBnXkFtZTcwMTc5NDQ5Mg@@._V1_QL75_UY140_CR96,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1067106/",
+        "rating": "6.8/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000709/",
+        "name": "Robert Zemeckis"
+      },
+      "seo": {
+        "title": "Os Fantasmas de Scrooge (2009)",
+        "description": "Os Fantasmas de Scrooge: Dirigido por Robert Zemeckis. Com Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan. O avarento Ebenezer Scrooge não se importa com o Natal e despreza as pessoas, mas tudo muda quando os fantasmas do Natal Passado, do Natal Presente e do Natal Futuro o levam numa viagem reveladora de muitas verdades."
+      }
+    }
+  }
+}

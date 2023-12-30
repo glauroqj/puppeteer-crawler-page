@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "chicken-run",
+    "title": "Chicken Run",
+    "year": "2000",
+    "director": "Peter Lord"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Chicken Run",
+    "description": "Chicken Run: Directed by Peter Lord, Nick Park. With Phil Daniels, Lynn Ferguson, Mel Gibson, Tony Haygarth. When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.",
+    "slug": "chicken-run",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDgxNjZlZDYtZGJmZC00Mjg0LWEwYzctYWQ0MWFjNTM3ZmM4XkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Peter Lord",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ3OTQ4NjE1Nl5BMl5BanBnXkFtZTcwMTM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODYxMTA2NzQ2NF5BMl5BanBnXkFtZTcwMjM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzUxMzI1OTgwNF5BMl5BanBnXkFtZTcwMzM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDI3ODY4NjYzMF5BMl5BanBnXkFtZTcwNDM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA0ODQzNTk4Nl5BMl5BanBnXkFtZTcwNTM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNTQ0MTkzMV5BMl5BanBnXkFtZTcwNzM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODI3NjkxMjMyMV5BMl5BanBnXkFtZTcwODM3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0NjE4ODI3NF5BMl5BanBnXkFtZTcwOTM3MjUzMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNzAzMDIwNV5BMl5BanBnXkFtZTcwMDQ3MjUzMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMTQ5NTAxN15BMl5BanBnXkFtZTcwMjQ3MjUzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0MDc4OTAyMF5BMl5BanBnXkFtZTcwMzQ3MjUzMw@@._V1_QL75_UY140_CR76,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MjE3MjQzMV5BMl5BanBnXkFtZTcwMTU3MjUzMw@@._V1_QL75_UY140_CR20,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0120630/",
+        "rating": "7.1/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0520485/",
+        "name": "Peter Lord"
+      },
+      "seo": {
+        "title": "Chicken Run (2000)",
+        "description": "Chicken Run: Directed by Peter Lord, Nick Park. With Phil Daniels, Lynn Ferguson, Mel Gibson, Tony Haygarth. When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners."
+      }
+    }
+  }
+}

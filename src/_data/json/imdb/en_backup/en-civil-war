@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "civil-war",
+    "title": "Civil War",
+    "year": "2024",
+    "director": "Alex Garland"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Civil War",
+    "description": "Civil War: Directed by Alex Garland. With Jesse Plemons, Cailee Spaeny, Kirsten Dunst, Nick Offerman. In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation.",
+    "slug": "civil-war",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y5Yzk4NGYtZTI2Yi00Zjk4LWIwZmQtMmFlZDQ5YmNjYzE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Alex Garland",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYTI4ZTQyMzItYWNhZS00MmEwLWEwYWYtYWQyZDNiNWQxNTRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzdhNDFiZTMtNTM4Ny00YjIwLTg4ZGItMTZjYmI5ZDQ0N2NmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTRlYTUzNDYtODczYy00MzM1LWI4M2MtYWM5M2ZlZGQ0YzVjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjBlYjYwMGEtNjg1My00NTJkLTg5NTUtOGUwNDQ4YTYyOTMzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjUzZjkyMWMtODI1Mi00NTNiLWE0NTEtZjcxNDAxZjU3MzFhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQzZDYzYjMtZDk1Zi00NmI5LWFkYWQtMGY1MzcyY2E5Y2U3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR59,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTg3OWFhN2YtODRlMC00NmI2LTgwNTMtODY4ZmQ0ZmQwOGEwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR59,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmRmN2IyNDYtYzczMy00YTdhLTg2MjktOWNhNDk1OTg0NGEzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR58,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDlmZmZkNTktNGNmNS00YTRkLTg3YjItYjFkNzhjZDI2YTdkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzhkNDA4MmYtOTg2OC00NGEzLTk0NjgtZWFjN2RkZTZhYzliXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR59,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJiZWFkNTMtYjFjNC00NGM0LThlNmEtN2VhYjljMmY1YTRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDgyOTRjZWItMGFkZS00ZDI2LTg4ZTQtYzc0MWExODcxZDc1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR56,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt17279496/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0307497/",
+        "name": "Alex Garland"
+      },
+      "seo": {
+        "title": "Civil War (2024)",
+        "description": "Civil War: Directed by Alex Garland. With Jesse Plemons, Cailee Spaeny, Kirsten Dunst, Nick Offerman. In the near future, a team of journalists travel across the United States during a rapidly escalating civil war that has engulfed the entire nation."
+      }
+    }
+  }
+}

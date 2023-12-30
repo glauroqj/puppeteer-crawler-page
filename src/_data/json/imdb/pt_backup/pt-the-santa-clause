@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-santa-clause",
+    "title": "Meu Papai é Noel",
+    "year": "1994",
+    "director": "John Pasquin"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Meu Papai é Noel",
+    "description": "Meu Papai é Noel: Dirigido por John Pasquin. Com Tim Allen, Judge Reinhold, Wendy Crewson, Eric Lloyd. Quando um homem faz o Papai Noel cair do seu teto na véspera de Natal, ele é magicamente recrutado para ocupar o seu lugar.",
+    "slug": "the-santa-clause",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2I4MmM3ZjktMTQ1Yi00YzM3LThlMjAtZTg5OWUzMTA2OWZjXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Família"
+    ],
+    "director": "John Pasquin",
+    "year": "1994",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Família"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTY0NTQxNTI5Ml5BMl5BanBnXkFtZTgwNDAzMzU2MzE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNzQ3NTU3Ml5BMl5BanBnXkFtZTgwMTEyMzU2MzE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzM0MDI3NTA5OV5BMl5BanBnXkFtZTcwOTEzMjIyNw@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3ODk2Mzc3Ml5BMl5BanBnXkFtZTcwMTIzMjIyNw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NTAyMzY1Ml5BMl5BanBnXkFtZTcwMDY5MjA0NQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MTMwMDMwNV5BMl5BanBnXkFtZTcwMjY1NzgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4MjE5OTY3OV5BMl5BanBnXkFtZTcwNzY1NzgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4NzgyNzkzN15BMl5BanBnXkFtZTcwOTc1NzgwMw@@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3MDA3NTI4MF5BMl5BanBnXkFtZTcwOTg1NzgwMw@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczMDYxNjE1NF5BMl5BanBnXkFtZTcwNTA2NzgwMw@@._V1_QL75_UY140_CR44,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1NDA0NDg0N15BMl5BanBnXkFtZTcwMzE2NzgwMw@@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUwMTQ1OTQwN15BMl5BanBnXkFtZTcwMjQ2NzgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0111070/",
+        "rating": "6.6/10"
+      },
+      "year": "1994",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0664756/",
+        "name": "John Pasquin"
+      },
+      "seo": {
+        "title": "Meu Papai é Noel (1994)",
+        "description": "Meu Papai é Noel: Dirigido por John Pasquin. Com Tim Allen, Judge Reinhold, Wendy Crewson, Eric Lloyd. Quando um homem faz o Papai Noel cair do seu teto na véspera de Natal, ele é magicamente recrutado para ocupar o seu lugar."
+      }
+    }
+  }
+}

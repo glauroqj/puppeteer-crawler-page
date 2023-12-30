@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "spirited",
+    "title": "Spirited",
+    "year": "2022",
+    "director": "Sean Anders"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Spirited",
+    "description": "Spirited: Directed by Sean Anders. With Will Ferrell, Ryan Reynolds, Octavia Spencer, Patrick Page. A musical version of Charles Dickens's story of a miserly misanthrope who is taken on a magical journey.",
+    "slug": "spirited",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RlZGFmYjAtNGZiMi00YjQ5LWE0ZmQtZmIyM2VmMjRhMTJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Musical"
+    ],
+    "director": "Sean Anders",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Family",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzA3ZGE3MDUtNjRlZC00ZGQzLWFiYzItNzJkZjMyOTljN2UxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmQ3MzRhNjYtNWQ5Ni00ZDUyLWE1NDgtNjRjZmVmM2M4YzcyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmE2ODFlODgtNWUxOS00NGI1LThlZGMtYTFkOTQwZGI0OTZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmUwZDUwM2ItOGJhOC00NmY5LTkzM2ItZGMyNGNmMjk1MjgzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGMzYmZmNjYtMTFmZS00ZGY4LWIwNWUtMzYwNjcyYTI4YTRmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWE2OWRlMDgtNzRhZi00ZjgzLTk4YzctMWFkMThkZTVkYTVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0YTk0OGYtNjNhYi00OTdiLTllNzItMTk1NWQ0NzdiY2NkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjIyMmU3ZjQtOTJiYi00NzY1LWI4NmEtNTc2YTA4YmQzNjEyXkEyXkFqcGdeQXVyMTEwNDUzMzE5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjljZDAyOWMtZGJlOC00Nzg4LWExNzctMTM3MmM0YzBlMDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjNlYTIwYjQtYzRmMi00YTVlLTk0ZjctYTFlMmVmMDRkMWIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTljYjU3NGMtYjA4Mi00YmZhLTk0NmEtM2ViZmJkNDFjODQ5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWFiZGVmODQtOTQ3NS00MDUzLTliNmQtZmQ2ZTEyOWFkNGVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt10999120/",
+        "rating": "6.6/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1890845/",
+        "name": "Sean Anders"
+      },
+      "seo": {
+        "title": "Spirited (2022)",
+        "description": "Spirited: Directed by Sean Anders. With Will Ferrell, Ryan Reynolds, Octavia Spencer, Patrick Page. A musical version of Charles Dickens's story of a miserly misanthrope who is taken on a magical journey."
+      }
+    }
+  }
+}

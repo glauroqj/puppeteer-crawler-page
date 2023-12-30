@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "asteroid-city",
+    "title": "Asteroid City",
+    "year": "2023",
+    "director": "Wes Anderson"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Asteroid City",
+    "description": "Asteroid City: Dirigido por Wes Anderson. Com Bryan Cranston, Edward Norton, Jason Schwartzman, Jake Ryan. Uma família, após o carro quebrar, fica \"presa\" em Asteroid City, cidade norte-americana onde se comemora o Dia do Asteroide e onde aspectos relacionados ao espaço sideral são levados muito a sério.",
+    "slug": "asteroid-city",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzI1ZTM0MzYtMGJiOC00NDg3LThmZDktYmJiODZiNTliNDZlXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Wes Anderson",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmFhNGI5OTMtZmU3YS00ZjZjLThkYjMtNWM1M2U0MTI2NDEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGM0Zjg5MDQtMjkzYy00ZmQ1LTg4ZjgtN2E4NmY0NDUwYzE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzY3OWE5MGEtOTI3Yi00ODIzLTg5OTktMzFkM2ViOTc4NzY0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGY2YjFlOTEtNzExNC00MGQ3LWFiMGEtNjNhYWI3MmQwYTEyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2NiMmE5ZWUtNmFiMS00NGVmLWE4MWQtMTFmZjQ1NjhmNDllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2NlY2ZhNTAtZTIwZi00NzVlLWIyMGQtMTY2ZmIzZTdkYmQwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTIzN2EyYjktZjE0My00NWRjLWJjZjItN2Y4ODcyZjM0MDUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzMzOGMwMzItZGMxOS00MGMyLWEwOGMtOTcxZWQ2Yjk1Yjc0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWQ1MGU1Y2ItOWViMS00YWZhLTg1ZDMtMmZmNzc4NWJmZmRmXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDFjNjM1ZmUtYjhhMy00NTZkLWJlOTctY2MwZmNiNmNiZWNhXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM1MGQ4NmYtZWRjNC00YjMzLWFmZGUtMGI4MDVhMDY2NzRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGE5NmUyYjUtNmY0OS00YzZlLWI3YjMtZjMzNDMxYjI3MDQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR29,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt14230388/",
+        "rating": "6.6/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0027572/",
+        "name": "Wes Anderson"
+      },
+      "seo": {
+        "title": "Asteroid City (2023)",
+        "description": "Asteroid City: Dirigido por Wes Anderson. Com Bryan Cranston, Edward Norton, Jason Schwartzman, Jake Ryan. Uma família, após o carro quebrar, fica \"presa\" em Asteroid City, cidade norte-americana onde se comemora o Dia do Asteroide e onde aspectos relacionados ao espaço sideral são levados muito a sério."
+      }
+    }
+  }
+}

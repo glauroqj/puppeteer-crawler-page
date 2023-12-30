@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "how-the-grinch-stole-christmas",
+    "title": "O Grinch",
+    "year": "2000",
+    "director": "Ron Howard"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Grinch",
+    "description": "O Grinch: Dirigido por Ron Howard. Com Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor. Nos arredores de Whoville vive um Grinch em busca de vingança, que planeja arruinar o Natal para todos os cidadãos.",
+    "slug": "how-the-grinch-stole-christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2UwY2ZlYmUtMDJhZi00YjA3LThjYjMtMDc4YzM2MDE4OGRiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ],
+    "director": "Ron Howard",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Família",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTc1NTAwNzIyNF5BMl5BanBnXkFtZTgwNzIwODU4NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MzM3NzM2Nl5BMl5BanBnXkFtZTgwMjI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDA4Nzg3ODMzMF5BMl5BanBnXkFtZTgwMzI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM5NTE1NjQ4OF5BMl5BanBnXkFtZTgwNDI0NjQzNDM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM1MTc0OTY1MV5BMl5BanBnXkFtZTgwNTI0NjQzNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNjYyNzY1M15BMl5BanBnXkFtZTgwNjI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQyMjAwODgxMl5BMl5BanBnXkFtZTgwODI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUwMjMxNTY0M15BMl5BanBnXkFtZTgwOTI0NjQzNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0MDY4MzU2Ml5BMl5BanBnXkFtZTgwMzM0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNTc2NDI3MF5BMl5BanBnXkFtZTgwNTQ0MzU2MzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMzg5NTUyM15BMl5BanBnXkFtZTgwMTI0MzU2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5NTE2MjQ5OF5BMl5BanBnXkFtZTcwMTQ4NjYzNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0170016/",
+        "rating": "6.3/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000165/",
+        "name": "Ron Howard"
+      },
+      "seo": {
+        "title": "O Grinch (2000)",
+        "description": "O Grinch: Dirigido por Ron Howard. Com Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor. Nos arredores de Whoville vive um Grinch em busca de vingança, que planeja arruinar o Natal para todos os cidadãos."
+      }
+    }
+  }
+}

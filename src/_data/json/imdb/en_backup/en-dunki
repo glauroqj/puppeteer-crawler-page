@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "dunki",
+    "title": "Dunki",
+    "year": "2023",
+    "director": "Rajkumar Hirani"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Dunki",
+    "description": "Dunki: Directed by Rajkumar Hirani. With Shah Rukh Khan, Taapsee Pannu, Boman Irani, Vicky Kaushal. Four friends from a village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier promises to take them to the land of their dreams.",
+    "slug": "dunki",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Rajkumar Hirani",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BY2Y2OGJiMDgtMWY5Yi00YWI5LWIwMGMtYzYxMzY4NGM0ZmIyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGViMTA1MzMtNWI4Yi00NjQ1LWIyODAtN2YxZDNlN2ExMGRiXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDJhMTEwZjQtMGUwZS00NjQ0LWE1NzctYTllNmMxMWNhZWEzXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTMyYWFiYWQtYjYzMi00N2RjLThhMGEtN2E5YjA1MjM1NWY4XkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTRhN2NhOWUtNDFhMC00YWFkLTlkZjMtNjkwMGZkZTUxM2Q0XkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTQ5ZTMyN2MtOTQ5My00NzU1LWI2YjgtNDM4NzRkNjE5MTgwXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmE3NWU0M2QtMTgyNi00OTMxLWEyYWItM2IyZmRlZGY0NDJhXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc5N2E4ZGQtNjllOC00MTY5LTg4YmUtMzI4ZjRjNjA5NjZmXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjVkN2JiN2YtM2Y5NC00YTkxLWFmNDAtZGE4NmM1N2MwN2QzXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTgzZDc5NjYtMjkwNi00ZWEyLTk4OGItMGQzOWFiNjEzMjVjXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Q5MTQ5ZTMtYzI5Mi00YzI0LTk1NDAtYzAyNTM4MTJlYmMyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzc5MmVlZWYtNmQ1MC00NTVlLWFlZDItZjgxMjEzOTUzM2ExXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15428134/",
+        "rating": "7.9/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0386246/",
+        "name": "Rajkumar Hirani"
+      },
+      "seo": {
+        "title": "Dunki (2023)",
+        "description": "Dunki: Directed by Rajkumar Hirani. With Shah Rukh Khan, Taapsee Pannu, Boman Irani, Vicky Kaushal. Four friends from a village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier promises to take them to the land of their dreams."
+      }
+    }
+  }
+}

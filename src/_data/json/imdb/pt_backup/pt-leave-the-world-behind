@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "leave-the-world-behind",
+    "title": "O Mundo Depois de Nós",
+    "year": "2023",
+    "director": "Sam Esmail"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Mundo Depois de Nós",
+    "description": "O Mundo Depois de Nós: Dirigido por Sam Esmail. Com Julia Roberts, Mahershala Ali, Ethan Hawke, Myha'la. As férias de uma família numa casa luxuosa sofrem uma reviravolta quando um ciberataque afeta todos os dispositivos e duas pessoas estranhas batem à porta.",
+    "slug": "leave-the-world-behind",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWNjNmJhOGYtOGJmOC00NjU1LTgyYWUtOTA2MDEzMmI5MTE2XkEyXkFqcGdeQXVyNTk2MDQ0MjA@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Sam Esmail",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzg3M2QzMzEtNmI4Yy00OTI5LTgwZTgtOTEwZmQ2YmUzMTA2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjc0NjYwOGUtMTdlMC00YWU3LTkzNmQtNTdiYzM5N2NmNDgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNThmMzdhNWMtM2E3ZC00MGJmLTg3NzctZWE4YzVjZjdmNzA1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWJjYmI4ZWUtYjkyMC00MTYwLTg1YWMtZDFmYzg0YTcxNzNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmExOWNiM2MtMmE1OC00ODdmLWE3NWItZDljNTcyYzlkMzBhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDVjZmUyNTMtZGNjYy00MGUwLThhMTUtNzU0ZjJjODQzYWJmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjNhNDFhMzktMTkwZS00MzkxLWFlYjItZGNiYmRlMzdlYTdhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmY5MzY2NmQtNWJjMS00OWJlLWI2MDYtMTA5YWJlMzRmZTAwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjk4NWJmODctOGNhNS00NTA2LTllNmEtYTI2NmMxYTFkZTU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWUwZDUwYTItMTc1ZS00ZGI3LWEwYmQtNmFhOTQ5YjlhMjQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGZjMGI1OGEtMDUxOC00Y2RjLThjMWUtMjNlNDQxZDUzYmYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWI2NzFhZjAtZDI5Yi00ZTE1LTk1NDQtNDY2ODRkZjJjZDRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12747748/",
+        "rating": "6.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1322753/",
+        "name": "Sam Esmail"
+      },
+      "seo": {
+        "title": "O Mundo Depois de Nós (2023)",
+        "description": "O Mundo Depois de Nós: Dirigido por Sam Esmail. Com Julia Roberts, Mahershala Ali, Ethan Hawke, Myha'la. As férias de uma família numa casa luxuosa sofrem uma reviravolta quando um ciberataque afeta todos os dispositivos e duas pessoas estranhas batem à porta."
+      }
+    }
+  }
+}

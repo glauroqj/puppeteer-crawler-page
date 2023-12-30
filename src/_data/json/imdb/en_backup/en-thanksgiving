@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "thanksgiving",
+    "title": "Thanksgiving",
+    "year": "2023",
+    "director": "Eli Roth"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Thanksgiving",
+    "description": "Thanksgiving: Directed by Eli Roth. With Patrick Dempsey, Ty Olsson, Gina Gershon, Lynne Griffin. After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the infamous holiday.",
+    "slug": "thanksgiving",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZhOGJjZTAtOTJmYS00ZTk2LTgxYWEtNjM3ZmUxMjY2NWFiXkEyXkFqcGdeQXVyNjU2NTI4MjE@._V1_.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Eli Roth",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDQ5NGFhNDYtODQzOS00NTg4LWE1NTItZTgyODAwMDljMWM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMDYwMDgtNzBlOC00YjE4LTk1Y2UtNDkwMDAyYjc3OTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGJjYzE5MTQtMWQ4Ny00NTk5LTg0MDEtYWEyNWE5MDdjODEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxZTNjMjktNDgwMC00OTk5LTlkMjUtOGI0ZTc4NGNlYThhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI4MGUwNzEtNjcyYy00NjMxLTljNzYtZTczOTQzZmEzN2I2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjdkZWUzYzktOTY5My00ZjcyLTk2ZWItNzQ0NmNkYTJmYTQ0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWE1YjcwZDctZmE0MC00ZWM3LTkwOTctZmFkNDU0N2NiOGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDZkYmY1ZTItYTkwZS00ZjMwLWFlNWMtOTEzNGViMWU5NDZmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA4NzFmZWQtZDIyMi00OTliLWEyOWUtMTZlODBkNTQxYzg3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDIzNjk1ZmItYmVlMC00ZjUwLWJlN2UtY2MyODFiZjFlOGU0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTI0ZDUzZTItMzFmOS00NDBjLWE0YWItZDdjYmI0MmEwZjI1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmIzYzAwMzgtZWZhNi00Zjg4LTg2NzgtZmVkMmEyODlmNWI5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1448754/",
+        "rating": "6.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0744834/",
+        "name": "Eli Roth"
+      },
+      "seo": {
+        "title": "Thanksgiving (2023)",
+        "description": "Thanksgiving: Directed by Eli Roth. With Patrick Dempsey, Ty Olsson, Gina Gershon, Lynne Griffin. After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the infamous holiday."
+      }
+    }
+  }
+}

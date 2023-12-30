@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "wish",
+    "title": "Wish",
+    "year": "2023",
+    "director": "Chris Buck"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Wish",
+    "description": "Wish: Directed by Chris Buck, Fawn Veerasunthorn. With Ariana DeBose, Chris Pine, Alan Tudyk, Angelique Cabral. A young girl named Asha wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her.",
+    "slug": "wish",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4M2ZmODItNzZhYi00MzY1LTk2ZmItYTUwODI2NzJmN2JiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Chris Buck",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzYzZjc1MjUtNTkwMi00MTNlLWFlOTQtNzdmYmNmNTMxYjhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR109,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJmODg0NTEtY2MwMi00M2VlLWE0NGMtNDhlODUxZjY4OTE1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR109,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQ4ZDk1MmYtMzFjMS00ODVjLThmYmMtNDMxMmQzNzRmNTA0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR109,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQzMzY2ZjYtN2YyMi00MDJlLWFjZmItNzI2ZTU0ZjE0MjRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR109,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjhmY2I1YTItZTc3MS00ZjhlLWFjZDQtMWFjODA5NWEzZDdjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR109,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzRlY2ZiNjItZGVhNy00OWQ4LWE1MDItZDM4ODU4NmZiNDZiXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzc5MzM1ZjUtYWI4NC00Y2MxLWJjM2QtYTBjNGU3N2I4NzljXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwYmFhODEtOTMzZS00NWM0LTkwNTktYjRmZGY1NTk5Y2IxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQwYzczMzItODgwZi00MDI4LWI4MTYtYzcyMTU4MjFkMDc2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTljY2U0NTMtYzRkYi00NDI1LTg0YzUtOThjMjhiZWI5MjFjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODFkYzc2ZjAtYmU1Mi00NmNkLWI3NjItZDZmMDVkYzcyNzM4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJhNDQ4MzItYWRmZC00Yzk1LWJmNTktZjU2YWNlNDgxOTU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11304740/",
+        "rating": "5.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0118333/",
+        "name": "Chris Buck"
+      },
+      "seo": {
+        "title": "Wish (2023)",
+        "description": "Wish: Directed by Chris Buck, Fawn Veerasunthorn. With Ariana DeBose, Chris Pine, Alan Tudyk, Angelique Cabral. A young girl named Asha wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her."
+      }
+    }
+  }
+}

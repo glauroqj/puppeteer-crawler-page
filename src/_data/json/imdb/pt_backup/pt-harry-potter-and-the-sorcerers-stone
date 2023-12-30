@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "harry-potter-and-the-sorcerers-stone",
+    "title": "Harry Potter e a Pedra Filosofal",
+    "year": "2001",
+    "director": "Chris Columbus"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Harry Potter e a Pedra Filosofal",
+    "description": "Harry Potter e a Pedra Filosofal: Dirigido por Chris Columbus. Com Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets. Harry Potter é um garoto que, após a misteriosa morte dos pais, mora com os tios. Harry leva uma vida de privações, mas sua história muda de rumo quando completa 11 anos e descobre ser um bruxo, ingressando na escola de magia de Hogwarts.",
+    "slug": "harry-potter-and-the-sorcerers-stone",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDlmZGRlYzAtMTg2Yy00MjU5LTkyYTQtNzlkYmM5OGQ0OGJhXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Família",
+      "Fantasia"
+    ],
+    "director": "Chris Columbus",
+    "year": "2001",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Família",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzQwOGYzNzItNDYzMy00ZThkLTkyNzgtMmY1MTY3ZjY4MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2Njk1MjM0M15BMl5BanBnXkFtZTgwNDUwMTEyMjI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMDM1NDA5MV5BMl5BanBnXkFtZTgwMzE0ODAxMTI@._V1_QL75_UY140_CR86,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1MDg0MDgzMV5BMl5BanBnXkFtZTcwOTIzNjUwNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ4NDY2NDYyNF5BMl5BanBnXkFtZTcwNzIzNDc3Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NzU2MDYzMF5BMl5BanBnXkFtZTcwODIzNDc3Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MDgyNzIwOV5BMl5BanBnXkFtZTcwMDMzNDc3Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzNzY4NDgzMl5BMl5BanBnXkFtZTcwMTMzNDc3Mw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0OTc0NTg2NV5BMl5BanBnXkFtZTYwNTM0NTg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMTUwMTQ4Ml5BMl5BanBnXkFtZTYwOTM0NTg3._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE5MTk3OTcwNF5BMl5BanBnXkFtZTYwMTQ0NTg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDExMjI0ODg4N15BMl5BanBnXkFtZTYwNTQ0NTg3._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0241527/",
+        "rating": "7.6/10"
+      },
+      "year": "2001",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001060/",
+        "name": "Chris Columbus"
+      },
+      "seo": {
+        "title": "Harry Potter e a Pedra Filosofal (2001)",
+        "description": "Harry Potter e a Pedra Filosofal: Dirigido por Chris Columbus. Com Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets. Harry Potter é um garoto que, após a misteriosa morte dos pais, mora com os tios. Harry leva uma vida de privações, mas sua história muda de rumo quando completa 11 anos e descobre ser um bruxo, ingressando na escola de magia de Hogwarts."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "family-switch",
+    "title": "Family Switch",
+    "year": "2023",
+    "director": "McG"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Family Switch",
+    "description": "Family Switch: Directed by McG. With Jennifer Garner, Ed Helms, Emma Myers, Brady Noon. When a chance encounter with an astrological reader causes the Walkers to wake up to a full body switch, can they unite to land a promotion, college interview, record deal, and soccer tryout?",
+    "slug": "family-switch",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWMyYWI0M2MtZDk2My00MmFmLWEzZTgtYjIxZjMyODcwNGJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "director": "McG",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTE4NmYxY2MtMmU5YS00MTZiLTg5ZjctNDRkYmU3ZGU1NzE3XkEyXkFqcGdeQXVyMTY1OTg1MzY2._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmJlNGYwZGMtNTViMy00OTgyLWI2NWMtNGJiMjU3MTMzN2RiXkEyXkFqcGdeQXVyMTY1OTg1MzY2._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjAwYTVhYjItZjMyOS00ODlmLWE1YTgtNGExMmE1MzMwNGVkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDcxNTY4ZjUtNGJmMi00ODIyLWExMWYtNzBkZGNlZjYzZmMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTVkNGMxYmUtNTY2Yy00ZTI5LWI1ZmEtMDcwMzgxYmE1YmIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2RlZTJmODgtMjYyNi00YmU4LThkZmUtMGFiNDVkZmU5YmIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjllNmE4MjctMWY3Yi00MmM3LWE4ZGQtOTIwODNiYjYzNWI4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjg3YTA2YzYtYmEwNi00NTk5LThlODktOGNiMzBhNDRhYjcyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjU1NGJiY2ItNmY3My00YzdhLWIyMzYtNzViNzU4MWM4MzhiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWI1MmZhZTYtZGU0Ni00ZDYyLTllYTctZTViYjY1MjdkNDI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmUzOGNhZTItMzE5OC00OTNjLTk5YmEtNDg1ZDE0OWM0ZTc4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDg0MDc4NjUtYWM0Yi00ZTM0LThmMzMtMjQyMDI0MWZhYzZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt14227048/",
+        "rating": "5.6/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0629334/",
+        "name": "McG"
+      },
+      "seo": {
+        "title": "Family Switch (2023)",
+        "description": "Family Switch: Directed by McG. With Jennifer Garner, Ed Helms, Emma Myers, Brady Noon. When a chance encounter with an astrological reader causes the Walkers to wake up to a full body switch, can they unite to land a promotion, college interview, record deal, and soccer tryout?"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "miracle-on-34th-street",
+    "title": "Miracle on 34th Street",
+    "year": "1994",
+    "director": "Les Mayfield"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Miracle on 34th Street",
+    "description": "Miracle on 34th Street: Directed by Les Mayfield. With Richard Attenborough, Elizabeth Perkins, Dylan McDermott, J.T. Walsh. A lawyer and a little girl must prove that a man claiming to be Santa Claus is the real thing.",
+    "slug": "miracle-on-34th-street",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk3M2UyN2YtNmQ1MS00MWI3LWEzNGMtYTRkM2E5MWNjOWJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Les Mayfield",
+    "year": "1994",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzQwMzIxNTk2N15BMl5BanBnXkFtZTgwMjk0MDg4MDI@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzA5MDQyMTU1Nl5BMl5BanBnXkFtZTgwMTI5NTM0MDI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyODM1MTU1MF5BMl5BanBnXkFtZTcwODM5NzgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5ODE4MTE1N15BMl5BanBnXkFtZTYwMjgzNzM3._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkxMjA4NDM3M15BMl5BanBnXkFtZTYwNDgzNzM3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzODAxNjYwOF5BMl5BanBnXkFtZTYwNjgzNzM3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTRiNjQ5NTItMmFjNC00YTc2LTg3YzctMGEwN2JjZWJiMjQyXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTcyN2NjMWMtMDZmMi00ZmQxLWI2MTYtN2Q5N2E4MWViOTA2XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQ2OGU2ZDQtMWRlZC00MmY4LWIxMzItNzBlOWMxN2E1YjRjXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk5MzMzMDMtNmM4My00YWU4LTgyNTAtYmU4ZmFjZjgxZDk1XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2JjZjJiOWQtMDdlNi00ZWFhLThlNjQtNjBiNTMzZDgyNjY2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzk5ODNmMzYtMWJlMy00MDE0LTk0NWUtYmE4YThlYzJhNzFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0110527/",
+        "rating": "6.6/10"
+      },
+      "year": "1994",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0562645/",
+        "name": "Les Mayfield"
+      },
+      "seo": {
+        "title": "Miracle on 34th Street (1994)",
+        "description": "Miracle on 34th Street: Directed by Les Mayfield. With Richard Attenborough, Elizabeth Perkins, Dylan McDermott, J.T. Walsh. A lawyer and a little girl must prove that a man claiming to be Santa Claus is the real thing."
+      }
+    }
+  }
+}

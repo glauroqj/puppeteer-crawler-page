@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "american-fiction",
+    "title": "American Fiction",
+    "year": "2023",
+    "director": "Cord Jefferson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "American Fiction",
+    "description": "American Fiction: Directed by Cord Jefferson. With Jeffrey Wright, Tracee Ellis Ross, John Ortiz, Erika Alexander. A novelist who's fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him to the heart of hypocrisy and the madness he claims to disdain.",
+    "slug": "american-fiction",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDlkZmRlYTctNGJmNy00MjVkLThjZDQtMWY5Zjg2NjlhZDZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Cord Jefferson",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjNjZDJmYzUtMjAwYS00NzYzLTgzMWYtNGU4ODhlMzUxOTkwXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjNmNWJkMzUtZDEwZi00ODJmLWE0YzQtZmMzNTBjYjIyNTBmXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGQyZWYwZjItNjYzZi00NTJiLThhMmYtYjUwMTRlMjJlZjBhXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTJkZDIxYWUtYTU4YS00NzY3LThiNDYtNzA4ZTQxN2ZmOGMxXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjQyZmU3ZGItZDRlMC00YmI0LWEzYTctOTFmZmY0ZTVmYjRlXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDc1ZDFmNzItM2QzZS00MjE4LWI5N2MtYWQ2N2Q2MWQ0ODgxXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjYxNzQ0N2EtYTJlMi00NGE0LThlYjQtZDYzOTE1NDQ0NGU5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmRjNGRkZWEtYzRjZS00N2QxLTkyYzQtZmNkYWI2YzRjMTVkXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTc4MjNkZTAtZTM3Yy00MjJiLTkwODEtZWNhZjZkODczMWQ3XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjVhOTQ4OTktMzUwMi00ZWY1LTk1YmYtZGEzMzg4ODBmODFmXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzk4YWI4YTYtZTE5ZC00ZTE0LThmMDYtYzYyMTRiM2UyY2UyXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDZkOWUzZmQtY2JlZS00MTRiLWE0OTktMmVlYzU5NTU0ZmU3XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR33,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt23561236/",
+        "rating": "7.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6852255/",
+        "name": "Cord Jefferson"
+      },
+      "seo": {
+        "title": "American Fiction (2023)",
+        "description": "American Fiction: Directed by Cord Jefferson. With Jeffrey Wright, Tracee Ellis Ross, John Ortiz, Erika Alexander. A novelist who's fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him to the heart of hypocrisy and the madness he claims to disdain."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "migration",
+    "title": "Migration",
+    "year": "2023",
+    "director": "Benjamin Renner"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Migration",
+    "description": "Migration: Directed by Benjamin Renner, Guylo Homsy. With Kumail Nanjiani, Elizabeth Banks, Danny DeVito, Caspar Jennings. A family of ducks try to convince their overprotective father to go on the vacation of a lifetime.",
+    "slug": "migration",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Benjamin Renner",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNmNlMzAxOWUtYmVhNC00ODgzLWE3ODMtYjFjNDgwZmVkY2IwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDNiN2JhZjgtMDI2YS00NDk1LWE4YjQtYzFlNjU2NTA1ZjE1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzZkMzgzNDAtZjIxYi00YzhlLWI2ZDctZWFhYzkyNTVkMTY3XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWUyNGQ1MmMtYWNlMS00MWMzLWJkNzgtMjQ5OWJjYWNhYzQxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmQwNTBjNzQtNzJiZS00ZmRjLWE0MDUtYWExMzQyYjQ4MTI5XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWE0ZDk5NjItOTVjOC00Nzg3LWFkMjQtNmJhZTA0ZGM5Yjc4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDY4NTJmNGMtZTU2ZS00MjdkLWIwYTgtNWU5ZWMzZDMwODkyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U5Yzk0OTUtNDQ3Ni00MDdmLWEyMjUtYzBjZDI5ZTgyNGFkXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQxMWY5NjgtNDI2NS00MWM2LTg2MDAtNjI5NGIwZTNmYWZiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTFlMDE2MmQtYWIwNS00YjQzLTk5OGQtZjBjZDgyZjYxMTUzXkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_QL75_UY140_CR80,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGRlYzU3ZTUtMzM5OS00Njg1LTgyYWItZjY1OWQ4OWZmMDFiXkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_QL75_UY140_CR76,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTRiODUwMDQtOTNlNy00MjUyLThmOTktOGFmNTlkZDQ0NDA3XkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_QL75_UY140_CR100,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6495056/",
+        "rating": "6.9/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2883649/",
+        "name": "Benjamin Renner"
+      },
+      "seo": {
+        "title": "Migration (2023)",
+        "description": "Migration: Directed by Benjamin Renner, Guylo Homsy. With Kumail Nanjiani, Elizabeth Banks, Danny DeVito, Caspar Jennings. A family of ducks try to convince their overprotective father to go on the vacation of a lifetime."
+      }
+    }
+  }
+}

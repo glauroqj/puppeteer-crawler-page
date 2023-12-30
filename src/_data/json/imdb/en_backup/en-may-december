@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "may-december",
+    "title": "May December",
+    "year": "2023",
+    "director": "Todd Haynes"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "May December",
+    "description": "May December: Directed by Todd Haynes. With Natalie Portman, Chris Tenzis, Charles Melton, Julianne Moore. Twenty years after their notorious tabloid romance gripped the nation, a married couple buckles under pressure when an actress arrives to do research for a film about their past.",
+    "slug": "may-december",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1ODM5YjQtMmQzNS00Y2FkLWJhNTgtYTE5ZDY0NjQyNmRjXkEyXkFqcGdeQXVyMTY3ODE5NTY1._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Todd Haynes",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzJhNmYyZGQtN2M5Zi00MmM0LWIwYWUtYTFjZGZkNjA4YjhmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDVkY2JlMTctMGM0Yy00MDNlLTlkNmQtMTc3OWRjYWJlNDg3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTdkMDUzZWYtNDBkMi00ZmYyLWE3MTEtZDQ4MmU5N2ViZGQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJiMWQzYWUtZDUwYS00ZTcwLThhMzgtOGQzYjg5YzdjMjhhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2YwN2JiOGItYWQxZC00NWFlLWFkMmYtNzJhYmZiMjgzOGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE0ZmQ0N2EtNTBlYS00YjA3LWExNmItOTYxYzkyYWI4ZWFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdiZGYxY2MtOTE0NS00ZGNmLWJjODAtZjgxNzhmMzExM2IwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2FiOTU3MTctYzJkNS00NGNmLWE4ZGEtYjFmZDc1YjFiYTUxXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDA4OTNjNDMtYmFiNS00NTQyLWJmYmQtMjE3N2FiYTM0MjM1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJhMmI3YjYtOWFlNy00Y2M2LWI3YjQtZGEwNTA1NTVjZjBlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyMWQxYmUtMzYwZS00NTc4LTg3YzgtZjU2Y2EwOGMxODJmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTZkNDY3OTEtZDdiNS00OTJmLWI5OGItZjQ1MWU5NDAwOGI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13651794/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001331/",
+        "name": "Todd Haynes"
+      },
+      "seo": {
+        "title": "May December (2023)",
+        "description": "May December: Directed by Todd Haynes. With Natalie Portman, Chris Tenzis, Charles Melton, Julianne Moore. Twenty years after their notorious tabloid romance gripped the nation, a married couple buckles under pressure when an actress arrives to do research for a film about their past."
+      }
+    }
+  }
+}

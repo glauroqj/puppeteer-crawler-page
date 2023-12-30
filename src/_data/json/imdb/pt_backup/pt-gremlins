@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "gremlins",
+    "title": "Gremlins",
+    "year": "1984",
+    "director": "Joe Dante"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Gremlins",
+    "description": "Gremlins: Dirigido por Joe Dante. Com Hoyt Axton, John Louie, Keye Luke, Don Steele. Uma criança inadvertidamente quebra três regras importantes sobre seu novo animal de estimação e provoca uma onda de monstros malévolos e travesso em uma pequena cidade.",
+    "slug": "gremlins",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEwN2FlZWMtZmM0Yi00OWFhLTkyZWEtZmZhMjBkZmExMDM3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Fantasia",
+      "Terror"
+    ],
+    "director": "Joe Dante",
+    "year": "1984",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Fantasia",
+        "Terror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjU2YzI4M2QtNmI1NS00ZGY2LWIxYzUtMjE5NDdhZWQ4OWI4XkEyXkFqcGdeQXVyNjEyNjA4ODg@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMDcwNzM4N15BMl5BanBnXkFtZTgwNzAxOTE3MDI@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM1MTQ4OTg2Nl5BMl5BanBnXkFtZTgwODAxOTE3MDI@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2OTUwNjQ5OV5BMl5BanBnXkFtZTgwMTc1MDExOTE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4ODcwOTM3NF5BMl5BanBnXkFtZTgwMjMyODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI0MDk1NDAzMl5BMl5BanBnXkFtZTgwMzMyODIwMjE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNzI4NzA5MV5BMl5BanBnXkFtZTgwNDMyODIwMjE@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0ODc5NTYzMV5BMl5BanBnXkFtZTgwNjMyODIwMjE@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTMxMDM1Njg5OF5BMl5BanBnXkFtZTgwNzMyODIwMjE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA5MTQ2NjQ1OV5BMl5BanBnXkFtZTgwMzk4MzA4MTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1OTU0ODI2MV5BMl5BanBnXkFtZTcwMzI1NTkwNw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI4MjY3NTM0MF5BMl5BanBnXkFtZTcwNDI1NTkwNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0087363/",
+        "rating": "7.3/10"
+      },
+      "year": "1984",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001102/",
+        "name": "Joe Dante"
+      },
+      "seo": {
+        "title": "Gremlins (1984)",
+        "description": "Gremlins: Dirigido por Joe Dante. Com Hoyt Axton, John Louie, Keye Luke, Don Steele. Uma criança inadvertidamente quebra três regras importantes sobre seu novo animal de estimação e provoca uma onda de monstros malévolos e travesso em uma pequena cidade."
+      }
+    }
+  }
+}

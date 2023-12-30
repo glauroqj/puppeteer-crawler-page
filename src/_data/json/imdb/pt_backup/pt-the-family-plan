@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-family-plan",
+    "title": "Plano em Família",
+    "year": "2023",
+    "director": "Simon Cellan Jones"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Plano em Família",
+    "description": "Plano em Família: Dirigido por Simon Cellan Jones. Com Mark Wahlberg, Michelle Monaghan, Ciarán Hinds, Zoe Colletti. Um ex-assassino de alto nível que vive incógnito como pai suburbano precisa levar sua família desavisada para fugir quando seu passado o alcança.",
+    "slug": "the-family-plan",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQzZWFmOWMtODM4Ni00YjYwLWI4ZTYtOTkwZmYyMzFkN2E2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Comédia"
+    ],
+    "director": "Simon Cellan Jones",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Comédia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzE3ZDg0ODItYmNjZC00OTc5LTgxYzEtZGQxNDJmY2Q4NWI4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGRjMjc5NTItMDViYy00MmM5LThlNTQtODViZjZmNGIzZTJlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWIwMGNkOWYtOGQyNi00NWMzLThlNTMtYWZkNzg5YWFkMGVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2UzMGUzY2ItMTAyMy00MGZhLTg2YjEtYTUwMDY5OWE4NWRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTlhNjhjMzktMDcwYi00YmZkLWFmOWYtYTMwZGVjNDRjZmIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWY3MzRmMGMtMGQ5YS00NzRmLTg5ZjQtNGYyNDdlNjZhNTAxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDdkZGIxYTYtNzRkMS00ZTZjLWE1NTUtNjg0NjVkZTNiYTEwXkEyXkFqcGdeQXVyMTIyNDEwMzky._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDVkMGUxMTYtNGRlNy00YzJkLTg3YzktODcxMmFhMTI5OGRmXkEyXkFqcGdeQXVyMTIyNDEwMzky._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWZjMmI4MGMtNjA0Mi00YWE1LWE1Y2UtMGY2N2I1ZTUzNGU1XkEyXkFqcGdeQXVyNjczMTk4ODQ@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDBkYzJhODItMjNiZC00NzNjLWEyMDMtNDBlNDI1YTE3ZmUxXkEyXkFqcGdeQXVyNjczMTk4ODQ@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWNjMGE0Y2ItOTQyMC00MzUxLTg1NjktMzExNWU0MTMzZjQ5XkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGY3ZGNmZGMtNzBhNi00Y2U5LWI3ZTgtMjM4NDk3MjA1MDQ5XkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt16431870/",
+        "rating": "6.3/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0148116/",
+        "name": "Simon Cellan Jones"
+      },
+      "seo": {
+        "title": "Plano em Família (2023)",
+        "description": "Plano em Família: Dirigido por Simon Cellan Jones. Com Mark Wahlberg, Michelle Monaghan, Ciarán Hinds, Zoe Colletti. Um ex-assassino de alto nível que vive incógnito como pai suburbano precisa levar sua família desavisada para fugir quando seu passado o alcança."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-holiday",
+    "title": "The Holiday",
+    "year": "2006",
+    "director": "Nancy Meyers"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Holiday",
+    "description": "The Holiday: Directed by Nancy Meyers. With Cameron Diaz, Kate Winslet, Jude Law, Jack Black. Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
+    "slug": "the-holiday",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MDk4MzA2OF5BMl5BanBnXkFtZTYwMjQ3NDc3._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Nancy Meyers",
+    "year": "2006",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODk1NDA0NDg3Nl5BMl5BanBnXkFtZTcwNzYxMDkyNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5NDM3Mjg3NF5BMl5BanBnXkFtZTcwODYxMDkyNA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5OTYxOTA4MF5BMl5BanBnXkFtZTYwNTQ3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTA5NTI3OTc3NF5BMl5BanBnXkFtZTYwMjU3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3ODY4OTUxN15BMl5BanBnXkFtZTYwNTU3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMzc1Nzk4MV5BMl5BanBnXkFtZTYwODU3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1MzA0MjQ3OF5BMl5BanBnXkFtZTYwMTY3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1OTcwNDgxOF5BMl5BanBnXkFtZTYwMTc3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNTQ1NTQ2OF5BMl5BanBnXkFtZTYwNzc3NDc3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzMDgyMjc5M15BMl5BanBnXkFtZTYwOTc3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ5MDI4NTA4NV5BMl5BanBnXkFtZTYwMjg3NDc3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MDA2OTcyOF5BMl5BanBnXkFtZTYwNjg3NDc3._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0457939/",
+        "rating": "6.9/10"
+      },
+      "year": "2006",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0583600/",
+        "name": "Nancy Meyers"
+      },
+      "seo": {
+        "title": "The Holiday (2006)",
+        "description": "The Holiday: Directed by Nancy Meyers. With Cameron Diaz, Kate Winslet, Jude Law, Jack Black. Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love."
+      }
+    }
+  }
+}

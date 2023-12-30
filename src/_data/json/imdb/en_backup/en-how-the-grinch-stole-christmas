@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "how-the-grinch-stole-christmas",
+    "title": "How the Grinch Stole Christmas",
+    "year": "2000",
+    "director": "Ron Howard"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "How the Grinch Stole Christmas",
+    "description": "How the Grinch Stole Christmas: Directed by Ron Howard. With Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor. On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+    "slug": "how-the-grinch-stole-christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Ron Howard",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTc1NTAwNzIyNF5BMl5BanBnXkFtZTgwNzIwODU4NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MzM3NzM2Nl5BMl5BanBnXkFtZTgwMjI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDA4Nzg3ODMzMF5BMl5BanBnXkFtZTgwMzI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM5NTE1NjQ4OF5BMl5BanBnXkFtZTgwNDI0NjQzNDM@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM1MTc0OTY1MV5BMl5BanBnXkFtZTgwNTI0NjQzNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzNjYyNzY1M15BMl5BanBnXkFtZTgwNjI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQyMjAwODgxMl5BMl5BanBnXkFtZTgwODI0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjUwMjMxNTY0M15BMl5BanBnXkFtZTgwOTI0NjQzNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0MDY4MzU2Ml5BMl5BanBnXkFtZTgwMzM0NjQzNDM@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwNTc2NDI3MF5BMl5BanBnXkFtZTgwNTQ0MzU2MzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMzg5NTUyM15BMl5BanBnXkFtZTgwMTI0MzU2MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5NTE2MjQ5OF5BMl5BanBnXkFtZTcwMTQ4NjYzNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0170016/",
+        "rating": "6.3/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000165/",
+        "name": "Ron Howard"
+      },
+      "seo": {
+        "title": "How the Grinch Stole Christmas (2000)",
+        "description": "How the Grinch Stole Christmas: Directed by Ron Howard. With Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor. On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town."
+      }
+    }
+  }
+}

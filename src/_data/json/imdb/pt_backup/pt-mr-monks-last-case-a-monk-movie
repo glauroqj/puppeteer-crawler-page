@@ -1,0 +1,52 @@
+{
+  "poster_table": {
+    "slug": "mr-monks-last-case-a-monk-movie",
+    "title": "Mr. Monk's Last Case: A Monk Movie",
+    "year": "2023",
+    "director": "Randy Zisk"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Mr. Monk's Last Case: A Monk Movie",
+    "description": "Mr. Monk's Last Case: A Monk Movie: Dirigido por Randy Zisk. Com Tony Shalhoub, Traylor Howard, Jason Gray-Stanford, Melora Hardin. Monk é um detetive brilhante com transtorno obsessivo-compulsivo. Ele retorna para resolver um último caso envolvendo sua enteada Molly, uma jornalista que está se preparando para o casamento.",
+    "slug": "mr-monks-last-case-a-monk-movie",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzBlNjU2ZmYtM2ZjZi00ZmMzLWI4NzUtNjE1ZTVkODExNjI3XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Policial",
+      "Mistério"
+    ],
+    "director": "Randy Zisk",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Policial",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTFlMGFmMTUtNWM0Zi00N2UxLWJkM2MtNDlmMjBhNDc5YjBlXkEyXkFqcGdeQXVyMTU2NDE0NTAy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWRhYTJjMWEtMmEyOS00ZWFhLWI1OGMtZjAzOWU2MDViMmE2XkEyXkFqcGdeQXVyMTU2NDE0NTAy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWIwYmY4YTItMzIwMy00YTZmLWJhNTYtOGI3MjIzZGNlOTcxXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR71,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmQzZTA1NjktYjlkZS00ZDFmLTg3YjUtMzE5NDBkN2VlNzJhXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZhNmM3NjEtN2U1My00MjNhLWE2YzAtMDlkZjIwYTVlZDMwXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTRiNWZiYmUtODJjOC00NjE2LWIxZGQtOGVlODI0Y2I2N2NhXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR71,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmQzYmUxNTctOWRmNS00YzM4LWFlOWItOGEyODAwYTZjNDNiXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt27145269/",
+        "rating": "6.9/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0957198/",
+        "name": "Randy Zisk"
+      },
+      "seo": {
+        "title": "Mr. Monk's Last Case: A Monk Movie (2023)",
+        "description": "Mr. Monk's Last Case: A Monk Movie: Dirigido por Randy Zisk. Com Tony Shalhoub, Traylor Howard, Jason Gray-Stanford, Melora Hardin. Monk é um detetive brilhante com transtorno obsessivo-compulsivo. Ele retorna para resolver um último caso envolvendo sua enteada Molly, uma jornalista que está se preparando para o casamento."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "white-christmas",
+    "title": "White Christmas",
+    "year": "1954",
+    "director": "Michael Curtiz"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "White Christmas",
+    "description": "White Christmas: Directed by Michael Curtiz. With Bing Crosby, Danny Kaye, Rosemary Clooney, Vera-Ellen. A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.",
+    "slug": "white-christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjI0ZTk0ZjQtZTMzOS00NDdmLTk0YzUtZTQ4NGRkNWFhZTkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Michael Curtiz",
+    "year": "1954",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODMwNzU5OTQtNTU2Yy00OTM5LTgyZDQtMzc2YjU2NmM4NGJmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2MTcyMTAyNV5BMl5BanBnXkFtZTcwMTEzMDExNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NDA2Mjg2Nl5BMl5BanBnXkFtZTcwNTEzMDExNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1MjQ0NDQ0MV5BMl5BanBnXkFtZTcwODIzMDExNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAwMjMwMDg1NF5BMl5BanBnXkFtZTcwMDEzMDExNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwMDI2ODUzODVeQTJeQWpwZ15BbWU3MDIxMzAxMTQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE5NDQwOTAwNl5BMl5BanBnXkFtZTcwNDEzMDExNA@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUyODU4NjY2M15BMl5BanBnXkFtZTcwNTIzMDExNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMjY5MTI2Nl5BMl5BanBnXkFtZTcwNjIzMDExNA@@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMTc5Mjc3Nl5BMl5BanBnXkFtZTcwNzIzMDExNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc0MjM1OTQwOF5BMl5BanBnXkFtZTcwOTIzMDExNA@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2MjE1MzM1M15BMl5BanBnXkFtZTcwMDMzMDExNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0047673/",
+        "rating": "7.6/10"
+      },
+      "year": "1954",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0002031/",
+        "name": "Michael Curtiz"
+      },
+      "seo": {
+        "title": "White Christmas (1954)",
+        "description": "White Christmas: Directed by Michael Curtiz. With Bing Crosby, Danny Kaye, Rosemary Clooney, Vera-Ellen. A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general."
+      }
+    }
+  }
+}

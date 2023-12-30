@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "scrooged",
+    "title": "Scrooged",
+    "year": "1988",
+    "director": "Richard Donner"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Scrooged",
+    "description": "Scrooged: Directed by Richard Donner. With Bill Murray, Karen Allen, John Forsythe, John Glover. A selfish, cynical television executive is haunted by three spirits bearing lessons on Christmas Eve.",
+    "slug": "scrooged",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDExMjFhYTItNmFkNC00YzQ0LWE1OGMtN2ExNGFkNWMxMjA4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Richard Donner",
+    "year": "1988",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTY4NDkzMTQwOF5BMl5BanBnXkFtZTcwOTEyOTcxNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MjAxNDg3OF5BMl5BanBnXkFtZTcwMDIyOTcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcyNTkwNjM2MV5BMl5BanBnXkFtZTcwMTIyOTcxNA@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTk3NDY1MDYyNF5BMl5BanBnXkFtZTcwMjIyOTcxNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5NzM0NjkwMl5BMl5BanBnXkFtZTcwMzIyOTcxNA@@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0ODI1MjE4MF5BMl5BanBnXkFtZTcwNTIyOTcxNA@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc2MjkxOTU2M15BMl5BanBnXkFtZTcwNjIyOTcxNA@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4OTc2NDk0OF5BMl5BanBnXkFtZTcwMDM0MDkwMw@@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyMTU2MzEzNF5BMl5BanBnXkFtZTcwODM0MDkwMw@@._V1_QL75_UY140_CR51,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0MjQ1Mjg0N15BMl5BanBnXkFtZTcwNTQ0MDkwMw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MzA3MTkxNV5BMl5BanBnXkFtZTcwOTU0MDkwMw@@._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MTUyNjUzNl5BMl5BanBnXkFtZTcwMDc0MDkwMw@@._V1_QL75_UY140_CR52,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0096061/",
+        "rating": "6.9/10"
+      },
+      "year": "1988",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001149/",
+        "name": "Richard Donner"
+      },
+      "seo": {
+        "title": "Scrooged (1988)",
+        "description": "Scrooged: Directed by Richard Donner. With Bill Murray, Karen Allen, John Forsythe, John Glover. A selfish, cynical television executive is haunted by three spirits bearing lessons on Christmas Eve."
+      }
+    }
+  }
+}

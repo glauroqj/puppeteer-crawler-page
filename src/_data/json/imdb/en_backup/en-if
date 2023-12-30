@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "if",
+    "title": "If",
+    "year": "2024",
+    "director": "John Krasinski"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "If",
+    "description": "IF: Directed by John Krasinski. With Ryan Reynolds, John Krasinski, Cailey Fleming, Steve Carell. A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
+    "slug": "if",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGU5ODg0YzYtODYyNC00ZjA4LTlhOGEtMTc4MGNkZjI1ZmM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "director": "John Krasinski",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjI1MTI3NzMtMDhlMi00ODFiLTgyZTItMWQ4YTI3YWFhNWQ2XkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2UyOWVlNjktMTZiMC00ZTczLWExZWMtODY2ODRiZGRhMjA1XkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNiOTkzZDgtYjRiNi00M2E3LTkxOTQtNDZjMmNiMjRkMTk1XkEyXkFqcGdeQXVyNTc1NDA1MTc@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzhiNzI1OTctMjM5ZC00NjRmLTk1MzktM2JhZTEyNzNkOTM4XkEyXkFqcGdeQXVyMTY4NTcyMDk4._V1_QL75_UY140_CR19,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDk4MDI5NTYtYjE1Zi00ODYzLTgyMDItZmE2MDY3YjgwM2FmXkEyXkFqcGdeQXVyMTY4NTcyMDk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTg4MWUwNTItZWRjMi00MjkwLWIzYzktNTQ2MzRiNmFkZmRhXkEyXkFqcGdeQXVyMTY4NTcyMDk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGUyMzMzMjEtMmI1Zi00MTk0LThhNTAtNDZkYWE3NGU0OWE5XkEyXkFqcGdeQXVyMTY4NTcyMDk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjIwZmYyMGEtN2I5Mi00NTlkLTk0NzAtMzAyZjNkMWM5Y2Y4XkEyXkFqcGdeQXVyMTEwNjE4Nzk2._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA3OTVhOTctNDMyYS00MTg0LTg5M2MtMzRhMWMwNDA5OGIwXkEyXkFqcGdeQXVyMTY5MDg5NDc4._V1_QL75_UY140_CR61,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWQ2NTQ4ZDEtMTQ4ZC00YWNjLThiN2ItZTE3NmUxY2IxMmQxXkEyXkFqcGdeQXVyMTY5MDg5NDc4._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODMxMDIwMzAtMGI2Ni00ZjI2LWJjMGQtY2RlYmY1OWQxZGMwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11152168/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1024677/",
+        "name": "John Krasinski"
+      },
+      "seo": {
+        "title": "IF (2024)",
+        "description": "IF: Directed by John Krasinski. With Ryan Reynolds, John Krasinski, Cailey Fleming, Steve Carell. A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up."
+      }
+    }
+  }
+}

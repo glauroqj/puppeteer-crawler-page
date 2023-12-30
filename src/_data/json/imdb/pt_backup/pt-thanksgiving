@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "thanksgiving",
+    "title": "Feriado Sangrento",
+    "year": "2023",
+    "director": "Eli Roth"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Feriado Sangrento",
+    "description": "Feriado Sangrento: Dirigido por Eli Roth. Com Patrick Dempsey, Ty Olsson, Gina Gershon, Lynne Griffin. Depois que um tumulto na Black Friday termina em tragédia, um misterioso assassino inspirado no Dia de Ação de Graças aterroriza Plymouth, Massachusetts - o local de nascimento do infame feriado.",
+    "slug": "thanksgiving",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzg5YjhjMjUtZjgyYi00YzA1LWI4NjYtNTgyOGNhMTNhNmU5XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Terror",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Eli Roth",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDQ5NGFhNDYtODQzOS00NTg4LWE1NTItZTgyODAwMDljMWM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMDYwMDgtNzBlOC00YjE4LTk1Y2UtNDkwMDAyYjc3OTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGJjYzE5MTQtMWQ4Ny00NTk5LTg0MDEtYWEyNWE5MDdjODEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxZTNjMjktNDgwMC00OTk5LTlkMjUtOGI0ZTc4NGNlYThhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI4MGUwNzEtNjcyYy00NjMxLTljNzYtZTczOTQzZmEzN2I2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjdkZWUzYzktOTY5My00ZjcyLTk2ZWItNzQ0NmNkYTJmYTQ0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWE1YjcwZDctZmE0MC00ZWM3LTkwOTctZmFkNDU0N2NiOGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDZkYmY1ZTItYTkwZS00ZjMwLWFlNWMtOTEzNGViMWU5NDZmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA4NzFmZWQtZDIyMi00OTliLWEyOWUtMTZlODBkNTQxYzg3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDIzNjk1ZmItYmVlMC00ZjUwLWJlN2UtY2MyODFiZjFlOGU0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTI0ZDUzZTItMzFmOS00NDBjLWE0YWItZDdjYmI0MmEwZjI1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmIzYzAwMzgtZWZhNi00Zjg4LTg2NzgtZmVkMmEyODlmNWI5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1448754/",
+        "rating": "6.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0744834/",
+        "name": "Eli Roth"
+      },
+      "seo": {
+        "title": "Feriado Sangrento (2023)",
+        "description": "Feriado Sangrento: Dirigido por Eli Roth. Com Patrick Dempsey, Ty Olsson, Gina Gershon, Lynne Griffin. Depois que um tumulto na Black Friday termina em tragédia, um misterioso assassino inspirado no Dia de Ação de Graças aterroriza Plymouth, Massachusetts - o local de nascimento do infame feriado."
+      }
+    }
+  }
+}

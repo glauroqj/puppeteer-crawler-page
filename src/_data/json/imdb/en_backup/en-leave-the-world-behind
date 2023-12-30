@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "leave-the-world-behind",
+    "title": "Leave the World Behind",
+    "year": "2023",
+    "director": "Sam Esmail"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Leave the World Behind",
+    "description": "Leave the World Behind: Directed by Sam Esmail. With Julia Roberts, Mahershala Ali, Ethan Hawke, Myha'la. A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
+    "slug": "leave-the-world-behind",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzM2I3NDEtMjNhYi00NTQ0LThmZDItZTMyMzM2MjJmZGRjXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Sam Esmail",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzg3M2QzMzEtNmI4Yy00OTI5LTgwZTgtOTEwZmQ2YmUzMTA2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjc0NjYwOGUtMTdlMC00YWU3LTkzNmQtNTdiYzM5N2NmNDgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNThmMzdhNWMtM2E3ZC00MGJmLTg3NzctZWE4YzVjZjdmNzA1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWJjYmI4ZWUtYjkyMC00MTYwLTg1YWMtZDFmYzg0YTcxNzNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmExOWNiM2MtMmE1OC00ODdmLWE3NWItZDljNTcyYzlkMzBhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDVjZmUyNTMtZGNjYy00MGUwLThhMTUtNzU0ZjJjODQzYWJmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjNhNDFhMzktMTkwZS00MzkxLWFlYjItZGNiYmRlMzdlYTdhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmY5MzY2NmQtNWJjMS00OWJlLWI2MDYtMTA5YWJlMzRmZTAwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjk4NWJmODctOGNhNS00NTA2LTllNmEtYTI2NmMxYTFkZTU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWUwZDUwYTItMTc1ZS00ZGI3LWEwYmQtNmFhOTQ5YjlhMjQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGZjMGI1OGEtMDUxOC00Y2RjLThjMWUtMjNlNDQxZDUzYmYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWI2NzFhZjAtZDI5Yi00ZTE1LTk1NDQtNDY2ODRkZjJjZDRiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR37,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12747748/",
+        "rating": "6.5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1322753/",
+        "name": "Sam Esmail"
+      },
+      "seo": {
+        "title": "Leave the World Behind (2023)",
+        "description": "Leave the World Behind: Directed by Sam Esmail. With Julia Roberts, Mahershala Ali, Ethan Hawke, Myha'la. A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door."
+      }
+    }
+  }
+}

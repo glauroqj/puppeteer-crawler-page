@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "finestkind",
+    "title": "Finestkind",
+    "year": "2023",
+    "director": "Brian Helgeland"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Finestkind",
+    "description": "Finestkind: Dirigido por Brian Helgeland. Com Ben Foster, Toby Wallace, Jenna Ortega, Tommy Lee Jones. Uma tripulação de pescadores navega em águas perigosas quando as suas dívidas começam a acumular.",
+    "slug": "finestkind",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFjODE5ZTgtOWYyMy00MWRmLWFmZmQtOTVmMmRhYTA0MGQyXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Brian Helgeland",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWQ5MTZiM2EtOWYxZC00YzRkLWJhN2MtOWNkOTMwOWYxMzkwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDU2YWU5MDAtZmU3ZC00YTVmLWIzM2UtZDY2MDE2YTRhYjJmXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGY3M2QwYjYtNzE2MS00YzgxLTgwYzgtODQ3MmI3YTE2Zjc5XkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTMzMThiODQtNmRiZC00N2I3LTg0N2EtN2MzMzExNGY2ZWE0XkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmY2ZmUxMDItNTY1NS00YzcwLWI1NzItYWM5ZTZmZTQzNjg0XkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk4NzEzY2YtNzc1My00MTM4LTkwODctYzEzMjQzNzFhNWUzXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDIwZDM4ZDgtYzZjZi00M2RmLTlmMjUtZTgzNzE2ZTNmMWZkXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR43,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWRmY2ZkYjktYzJkMS00NTkyLWIwMDMtYTI0ODFmYmVhZDllXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDQ3Nzk4NTItZWM4Mi00NDJjLThmNWMtNGI2ZjMwMmM5NjJjXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR78,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDNhOWM5ZTEtMzY3My00NDQ0LTg3ZDUtZThjZDcxMGExODkxXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjE3OTA3ZmMtNmY1Yi00Mzc3LWE3OTgtNmYyNjY1MDVhOGVmXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzhjM2JmNWUtNTRlYy00MjRkLTgxMjktMjRhMDVlYjQ3N2ExXkEyXkFqcGdeQXVyMjQwNTE5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7991508/",
+        "rating": "5.9/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001338/",
+        "name": "Brian Helgeland"
+      },
+      "seo": {
+        "title": "Finestkind (2023)",
+        "description": "Finestkind: Dirigido por Brian Helgeland. Com Ben Foster, Toby Wallace, Jenna Ortega, Tommy Lee Jones. Uma tripulação de pescadores navega em águas perigosas quando as suas dívidas começam a acumular."
+      }
+    }
+  }
+}

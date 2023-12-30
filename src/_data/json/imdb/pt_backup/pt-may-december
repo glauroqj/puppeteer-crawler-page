@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "may-december",
+    "title": "Segredos de um Escândalo",
+    "year": "2023",
+    "director": "Todd Haynes"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Segredos de um Escândalo",
+    "description": "Segredos de um Escândalo: Dirigido por Todd Haynes. Com Natalie Portman, Chris Tenzis, Charles Melton, Julianne Moore. Uma atriz pesquisa para interpretar uma mulher que, 20 anos antes, viveu um romance com um adolescente, causando um escândalo e a sua prisão.",
+    "slug": "may-december",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmI0MjljNzQtZmIyMS00YmQ0LWIyYWQtNGY4Nzk1M2JhMTFiXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "director": "Todd Haynes",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzJhNmYyZGQtN2M5Zi00MmM0LWIwYWUtYTFjZGZkNjA4YjhmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDVkY2JlMTctMGM0Yy00MDNlLTlkNmQtMTc3OWRjYWJlNDg3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTdkMDUzZWYtNDBkMi00ZmYyLWE3MTEtZDQ4MmU5N2ViZGQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJiMWQzYWUtZDUwYS00ZTcwLThhMzgtOGQzYjg5YzdjMjhhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2YwN2JiOGItYWQxZC00NWFlLWFkMmYtNzJhYmZiMjgzOGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDE0ZmQ0N2EtNTBlYS00YjA3LWExNmItOTYxYzkyYWI4ZWFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdiZGYxY2MtOTE0NS00ZGNmLWJjODAtZjgxNzhmMzExM2IwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2FiOTU3MTctYzJkNS00NGNmLWE4ZGEtYjFmZDc1YjFiYTUxXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDA4OTNjNDMtYmFiNS00NTQyLWJmYmQtMjE3N2FiYTM0MjM1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJhMmI3YjYtOWFlNy00Y2M2LWI3YjQtZGEwNTA1NTVjZjBlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyMWQxYmUtMzYwZS00NTc4LTg3YzgtZjU2Y2EwOGMxODJmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTZkNDY3OTEtZDdiNS00OTJmLWI5OGItZjQ1MWU5NDAwOGI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13651794/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001331/",
+        "name": "Todd Haynes"
+      },
+      "seo": {
+        "title": "Segredos de um Escândalo (2023)",
+        "description": "Segredos de um Escândalo: Dirigido por Todd Haynes. Com Natalie Portman, Chris Tenzis, Charles Melton, Julianne Moore. Uma atriz pesquisa para interpretar uma mulher que, 20 anos antes, viveu um romance com um adolescente, causando um escândalo e a sua prisão."
+      }
+    }
+  }
+}

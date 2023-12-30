@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "harry-potter-and-the-sorcerers-stone",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": "2001",
+    "director": "Chris Columbus"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "Harry Potter and the Sorcerer's Stone: Directed by Chris Columbus. With Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets. An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "slug": "harry-potter-and-the-sorcerers-stone",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Chris Columbus",
+    "year": "2001",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzQwOGYzNzItNDYzMy00ZThkLTkyNzgtMmY1MTY3ZjY4MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2Njk1MjM0M15BMl5BanBnXkFtZTgwNDUwMTEyMjI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMDM1NDA5MV5BMl5BanBnXkFtZTgwMzE0ODAxMTI@._V1_QL75_UY140_CR86,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc1MDg0MDgzMV5BMl5BanBnXkFtZTcwOTIzNjUwNA@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQ4NDY2NDYyNF5BMl5BanBnXkFtZTcwNzIzNDc3Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NzU2MDYzMF5BMl5BanBnXkFtZTcwODIzNDc3Mw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY3MDgyNzIwOV5BMl5BanBnXkFtZTcwMDMzNDc3Mw@@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMzNzY4NDgzMl5BMl5BanBnXkFtZTcwMTMzNDc3Mw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0OTc0NTg2NV5BMl5BanBnXkFtZTYwNTM0NTg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAyMTUwMTQ4Ml5BMl5BanBnXkFtZTYwOTM0NTg3._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE5MTk3OTcwNF5BMl5BanBnXkFtZTYwMTQ0NTg3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDExMjI0ODg4N15BMl5BanBnXkFtZTYwNTQ0NTg3._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0241527/",
+        "rating": "7.6/10"
+      },
+      "year": "2001",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001060/",
+        "name": "Chris Columbus"
+      },
+      "seo": {
+        "title": "Harry Potter and the Sorcerer's Stone (2001)",
+        "description": "Harry Potter and the Sorcerer's Stone: Directed by Chris Columbus. With Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets. An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "millers-girl",
+    "title": "Miller's Girl",
+    "year": "2024",
+    "director": "Jade Halley Bartlett"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Miller's Girl",
+    "description": "Miller's Girl: Directed by Jade Halley Bartlett. With Martin Freeman, Jenna Ortega, Bashir Salahuddin, Gideon Adlon. A creative writing assignment yields complex results between a teacher and his talented student.",
+    "slug": "millers-girl",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JiYTQzM2MtOWU4NS00MGMwLTg2NTYtMTNhMzk5Y2JlY2Q4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Jade Halley Bartlett",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjcyNGMxNjItOWRiOS00NzY3LWFiYzUtYTYzZWFmM2MwZDU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWY3NTk4ZGMtNTA5Zi00MjA3LTgwYTAtOTNkMjZiY2QzNzVlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjg3NWFlZTYtNmZkZS00YTA3LWI4ODYtNGZiMjdlNGQ1M2U4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTJjODUwMzQtMDY1OC00OWQzLWFiZmEtODcyOTEzMTdjNDQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg4ODRiMzUtMjU3ZS00MTJkLTlkZWMtMTYxMTIzMDIyYWRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjc1YzYzM2UtODI5ZS00N2Q3LTk5MjEtNzJiN2NjNDBiNzY5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzk5ZWExMzItZGNjZi00NzkzLWFmMWQtNWFhMmE4MTU3ODlhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjVjOWFhZGEtOTgwOC00MWFmLTkxMjYtN2YwNzgxNDhmMmI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGNiNzFlYzUtMGQxNy00NzMxLWFhN2UtYTk0NWRmMDMzZDcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJiZGI3OGQtZWI2OC00ZGU4LTllYTMtMzczZmQ3ZWE3MGFjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDcxNWJiM2UtMjRhOS00NDBhLTlkYWItZDRjM2JhODQzNWE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTMyYTQ5YTUtOTRjMC00YjlkLWEyMTAtNzAxNDU1NWY4NzBmXkEyXkFqcGdeQXVyNTkxNDk3ODM@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8310486/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm5272733/",
+        "name": "Jade Halley Bartlett"
+      },
+      "seo": {
+        "title": "Miller's Girl (2024)",
+        "description": "Miller's Girl: Directed by Jade Halley Bartlett. With Martin Freeman, Jenna Ortega, Bashir Salahuddin, Gideon Adlon. A creative writing assignment yields complex results between a teacher and his talented student."
+      }
+    }
+  }
+}

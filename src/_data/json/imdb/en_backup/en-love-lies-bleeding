@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "love-lies-bleeding",
+    "title": "Love Lies Bleeding",
+    "year": "2024",
+    "director": "Rose Glass"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Love Lies Bleeding",
+    "description": "Love Lies Bleeding: Directed by Rose Glass. With Anna Baryshnikov, Kristen Stewart, Dave Franco, Katy M. O'Brian. A romance fueled by ego, desire and the American Dream.",
+    "slug": "love-lies-bleeding",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2IzZWVhYjYtMjFmMy00OWQzLTkyNjUtN2IwZWE2ZmY5NzI3XkEyXkFqcGdeQXVyMTY2NDUyNzY3._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "director": "Rose Glass",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BY2VjMGQ1NmItMTNiMC00NzlmLWJlZTctY2VhZTFkYzlmOWM3XkEyXkFqcGdeQXVyMTU1NDg2NjU1._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmYxMWRlYzEtZmZkMy00MzQ1LWI2YjktZmExMTliM2RjZTAzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJiZjBjNzUtZDk2MC00OWJkLTgyN2UtODQyMjMxZGQxMDIyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ZmYjEyNGItMWY3Yy00ZjY3LWJmOTEtMTI0ZjZiZTdiNmM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR104,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmU3ZjU3M2MtNWNmNy00YTYwLWE5ZWItZWRiNzZiOTQzOTlhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR101,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmRkMTE2OTEtMWIwNC00ZjVjLTg3YjEtNmM5NTZjOGFjNWQ1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGU0YzY3MWEtMTg4NC00YjgyLTk0M2QtOWYwNTJiNTFhYjQ1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmZjZDk0MGItZjc1YS00ODcyLWJmY2MtMDBlNTM5NmM1MjkyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM4NWRmYzEtMzc5NS00ZThlLTk1MzktZDk2ZjBiZTc5ZWI3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGI0YTY3MmYtMDJkOS00MGU0LTgzZGMtZTRiNWFiMzc0MzY5XkEyXkFqcGdeQXVyNTA0NDQ5MDA@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk5YmUyNmQtNzdlNi00MTkwLWJkYTctZDllZjI4NjYyOGRiXkEyXkFqcGdeQXVyMTI3ODE0MDky._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt19637052/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3819217/",
+        "name": "Rose Glass"
+      },
+      "seo": {
+        "title": "Love Lies Bleeding (2024)",
+        "description": "Love Lies Bleeding: Directed by Rose Glass. With Anna Baryshnikov, Kristen Stewart, Dave Franco, Katy M. O'Brian. A romance fueled by ego, desire and the American Dream."
+      }
+    }
+  }
+}

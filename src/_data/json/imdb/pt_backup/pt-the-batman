@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-batman",
+    "title": "Batman",
+    "year": "2022",
+    "director": "Matt Reeves"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Batman",
+    "description": "Batman: Dirigido por Matt Reeves. Com Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell. Sinopse desconhecida.",
+    "slug": "the-batman",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNTAwZGEtNTAxNC00ODVjLTgzZjUtYmU0YjAzNmQyZDEwXkEyXkFqcGdeQXVyNDc2NTg3NzA@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Drama"
+    ],
+    "director": "Matt Reeves",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTc3ODFlMWYtZDJjNC00ZGQyLTk5MWQtNzliNWMzOWVlM2FlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1MDA2OGMtMGM0MS00MDIzLTljMWQtNzE0NTZjNmU4N2M1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTNmNzljNWQtZjVmMi00OGY5LWEyZjctNjQ1ZDRmNDlkZTJiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2I1Y2Y1Y2UtYzRmZC00N2E1LWI1YjItNGIyMDAwYjU3YjJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjIyNzZlZDktZjZjMS00OTVhLTgxYWQtMjJkNjRlZDMyNTlhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTEwNTlhYzItZjhiMC00YTZjLWIyNjYtOGYwODNhMTFhNDQ4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTAyMGVhMDItYjY3Yy00N2NkLThjMDEtOWRiMDI3Nzc4ZjEyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTk0NDgxZTItOWU2NS00NzY1LWFjZjctOWU0ZmQ5ZWYyYzJkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQ5MmY3OWUtMGRmYy00MTZiLWE3YjQtNmJjOTdlZjg1N2E2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDJjOTNlMDYtNGI5Ni00NTRmLTk5MDAtOGJiNDBhYmM3ODM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmM3ZjA3NDktZGMzZi00ZmZmLTlmNzQtMjZlYmNlNjNkZDA0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU4ZGIyMDktMzdkZi00ODk3LWIyOTctOTU4YWQ1NjFkM2MyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1877830/",
+        "rating": "7.8/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0716257/",
+        "name": "Matt Reeves"
+      },
+      "seo": {
+        "title": "Batman (2022)",
+        "description": "Batman: Dirigido por Matt Reeves. Com Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell. Sinopse desconhecida."
+      }
+    }
+  }
+}

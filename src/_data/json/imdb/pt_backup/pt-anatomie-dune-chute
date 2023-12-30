@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "anatomie-dune-chute",
+    "title": "Anatomia de Uma Queda",
+    "year": "2023",
+    "director": "Justine Triet"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Anatomia de Uma Queda",
+    "description": "Anatomia de Uma Queda: Dirigido por Justine Triet. Com Sandra Hüller, Swann Arlaud, Milo Machado Graner, Antoine Reinartz. Uma mulher é suspeita de ter assassinado o marido, e o seu filho cego enfrenta um dilema moral como única testemunha.",
+    "slug": "anatomie-dune-chute",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBiYmRkNjUtYzc4My00NGFiLWE2NWUtMGU1ZDA1NTQ3ZjQwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Justine Triet",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BN2UzMjc1MDEtYzFiYi00YjkxLWI3ZjgtZDFhMjJiODBlMGE3XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWM4MjMxNWEtMGZiMy00ZDdjLTljYzYtZDE2ZTA3ZGExMDFiXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODcxN2IzMzAtMjljMS00MTgxLTk0NDAtZWU4ZWUyYmIwOTk1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTY1NjM2ZjQtOWIxNy00OTI1LThmNzQtZTVjMmYzNTkyNzE5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI4OWVkMDAtMmY3NS00MGRmLWI4MzUtYzRiN2ZmZTc1ODlhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmYzY2NhYzgtZjJlNi00YTc4LWI0MTMtZTYzMTJjMDc5YWVmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNjMTc2MmItZmY5YS00ODE1LWE2M2ItMjRmNWQ2NDU0MWU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2YzOTQ4OGQtNTRiZi00ODQwLTk2YjItZjEwOWNlNzY4MGI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGNjZWY3YzgtYTFkMC00ZDM4LThhNzgtNzk0ZDc1OWQ3YmZlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzQ5ZjVkOGMtNTZlOS00ZjdiLTk0OGYtODMzOTViYzUzY2FhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjY4ZDAzOTQtMTcyYS00OTBiLTlhOTEtNWU4Yjc0NGFkMWYwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjFkN2FlOTgtMzg2Ni00ZmM1LWIyODgtOTkyYzE2ZDAzYzhkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt17009710/",
+        "rating": "7.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2630323/",
+        "name": "Justine Triet"
+      },
+      "seo": {
+        "title": "Anatomia de Uma Queda (2023)",
+        "description": "Anatomia de Uma Queda: Dirigido por Justine Triet. Com Sandra Hüller, Swann Arlaud, Milo Machado Graner, Antoine Reinartz. Uma mulher é suspeita de ter assassinado o marido, e o seu filho cego enfrenta um dilema moral como única testemunha."
+      }
+    }
+  }
+}

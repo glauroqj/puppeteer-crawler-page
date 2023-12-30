@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "animal",
+    "title": "Animal",
+    "year": "2023",
+    "director": "Sandeep Reddy Vanga"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Animal",
+    "description": "Animal: Dirigido por Sandeep Reddy Vanga. Com Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna. Em meio ao cenário caótico de Mumbai, Índia, surge a história visceral de Animal, um jovem marcado por um passado sombrio, que se infiltra na mansão da poderosa família Sanchez, buscando vingança pela morte de sua irmã.",
+    "slug": "animal",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Drama"
+    ],
+    "director": "Sandeep Reddy Vanga",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzM5NmU1MTMtMjFiNi00NDZiLTg0YzMtNmQ5MDY2MGVjYjUyXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWVhZTVmYzYtYzM4Ny00ZGQ5LWI3NTYtOGQyOTQ4NWZjMGY1XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDAxNzZkZGUtMDgzZC00ODM5LTgwMDktZGRiZTk4Y2IxNzYxXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDdkMmY0YmUtOTY3MC00NmRhLTk5ODctYTNiMjI5MWRkZGQ0XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWRmZGVhMjgtNTQ5Mi00MDIxLWJiMmYtMWMxNzcyMmM5YjY5XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY0MmJmZjEtZmMyZi00OTBmLWJhMDItNjBiYWRlYWQ5MzgxXkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWU5ZDRmMWItZGU0NC00NzZjLTgzYjctY2RlMzI3OTNkN2U5XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjhhOGY3OTMtODA0Zi00ZDM5LTg4MTUtMDYxZWY4YzA1NWFiXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDQwOTI3NTMtZjA0My00M2E3LThmODUtODdiNTQ3ZjNiNGE3XkEyXkFqcGdeQXVyNTM2NTg3Nzg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmFkZGJhMTMtNTlkNS00ZTUyLTkxNDMtNWYzOGJhYjU3ZTgxXkEyXkFqcGdeQXVyNDkzNDYzMjQ@._V1_QL75_UY140_CR102,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTc3NzgwODctYWZlNS00MTRjLThjNTUtZjZjMDIwNDk3M2MwXkEyXkFqcGdeQXVyMTI3MTE3MTg4._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3MzFlOGEtYmEwZS00ZDQyLWE1ODktMWZhNzNjNWY0YTVkXkEyXkFqcGdeQXVyOTE2NDU1NDM@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13751694/",
+        "rating": "6.9/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm9227039/",
+        "name": "Sandeep Reddy Vanga"
+      },
+      "seo": {
+        "title": "Animal (2023)",
+        "description": "Animal: Dirigido por Sandeep Reddy Vanga. Com Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna. Em meio ao cenário caótico de Mumbai, Índia, surge a história visceral de Animal, um jovem marcado por um passado sombrio, que se infiltra na mansão da poderosa família Sanchez, buscando vingança pela morte de sua irmã."
+      }
+    }
+  }
+}

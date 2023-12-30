@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "a-christmas-carol",
+    "title": "A Christmas Carol",
+    "year": "2009",
+    "director": "Robert Zemeckis"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "A Christmas Carol",
+    "description": "A Christmas Carol: Directed by Robert Zemeckis. With Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan. An animated retelling of Charles Dickens' classic novel about a Victorian-era miser taken on a journey of self-redemption, courtesy of several mysterious Christmas apparitions.",
+    "slug": "a-christmas-carol",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Robert Zemeckis",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTMzNTc3NTkzMF5BMl5BanBnXkFtZTcwMjc5NDQ5Mg@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMzQ5NDUyMV5BMl5BanBnXkFtZTcwMzc5NDQ5Mg@@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQ4Nzg3MDg3N15BMl5BanBnXkFtZTcwNDc5NDQ5Mg@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMzI4Mjk3MF5BMl5BanBnXkFtZTcwNTc5NDQ5Mg@@._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgzMDg2MTc2MF5BMl5BanBnXkFtZTcwNjc5NDQ5Mg@@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI1NTg4NjMzN15BMl5BanBnXkFtZTcwODc5NDQ5Mg@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAzMzM0NjM4NzNeQTJeQWpwZ15BbWU3MDk3OTQ0OTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MTQ0MF5BMl5BanBnXkFtZTcwMDg5NDQ5Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxMTI3NjM5Ml5BMl5BanBnXkFtZTcwMTg5NDQ5Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MzYyMjA4MF5BMl5BanBnXkFtZTcwMjg5NDQ5Mg@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3MDcwODYzM15BMl5BanBnXkFtZTcwMDc5NDQ5Mg@@._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4NzE2OTI4N15BMl5BanBnXkFtZTcwMTc5NDQ5Mg@@._V1_QL75_UY140_CR96,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1067106/",
+        "rating": "6.8/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000709/",
+        "name": "Robert Zemeckis"
+      },
+      "seo": {
+        "title": "A Christmas Carol (2009)",
+        "description": "A Christmas Carol: Directed by Robert Zemeckis. With Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan. An animated retelling of Charles Dickens' classic novel about a Victorian-era miser taken on a journey of self-redemption, courtesy of several mysterious Christmas apparitions."
+      }
+    }
+  }
+}

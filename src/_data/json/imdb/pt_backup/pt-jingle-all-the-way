@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "jingle-all-the-way",
+    "title": "Um Herói de Brinquedo",
+    "year": "1996",
+    "director": "Brian Levant"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Um Herói de Brinquedo",
+    "description": "Um Herói de Brinquedo: Dirigido por Brian Levant. Com Arnold Schwarzenegger, Sinbad, Phil Hartman, Rita Wilson. Um pai promete dar a seu filho uma figura de ação de Turbo Man para o Natal. No entanto, todas as lojas estão esgotadas e ele deve viajar por toda a cidade e competir com todos os outros para encontrar o presente.",
+    "slug": "jingle-all-the-way",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJlYzViNzctMjQ1Ni00ZWQ4LThkN2YtMzI2ZGU5Nzk0NTAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": [
+      "Aventura",
+      "Comédia",
+      "Família"
+    ],
+    "director": "Brian Levant",
+    "year": "1996",
+    "infos": {
+      "genres": [
+        "Aventura",
+        "Comédia",
+        "Família"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjExODM3NzUzOV5BMl5BanBnXkFtZTcwMTg2MjU4Mw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM2MDgyNDA3MF5BMl5BanBnXkFtZTcwNDg2MjU4Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MzgzMzIxOV5BMl5BanBnXkFtZTcwMTk2MjU4Mw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyOTU1MjkzN15BMl5BanBnXkFtZTcwNTk2MjU4Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODAzNzM5NTIzOF5BMl5BanBnXkFtZTcwOTU3NzgwMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTczOTY1NDg2N15BMl5BanBnXkFtZTcwNTc3NzgwMw@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIwMDcxMzk0Nl5BMl5BanBnXkFtZTYwNDIwODQ2._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTVlZjc4ODMtMjZmMS00MzViLTg0NjgtOWFjMDM2NDFlNzFjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3Njc3NTcxMV5BMl5BanBnXkFtZTgwMTI0MzczNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUzMTIyMjEwNl5BMl5BanBnXkFtZTgwODI0MzczNDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjAxODdmYmQtZWIzOS00ZjEyLTk0NTItYmY2ZGJmMzAxODM3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAzMjI0NDE4N15BMl5BanBnXkFtZTgwMjE0MzgwMzE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0116705/",
+        "rating": "5.7/10"
+      },
+      "year": "1996",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0505152/",
+        "name": "Brian Levant"
+      },
+      "seo": {
+        "title": "Um Herói de Brinquedo (1996)",
+        "description": "Um Herói de Brinquedo: Dirigido por Brian Levant. Com Arnold Schwarzenegger, Sinbad, Phil Hartman, Rita Wilson. Um pai promete dar a seu filho uma figura de ação de Turbo Man para o Natal. No entanto, todas as lojas estão esgotadas e ele deve viajar por toda a cidade e competir com todos os outros para encontrar o presente."
+      }
+    }
+  }
+}
