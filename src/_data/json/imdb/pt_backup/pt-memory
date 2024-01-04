@@ -1,0 +1,52 @@
+{
+  "poster_table": {
+    "slug": "memory",
+    "title": "Memória",
+    "year": "2023",
+    "director": "Michel Franco"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Memória",
+    "description": "Memória: Dirigido por Michel Franco. Com Jessica Chastain, Peter Sarsgaard, Brooke Timber, Blake Baumgartner. Sylvia é uma assistente social que leva uma vida simples e estruturada. Isso é revelado quando Saul a segue até sua casa após a reunião do ensino médio. Seu encontro surpresa terá um impacto profundo sobre os dois.",
+    "slug": "memory",
+    "image": "https://m.media-amazon.com/images/M/MV5BODY0OWE3NTAtZjJkMS00YjVlLWJiZDktMzViMDE3Y2Q2MWQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Michel Franco",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BN2I4ZmNiY2UtMWYzZS00ZWNiLWFlNjYtNzEyMDU1Njg5NTMwXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTlmNzQwMTMtYmQxNC00Y2MyLTgwMGUtZTAxYjI5MjIzOTQ2XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQ1NDZiZDgtNTJjMy00M2UwLThkMGUtZmNjODYzYTIzZDdjXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjY3NzU5MGUtZjJlNS00OTE0LThjOWItYWIzMGUyZjRkODdlXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTU3NzMwOWEtOTczYy00ZWI5LWE2MTktMGMwOGZlMTE4YjI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjVlZmEyZjQtNTVkNi00MDNjLTlkODctYThiYmM4Mjk4MjllXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGU0ZjVlMmMtOGZhOC00NmQwLWJkNWYtMDZlNTVjMDAzMDZhXkEyXkFqcGdeQXVyMzc2MTA2NDY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTkwZDE1OTItNjFhYy00NWNlLWJhYzMtYTc3YjUxYzE2Y2I2XkEyXkFqcGdeQXVyMDE2ODc0OQ@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTVhNjZiOWMtMDE0Yy00MWI0LTk4YTEtODY2ZmQxN2Q1YmM0XkEyXkFqcGdeQXVyNjkwOTQ4MDE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2M1NWI1YjItOTNmOC00NDliLTg1MjItZGM1MzAyNmE4YWRlXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWY4MzkxYzAtM2VkMi00YmFmLWJjNTYtYzRiYzA0YmUyMmUzXkEyXkFqcGdeQXVyMTM5NzA1NDM3._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt19864828/",
+        "rating": "7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1633015/",
+        "name": "Michel Franco"
+      },
+      "seo": {
+        "title": "Memória (2023)",
+        "description": "Memória: Dirigido por Michel Franco. Com Jessica Chastain, Peter Sarsgaard, Brooke Timber, Blake Baumgartner. Sylvia é uma assistente social que leva uma vida simples e estruturada. Isso é revelado quando Saul a segue até sua casa após a reunião do ensino médio. Seu encontro surpresa terá um impacto profundo sobre os dois."
+      }
+    }
+  }
+}

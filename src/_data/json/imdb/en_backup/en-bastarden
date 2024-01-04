@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "bastarden",
+    "title": "Bastarden",
+    "year": "2023",
+    "director": "Nikolaj Arcel"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Bastarden",
+    "description": "The Promised Land: Directed by Nikolaj Arcel. With Mads Mikkelsen, Amanda Collin, Kristine Kujath Thorp, Gustav Lindh. The story of Ludvig Kahlen who pursued his lifelong dream: To make the heath bring him wealth and honor.",
+    "slug": "bastarden",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc3YmU2ZWQtZmVkMC00ZTBhLTg5YmYtYWQxMmY5MjUxMzdmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Nikolaj Arcel",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDEwOTRkM2YtMjEwNC00YmY3LTgxYWUtMmI4YWVhNzU2MzEzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjllMjJjNTEtYjUzNS00NWIyLWFkMjctMzNhNTRhOTY4YzBkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTU0OTUwMTctZGYwNy00NGIxLTk5ZTUtNWM0ODU2ZjFjNWM2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZThkOWJhYmItMmU2Zi00OTUxLTkxNWItMDIxOWRhMWQ3YmNmXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI0N2I3ZmMtMDBhYy00NDkxLTgxNmUtNGE5ZjNjZjc3ZWU5XkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2MyY2E2MmMtZjNkMC00NTY3LTk2MzItNDQ4YzZiMTk5NmVjXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTBhZDM5MGYtMTUxZC00ODY4LWI3M2QtN2QxOWVlNjg2NmFjXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Y0YjhkMWYtMWJlNC00NTNjLWFjOWYtYmQ0M2E4NjIwYzFjXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzE0MTdlOWYtNjM4ZC00MDhhLTk1ZjUtMWUwOWEyM2U0ZjEzXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTY5N2I4M2UtYmM0Mi00ZWFjLWExNzgtMThmMjM1OTViM2VmXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg5ODY5NDAtZjRlYS00MDNjLTgwNjAtZTBlZGVhYjQ1MjRkXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTdjNTcwYzMtMGM1Yi00NTk0LTgwZWItMDQyYzhhMmIzMjJlXkEyXkFqcGdeQXVyMTM2MjYxNjQ1._V1_QL75_UY140_CR47,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt20561198/",
+        "rating": "7.7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1064048/",
+        "name": "Nikolaj Arcel"
+      },
+      "seo": {
+        "title": "The Promised Land (2023)",
+        "description": "The Promised Land: Directed by Nikolaj Arcel. With Mads Mikkelsen, Amanda Collin, Kristine Kujath Thorp, Gustav Lindh. The story of Ludvig Kahlen who pursued his lifelong dream: To make the heath bring him wealth and honor."
+      }
+    }
+  }
+}
