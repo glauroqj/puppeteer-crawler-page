@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "fast-charlie",
+    "title": "Fast Charlie",
+    "year": "2023",
+    "director": "Phillip Noyce"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Fast Charlie",
+    "description": "Fast Charlie: Dirigido por Phillip Noyce. Com Pierce Brosnan, Morena Baccarin, James Caan, Gbenga Akinnagbe. Charlie Swift é um consertador com um problema: o bandido que ele matou está sem a cabeça e Charlie só será pago se o corpo puder ser identificado.",
+    "slug": "fast-charlie",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVlZDAyNjYtMjBkNi00MWJhLTliOWUtZTI1NzFjYWY1ZDQxXkEyXkFqcGdeQXVyNzc3MDg1NTM@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Drama"
+    ],
+    "director": "Phillip Noyce",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTVjOWFhZTEtNDg0MC00NDFlLTg4NWUtZWEyNmM5MTA4OTE1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc5MjZmZTktNjZlYi00YWJjLTg3YzMtZTU2ZTUzMjRjYWNhXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2Q5YWQ5MjEtOTBjOS00YmNlLTk0MTktYzc2NmZjODAwMGMxXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDZjNGU0NmYtOTE5MC00NzVlLThmOWMtNTlkNGZjYWI2NzNmXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODEyNmMxODAtNGRiZS00Yjk4LThlNTUtNmVkMTFmMmRlMDE2XkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGEzMzNmMTEtZDcxYy00MThjLTk3NWMtYjBiMTNhYWZiNmEzXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDAxNDg1NjMtNTMwZi00N2ExLThjNGQtYTg1NDUwYjdlYThlXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2E3NTkxNWUtOTdiZC00N2E2LWE3ZWEtNWRmNGUxODVhOTcyXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGFhNDMyMmItZWY0NC00MjRmLWE0NGMtZGZjZDMyOTY4MDBkXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTM3OWIzMWItNTI5ZC00MjAwLWEwODEtZTcxZTJjODc5NmU2XkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdhY2U2NzYtZjU1Zi00MjE4LTljMmItOGY0MjY4MDQ5ZjVjXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzI0NzEyYTQtMmRjZi00YTA5LWFkMWMtM2RjMzI2ZjU1YjcyXkEyXkFqcGdeQXVyNDMzMDUxMTg@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6722400/",
+        "rating": "6.1/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0637518/",
+        "name": "Phillip Noyce"
+      },
+      "seo": {
+        "title": "Fast Charlie (2023)",
+        "description": "Fast Charlie: Dirigido por Phillip Noyce. Com Pierce Brosnan, Morena Baccarin, James Caan, Gbenga Akinnagbe. Charlie Swift é um consertador com um problema: o bandido que ele matou está sem a cabeça e Charlie só será pago se o corpo puder ser identificado."
+      }
+    }
+  }
+}

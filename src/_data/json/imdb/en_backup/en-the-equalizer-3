@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-equalizer-3",
+    "title": "The Equalizer 3",
+    "year": "2023",
+    "director": "Antoine Fuqua"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Equalizer 3",
+    "description": "The Equalizer 3: Directed by Antoine Fuqua. With Denzel Washington, Dakota Fanning, Eugenio Mastrandrea, David Denman. Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+    "slug": "the-equalizer-3",
+    "image": "https://m.media-amazon.com/images/M/MV5BODdiMzM2YjctZmU3ZS00MzUwLWJiYTMtMmI2NzIyMTQyOTQ1XkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Antoine Fuqua",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMzVjM2I2NmUtOTNjNi00NjhhLTgzZGUtYjRlYTE2ZTM0MGFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjUyNTY2MDEtNjI2OS00ZmM5LTgxNDctNWQ3NmVhNGRhYzg2XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzUyNTQyMWQtZTBkNS00NzdiLWI5YTItY2Q4NzhjZDk3ZmRhXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjkwMzBmYjUtZDI3Yy00ZWNhLWFkYTAtNGI1M2NiMjUxNzczXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTIzZjMyOGQtZTQ4OS00MmJhLTg0MmEtM2YwMWU0YWFjNzU3XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2M0ZWJhZGYtMmJhOS00YmRjLTliOWMtOGNjODY4NzA1MjkxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzVhMTVmOTUtMDUyYS00ODFhLTg0YTQtNDBmMjRiNWU5YWIzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGFhZmRjMmMtMDM4My00MzRmLTk1NjAtMjAzODc1ZjdhNGNjXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzY3ZDUyM2ItNWM1Mi00MTBkLWEzMzMtNTEyZDQ2MjdkOWZiXkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_QL75_UY140_CR13,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGI4OWEzNTUtMjk5NS00ZmY5LTg4MWYtNDc2NjA4YTQ5MDU4XkEyXkFqcGdeQXVyMjY4NDAxMjA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJhZjc3ZTgtMzI1MC00NmQyLWFjYmEtNDBkZmM3MjRkZjA4XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2UwZjYxNWItNjZlZC00NWEyLTlmYjQtZTY1NDk3ZTU2MmQwXkEyXkFqcGdeQXVyMzI1MTEzMQ@@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt17024450/",
+        "rating": "6.9/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0298807/",
+        "name": "Antoine Fuqua"
+      },
+      "seo": {
+        "title": "The Equalizer 3 (2023)",
+        "description": "The Equalizer 3: Directed by Antoine Fuqua. With Denzel Washington, Dakota Fanning, Eugenio Mastrandrea, David Denman. Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia."
+      }
+    }
+  }
+}

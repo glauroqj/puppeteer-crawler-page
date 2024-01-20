@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-bad-guys",
+    "title": "Os Caras Malvados",
+    "year": "2022",
+    "director": "Pierre Perifel"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Os Caras Malvados",
+    "description": "Os Caras Malvados: Dirigido por Pierre Perifel. Com Sam Rockwell, Marc Maron, Awkwafina, Craig Robinson. Vários animais criminosos reformados, mas incompreendidos, tentam se tornar bons, com alguns resultados desastrosos ao longo do caminho.",
+    "slug": "the-bad-guys",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDhhYzdiMDAtMjk1MS00YWI2LThhMTktM2FmOTk3MDU3N2I5XkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_.jpg",
+    "genres": [
+      "Animação",
+      "Ação",
+      "Aventura"
+    ],
+    "director": "Pierre Perifel",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Animação",
+        "Ação",
+        "Aventura"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMWI4OTFlMTgtYTViNy00ZDkzLTg3OTAtYTEzNTkzY2IwZmQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzlhMjc3NzAtNzY3Yy00YWE5LThlNzQtY2FlZTIyYjAzMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2RlMzllYWUtNjgwZC00NjFhLWE5MDctMmE2NDRiZmJhMmQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmUwZDFhOWMtNGNhNi00MzBmLWE4N2UtNTFhOTE0MmNkZTQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTRiOWVjODYtNmE1ZS00YWVhLWFmNGUtZWMxNGU0MGE4MjY2XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTcxNjU3ZjItMzExYS00MjY2LTlmNGUtMTIyYjE3MjhjZjM5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmM2YjhlZTYtMjMxZi00OTc1LWFlMmUtN2E5YzkyZTNhOGE1XkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzRiYTc2MDUtNDg4ZC00NGIwLTkyNTItYTFkMGNlNGMyZGJhXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODI2ZGUwNzctNTM2My00NzE4LWFjNjYtN2YxMDk4ODAwZWZiXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDhkYmU0MzctMWEzNy00ODg1LWI3ZjAtMGZlZjkzNWVmMzVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzJkNzEzNzUtNTJjNS00MWUyLThhYjMtZGYwNjViYzkyMTBlXkEyXkFqcGdeQXVyMTUzNjExNTg3._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZjNmQyY2MtN2MzYy00ODU1LTg5MzctOTJlODRiMTNlMjhiXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8115900/",
+        "rating": "6.8/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2010048/",
+        "name": "Pierre Perifel"
+      },
+      "seo": {
+        "title": "Os Caras Malvados (2022)",
+        "description": "Os Caras Malvados: Dirigido por Pierre Perifel. Com Sam Rockwell, Marc Maron, Awkwafina, Craig Robinson. Vários animais criminosos reformados, mas incompreendidos, tentam se tornar bons, com alguns resultados desastrosos ao longo do caminho."
+      }
+    }
+  }
+}

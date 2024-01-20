@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "malignant",
+    "title": "Malignant",
+    "year": "2021",
+    "director": "James Wan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Malignant",
+    "description": "Malignant: Directed by James Wan. With Annabelle Wallis, Maddie Hasson, George Young, Michole Briana White. Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
+    "slug": "malignant",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTc0NWIwOTYtNzEwYi00YmUyLTlmYWYtYjJiZjRjN2RjMjAxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "James Wan",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNmNlNTA0NzAtNjI5My00ZDIzLTk0YTAtMmQyNjg0MTMyN2VmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ4ZGVlMmEtZDJmMC00M2I5LWJkMjEtM2M3NDU5ODA0YTYzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDBlNjMxMzItOGZlMi00NWE4LWI4MTktNzMxZGJmNzZmOTQ0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWQwZmQ4YTctMDM5Yy00ZDgwLTg0YTktZWNkMmQxNjRhNWY2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWQ5YTRmY2QtY2MyYy00YzI4LTliZjMtNzdmNDQ2MjcxNWY3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjkwMzljNWMtNTg5OC00YmEyLWFjMTktZDg4MWI1ZWNhYWVhXkEyXkFqcGdeQXVyMTQ3MTkwNzU@._V1_QL75_UY140_CR68,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWE1YTA0NDUtNTZjZS00MjFhLTlhYmQtZTZiNTIzYzE2NTA1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR74,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGI1MDBjMWEtMzU5Ni00OTU1LWFjMDMtMmUzNDBlOTE0MDNhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGE4MWU2YTEtZmRlZS00MmJhLWIyMzMtYTQxYWJlMmE0OTljXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDdiNGMzYjItOTAxMi00ZDUwLTkyMjktYmQ2ZGY2ZjE5NWNkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmUzNzkxZWUtODMyYS00NmVmLTljMjItMGQ0OWYzYmJkYTU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdhMDU5YTQtYTEwZS00N2E1LTk0ZDctZmY4OTYyY2FiNTE0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3811906/",
+        "rating": "6.2/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1490123/",
+        "name": "James Wan"
+      },
+      "seo": {
+        "title": "Malignant (2021)",
+        "description": "Malignant: Directed by James Wan. With Annabelle Wallis, Maddie Hasson, George Young, Michole Briana White. Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-devil-all-the-time",
+    "title": "O Diabo de Cada Dia",
+    "year": "2020",
+    "director": "Antonio Campos"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Diabo de Cada Dia",
+    "description": "O Diabo de Cada Dia: Dirigido por Antonio Campos. Com Bill Skarsgård, Tom Holland, Banks Repeta, Emilio Subercaseaux Campos. Sigue um elenco de personagens fascinantes e estranhos do final da Segunda Guerra Mundial até a década de 1960.",
+    "slug": "the-devil-all-the-time",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQwNDQxYWUtYjEyYS00Y2EzLWI1ZTEtY2IzNGZlNzZhNjc0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Antonio Campos",
+    "year": "2020",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNWM0OWNlYWYtMzI5Yy00NzU3LTg5NjQtMTAwZDI3OWFlZDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGQ5YTZhNjItNmMyOS00ZTNmLTlkODktM2FiZjA4NWVlMmRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGZkYjg3ZGEtNWQ4YS00N2U3LWFlMTItMWQyZDAxMjY1MDY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQ0ZDg5OGMtM2ZlZS00ODZiLTkwMmQtYWQwMGYzYjEzYzljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGQ3NTZhNmItMjU4MS00MWFmLTllOTItYzhlY2ZkMGIwOTk3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2QxNGRhNTgtNjk0MC00NTlmLWJiMmYtMjVjMjJlYThkNjYzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjZjZDlmNjEtMDFkYy00NTU5LWE4YmYtMmVlYzhiMmNiMDMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTFhOTI2ZDMtODQ2ZC00ZmI1LTk5NzQtNDg2MGU2MmM0NjIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2JjNjJiNTctYTI2NS00MTQyLTkwMTYtYjBmYWE5NTU4MDQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmMxNTc0YTAtOGY5Zi00NDZmLTliYWMtYzk3YzU4MzY0MDRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTVhNWU1ZmItMjkwNS00NTE2LTk5NTMtNjhjY2I2ZDgwYjNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWY3NzY4ZDMtYzVmZC00YTA3LWFhYzYtMTU4NjU3MTA2NjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7395114/",
+        "rating": "7.1/10"
+      },
+      "year": "2020",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1290515/",
+        "name": "Antonio Campos"
+      },
+      "seo": {
+        "title": "O Diabo de Cada Dia (2020)",
+        "description": "O Diabo de Cada Dia: Dirigido por Antonio Campos. Com Bill Skarsgård, Tom Holland, Banks Repeta, Emilio Subercaseaux Campos. Sigue um elenco de personagens fascinantes e estranhos do final da Segunda Guerra Mundial até a década de 1960."
+      }
+    }
+  }
+}

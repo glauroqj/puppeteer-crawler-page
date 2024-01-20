@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "nightmare-alley",
+    "title": "O Beco do Pesadelo",
+    "year": "2021",
+    "director": "Guillermo del Toro"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Beco do Pesadelo",
+    "description": "O Beco do Pesadelo: Dirigido por Guillermo del Toro. Com Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe. Um jovem ambicioso com talento para manipular pessoas com algumas palavras bem escolhidas junta-se a uma psiquiatra que é ainda mais perigosa do que ele.",
+    "slug": "nightmare-alley",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y0ZTk0YzktODkwMS00MWJhLTg5NjAtMWRkZDQ4YmIwNTJkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Guillermo del Toro",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTJlYTI4YjQtZGFhNi00YzdlLWI2OWItMTMyOWMzYjQ0NGE4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ZhZDQ3N2QtYThlMC00ZjkwLWEzNWQtN2E3ZjUxMDQxNjk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjU5YWZmZGMtMjUxYy00ZDIzLTlmMjUtZjU4N2FjMWRjZWY1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOThmYjMzN2MtNzYyMy00MWE2LWE5NDMtNDA4NmE0MjU5ZDhkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDU4NzAxYWMtZTAxNC00NGRkLWIyNDAtMTZkYjNlY2I3MDA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWVkYWZjNDMtYWZmZS00ODk1LWE3NzQtOWJmOWRhNjdmMmViXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjE1MjI5MDAtMTkxYS00NzgyLTlkYmEtYWIzYmU3MjBlMmUxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjZjZWY1MmItZTU1ZS00ZTA0LThiZGUtZGUyMmQzYTgzYmJkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGZjMWFlMjktN2M3My00MTQxLTk3MTYtNzgyNjU4MDhiNjk2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYyYWMxNGUtMzI5MS00NjkwLWE5MTYtMzI0ODFiYjFhN2RjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzY2ZjBkNGUtZjQ4My00ODNmLThlZjktOGY0NTc1OTJhNGVmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjgzZDgzOTQtMTlmYS00NzE4LThiM2UtNDE1YzRjYTJmNDU5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7740496/",
+        "rating": "7/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0868219/",
+        "name": "Guillermo del Toro"
+      },
+      "seo": {
+        "title": "O Beco do Pesadelo (2021)",
+        "description": "O Beco do Pesadelo: Dirigido por Guillermo del Toro. Com Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe. Um jovem ambicioso com talento para manipular pessoas com algumas palavras bem escolhidas junta-se a uma psiquiatra que é ainda mais perigosa do que ele."
+      }
+    }
+  }
+}

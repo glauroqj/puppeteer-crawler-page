@@ -1,0 +1,41 @@
+{
+  "poster_table": {
+    "slug": "alien-romulus",
+    "title": "Alien: Romulus",
+    "year": "2024",
+    "director": "Fede Alvarez"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Alien: Romulus",
+    "description": "Alien: Romulus: Dirigido por Fede Alvarez. Com Isabela Merced, Cailee Spaeny, David Jonsson, Archie Renaux. Os jovens de um mundo distante devem enfrentar a forma de vida mais aterrorizante do universo.",
+    "slug": "alien-romulus",
+    "genres": [
+      "Terror",
+      "Ficção científica"
+    ],
+    "director": "Fede Alvarez",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Terror",
+        "Ficção científica"
+      ],
+      "gallery": [],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt18412256/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1793079/",
+        "name": "Fede Alvarez"
+      },
+      "seo": {
+        "title": "Alien: Romulus (2024)",
+        "description": "Alien: Romulus: Dirigido por Fede Alvarez. Com Isabela Merced, Cailee Spaeny, David Jonsson, Archie Renaux. Os jovens de um mundo distante devem enfrentar a forma de vida mais aterrorizante do universo."
+      }
+    }
+  }
+}

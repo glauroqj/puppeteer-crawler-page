@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "see-how-they-run",
+    "title": "See How They Run",
+    "year": "2022",
+    "director": "Tom George"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "See How They Run",
+    "description": "See How They Run: Directed by Tom George. With Kieran Hodgson, Pearl Chanda, Gregory Cox, Harris Dickinson. In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered.",
+    "slug": "see-how-they-run",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU5OTNmZDYtZjA4OC00YmQyLTk4ZjctMzVlZTYyYTE3ODUwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Tom George",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzhkYzBmYzEtMmVmMS00NzVhLWE3NDYtNDNjMDVlNjRlNjc2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzhiMzQ1YTYtZmEyZS00ZGQwLWEzMGUtMzM0MjcwYmUxMDQ0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjBjNmE5N2EtYmFjOC00MzY0LTgxMzgtYWIyODEyZjFlYTZlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTBkNGUzMjMtMTM3Yi00MjI5LWJiM2MtMjMxYjg4OTdmMzliXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg2OGZhNzUtNTliNS00YzA3LTgxMjgtMGNhNmJlZjdiYjY0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR20,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDY2ZTVjMGMtYzkzZC00M2JkLWE4NWUtYzU4OWViNjUyZDI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmVlMTcxZDItNjE0Zi00ODlhLTk4M2UtYzYyN2I0NTAwNjcxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDEyMTliMGMtODM2MS00MTM1LTg2YTYtN2FjOTQ1ZTBjZTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM1MDc5ZDYtMGY3MC00Yjc1LTk5ZDQtZGQ2MWVjYzhhNzkyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmJiMGE3MDYtNGY4ZC00M2M2LTlkNzctNGQ5NzNmOTFlMDg5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGJhZjU4Y2QtYWQ1My00MTU2LTgzZGMtN2ZhMzgwNDdkMTE2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR46,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzk5OTI3YzctNTczNy00OGE1LWI2ZWQtZWEyZmRiODY2ZjgxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13640696/",
+        "rating": "6.5/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3437361/",
+        "name": "Tom George"
+      },
+      "seo": {
+        "title": "See How They Run (2022)",
+        "description": "See How They Run: Directed by Tom George. With Kieran Hodgson, Pearl Chanda, Gregory Cox, Harris Dickinson. In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered."
+      }
+    }
+  }
+}

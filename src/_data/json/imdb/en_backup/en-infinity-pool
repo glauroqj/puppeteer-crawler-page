@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "infinity-pool",
+    "title": "Infinity Pool",
+    "year": "2023",
+    "director": "Brandon Cronenberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Infinity Pool",
+    "description": "Infinity Pool: Directed by Brandon Cronenberg. With Cleopatra Coleman, Alexander Skarsgård, Dunja Sepcic, Adam Boncz. James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.",
+    "slug": "infinity-pool",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDQxZTY0ZDItY2Y0Yy00OTIzLTkwYTgtNmNkODhiYTk4MzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Brandon Cronenberg",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZmM5NWM3NzUtYmIwYi00MGRiLWIyYzgtNmNkMjYyZjkyNDQ3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjNkYzFmZGEtYzM2Yy00NTRkLWJhMGYtODNiMzBmOWQxNGE2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGY0ZDc2Y2YtZGQ0OS00YjlmLTliNDktMmVlNjQxYjQ1YzBhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjI3MmUxYTUtZjZiZi00ZTIwLTgwZTEtYjBkM2RlN2UwOTAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGYwZDJhMWItNTNmZS00NGQxLTkxMzItMWIxYTNmNWU2MGFmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWQxZDVhYTgtYzE5Yi00ZGVhLTgyYzItMTlmZjRiODkxMTBhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2JjNGQxODAtMDNiZS00YjJjLTkwNmUtMDVlOGNkYTNlYWYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODVjNWVhMzUtNWI5OS00YTU3LWEwMWMtYjg3YmM0ODJjMzM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGRiMGQ0YjMtNWFkNi00NTdhLWFlNmMtNThmN2NhMWQyOTkxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjA0ZjBjMTQtZDM3Yy00NDYxLTk1ZWMtYTJlNzdhOTIzZjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDUyMDI0ZjItNTE5ZC00NmQ3LTk3NjAtYTQ3NDUyMzFhYmNlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWM5NzNlYjItMmVmYS00OTA5LThiMWUtMmNlOWM4MzBkNDUxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt10365998/",
+        "rating": "6/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0188722/",
+        "name": "Brandon Cronenberg"
+      },
+      "seo": {
+        "title": "Infinity Pool (2023)",
+        "description": "Infinity Pool: Directed by Brandon Cronenberg. With Cleopatra Coleman, Alexander Skarsgård, Dunja Sepcic, Adam Boncz. James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors."
+      }
+    }
+  }
+}

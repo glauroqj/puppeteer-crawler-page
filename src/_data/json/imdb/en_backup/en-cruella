@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "cruella",
+    "title": "Cruella",
+    "year": "2021",
+    "director": "Craig Gillespie"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Cruella",
+    "description": "Cruella: Directed by Craig Gillespie. With Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser. A live-action prequel feature film following a young Cruella de Vil.",
+    "slug": "cruella",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Craig Gillespie",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjY0YzE3NWYtMTEyMS00ODFlLTgwYzUtMDRhY2I0NGM0ZGM1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MmM5YjQtOWI3MC00NzRhLTgwNTctZWVmNjgwNWI2NTVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjVjNTFkNjUtMDE2NC00ZmM2LThlYjEtZGE0MzQ4MjMwZGEyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODIwYTViMGYtOWE4ZS00MWRhLTk2NWEtNWNmOWMzYTM3NGY0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI0ZjM0YTctMmI0MC00M2FlLTgyMWItMjE1YWE5M2YzY2E4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2NlYjNlYTctYTU5MC00OTU3LWE3NTUtNjQzY2Q1MDcwNjQ1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWNjN2Q5NzYtZWQ4My00MGJkLThhZmMtNzU5NDQxMTA2ZjE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmNjMDA5MDctMDBlOC00OTBkLThlNDktOTg0NzVhNGU4YTZmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzkwZjNkNGItNDk5OS00YzVmLTk4ZGItZjRkOGM5ZTI3ZGFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjIwZDNhYWItMGU1OC00ZDg1LWJhOTItOGViNDcxYzY3M2YxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg4Yzk4M2ItZTAwMy00ZGMyLTkzMDItZWRhMTRiNDZiODQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmJjZmYwNDctMzg0Mi00NjFhLWExOTctYTY3OTlhZDExY2FmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3228774/",
+        "rating": "7.3/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0318916/",
+        "name": "Craig Gillespie"
+      },
+      "seo": {
+        "title": "Cruella (2021)",
+        "description": "Cruella: Directed by Craig Gillespie. With Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser. A live-action prequel feature film following a young Cruella de Vil."
+      }
+    }
+  }
+}

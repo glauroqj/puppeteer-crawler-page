@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "reptile",
+    "title": "Camaleões",
+    "year": "2023",
+    "director": "Grant Singer"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Camaleões",
+    "description": "Camaleões: Dirigido por Grant Singer. Com Benicio Del Toro, Justin Timberlake, Eric Bogosian, Alicia Silverstone. Nichols, um detetive experiente da Nova Inglaterra, inabalável em sua busca por um caso em que nada é o que parece, que começa a desmantelar as ilusões de sua própria vida.",
+    "slug": "reptile",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA0MmNhNzUtZjVhNC00MmM5LWExYzYtZmQ0ZWEwZTIxMGExXkEyXkFqcGdeQXVyODMyNDEyNjM@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "Grant Singer",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjM1NjRmNWYtYmFhNy00MjQxLWFlYWItNzdkNjNjMTUxN2M0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTBlNjkzYTEtODIxMC00MDk2LTgxZTItOTI2MjhlODU1NDFlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQ3OTQ4MDYtNDBjMC00NTgwLWIxMjktNGJkZjlmYmVmODI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDlkY2JhNzktNjA4NC00MmU4LTgzNmEtNWMxMmY3ZmQyNDc3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjU4ZGQ3MzItYTQ1MS00ZGY5LTk4ZjItYmIxMzMzZTM1OTZiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDAwYmY3MTEtZGQ3Yy00MTdjLTg5MjYtYjQ2YmMxOTlmYTZlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmI4MzQwZDgtNDA3Mi00MDAwLTliNjUtM2Q5NDg0NDkxN2Q1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg2YjE2NjAtN2Q3MC00OTlmLWFmMmYtNzg2YTU5MTZkNjg0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTgyOGI0MDMtMzU0Yi00NjM3LWFhYTQtZDBlODE0ODQ2MmMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjBkODcxMTgtNzM2Mi00NzMwLWFmZmItNjk3NDk1ZjlkZDFmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDM5M2Y4MjktOTliYi00MDYyLWIxMTMtMTgyZWQ2ZWYxNGI1XkEyXkFqcGdeQXVyMTM1MjI2OTYx._V1_QL75_UY140_CR70,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDNiNTJiMDMtMmNjNS00NDg1LWE0ZTctZWQ4YmYyZDhmNGM4XkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13274016/",
+        "rating": "6.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3026537/",
+        "name": "Grant Singer"
+      },
+      "seo": {
+        "title": "Camaleões (2023)",
+        "description": "Camaleões: Dirigido por Grant Singer. Com Benicio Del Toro, Justin Timberlake, Eric Bogosian, Alicia Silverstone. Nichols, um detetive experiente da Nova Inglaterra, inabalável em sua busca por um caso em que nada é o que parece, que começa a desmantelar as ilusões de sua própria vida."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "meg-2-the-trench",
+    "title": "Meg 2: The Trench",
+    "year": "2023",
+    "director": "Ben Wheatley"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Meg 2: The Trench",
+    "description": "Meg 2: The Trench: Directed by Ben Wheatley. With Jason Statham, Jing Wu, Shuya Sophia Cai, Cliff Curtis. A research team encounters multiple threats while exploring the depths of the ocean, including a malevolent mining operation.",
+    "slug": "meg-2-the-trench",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM2NTU1ZTktNjc4YS00NjNhLWE4NmYtOTM2YjFjOGUzNmYzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "director": "Ben Wheatley",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BY2JlNjU2YmItZTg1Yi00YTIwLTgwNGUtNjNhYzEzYzVkZjA4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR21,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk0Y2Q5NGUtMzY0Mi00YWQxLWJkYzItYzdiZDc2OTAxNmY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWJiNDdkYmQtNzYxZi00NDY5LTg2N2MtZGQ0NjhlZDgyYjcyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTZlYTBlYjQtNzE3Mi00MDRjLWIzZGItNTlhNmI3YmJkM2RhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTNkYjM5ZTEtZDk2Ni00MWVhLWIxM2QtMmJlNDA1YWIzMGRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGQwN2JjZWYtNWY3NS00ZmZmLTk3YmUtNzQ4YjJlZDYxM2YxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY0MjcxZjEtZGY0NS00ZDQ3LWFmOGUtZjlhYTVlNjA1ZmVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmM0NGRhN2UtMTVjNi00OTcxLTk1Y2QtODJkNjlhNTE5YTNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzJhZDBjMGItYjRhZS00ZTdlLTlhZTYtYmM5OWNkN2M5NTM3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR94,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4YWQ1OWYtZjM4Ni00NzZhLWFkZjMtNWQyMjEyNzNiY2IxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjgxNmMyZTAtNjEyYi00MDdkLWExOWEtOTdkYmUyOTBjYTkzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR93,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2M0NGRkY2MtMWMxNC00YjllLWJmYzAtOTk0YmM5Y2IyOWM1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR57,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9224104/",
+        "rating": "5/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1296554/",
+        "name": "Ben Wheatley"
+      },
+      "seo": {
+        "title": "Meg 2: The Trench (2023)",
+        "description": "Meg 2: The Trench: Directed by Ben Wheatley. With Jason Statham, Jing Wu, Shuya Sophia Cai, Cliff Curtis. A research team encounters multiple threats while exploring the depths of the ocean, including a malevolent mining operation."
+      }
+    }
+  }
+}

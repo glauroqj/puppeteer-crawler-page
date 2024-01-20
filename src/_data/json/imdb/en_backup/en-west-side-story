@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "west-side-story",
+    "title": "West Side Story",
+    "year": "2021",
+    "director": "Steven Spielberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "West Side Story",
+    "description": "West Side Story: Directed by Steven Spielberg. With Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez. An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",
+    "slug": "west-side-story",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTBiNDQxN2ItZTVmZi00YzAzLThlMmQtYmQ5MmM3MzczYWFiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "director": "Steven Spielberg",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzFkMjViN2EtZjcxZi00YTIwLTllNGItMTI4MGE0M2NiNjg3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODIyYjg1OTktNDEwYy00N2Q4LTk0M2EtMWQ5NzRkZGIzNGMzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM2NmY2YTgtM2IzNy00MmYxLTk5OWQtYmZlNzFjMDdiN2Q4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjZlZDMyNjktN2Q4MC00YzYyLTgxZjEtZjk0NDZmODA5YThmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2MxOTVlYjQtZGM0YS00YTYzLWJjMTctMGFhYjFjNDVlNThiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWNkZWM1NzgtYTgwMy00MTc1LWIyYzQtZDk2MDA4MDE1ZWQ1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTk5YmU0YjktNzRlZi00NDg2LTk1NmYtMTZmNTU3YjQyZjMwXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjE5ZjY5NjktZjI5NC00ZTQ4LTk0NGEtMTM3ZmVmMWQwNDBkXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDY3YWQzN2ItNDA0Yi00MzcwLTgyZjYtMWJjNTM3NDNlYjY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTIwMDQzNjktNjFhYy00YTI5LWJiYjgtYzYwNmNmNWFmNmY4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkwNjRhMWUtMTI5Zi00ZTA4LWE3NjQtYTViY2NkZWMyMzIwXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzBmNTA4YWYtOTg3ZC00OWEwLTgxMTAtYTU0MTVjMjc0NDU1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3581652/",
+        "rating": "7.1/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000229/",
+        "name": "Steven Spielberg"
+      },
+      "seo": {
+        "title": "West Side Story (2021)",
+        "description": "West Side Story: Directed by Steven Spielberg. With Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez. An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds."
+      }
+    }
+  }
+}

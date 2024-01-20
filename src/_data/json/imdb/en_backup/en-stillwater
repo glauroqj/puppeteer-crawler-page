@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "stillwater",
+    "title": "Stillwater",
+    "year": "2021",
+    "director": "Tom McCarthy"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Stillwater",
+    "description": "Stillwater: Directed by Tom McCarthy. With Matt Damon, Camille Cottin, Abigail Breslin, Lilou Siauvaud. A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+    "slug": "stillwater",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2IzMTUyMDUtZGJmZC00YWMzLWFhMGMtZjQwMTkzMzViMjFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Tom McCarthy",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BM2JhM2UxMDQtYmJiMS00Y2E3LWExNTgtOWM4MjUzMzdiNzkyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE4ZDkyYzUtOGU3Mi00ZDc0LTg3YTktNjE3NmM0NmRhNjJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGE4ZTcyZTgtMGVkYS00NzM0LThmOGQtNDQ5MTcxMDc4NzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDRiMjY3NzAtNzNmYy00Y2VkLWE2ODUtNzBkZjNlN2Q3ODcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTA5ODhjOWUtYTBjZi00MWJlLWFiZjUtYWMxMjg1ZDZjNTRjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmMyZWI0MTMtNTU5Zi00OThkLWE1NTEtMjU3MzMyNTgyYmU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWYwMzQ5OWItM2E3OC00MGUxLWI2ZmYtNmFiNGQwOWJmMWQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODkyNGNkNDEtNjRjZC00NzNjLWJhYWUtYzVhYTczNDM0ZGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzkzZjBiOWEtMjI0Ni00ODY1LTkwZWMtMjQ4YWNkODRjMDYwXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY1OWZiOTUtMTU4YS00YTQ3LWIyZmMtNDIxNDE0NjViN2QwXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGRkZTk5OGYtMjY0ZS00ZGRmLTg5OWItYTU4YzY0YmM2NzM4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDFlZWJmMjMtMmE0ZC00ZGY3LTg4ZTYtNWRjNDYzZjY0MjA1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt10696896/",
+        "rating": "6.6/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0565336/",
+        "name": "Tom McCarthy"
+      },
+      "seo": {
+        "title": "Stillwater (2021)",
+        "description": "Stillwater: Directed by Tom McCarthy. With Matt Damon, Camille Cottin, Abigail Breslin, Lilou Siauvaud. A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit."
+      }
+    }
+  }
+}

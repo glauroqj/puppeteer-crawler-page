@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-bikeriders",
+    "title": "The Bikeriders",
+    "year": "2023",
+    "director": "Jeff Nichols"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Bikeriders",
+    "description": "The Bikeriders: Directed by Jeff Nichols. With Austin Butler, Jodie Comer, Tom Hardy, Michael Shannon. Follows the rise of a midwestern motorcycle club as it evolves over the course of a decade - from a gathering place for local outsiders into a more sinister gang, threatening the original group's way of life.",
+    "slug": "the-bikeriders",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2Q0ZDU4NGUtMjM1Mi00MzQ2LTljMGEtODFhYThiMWRkOTQyXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Jeff Nichols",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQyODEyY2UtMTAwMC00MTUwLTkxMTMtYWIwN2I0ODY5NGM0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTBiNmY1MzItNmUzZC00MTkyLTk5NWYtNGI0ZWNkMzA1OGVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTA2OGRlNzktMjgzNC00Y2ZjLTg4MzUtMDNmNTRkZTEzOWRmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTYwZTQwOWEtMDYzZi00OWVmLWJmOWQtOTBmZTc1YTAxZjBjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTVjNGI4YTItZmYzMC00YmY3LWJjZWItNDhiMjg0MzYwMDkzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYzNzdlYzItNjIyZi00NzZlLWEwZjQtMzM4NTE4OGFhM2ZmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjRhMzc4YWItMmVlYi00Yzk3LThmM2ItY2Q5YmY0YTQ3NjBmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE4YmM4OGUtNWM0NC00NjI4LThjNTUtZDYyMjM0NTVmNDI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTczMzQ0YjUtNzgwZi00ZGFjLTk1MzEtOTgwZDg2YTI1NjRmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGJlYjMyMGYtOWUxMi00YmI2LWE0NmEtNmQwNjFkNmNkMTM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2FjZmE2YTMtYWM5Yy00MTMyLWEwYjktZjRiMjc2YTE4MjU3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmRhMjRlNTAtOGY1NC00YWIwLWFhZDYtMjIxZGZmOTYzZWRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21454134/",
+        "rating": "7.6/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2158772/",
+        "name": "Jeff Nichols"
+      },
+      "seo": {
+        "title": "The Bikeriders (2023)",
+        "description": "The Bikeriders: Directed by Jeff Nichols. With Austin Butler, Jodie Comer, Tom Hardy, Michael Shannon. Follows the rise of a midwestern motorcycle club as it evolves over the course of a decade - from a gathering place for local outsiders into a more sinister gang, threatening the original group's way of life."
+      }
+    }
+  }
+}

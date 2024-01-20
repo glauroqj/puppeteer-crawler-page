@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "i-care-a-lot",
+    "title": "I Care a Lot",
+    "year": "2020",
+    "director": "J Blakeson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "I Care a Lot",
+    "description": "I Care a Lot: Directed by J Blakeson. With Rosamund Pike, Peter Dinklage, Eiza González, Dianne Wiest. A crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears.",
+    "slug": "i-care-a-lot",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWU2ZTRhNDMtMWYxMC00ZTVkLThjZmItZGY4MGU0YmZlMjJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "director": "J Blakeson",
+    "year": "2020",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODZmMmMxZGItZDE2YS00NzRiLWI2N2EtMmNhYzE1MDMwMDM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWUzMzhkYTAtYmJiZS00ZWI0LWE0MGMtNjM1YmRiODlhOTRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWFjOGY0Y2UtMjc0NS00YTNkLTk3ZmUtYjBkNDI5OTFjYTFlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg3NmM5ODQtNjJiMS00MmRmLWIyOTktMzM2ZmY1NjE5ZDliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2M3ZDhhMDItNjk0ZC00NGFhLTk0NDEtYzA2OWIzMmI2Yzg3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDI2Yzc3OTctYjY5Ny00YjZjLWE4ZmQtOGE5MmM5OWY2MjkxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGI4M2M5ZDAtMTg1YS00OWNjLWI0NGUtOTliNmNmYzE1OTgxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWU3NjBiMjUtNDE1ZS00MDk2LWExNWYtY2Q4ZWEyNDk5NzViXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDdjYWQ4ZjctZDUxNC00ODFkLWE4NzAtZTg5NTA0YzUyMmZlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODc3MmJjODAtMWM3Yi00NTZjLWI0Y2YtYWIzY2UxMjQ4ZGY4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NTViMmItNDYwNi00YmI5LTkxYjctY2MwOTU4MTJjY2UzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ3ODRjMzYtNWQ1NC00ZDA1LWJkODctODA3NzA3NDNkNGM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9893250/",
+        "rating": "6.4/10"
+      },
+      "year": "2020",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2128335/",
+        "name": "J Blakeson"
+      },
+      "seo": {
+        "title": "I Care a Lot (2020)",
+        "description": "I Care a Lot: Directed by J Blakeson. With Rosamund Pike, Peter Dinklage, Eiza González, Dianne Wiest. A crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears."
+      }
+    }
+  }
+}

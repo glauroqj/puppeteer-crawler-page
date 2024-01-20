@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "watchmen",
+    "title": "Watchmen: O Filme",
+    "year": "2009",
+    "director": "Zack Snyder"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Watchmen: O Filme",
+    "description": "Watchmen: O Filme: Dirigido por Zack Snyder. Com Malin Akerman, Billy Crudup, Matthew Goode, Jackie Earle Haley. O assassinato de um colega envia um vigilante a fazer uma investigação, descobrindo algo que poderia mudar completamente o curso da história como a conhecemos.",
+    "slug": "watchmen",
+    "image": "https://m.media-amazon.com/images/M/MV5BODc2MjJkNTMtMDEwMS00ZmUyLWIzMDItMjFhZmY0MDQ3MGViXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "Zack Snyder",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjA4OGNlMDEtMGUwMi00MzM5LTk0NzctMTA0ZTc0NDNiZmI3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTYwOTgxZTgtNTkzYi00NmNhLThmMDgtZjcyYjdkYmE1ZGJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI5NzU3OTUyMF5BMl5BanBnXkFtZTgwOTM2OTA4NDM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk0MzY3MjExNV5BMl5BanBnXkFtZTcwNjU3MzIzMg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzMjU2MzA5MV5BMl5BanBnXkFtZTcwNzU3MzIzMg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0OTk2NTMyMF5BMl5BanBnXkFtZTcwODU3MzIzMg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA0ODI1NDI1ODVeQTJeQWpwZ15BbWU3MDk1NzMyMzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU4Mjc3MjU2N15BMl5BanBnXkFtZTcwMDY3MzIzMg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1NzkzNzA4NF5BMl5BanBnXkFtZTcwMTY3MzIzMg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNzExMDczOV5BMl5BanBnXkFtZTcwMjY3MzIzMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MDYxMjM1Nl5BMl5BanBnXkFtZTcwMzY3MzIzMg@@._V1_QL75_UY140_CR151,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE5MzgwNzgzOF5BMl5BanBnXkFtZTcwNDY3MzIzMg@@._V1_QL75_UY140_CR126,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0409459/",
+        "rating": "7.6/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0811583/",
+        "name": "Zack Snyder"
+      },
+      "seo": {
+        "title": "Watchmen: O Filme (2009)",
+        "description": "Watchmen: O Filme: Dirigido por Zack Snyder. Com Malin Akerman, Billy Crudup, Matthew Goode, Jackie Earle Haley. O assassinato de um colega envia um vigilante a fazer uma investigação, descobrindo algo que poderia mudar completamente o curso da história como a conhecemos."
+      }
+    }
+  }
+}

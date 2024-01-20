@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "heojil-kyolshim",
+    "title": "Heojil kyolshim",
+    "year": "2022",
+    "director": "Park Chan-wook"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Heojil kyolshim",
+    "description": "Decision to Leave: Directed by Park Chan-wook. With Park Hae-il, Tang Wei, Lee Jung-hyun, Go Kyung-pyo. A detective investigating a man's death in the mountains meets the dead man's mysterious wife in the course of his dogged sleuthing.",
+    "slug": "heojil-kyolshim",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTEzYTljMTMtODU0ZC00ZWI0LTlhOGEtYjE3MjI3NTI1YmNhXkEyXkFqcGdeQXVyNjgxODk1MTM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Park Chan-wook",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjc4YmM5YzAtNTBkOC00YmU2LWJkYTAtZDgzMDZkNzMyZjI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAxMjg3YTAtYTg5Ny00ODE1LThjZDktZDYwN2JiZGM4Yjg5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjU2NGE2NzEtODBhNi00MWVlLWFhYWYtOTNlYjFlZGVkYmYxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzBjMTY2ODktMTBmNi00YjhhLTk3NzYtMTE1ZjAwN2YzNGExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQ1ZDQ0NjYtOGYwNi00NjM5LWE5OWQtN2Y2M2JhNzAzY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWViNWZmZWYtNDhmOS00MzkyLWE2OTEtYjc0NjJmMGM1YmJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2ZkZjMzNWMtMGY3Ny00YzA0LWIxODktYjY1YzU3NzE1ZjM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTZmZGNlY2EtZGJjMi00NWE0LWIxYTgtNzIwNjRhM2JhMDJmXkEyXkFqcGdeQXVyNjM4OTk5Ng@@._V1_QL75_UY140_CR104,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzg5MWI1NTgtNzg3MS00YTAyLTkyOWMtMWUxZmUwMjgxZWQzXkEyXkFqcGdeQXVyNjM4OTk5Ng@@._V1_QL75_UY140_CR104,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2Y2OWY5ZmYtNTI0Ni00Njg5LWJmN2UtNWNkY2MzNGY0N2U0XkEyXkFqcGdeQXVyNjM4OTk5Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWEzOTQwNjQtOTYxNy00MTVkLTkxOWYtNGUyNzI4MzU2MDk0XkEyXkFqcGdeQXVyNjM4OTk5Ng@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2E4MzRlYmEtNWFmMy00N2VlLTgyN2YtNGNmNzI1MTVlMmVjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12477480/",
+        "rating": "7.3/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0661791/",
+        "name": "Park Chan-wook"
+      },
+      "seo": {
+        "title": "Decision to Leave (2022)",
+        "description": "Decision to Leave: Directed by Park Chan-wook. With Park Hae-il, Tang Wei, Lee Jung-hyun, Go Kyung-pyo. A detective investigating a man's death in the mountains meets the dead man's mysterious wife in the course of his dogged sleuthing."
+      }
+    }
+  }
+}

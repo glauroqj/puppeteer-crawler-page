@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-lobster",
+    "title": "O Lagosta",
+    "year": "2015",
+    "director": "Yorgos Lanthimos"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Lagosta",
+    "description": "O Lagosta: Dirigido por Yorgos Lanthimos. Com Jacqueline Abrahams, Roger Ashton-Griffiths, Jessica Barden, Olivia Colman. Em um futuro quase distópico, pessoas solteiras, de acordo com as leis da Cidade, são levadas para o Hotel, onde são forçadas a encontrar um casal romântico em quarenta e cinco dias ou são transformadas em bestas e enviadas para a floresta",
+    "slug": "the-lobster",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Ficção científica"
+    ],
+    "director": "Yorgos Lanthimos",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Romance",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzk0MTEyNTk5Ml5BMl5BanBnXkFtZTgwNTM0NzQ5ODE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2ODcwMzcyNl5BMl5BanBnXkFtZTgwOTg4NzUwNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxNjIyMjI0NF5BMl5BanBnXkFtZTgwMDk4NzUwNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTQ0MjMyMzg4OF5BMl5BanBnXkFtZTgwMTk4NzUwNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkwMzE1OTUyMl5BMl5BanBnXkFtZTgwMTA0ODc2NTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwODk5MTQxOF5BMl5BanBnXkFtZTgwMDA0ODc2NTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQxODY3MjQ0Ml5BMl5BanBnXkFtZTgwNzc4NjE5NjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNDQ2ODczMF5BMl5BanBnXkFtZTgwODc4NjE5NjE@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MzgwNjk2Nl5BMl5BanBnXkFtZTgwNTc4NjE5NjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxNjYyODE2NF5BMl5BanBnXkFtZTgwNjc4NjE5NjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgwMDAxMTIxM15BMl5BanBnXkFtZTgwMjc4NjE5NjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5MjAyMDU0OF5BMl5BanBnXkFtZTgwNDc4NjE5NjE@._V1_QL75_UY140_CR39,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt3464902/",
+        "rating": "7.1/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0487166/",
+        "name": "Yorgos Lanthimos"
+      },
+      "seo": {
+        "title": "O Lagosta (2015)",
+        "description": "O Lagosta: Dirigido por Yorgos Lanthimos. Com Jacqueline Abrahams, Roger Ashton-Griffiths, Jessica Barden, Olivia Colman. Em um futuro quase distópico, pessoas solteiras, de acordo com as leis da Cidade, são levadas para o Hotel, onde são forçadas a encontrar um casal romântico em quarenta e cinco dias ou são transformadas em bestas e enviadas para a floresta"
+      }
+    }
+  }
+}

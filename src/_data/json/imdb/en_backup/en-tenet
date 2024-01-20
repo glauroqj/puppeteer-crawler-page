@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "tenet",
+    "title": "Tenet",
+    "year": "2020",
+    "director": "Christopher Nolan"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Tenet",
+    "description": "Tenet: Directed by Christopher Nolan. With Juhan Ulfsak, Jefferson Hall, Ivo Uukkivi, Andrew Howard. Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "slug": "tenet",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU3YWYwNTQtZTdiMC00NjY5LTlmMTMtZDFlYTEyODBjMTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "year": "2020",
+    "infos": {
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjI0YzQwM2ItNmIzYS00NjdiLWFlOTItZmVlMzFlMjBiYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGZkZTY3ZjktNmMxMS00YTkzLTk3MjQtNGZhMDdmNjI5MjQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDhiODUyN2UtYTQzZi00YTE0LWJiMWEtYTVlODEyZDQwYzRhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzVhZmRhM2ItZWJmZi00M2I5LThhYzAtZDU0ZWYwNGIxN2QwXkEyXkFqcGdeQXVyMTEyOTQ1OTk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE3ODFjOTgtZDliYi00MjZlLWE2YjMtYjExZDFmMThmN2I4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTU4ZmNmMTktYzRkYS00Njc1LTg3ZjQtNDY4MmM0MTE5ZjhmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmViNDcyODQtNzFjOC00YzkyLWFhYTYtNmQ3NGIwMWM1M2M0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDRhMTE3ZWMtOGZjOC00YmQwLWI0ZDktOWFhMGRhZTUwMDhlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDJmMjhjM2MtZTFkYi00ZTM4LWE0MDQtMmVkYmZlOTJkOTM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGE2NmU0YmEtNzVmYy00YzcxLWExM2MtNDhmYjUwMzA3YjMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzk0Zjg0ZmItN2UzOC00MTNjLThmNzctOGIyY2Q5N2QwZDI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjUyODQzMjUtMmZmMy00ZTNhLTkxZTMtM2NiZmRhZTRmNmFkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6723592/",
+        "rating": "7.3/10"
+      },
+      "year": "2020",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0634240/",
+        "name": "Christopher Nolan"
+      },
+      "seo": {
+        "title": "Tenet (2020)",
+        "description": "Tenet: Directed by Christopher Nolan. With Juhan Ulfsak, Jefferson Hall, Ivo Uukkivi, Andrew Howard. Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time."
+      }
+    }
+  }
+}

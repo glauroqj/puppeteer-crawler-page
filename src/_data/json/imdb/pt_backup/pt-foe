@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "foe",
+    "title": "Intruso",
+    "year": "2023",
+    "director": "Garth Davis"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Intruso",
+    "description": "Intruso: Dirigido por Garth Davis. Com Saoirse Ronan, Paul Mescal, Aaron Pierre, Jordan Chodziesner. Hen e Junior cultivam terras isoladas que pertenceram à família de Junior por gerações, mas sua vida tranquila se torna turbulenta quando um estranho não convidado chega à sua porta com uma proposta surpreendente.",
+    "slug": "foe",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjVjMzZmYjctZTZiNS00YjI5LTgxMWItODAyZWRkMjk3OTY2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Ficção científica",
+      "Suspense"
+    ],
+    "director": "Garth Davis",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Ficção científica",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BM2FmYWJiNTEtNzRhOS00ZWUwLTkwN2UtMTcyNjcyMWNkMjVkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR77,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTc3MzRkNmQtZjQzMS00Y2ZjLWFhOWEtZjJhMTU5NzI2MTc1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR79,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGYzMjE4N2MtZjg2NS00MzBkLThmZDQtMjc1YWFkYWViZDQwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR79,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGI2MzE1ZTItYzAxYy00ZDhiLTk2MmYtYTY1MzZhMjY4Mjk5XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWI0NzNjZGMtOWE4OS00MWU5LWJhMGItODQ3YzA0NTAwZjY1XkEyXkFqcGdeQXVyODU2MTA1NzQ@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ZmNjIxZjgtMTRlNC00MWE1LWIzZWEtZTc0OWJiMTIyMTkxXkEyXkFqcGdeQXVyODU2MTA1NzQ@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTFmZTA0MDktMmE0Ni00ODM5LTllYzctMTJkZmRlNDkwZGFlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR78,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2E3Y2YzYTItMTYyYi00YzQwLThlODMtMzUxNmJlODU4M2FlXkEyXkFqcGdeQXVyMTUyMTk5NDY2._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjhjNWI2NTEtMjMzYS00NzAzLWI1MTQtYjljMTg0ODRmMGY5XkEyXkFqcGdeQXVyODU2MTA1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTk1ZGU4NGYtZDgyMi00N2MyLTgzOWEtOWE4N2FhOGM5ZWI1XkEyXkFqcGdeQXVyODU2MTA1NzQ@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDQ3Yzc4MzAtODc0My00YmQ1LWFiMmYtODA4ZjdjYzZmNWQ5XkEyXkFqcGdeQXVyMTYwMDIyNzk1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWJhNzg5ODktZDBmYi00MDQwLWJiZWMtZTQ1YmYwNzU5NGVkXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8258502/",
+        "rating": "5.4/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0204628/",
+        "name": "Garth Davis"
+      },
+      "seo": {
+        "title": "Intruso (2023)",
+        "description": "Intruso: Dirigido por Garth Davis. Com Saoirse Ronan, Paul Mescal, Aaron Pierre, Jordan Chodziesner. Hen e Junior cultivam terras isoladas que pertenceram à família de Junior por gerações, mas sua vida tranquila se torna turbulenta quando um estranho não convidado chega à sua porta com uma proposta surpreendente."
+      }
+    }
+  }
+}

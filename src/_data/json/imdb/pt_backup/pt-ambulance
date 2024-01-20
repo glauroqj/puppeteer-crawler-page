@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "ambulance",
+    "title": "Ambulância - Um Dia de Crime",
+    "year": "2022",
+    "director": "Michael Bay"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Ambulância - Um Dia de Crime",
+    "description": "Ambulância - Um Dia de Crime: Dirigido por Michael Bay. Com Jake Gyllenhaal, Yahya Abdul-Mateen II, Eiza González, Garret Dillahunt. Dois assaltantes roubam uma ambulância depois do assalto deles ter corrido mal.",
+    "slug": "ambulance",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGFkMzJhMjEtMGMzMC00MzJlLTllMWYtZWQwNjFjNDMzMDljXkEyXkFqcGdeQXVyMjcwMzM0OTI@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Policial",
+      "Drama"
+    ],
+    "director": "Michael Bay",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDBmMTI3MmQtM2QzZC00MDU2LWEwNDItZTRhZTMzMDFlZGU3XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODdiMzQ2OTQtMjg1Mi00OWUwLWFkODgtMDRmMDRjMDc3NjFhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U2NjY0ODItZTA0Ni00YmQ5LTk4NTktOTQ1YzU0ODc1MzA2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjkzMWIyODUtNGQ4NC00NjQ3LTg5ZTItNzFiMTQ5OTU0NTY5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQyYjA3MTUtYmNhNi00NTYyLThkOTEtYmViMjE0NzI0MjIyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzRjMGNlMzQtOGEwNi00NzJjLThjNWMtNmIwNDY3NzRmNjQzXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2FhMTk3MGYtYzc0YS00YmFmLTlkZDMtMTI0NmY5YTdlMDA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTBkMjA1OTEtYjIzZi00ZjkxLWIxOTYtYThiM2JkOGQ0ZWZlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmFiYTI4NTMtNGM1OC00MDQzLTgzZjAtMjlhNGQ3NWM1MzI5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQ3ZmI4ZWItYjBjZC00OWIzLWIxZDctNmEzODQ0ZDBhY2IyXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGMwODBkMmUtMjZjNy00Y2YwLWEyZmQtYTczOTZmY2MyNDUxXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjExNjUwOTQtNzhmNC00OWI0LTlhZGUtMTgzZTIyMThkYWYzXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt4998632/",
+        "rating": "6.1/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000881/",
+        "name": "Michael Bay"
+      },
+      "seo": {
+        "title": "Ambulância - Um Dia de Crime (2022)",
+        "description": "Ambulância - Um Dia de Crime: Dirigido por Michael Bay. Com Jake Gyllenhaal, Yahya Abdul-Mateen II, Eiza González, Garret Dillahunt. Dois assaltantes roubam uma ambulância depois do assalto deles ter corrido mal."
+      }
+    }
+  }
+}

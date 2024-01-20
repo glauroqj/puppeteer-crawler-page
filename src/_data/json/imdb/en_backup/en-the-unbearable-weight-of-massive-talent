@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-unbearable-weight-of-massive-talent",
+    "title": "The Unbearable Weight of Massive Talent",
+    "year": "2022",
+    "director": "Tom Gormican"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Unbearable Weight of Massive Talent",
+    "description": "The Unbearable Weight of Massive Talent: Directed by Tom Gormican. With Nicolas Cage, Pedro Pascal, Tiffany Haddish, Sharon Horgan. Moviestar Nick Cage is channeling his iconic characters as he's caught between a superfan and a CIA agent.",
+    "slug": "the-unbearable-weight-of-massive-talent",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM2ODNiMWItOWRkNS00ODE3LWE2OGYtNTZkMDJkOWI1ODMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Tom Gormican",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGQ4ZTc2MWMtY2M0ZS00MDA1LWFkNGItNWM0YWUwNjBhNWQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjU2YWFhM2QtNDliZi00NDA3LWI5MzYtMzEyZWRjYTZmM2Y5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDdhNjg3YmQtNTFlMy00ZTM3LTgwZTctYTZlNWQ1ZTUwMmMxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGE2YjIyYzEtOWI1MC00ZTg3LWFjYTItMWYzZmI1MGUzZGI1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDY5YmZkNmEtOWJjNi00N2Q0LTg4MjYtNjdmN2ZhMjYyODNlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWY4ZTI5YWItNjU3NS00MjMwLWEwZmItYWE0ZjJlOWNhOGY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2RiNTMzNjUtN2U0Yi00YjA5LTk1YWEtNmMyNWY2ZTRhMDVhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWE0OTIzZTQtZjAzYi00MTYyLWFkMGEtY2E2NmIxNjlmZTM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWVlMTk2NTEtNDc5OC00M2FjLTljMWQtZmQwMDI2MTFmYzQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzQzNjJhZmYtNjE4Yy00M2RmLTk5OWItMmU2MjU2ZjE5MTlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTg3YzliZGYtZGVkNi00NGQzLWIwYTItNGI4YmE1NTA2NzM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTgxNTdjZWItYjEwNS00N2ExLTljMDQtMzhjY2VkNTQ3YzU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR28,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11291274/",
+        "rating": "7/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3230448/",
+        "name": "Tom Gormican"
+      },
+      "seo": {
+        "title": "The Unbearable Weight of Massive Talent (2022)",
+        "description": "The Unbearable Weight of Massive Talent: Directed by Tom Gormican. With Nicolas Cage, Pedro Pascal, Tiffany Haddish, Sharon Horgan. Moviestar Nick Cage is channeling his iconic characters as he's caught between a superfan and a CIA agent."
+      }
+    }
+  }
+}

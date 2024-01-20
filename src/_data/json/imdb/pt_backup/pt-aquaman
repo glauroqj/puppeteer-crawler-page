@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "aquaman",
+    "title": "Aquaman",
+    "year": "2018",
+    "director": "James Wan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Aquaman",
+    "description": "Aquaman: Dirigido por James Wan. Com Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson. Arthur Curry, o herdeiro humano do reino subaquático da Atlântida, tenta impedir uma guerra entre os mundos do oceano e da terra.",
+    "slug": "aquaman",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlNTVmM2MtNzJhNC00YTY1LWFjN2ItMjAwMzE0MGY2ZGZkXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "director": "James Wan",
+    "year": "2018",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDg1OTg5NF5BMl5BanBnXkFtZTgwMTIwMTg0NjM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ2MDczNzEzMV5BMl5BanBnXkFtZTgwOTE2MTgwNjM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3Nzk1NDMzMV5BMl5BanBnXkFtZTgwMjI2MTgwNjM@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU2ODM3MTk2Ml5BMl5BanBnXkFtZTgwMzI2MTgwNjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMxMTA1MDEwNF5BMl5BanBnXkFtZTgwOTcxNDY5NTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzE4NTgzMDkxOF5BMl5BanBnXkFtZTgwMDgxNDY5NTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4MjA0NTExNl5BMl5BanBnXkFtZTgwMTgxNDY5NTM@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjA2MDU4MzgxOV5BMl5BanBnXkFtZTgwMjgxNDY5NTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU0NzkxMzc0MV5BMl5BanBnXkFtZTgwMzgxNDY5NTM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwMDQ5OTY0MzBeQTJeQWpwZ15BbWU4MDQ4MTQ2OTUz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdmMzBhYzMtNmU4Yi00OTVmLTkzNzYtMjdhMWYwNzQ2MzY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1MjMyOTQ2MV5BMl5BanBnXkFtZTgwNDA5NDcxNzM@._V1_QL75_UY140_CR56,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1477834/",
+        "rating": "6.8/10"
+      },
+      "year": "2018",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1490123/",
+        "name": "James Wan"
+      },
+      "seo": {
+        "title": "Aquaman (2018)",
+        "description": "Aquaman: Dirigido por James Wan. Com Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson. Arthur Curry, o herdeiro humano do reino subaquático da Atlântida, tenta impedir uma guerra entre os mundos do oceano e da terra."
+      }
+    }
+  }
+}

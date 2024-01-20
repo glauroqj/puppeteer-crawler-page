@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-running-man",
+    "title": "The Running Man",
+    "year": "1987",
+    "director": "Paul Michael Glaser"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Running Man",
+    "description": "The Running Man: Directed by Paul Michael Glaser. With Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto, Jim Brown. In a dystopian America, a falsely convicted policeman gets his shot at freedom when he must forcibly participate in a TV game show where convicts, runners, must battle killers for their freedom.",
+    "slug": "the-running-man",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Paul Michael Glaser",
+    "year": "1987",
+    "infos": {
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTQ0OTVjZjktNjViZi00YWVhLThkM2EtNjMxY2E2ZDAyNWRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODAxZTk4N2MtYTNiNS00OWY0LWJhOWQtYWVjZGQzMmI0ZWVhXkEyXkFqcGdeQXVyMTM4NzY3Njg@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTU3MTQwNzUzMV5BMl5BanBnXkFtZTgwOTE3ODIwMjE@._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTYzNzA2NTg0MV5BMl5BanBnXkFtZTgwNzE3ODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg0NDc5NTA0OV5BMl5BanBnXkFtZTgwODE3ODIwMjE@._V1_QL75_UY140_CR14,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGZjMDhlMTItZGEzYS00YzZjLWE5NGItMDRmMzMyZjdmNTc4XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU5OWE1MzItNGE5Yy00MjE3LWI0ODMtMjU5YTIxMmIzMzRlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWI5YmU3MDYtMjE0Ni00MjZhLTkzODMtNzNlNzY5NmYyZDU1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NDY0OTUyMV5BMl5BanBnXkFtZTcwODg0MTkwOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3MzgzMzU2OF5BMl5BanBnXkFtZTcwMjEzMTkwOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxMzEwOTM5Nl5BMl5BanBnXkFtZTcwMTUyMTkwOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY0MzY2ODE3N15BMl5BanBnXkFtZTcwOTA5NDcxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0093894/",
+        "rating": "6.7/10"
+      },
+      "year": "1987",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001274/",
+        "name": "Paul Michael Glaser"
+      },
+      "seo": {
+        "title": "The Running Man (1987)",
+        "description": "The Running Man: Directed by Paul Michael Glaser. With Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto, Jim Brown. In a dystopian America, a falsely convicted policeman gets his shot at freedom when he must forcibly participate in a TV game show where convicts, runners, must battle killers for their freedom."
+      }
+    }
+  }
+}

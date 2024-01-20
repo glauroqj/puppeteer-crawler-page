@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "promising-young-woman",
+    "title": "Promising Young Woman",
+    "year": "2020",
+    "director": "Emerald Fennell"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Promising Young Woman",
+    "description": "Promising Young Woman: Directed by Emerald Fennell. With Adam Brody, Ray Nicholson, Sam Richardson, Carey Mulligan. A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+    "slug": "promising-young-woman",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgzMzE4MGItZDgxYS00ZGEwLWE3YTctZWY3ZDAyMTk0ZGU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Emerald Fennell",
+    "year": "2020",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjhhMWRlYjUtODE3OC00NmUzLWI0MWItNTVmYzg1ZTJiOGNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzk4OWIwZTQtZDQ2MS00ODQwLTgzNGMtZmQ3ZTM0YjNhNTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR76,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjBjNzQ3NWUtMTg0Yi00M2JiLTk4MjUtMGMyYTViMDQ0NjU4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjZlNDgwZGYtYWRhMS00YzI0LTkzNmEtYTA5YTg1NjAxMmEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y3YjA0NWYtY2VhZi00NTcwLTllZTYtMmQzOWY5NGZiOTBiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU0OWQ4MjQtMDY0Yi00MmFmLWJhY2EtNTUzNjI1ZTE0Y2Y5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmJmZDA2NzUtNDU3ZS00MTRjLTljYmUtY2E2N2Q4NzNkOTRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc0NjlkYjgtNTQ5YS00ZTQ1LWFlMjYtZjkxOWNjZDBlYzEyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWQwZTNkYmMtZDYyNS00ZmY3LTg5YjQtZWYzODhlZGU1ZGJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg2Y2U0M2ItYzQ0ZS00MzdhLTg5YmQtNDA5MWE4ZmVkYmMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmEwMzEwODctNDIxZi00ODM1LTg0NzktNmU3Y2RmZDJmMjk2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2M1MmQxNjktNDQyMy00Mjc2LWEwNzgtMDNjMTIwYzJiOTJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR31,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9620292/",
+        "rating": "7.5/10"
+      },
+      "year": "2020",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2193504/",
+        "name": "Emerald Fennell"
+      },
+      "seo": {
+        "title": "Promising Young Woman (2020)",
+        "description": "Promising Young Woman: Directed by Emerald Fennell. With Adam Brody, Ray Nicholson, Sam Richardson, Carey Mulligan. A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path."
+      }
+    }
+  }
+}

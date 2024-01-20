@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-flash",
+    "title": "The Flash",
+    "year": "2023",
+    "director": "Andy Muschietti"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Flash",
+    "description": "The Flash: Directed by Andy Muschietti. With Ezra Miller, Michael Keaton, Sasha Calle, Michael Shannon. Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+    "slug": "the-flash",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Andy Muschietti",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDk5OTg1NmEtMGMxOS00MWU3LWIzZTUtZGZiNTI0Y2JlNjZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM0MmE1MDYtMzk2Yi00YjQ4LTkxZGQtZGJiZjFhZDRjM2NlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzAyZjZjYzctMTE0NS00Mzk2LWI3M2EtZTdjZTMyMmQ4ZDU3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODg1ZTJmZTUtZmExMC00NTY4LWJmYTEtYWM4MDZiZDk3MWQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR63,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2QzMDVkOWItZDRlMS00ZWY4LWI4ZGMtMTExYzE1MzlhYmU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDBmMjMyNjUtNzY3Yy00YWE1LWJkYmEtNjFhMzU1YjVmZGIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWY5MzdiODctMjk2Ni00NTc5LTliOWYtYjI5NmFkOWQ3ODg5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWMyNGNmY2MtY2RjOS00NTQ1LWFjYzctYTllNDlkNDA2YjM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGQxOTYxY2EtMzBiZS00MzhlLWI1NjAtNWJjNDVlZTM4OGVkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWQ3NDM3NDMtYmQ3MS00MWE5LWJkODgtYWFmMGVmODNiZTdlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjkwMjJkNzktYzJiYy00MjAzLTg4NmQtNGUwYTUzNGVhNDA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODYyNjNkMTQtODJjMi00NTFkLWI4ZWItMjc5ZWI2YjI5YWNhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0439572/",
+        "rating": "6.7/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0615592/",
+        "name": "Andy Muschietti"
+      },
+      "seo": {
+        "title": "The Flash (2023)",
+        "description": "The Flash: Directed by Andy Muschietti. With Ezra Miller, Michael Keaton, Sasha Calle, Michael Shannon. Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future."
+      }
+    }
+  }
+}

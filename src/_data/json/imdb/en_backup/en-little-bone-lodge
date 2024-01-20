@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "little-bone-lodge",
+    "title": "Little Bone Lodge",
+    "year": "2023",
+    "director": "Matthias Hoene"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Little Bone Lodge",
+    "description": "Little Bone Lodge: Directed by Matthias Hoene. With Joely Richardson, Neil Linpow, Sadie Soverall, Harry Cadby. Set during a vicious storm, two criminal brothers on the run seek refuge in a desolate farmhouse. Taking the resident family captive, they find the house holds dark secrets of its own.",
+    "slug": "little-bone-lodge",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDJmZDNlMTYtYzZjOS00M2U1LWJmMTEtZDY1YTI3OGFmYjc1XkEyXkFqcGdeQXVyNTg4MDk1MzM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Matthias Hoene",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjNiZWM3MjktNWFkYS00YTI1LWIwZDMtNDM1NDYxOTRhNzUwXkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjllYzY0NTktNTIwZS00MTFmLTg2NjEtMDU2OGUwN2M3MjAwXkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGVmYjQ3MzYtZWM2OS00ZGYwLWE5ZTEtYjc0OTEzZjdjMmY1XkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGE2NzZlYzAtZDU4Yi00MmIwLThkNDctNDBhNjQ0ZTU0NDZjXkEyXkFqcGdeQXVyMTY0MzQ0MTk4._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzdlMzI2OTAtYTI1NS00NGU5LTliNTMtNDE3ZDY3N2QyZjVjXkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDY1YWRjNDMtM2ZkOS00NTY2LWE4MmMtOTE3NmU1MjA1YzkwXkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDM1NWVlZjgtMzYzMS00ZDkxLThhNmEtNDFiZDY1ZDI2NjJkXkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDdiOTM0MDgtZGVlZi00ZDVjLThlY2EtMmNhYzBlOGE4ZDVkXkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjAzZTlhOTYtZDM2NC00ZWRhLThiODEtN2MyMTVmMjllYWY1XkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzdmM2Y0MGUtMmE1Ni00YTk2LTllY2UtZjIxODY5ZWUxODY1XkEyXkFqcGdeQXVyMTY3MjQwMzYx._V1_QL75_UY140_CR96,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2U2NDU5YjMtZmU0NS00MTBiLWFlNDAtODg5MzEyOTFiNWNjXkEyXkFqcGdeQXVyMTUwMDQ4MzMw._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2FkNmFjODktNGJiZS00MzZjLThjMzItZWM2NWJmZDk3OWY4XkEyXkFqcGdeQXVyMTUwMDQ4MzMw._V1_QL75_UY140_CR95,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt19858164/",
+        "rating": "6.1/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2775497/",
+        "name": "Matthias Hoene"
+      },
+      "seo": {
+        "title": "Little Bone Lodge (2023)",
+        "description": "Little Bone Lodge: Directed by Matthias Hoene. With Joely Richardson, Neil Linpow, Sadie Soverall, Harry Cadby. Set during a vicious storm, two criminal brothers on the run seek refuge in a desolate farmhouse. Taking the resident family captive, they find the house holds dark secrets of its own."
+      }
+    }
+  }
+}

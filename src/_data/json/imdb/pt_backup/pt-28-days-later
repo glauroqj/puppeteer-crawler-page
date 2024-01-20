@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "28-days-later",
+    "title": "Extermínio",
+    "year": "2002",
+    "director": "Danny Boyle"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Extermínio",
+    "description": "Extermínio: Dirigido por Danny Boyle. Com Alex Palmer, Bindu De Stoppani, Jukka Hiltunen, David Schneider. Quatro semanas depois de um vírus misterioso e incurável se espalhar pelo Reino Unido, um punhado de sobreviventes está tentando encontrar um santuário.",
+    "slug": "28-days-later",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQ5NGQ2NTUtMzJhOC00ODE4LTg1MjctMTA4ZWEyMzk1ZWFkXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Ficção científica"
+    ],
+    "director": "Danny Boyle",
+    "year": "2002",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Terror",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NTM3NDI1NV5BMl5BanBnXkFtZTgwNDA2NzU5MTE@._V1_QL75_UY140_CR41,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ0OTIxNTE4MF5BMl5BanBnXkFtZTgwNjA2NzU5MTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE5OTc4MDA4NF5BMl5BanBnXkFtZTgwNTA2NzU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3OTg0NjI5NF5BMl5BanBnXkFtZTYwMjk1NjE3._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIzODAzNzk2MV5BMl5BanBnXkFtZTYwNDk1NjE3._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2MjIwNzUwN15BMl5BanBnXkFtZTYwNjk1NjE3._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwOTY3MDE3Nl5BMl5BanBnXkFtZTYwOTk1NjE3._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg5ODQ5MTEzN15BMl5BanBnXkFtZTgwMjc2NDk3NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE3MTk5NjYwMV5BMl5BanBnXkFtZTgwNDc2NDk3NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc5OTA4ODgwNF5BMl5BanBnXkFtZTgwNTc2NDk3NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU1ODcxMzA2NF5BMl5BanBnXkFtZTgwNjc2NDk3NTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA0NzkzNDY4MV5BMl5BanBnXkFtZTgwNzc2NDk3NTM@._V1_QL75_UY140_CR34,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0289043/",
+        "rating": "7.5/10"
+      },
+      "year": "2002",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000965/",
+        "name": "Danny Boyle"
+      },
+      "seo": {
+        "title": "Extermínio (2002)",
+        "description": "Extermínio: Dirigido por Danny Boyle. Com Alex Palmer, Bindu De Stoppani, Jukka Hiltunen, David Schneider. Quatro semanas depois de um vírus misterioso e incurável se espalhar pelo Reino Unido, um punhado de sobreviventes está tentando encontrar um santuário."
+      }
+    }
+  }
+}

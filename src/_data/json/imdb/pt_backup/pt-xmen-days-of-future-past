@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "xmen-days-of-future-past",
+    "title": "X-Men: Dias de um Futuro Esquecido",
+    "year": "2014",
+    "director": "Bryan Singer"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "X-Men: Dias de um Futuro Esquecido",
+    "description": "X-Men: Dias de um Futuro Esquecido: Dirigido por Bryan Singer. Com Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence. Os X-Men enviam Wolverine ao passado em um esforço para mudar a história e prevenir uma desgraça para humanos e mutantes.",
+    "slug": "xmen-days-of-future-past",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDYyMmIwMzMtNjgzZC00MmJiLTk3MjYtNWVmNTk3YjI1ZjkyXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "Bryan Singer",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTgwMDkwMDI5N15BMl5BanBnXkFtZTgwNzQ2NzQzMjI@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3MjExMzk3N15BMl5BanBnXkFtZTgwMzgzOTcyMjE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkyMjQxNjkwOV5BMl5BanBnXkFtZTgwMjA2NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyNjAxMDU0OF5BMl5BanBnXkFtZTgwMzA2NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0OTE0NDQxOF5BMl5BanBnXkFtZTgwNDA2NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5NTU1NDM1Nl5BMl5BanBnXkFtZTgwNTk1NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTczODAxNzg1MV5BMl5BanBnXkFtZTgwNjk1NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTAwODc5NDAxMDdeQTJeQWpwZ15BbWU4MDc5NTQyNDEx._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQyOTY0MzgyMV5BMl5BanBnXkFtZTgwODk1NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwNzc0Nzc4OV5BMl5BanBnXkFtZTgwOTk1NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3ODkwNzQwOV5BMl5BanBnXkFtZTgwMDA2NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ3NzEwODYzM15BMl5BanBnXkFtZTgwMTk1NDI0MTE@._V1_QL75_UY140_CR30,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1877832/",
+        "rating": "7.9/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0001741/",
+        "name": "Bryan Singer"
+      },
+      "seo": {
+        "title": "X-Men: Dias de um Futuro Esquecido (2014)",
+        "description": "X-Men: Dias de um Futuro Esquecido: Dirigido por Bryan Singer. Com Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence. Os X-Men enviam Wolverine ao passado em um esforço para mudar a história e prevenir uma desgraça para humanos e mutantes."
+      }
+    }
+  }
+}

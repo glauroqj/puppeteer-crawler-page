@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "parasite",
+    "title": "Parasite",
+    "year": "2019",
+    "director": "Bong Joon Ho"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Parasite",
+    "description": "Parasite: Directed by Bong Joon Ho. With Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik. Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "slug": "parasite",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Bong Joon Ho",
+    "year": "2019",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNTIyMDZhYzItYjEzZC00MzU1LWJhNTQtYmJhZjQxN2ZkNmNkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQzNjZlMDMtNDQwMi00ZWI3LWJlMTAtNzFhZGJiZmVkMDgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWFkMWExMTAtZmVmNi00ZWZiLTkwYzktODlkYmJlOTlhMzVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmM5YjZiZWUtMjc4Yi00NzNkLTk4MjctOWFkMTgwM2Q2YTMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjc2MzVlMDUtOGY4OC00NDlmLTgwMWItNGM3MDFiODAxNTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzU5ODBmYzQtZTdlNS00NDM3LWJmMDctZTA0MWM4ZmE0M2JkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDIxOGE4NmMtZjkzNC00ZDY0LWEzYWMtNWU5ODA5YjMyMzQ1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk3YWM0ZjctYWRiNy00M2RiLWI4NmYtODRlODk2Yzc0ZGU4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWE3M2Q3ZGItODc1ZC00ZjBhLWE0OGMtYmJhZDgzZGUzZjlmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2UwNWFjZDUtNDkyMS00YTExLTgzNmYtMzgzZjkyYzBjOWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTUwYTZiYzMtMWVkYS00MzkzLTk0YjgtM2Q0Yjc5NmY3MzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDgzMDViM2ItOTk5OS00OGUwLTk0YjktYzUzOTk4MjM1MTAyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6751668/",
+        "rating": "8.5/10"
+      },
+      "year": "2019",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0094435/",
+        "name": "Bong Joon Ho"
+      },
+      "seo": {
+        "title": "Parasite (2019)",
+        "description": "Parasite: Directed by Bong Joon Ho. With Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik. Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+      }
+    }
+  }
+}

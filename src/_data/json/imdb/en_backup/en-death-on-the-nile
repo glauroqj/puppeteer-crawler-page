@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "death-on-the-nile",
+    "title": "Death on the Nile",
+    "year": "2022",
+    "director": "Kenneth Branagh"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Death on the Nile",
+    "description": "Death on the Nile: Directed by Kenneth Branagh. With Michael Rouse, Alaa Safi, Orlando Seale, Charlie Anson. While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress.",
+    "slug": "death-on-the-nile",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjI4ZTQ1OTYtNTI0Yi00M2EyLThiNjMtMzk1MmZlOWMyMDQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Kenneth Branagh",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNGIwNTNhODItMmEyNi00ZWNhLWFmNmMtZTYyYjM1MDc3OWEwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGE0NDkyZWEtNjMzMC00NjlmLWJmZGQtMmE3MzEyMTE4NTlmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR92,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmM1YjBiMzgtN2IzYS00OGQ0LWEyOTctYzE0YThlODc5ZGU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR100,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGI0MjYxOWEtZjU4MC00ZDEwLWFkZTgtYzg2NjJiMTU4MGQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGMxNDk4NzEtMTAxNS00M2E4LTg2ODQtOWRkMTEzYzNjMWExXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR90,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDhkYzk0YWItYmQ2Mi00OGVkLWI0NTAtOTY4Yzk2ZWVlYTM4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR90,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzg0YWRmMmMtNmVlMC00NmJiLWI4Y2YtZjdlODUxZTNiOGJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWI1ZDEzN2ItMmRkMC00NDZiLWExYWEtNGRkOTQyYTNmOGU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR90,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWRlZmM4NDMtYjc3ZS00ZGViLWE2ZWMtMGZlYWI0MDIzNmYyXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTVhN2I5YmItOTIyOC00YWUwLWE2ZTUtMDViNzU0ZGFmYWI0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjc4MTgyZjktM2EzZS00MmNmLWEzYWMtMDBlMDU1MDQyY2Q3XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzRlMDYwMDMtMDVmMy00ZWM5LWJjNGItMWNhNjBhNGFhMDRkXkEyXkFqcGdeQXVyMTM2OTA5MDMx._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7657566/",
+        "rating": "6.3/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000110/",
+        "name": "Kenneth Branagh"
+      },
+      "seo": {
+        "title": "Death on the Nile (2022)",
+        "description": "Death on the Nile: Directed by Kenneth Branagh. With Michael Rouse, Alaa Safi, Orlando Seale, Charlie Anson. While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress."
+      }
+    }
+  }
+}

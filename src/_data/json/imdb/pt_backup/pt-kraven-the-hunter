@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "kraven-the-hunter",
+    "title": "Kraven, o Caçador",
+    "year": "2024",
+    "director": "J.C. Chandor"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Kraven, o Caçador",
+    "description": "Kraven, o Caçador: Dirigido por J.C. Chandor. Com Aaron Taylor-Johnson, Russell Crowe, Christopher Abbott, Ariana DeBose. O imigrante russo Sergei Kravinoff, está em uma missão para provar que ele é o maior caçador do mundo.",
+    "slug": "kraven-the-hunter",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjI1YjczY2MtMWM1ZS00Y2MxLWI0MDgtMjdjZjYwNjE4MjY1XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "director": "J.C. Chandor",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDA5ZWU1NmUtNGJiOC00NGQ4LWIxYzQtNGNjMTU4NjZiZDgzXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWNhOWY4OTUtNDIwZC00ZTMzLTgzNDgtZGU5OWM0ODcwYmVlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzQ3YjBlOWQtYjdlNS00MGE0LTgwMDUtOTk4ZTJjNjk4NmYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNmY2JlNzgtNDVjNi00M2RjLWIwNWEtZDc5YTc5ZGViOGRkXkEyXkFqcGdeQXVyMTU3NTE3MDU5._V1_QL75_UY140_CR91,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2RjYWNjYTQtZGRhNi00Y2FjLTg0MmUtYTNiYTgwNzQ5ZGNkXkEyXkFqcGdeQXVyMTU3NTE3MDU5._V1_QL75_UY140_CR67,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTM0MTlhMDctYzExYS00NGEyLTk2ODctNzBkYjgwMzkyOTZiXkEyXkFqcGdeQXVyMTU3NTE3MDU5._V1_QL75_UY140_CR54,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWUyMDE0MjgtNmU2Ny00ZGRhLTlmNzQtNGRiOTRiM2Y0YmQxXkEyXkFqcGdeQXVyNjMxMTE2Mjg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGRjMGYxYWUtNzViNC00ZjkxLWI3ZWYtMzMwOWQxZGZmM2ZmXkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQ3NWZiOTctNzQ5Ny00ZjE4LTljMmQtZjhkYTA5YWFiMDM5XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYxMmFiYTctNDdlNy00N2RjLWJiMmQtMGNlZjU3NjFjNTQ3XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWE0YTRiMTgtYjFiNy00YjYwLTkwZGQtOGZjNTkxNWZjNDY1XkEyXkFqcGdeQXVyNzI1MTM3Njg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGE0MmQ5ZDEtOTFiYy00OWY0LTk1MjUtMGEzNGQ0Yzc0OWQ4XkEyXkFqcGdeQXVyMTQ1NTMyMDkw._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8790086/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1170855/",
+        "name": "J.C. Chandor"
+      },
+      "seo": {
+        "title": "Kraven, o Caçador (2024)",
+        "description": "Kraven, o Caçador: Dirigido por J.C. Chandor. Com Aaron Taylor-Johnson, Russell Crowe, Christopher Abbott, Ariana DeBose. O imigrante russo Sergei Kravinoff, está em uma missão para provar que ele é o maior caçador do mundo."
+      }
+    }
+  }
+}

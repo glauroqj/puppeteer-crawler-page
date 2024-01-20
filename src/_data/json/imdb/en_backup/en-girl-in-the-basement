@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "girl-in-the-basement",
+    "title": "Girl in the Basement",
+    "year": "2021",
+    "director": "Elisabeth Röhm"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Girl in the Basement",
+    "description": "Girl in the Basement: Directed by Elisabeth Röhm. With Judd Nelson, Stefanie Scott, Joely Fisher, Emma Myers. Sarah is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+    "slug": "girl-in-the-basement",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTdkYWE4ZGQtOGZkMy00ZTg1LWE5ODEtZWRlMjQ3NWQ2N2I2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Elisabeth Röhm",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTZjMTFmNTItMzRlMi00Y2NiLWJiYzAtZTc4OTZmODRiYzViXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzE5OTFkZDgtZWNmYS00ODVjLTg5MDMtMGQwOTcyYzg5YmRkXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjFmMzgzMTQtY2M2My00ZDdkLWFmMzMtMjU1MzZhMzIyNTA5XkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDQ1NzJjNWMtZTA1MC00ZWQ1LWFkODYtOTFhM2E5OWVlOTAxXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzczNzI3MDYtMmFlYS00NDY5LThiNmYtZDFlOGE1MTRkNDg2XkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDVjMGZhYTUtMjcyYy00Yjc2LWI4ZTktMTIzZDQ3ODI3NzkxXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmRmOGZhNjEtYzRhZS00ZmMxLTlhZGEtZWYzOTJjNTI3YTlmXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2I2ZTA4OGQtYzExNi00NzZiLWE4MjYtYTgwYjM1NjU3ODM5XkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzA2YzVjMzktNzExMy00YmM0LWIzMzctNDQ2MWExZmIzMjZlXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmE4MmRmZjctNzZhMC00Y2MwLTkxN2YtYmUwYTFkZmY5ODQzXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDQzZjM0YzctZmNmNS00NWJjLWI5ZWUtNjVmMGUxMDE0OTZmXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzYxMTk5ODUtZDdjOS00YzNhLTgyZjQtMzY0Y2QyYTYwNzQ4XkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY140_CR57,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13269536/",
+        "rating": "6.3/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0737533/",
+        "name": "Elisabeth Röhm"
+      },
+      "seo": {
+        "title": "Girl in the Basement (2021)",
+        "description": "Girl in the Basement: Directed by Elisabeth Röhm. With Judd Nelson, Stefanie Scott, Joely Fisher, Emma Myers. Sarah is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home."
+      }
+    }
+  }
+}

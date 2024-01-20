@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "glass-onion",
+    "title": "Glass Onion",
+    "year": "2022",
+    "director": "Rian Johnson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Glass Onion",
+    "description": "Glass Onion: Directed by Rian Johnson. With Daniel Craig, Edward Norton, Janelle Monáe, Kathryn Hahn. Tech billionaire Miles Bron invites his friends for a getaway on his private Greek island. When someone turns up dead, Detective Benoit Blanc is put on the case.",
+    "slug": "glass-onion",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Rian Johnson",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODA2Mjc4ZTctNTVhOC00YWJkLTg2YWEtYzRlNmMwMGE0NDBiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmU0OWQyYWYtZDVjZS00MWUxLWFmY2UtMmU2YzNjNWE1NTA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR56,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzA4MTFlM2ItYjMzNy00MjIxLThjNzctYzJiZDBiMzI0MWJlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjc5ZmIxZGQtOTFmNi00NmE0LThkMTktNDQ1YzJhMjEyMDNmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTJjN2JjMDktMTY3YS00NzYxLWI0OTMtNzAxYjUzNDliMzhlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI1NWY1NzMtZWU3Zi00MDk5LThhNTUtZDY5MzAyYWIxZjU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODVkYWJlNDUtYjBkMC00MGY4LTg0YWItNjBiNmE1ZWFlZGE5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjNhYWY3NDMtNjUyOC00YzAxLTk3MjgtNDY4MDEyOTdlNTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTJhNTEwM2UtNjYzYy00MWUyLWI0ZTItYmI2ZDlkMWEyOWRjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDNjMzU2ZjAtZWM5Mi00OGZmLWI3ZDktYmRhZjBiMmYwNTE5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTYxZmFlNDUtMzJlNy00YTE5LTk3MjUtYjQzNDA4NGQ0YmY4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGRkNTQyYmItNzc4NC00M2Q1LThlNDYtYTkxMjA5NGM2N2U3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11564570/",
+        "rating": "7.1/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0426059/",
+        "name": "Rian Johnson"
+      },
+      "seo": {
+        "title": "Glass Onion (2022)",
+        "description": "Glass Onion: Directed by Rian Johnson. With Daniel Craig, Edward Norton, Janelle Monáe, Kathryn Hahn. Tech billionaire Miles Bron invites his friends for a getaway on his private Greek island. When someone turns up dead, Detective Benoit Blanc is put on the case."
+      }
+    }
+  }
+}

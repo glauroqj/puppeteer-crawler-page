@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-stranger",
+    "title": "The Stranger",
+    "year": "2022",
+    "director": "Thomas M. Wright"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Stranger",
+    "description": "The Stranger: Directed by Thomas M. Wright. With Joel Edgerton, Sean Harris, Jada Alberts, Cormac Wright. Two men who meet on a bus strike up a conversation that turns into friendship. For Henry Teague, worn down by a lifetime of physical labour and crime, this is a dream come true.",
+    "slug": "the-stranger",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmJkZDZkYTItOGZjNy00MTRmLTk4YWQtOWZmNTZkYThhZDAwXkEyXkFqcGdeQXVyOTc1NDIxNDA@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Thomas M. Wright",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDhhZGIwZjgtOTE3Mi00M2VlLTg0ZjYtNjkwNzljY2Q0ODhiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTAwNjhjNjMtOGI2NS00OWUxLTlmNzMtYTI0YWY2ZmM2OTM5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGM0ODQ4ZGUtNDM5Ny00MWYwLTk5NGMtNGYzMmFjN2Y3ZjQxXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDU1MDFhOTMtNGE4NS00NjBiLTgwYTQtNTU2OGJmZjQ1ZWM1XkEyXkFqcGdeQXVyMTU2Mjg2NjE2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGJmZDU1ZjQtZGY5Ni00YzM2LThjMzgtMWY2ZmVkODIzNDg0XkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzhmNWMyYjQtNTVlMC00MGUwLWFmYjEtM2NkNWY0ODQ2YmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjEyMjNhZjAtNTBjZS00M2M3LWI3MTAtNTUzYjUwYjNmNmZkXkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjQyODQ2MDUtZDAyNy00NmZjLTg5OWItZDFmMjkzZWY0ODdjXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWJlMDQ3MTgtZTI1Ny00YmQwLThmYTMtNDQzOTE4YTNlYTZkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGI2Mjk4ZGMtN2I3MC00ZGFjLTk4ZjUtNDk4MTljMjllMGM1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmUwY2Y0NTItNzllZi00ZWUxLTkyMWQtOWQ3N2ZjMDllMmY1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ExMmU2MjctNjRjZS00NTkzLTg4YWItYjNiNTIyNTEzYjVmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11897478/",
+        "rating": "6.6/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0942876/",
+        "name": "Thomas M. Wright"
+      },
+      "seo": {
+        "title": "The Stranger (2022)",
+        "description": "The Stranger: Directed by Thomas M. Wright. With Joel Edgerton, Sean Harris, Jada Alberts, Cormac Wright. Two men who meet on a bus strike up a conversation that turns into friendship. For Henry Teague, worn down by a lifetime of physical labour and crime, this is a dream come true."
+      }
+    }
+  }
+}

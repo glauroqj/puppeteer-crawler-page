@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "blade-runner-2049",
+    "title": "Blade Runner 2049",
+    "year": "2017",
+    "director": "Denis Villeneuve"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Blade Runner 2049",
+    "description": "Blade Runner 2049: Dirigido por Denis Villeneuve. Com Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold. A descoberta de um segredo enterrado há muito tempo leva a um jovem a encontrar o antigo corredor de lâminas Rick Deckard, que está desaparecido há trinta anos.",
+    "slug": "blade-runner-2049",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjlhNmI2NjItNmJjYi00YzEwLWFjY2EtYmNhYmE3NGFkMTUzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "Denis Villeneuve",
+    "year": "2017",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTg3NDIwNzU3MF5BMl5BanBnXkFtZTgwMDQ5MjY2MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMzYyMTU2NF5BMl5BanBnXkFtZTgwMTQ5MjY2MzI@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5NTkwNTA2NF5BMl5BanBnXkFtZTgwMjQ5MjY2MzI@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDc5NjM5MzY5N15BMl5BanBnXkFtZTgwNTQ5MjY2MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg0OTk2Njk2OF5BMl5BanBnXkFtZTgwNjQ5MjY2MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2OTA5MjQzNl5BMl5BanBnXkFtZTgwNzQ5MjY2MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg1MjE2NDc3M15BMl5BanBnXkFtZTgwODQ5MjY2MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEyMTI0NjM2OV5BMl5BanBnXkFtZTgwOTQ5MjY2MzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ5NjA3MzIzMl5BMl5BanBnXkFtZTgwMDU5MjY2MzI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzg4MzMxOTc4OV5BMl5BanBnXkFtZTgwMjU5MjY2MzI@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQwNTI4ODkzNl5BMl5BanBnXkFtZTgwMzU5MjY2MzI@._V1_QL75_UY140_CR40,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTUxMDI3NDUxNV5BMl5BanBnXkFtZTgwNDU5MjY2MzI@._V1_QL75_UY140_CR98,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1856101/",
+        "rating": "8/10"
+      },
+      "year": "2017",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0898288/",
+        "name": "Denis Villeneuve"
+      },
+      "seo": {
+        "title": "Blade Runner 2049 (2017)",
+        "description": "Blade Runner 2049: Dirigido por Denis Villeneuve. Com Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold. A descoberta de um segredo enterrado há muito tempo leva a um jovem a encontrar o antigo corredor de lâminas Rick Deckard, que está desaparecido há trinta anos."
+      }
+    }
+  }
+}

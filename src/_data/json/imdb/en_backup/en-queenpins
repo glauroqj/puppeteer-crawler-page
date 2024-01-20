@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "queenpins",
+    "title": "Queenpins",
+    "year": "2021",
+    "director": "Aron Gaudet"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Queenpins",
+    "description": "Queenpins: Directed by Aron Gaudet, Gita Pullapilly. With Kristen Bell, Lidia Porto, Joel McHale, Kirby. A pair of housewives create a $40 million coupon scam.",
+    "slug": "queenpins",
+    "image": "https://m.media-amazon.com/images/M/MV5BODVlOTMxM2ItYzgxMy00ZGNiLWI0NWUtNDA1YWE0MWU0NGNmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Aron Gaudet",
+    "year": "2021",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BM2FhY2EwNzYtOTAzZC00OGVkLTk2OWYtODgyOGJiMTBjZGJhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDg1NjAzZTctZmM2YS00NmFlLTg5MzMtZmRmZTU5NTNkZDFiXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR78,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWVhOTE3MWMtNjc1MS00YzUzLTk5OGItNjBmNDQwYjI4YzdmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWMxZDE5OTYtN2Y5Zi00YzgwLWJiZmEtOGVjZjljOWY3NDE4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjRlZTFjNmUtNjZiZC00ZDYxLWE0ZjItMzk2OThkNzJlMjZkXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjg2YThhOWYtMTE3Ni00OTEyLTgzODQtMzg2Y2I4OTg1NmRmXkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTIwZGQwYzItZTNkMy00Yzc0LWFhNTEtNzU1NzY3NTE2OTM2XkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR84,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmU1NzA5ODYtYjkzNC00NGI5LWI2NmUtZjU5NjM5MjE3MjJhXkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2JhNTIyZGItZGVjMy00ZTlhLWE4MGItNzg1ZTdhODZkZWY4XkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR42,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDU5OTRiYzYtNTFmMS00YjYxLWI0OTAtMzkzYTU0MWUxZjQ4XkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR59,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGZiMmJkZTYtYTBkMC00MTQ1LWJlMzAtZWRhOGVmNDUyNWU0XkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR78,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWM2NDkxZTgtZTc5OS00NTM2LTlkYzUtMjdhZmNlNWY4NjhkXkEyXkFqcGdeQXVyMTU5OTQ0MzI1._V1_QL75_UY140_CR84,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9054192/",
+        "rating": "6.3/10"
+      },
+      "year": "2021",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2704505/",
+        "name": "Aron Gaudet"
+      },
+      "seo": {
+        "title": "Queenpins (2021)",
+        "description": "Queenpins: Directed by Aron Gaudet, Gita Pullapilly. With Kristen Bell, Lidia Porto, Joel McHale, Kirby. A pair of housewives create a $40 million coupon scam."
+      }
+    }
+  }
+}
