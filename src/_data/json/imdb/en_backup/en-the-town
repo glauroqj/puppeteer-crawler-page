@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-town",
+    "title": "The Town",
+    "year": "2010",
+    "director": "Ben Affleck"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Town",
+    "description": "The Town: Directed by Ben Affleck. With Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner. A proficient group of thieves rob a bank and hold Claire, the assistant manager, hostage. Things begin to get complicated when one of the crew members falls in love with Claire.",
+    "slug": "the-town",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Ben Affleck",
+    "year": "2010",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTMxODA5MTMwMV5BMl5BanBnXkFtZTcwMjY4MzY4Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNDM3NzQ4M15BMl5BanBnXkFtZTcwMzY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTcyMzAzOV5BMl5BanBnXkFtZTcwNDY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2NTg3MzI1N15BMl5BanBnXkFtZTcwNjY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NDgxNzIwMF5BMl5BanBnXkFtZTcwNzY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NzAzNTM1N15BMl5BanBnXkFtZTcwODY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MjY1MjU1N15BMl5BanBnXkFtZTcwOTY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMjY2OTUwOV5BMl5BanBnXkFtZTcwMDc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5OTUyNjUxNV5BMl5BanBnXkFtZTcwMjc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNjE0NDQwNF5BMl5BanBnXkFtZTcwMzc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNjI1MjYxNV5BMl5BanBnXkFtZTcwNDc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTE4NTM5Njg5MF5BMl5BanBnXkFtZTcwNjc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0840361/",
+        "rating": "7.5/10"
+      },
+      "year": "2010",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000255/",
+        "name": "Ben Affleck"
+      },
+      "seo": {
+        "title": "The Town (2010)",
+        "description": "The Town: Directed by Ben Affleck. With Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner. A proficient group of thieves rob a bank and hold Claire, the assistant manager, hostage. Things begin to get complicated when one of the crew members falls in love with Claire."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "kaibutsu",
+    "title": "Kaibutsu",
+    "year": "2023",
+    "director": "Kore-eda Hirokazu"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Kaibutsu",
+    "description": "Monster: Directed by Kore-eda Hirokazu. With Sakura Ando, Eita Nagayama, Soya Kurokawa, Hinata Hiiragi. A mother demands answers from teacher when her son begins acting strangely.",
+    "slug": "kaibutsu",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDA3NTQ1YWItZDg4Ny00ZDYxLWJmZDYtODY4MTcwYWFlMDYwXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Kore-eda Hirokazu",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNGU2Y2M2MGYtMDJmNi00OWMyLThmMGItODQwNzk2M2VmNjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjU0ZWIyNTgtNTgwNi00ZjkwLTlmYmQtNDM5OTNjYTQzMzg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGEyMzQ3ZGQtNzA2Mi00Njg0LWJiNGMtZGEyZTA1MjczN2M5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U2N2RmNDYtOTU3OC00NjI5LWJhYTEtYWE2NzYxMWU1YmY1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzRkMmJlMTMtZmI4Yy00NDE3LWFkN2MtZjI1MjQ0ZThhNWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjY0YjhkNzUtNmI3NS00MmViLTg1NzEtOWQwY2M5ZWRlNTRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGFhM2Q4MjYtNDhiMC00NGQxLTkyYTYtNTdjMWYzNGI2NjJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdkMDk5NGYtOGU4YS00OWZmLTg5ZTgtYTE2OWQ3MTNhZTlmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjY0YzUxODgtZjdkNy00OGQwLWExOWUtNGMzZGZlMzZiNzUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzBiMWUxMzItYmI0Ni00ZDI5LWFiMTgtMjc4NzhlZWQyNDdmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWNlM2U0MjctNzNkOS00NjdmLTk1MjctMWVmMjAyOWRmNzZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGUxMGEwNWItNzc3Yi00MWI5LTllYmMtOTI4NDExNjQwZGRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt23736044/",
+        "rating": "8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0466153/",
+        "name": "Kore-eda Hirokazu"
+      },
+      "seo": {
+        "title": "Monster (2023)",
+        "description": "Monster: Directed by Kore-eda Hirokazu. With Sakura Ando, Eita Nagayama, Soya Kurokawa, Hinata Hiiragi. A mother demands answers from teacher when her son begins acting strangely."
+      }
+    }
+  }
+}

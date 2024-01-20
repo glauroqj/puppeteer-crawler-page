@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-town",
+    "title": "Atração Perigosa",
+    "year": "2010",
+    "director": "Ben Affleck"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Atração Perigosa",
+    "description": "Atração Perigosa: Dirigido por Ben Affleck. Com Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner. Um ladrão experiente planeja seu próximo sucesso, com um agente do FBI e um gerente de banco em seus calcanhares.",
+    "slug": "the-town",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Ben Affleck",
+    "year": "2010",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTMxODA5MTMwMV5BMl5BanBnXkFtZTcwMjY4MzY4Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNDM3NzQ4M15BMl5BanBnXkFtZTcwMzY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NTcyMzAzOV5BMl5BanBnXkFtZTcwNDY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2NTg3MzI1N15BMl5BanBnXkFtZTcwNjY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1NDgxNzIwMF5BMl5BanBnXkFtZTcwNzY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5NzAzNTM1N15BMl5BanBnXkFtZTcwODY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3MjY1MjU1N15BMl5BanBnXkFtZTcwOTY4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMwMjY2OTUwOV5BMl5BanBnXkFtZTcwMDc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5OTUyNjUxNV5BMl5BanBnXkFtZTcwMjc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzNjE0NDQwNF5BMl5BanBnXkFtZTcwMzc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNjI1MjYxNV5BMl5BanBnXkFtZTcwNDc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTE4NTM5Njg5MF5BMl5BanBnXkFtZTcwNjc4MzY4Mw@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0840361/",
+        "rating": "7.5/10"
+      },
+      "year": "2010",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000255/",
+        "name": "Ben Affleck"
+      },
+      "seo": {
+        "title": "Atração Perigosa (2010)",
+        "description": "Atração Perigosa: Dirigido por Ben Affleck. Com Ben Affleck, Rebecca Hall, Jon Hamm, Jeremy Renner. Um ladrão experiente planeja seu próximo sucesso, com um agente do FBI e um gerente de banco em seus calcanhares."
+      }
+    }
+  }
+}

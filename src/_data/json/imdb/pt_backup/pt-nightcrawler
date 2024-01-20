@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "nightcrawler",
+    "title": "O Abutre",
+    "year": "2014",
+    "director": "Dan Gilroy"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Abutre",
+    "description": "O Abutre: Dirigido por Dan Gilroy. Com Jake Gyllenhaal, Michael Papajohn, Marco Rodríguez, Bill Paxton. Louis Bloom, um scammer desesperado para encontrar trabalho, mergulha no mundo do jornalismo criminal em Los Angeles, onde ele dissolve a linha entre observador e participante e se torna a estrela de suas próprias histórias.",
+    "slug": "nightcrawler",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2U1YzdhYWMtZWUzMi00OWI1LWFkM2ItNWVjM2YxMGQ2MmNhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Dan Gilroy",
+    "year": "2014",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ5NjgxMDI0OV5BMl5BanBnXkFtZTgwOTc0NDg2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA1NDc4NTQ4MV5BMl5BanBnXkFtZTgwNzc0NDg2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc3NzQ3NTIyNl5BMl5BanBnXkFtZTgwMTg0NDg2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg3NTgzNTM1MF5BMl5BanBnXkFtZTgwOTA1ODI2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1NzExMzI3OF5BMl5BanBnXkFtZTgwMDE1ODI2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI2MDkxMzU4Nl5BMl5BanBnXkFtZTgwMTE1ODI2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY4MTA0NzI3MV5BMl5BanBnXkFtZTgwNDY5MzA2MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNDg1NTYyNl5BMl5BanBnXkFtZTgwNjQ4NDc1MjE@._V1_QL75_UY140_CR45,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxODU0MTkwMV5BMl5BanBnXkFtZTgwNjI5Njk0MjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcwNDIwMzI1NV5BMl5BanBnXkFtZTgwNzY5MzcyMjE@._V1_QL75_UY140_CR44,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk1NjcxMjQyOV5BMl5BanBnXkFtZTgwODQ1NzI5MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM1NDI0MTI1NF5BMl5BanBnXkFtZTgwOTQ1NzI5MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt2872718/",
+        "rating": "7.8/10"
+      },
+      "year": "2014",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0319659/",
+        "name": "Dan Gilroy"
+      },
+      "seo": {
+        "title": "O Abutre (2014)",
+        "description": "O Abutre: Dirigido por Dan Gilroy. Com Jake Gyllenhaal, Michael Papajohn, Marco Rodríguez, Bill Paxton. Louis Bloom, um scammer desesperado para encontrar trabalho, mergulha no mundo do jornalismo criminal em Los Angeles, onde ele dissolve a linha entre observador e participante e se torna a estrela de suas próprias histórias."
+      }
+    }
+  }
+}

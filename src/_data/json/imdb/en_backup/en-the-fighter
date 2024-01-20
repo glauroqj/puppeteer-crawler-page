@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-fighter",
+    "title": "The Fighter",
+    "year": "2010",
+    "director": "David O. Russell"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Fighter",
+    "description": "The Fighter: Directed by David O. Russell. With Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo. Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness.",
+    "slug": "the-fighter",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "director": "David O. Russell",
+    "year": "2010",
+    "infos": {
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjI4MjUxNTIzMF5BMl5BanBnXkFtZTcwNTM4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA0NzczOTI0MjFeQTJeQWpwZ15BbWU3MDYzODA2MTQ@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1MDA5MDA4M15BMl5BanBnXkFtZTcwNzM4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU3MjEyNTk1N15BMl5BanBnXkFtZTcwODM4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MzMzMjQ5M15BMl5BanBnXkFtZTcwOTM4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQ1Njc2Njc5Nl5BMl5BanBnXkFtZTcwMDQ4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5MDQ2NDkyOF5BMl5BanBnXkFtZTcwMTQ4MDYxNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3MTAyNDM3NF5BMl5BanBnXkFtZTcwMjQ4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk2MDY5ODkzM15BMl5BanBnXkFtZTcwMzQ4MDYxNA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM1NzIzNDg4OF5BMl5BanBnXkFtZTcwNjQ4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3ODY5OTU1NV5BMl5BanBnXkFtZTcwNzQ4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDc2MjIxNV5BMl5BanBnXkFtZTcwODQ4MDYxNA@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0964517/",
+        "rating": "7.8/10"
+      },
+      "year": "2010",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0751102/",
+        "name": "David O. Russell"
+      },
+      "seo": {
+        "title": "The Fighter (2010)",
+        "description": "The Fighter: Directed by David O. Russell. With Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo. Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness."
+      }
+    }
+  }
+}

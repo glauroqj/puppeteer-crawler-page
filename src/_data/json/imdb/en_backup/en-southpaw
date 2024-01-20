@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "southpaw",
+    "title": "Southpaw",
+    "year": "2015",
+    "director": "Antoine Fuqua"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Southpaw",
+    "description": "Southpaw: Directed by Antoine Fuqua. With Jake Gyllenhaal, Rachel McAdams, Forest Whitaker, Oona Laurence. After a fatal incident sends him on a rampant path of destruction, a champion boxer fights to get custody of his daughter and revive his professional career.",
+    "slug": "southpaw",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI1MTcwODk0MV5BMl5BanBnXkFtZTgwMTgwMDM5NTE@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Antoine Fuqua",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjI5MTg0MjMxOV5BMl5BanBnXkFtZTgwNjA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTcxMTc4MjU4MF5BMl5BanBnXkFtZTgwNzA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA5MjA4NzE3M15BMl5BanBnXkFtZTgwODA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE1OTE1NjQ5NF5BMl5BanBnXkFtZTgwMTA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk4OTc3ODE0NF5BMl5BanBnXkFtZTgwMjA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA3MzQyMzc3Nl5BMl5BanBnXkFtZTgwMzA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2Nzk1OTg0NF5BMl5BanBnXkFtZTgwNDA5MzUzNjE@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjExNTg0OTExOV5BMl5BanBnXkFtZTgwNTA5MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTEyODI5ODYzNF5BMl5BanBnXkFtZTgwOTk4MzUzNjE@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwMDQ4ODYwNl5BMl5BanBnXkFtZTgwMDA5MzUzNjE@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTk2NTA3MjAwMl5BMl5BanBnXkFtZTgwNjk4MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjU0NjMzNDE5M15BMl5BanBnXkFtZTgwNzk4MzUzNjE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1798684/",
+        "rating": "7.3/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0298807/",
+        "name": "Antoine Fuqua"
+      },
+      "seo": {
+        "title": "Southpaw (2015)",
+        "description": "Southpaw: Directed by Antoine Fuqua. With Jake Gyllenhaal, Rachel McAdams, Forest Whitaker, Oona Laurence. After a fatal incident sends him on a rampant path of destruction, a champion boxer fights to get custody of his daughter and revive his professional career."
+      }
+    }
+  }
+}

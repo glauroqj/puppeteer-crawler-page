@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "american-psycho",
+    "title": "Psicopata Americano",
+    "year": "2000",
+    "director": "Mary Harron"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Psicopata Americano",
+    "description": "Psicopata Americano: Dirigido por Mary Harron. Com Christian Bale, Justin Theroux, Josh Lucas, Bill Sage. Um rico inversor na cidade de Nova Iorque, Patrick Bateman, esconde seu ego psicópata de seus colegas e amigos enquanto faz realidade suas violentas e hedonísticas fantasías.",
+    "slug": "american-psycho",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTk5MjdlNDktZDlkZi00MTMwLWJmMmYtZmZlNTUxMGMwYzljXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Terror"
+    ],
+    "director": "Mary Harron",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Terror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjFhNTExNTAtZWJlNC00OTAwLWE5ZmEtYzlkNzRjOTZkZjU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR43,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzZmM2FhOTAtNzdiZS00NDQwLThlNTEtOWMxYWMyYzZiNjFmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE5ZDE4N2QtYTEwYy00MzFlLWE1NDctMGI3OTk5NDI4MzNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2I4NWVjMjktMzQzNS00YWMzLWFhMjQtNjE2YmQ3Njk3YjY2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQzNGNjNmItYTQ1ZC00NGNmLWI0NmQtYjM4MzBkMjFlMjQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmE3NzRiY2EtMDg4YS00OWQ0LTkxZTgtZjE5NzhhMjg4NWEzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmU3OTE4MDEtMzU3ZC00YjQxLWFiOGEtNzQ0ODE0NzliMjUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWZlMmFjMTQtOGExOC00OGE1LTk3NTktN2U1NDk4N2Y3ODA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR44,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMjU3ODY3N15BMl5BanBnXkFtZTgwNTI0NzU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxOTUwNzQzM15BMl5BanBnXkFtZTgwOTE0NzU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NzIwMjU4OF5BMl5BanBnXkFtZTgwMDI0NzU5MTE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQwODgzMTA3OF5BMl5BanBnXkFtZTgwMTI0NzU5MTE@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0144084/",
+        "rating": "7.6/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0366004/",
+        "name": "Mary Harron"
+      },
+      "seo": {
+        "title": "Psicopata Americano (2000)",
+        "description": "Psicopata Americano: Dirigido por Mary Harron. Com Christian Bale, Justin Theroux, Josh Lucas, Bill Sage. Um rico inversor na cidade de Nova Iorque, Patrick Bateman, esconde seu ego psicópata de seus colegas e amigos enquanto faz realidade suas violentas e hedonísticas fantasías."
+      }
+    }
+  }
+}

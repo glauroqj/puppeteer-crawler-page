@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "dogman",
+    "title": "Dogman",
+    "year": "2023",
+    "director": "Luc Besson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Dogman",
+    "description": "DogMan: Directed by Luc Besson. With Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham, Clemens Schick. A boy, bruised by life, finds his salvation through the love of his dogs.",
+    "slug": "dogman",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzMyMmJmYzgtOTVkOS00NjA3LTkyYzUtM2U3ZDkwOGNjYjg3XkEyXkFqcGdeQXVyMTkwODc1ODM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Luc Besson",
+    "year": "2023",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGEyMzExYzQtYzc4MS00YmZjLWJkZDQtMjUzNThmNTZkNjBlXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDY0MzNlNTMtOTcyOC00NDBjLTgxMGYtMmVmODI4MzEyYWJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmRlYjFmMWUtOTliNy00ZTY0LWIyM2MtODE0MjQ3NTE1ZDQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWQzZDgyNzUtMGRiOS00YTE2LTg4YTQtNDk1ZDA1NDZmNGI2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTYwMGU2NzQtZTM3Mi00ZjUxLWI4N2MtOTNlNzg2M2UwZDIzXkEyXkFqcGdeQXVyMTkwODc1ODM@._V1_QL75_UY140_CR89,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDFjMmZmMTItOWQ3MS00ZjM3LWEyMDItNDA5ZDJjMmYwNjgxXkEyXkFqcGdeQXVyMTkwODc1ODM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmUxYjdhYWYtYjBmMS00Y2FmLWIxOGEtODBmOWY1N2FmNzBmXkEyXkFqcGdeQXVyNzg5ODQxNDU@._V1_QL75_UY140_CR89,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDk3NDI3NDctOTU3OC00MjIzLWJkMTQtMzZmM2Y0YWNhNGJkXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTM1YWM1YTAtMDc2ZC00ZTliLWIzNmItMGViODYyYjM0M2YzXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ZlYjUyZWUtZTA2Mi00NGMyLThkMmMtYWQyYTVkODhmMWFjXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDMxMGUwZGEtNGE0Mi00MDgzLTgwZmYtMDA2YjkyNzQ2MjFhXkEyXkFqcGdeQXVyNTk4MTA5OTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWM1YmRiMzgtOWYyYy00MGRjLTg4ZjEtZGY5ZTA5M2YzNTM3XkEyXkFqcGdeQXVyMTUyMzk0ODU4._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt17009348/",
+        "rating": "6.8/10"
+      },
+      "year": "2023",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000108/",
+        "name": "Luc Besson"
+      },
+      "seo": {
+        "title": "DogMan (2023)",
+        "description": "DogMan: Directed by Luc Besson. With Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham, Clemens Schick. A boy, bruised by life, finds his salvation through the love of his dogs."
+      }
+    }
+  }
+}

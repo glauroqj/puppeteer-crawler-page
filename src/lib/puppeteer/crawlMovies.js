@@ -76,38 +76,8 @@ function crawlMovies(lang, url) {
             ? descriptionRaw.getAttribute("content")
             : "";
 
-          // const ratingRaw = document.querySelector(
-          //   '[data-testid="hero-rating-bar__aggregate-rating__score"]'
-          // );
-          // const rating = ratingRaw ? ratingRaw.textContent : "";
-
           const matchYear = document.title.match(/\(([^)]+)\)/);
           const year = matchYear ? matchYear[1].replace(/\D/g, "") : "";
-
-          // const year = document.querySelector(
-          //   "ul.baseAlt > li:first-child a"
-          // ).innerHTML;
-
-          // const imageRaw = document.querySelector('meta[property="og:image"]');
-          // const image = imageRaw ? imageRaw.getAttribute("content") : "";
-
-          // const genresArray = [];
-          // const genresRaw = document.querySelectorAll(
-          //   ".ipc-chip-list__scroller > a"
-          // );
-          // if (genresRaw) {
-          //   genresRaw.forEach((node) => {
-          //     genresArray.push(node.textContent);
-          //   });
-          // }
-
-          // const directorRaw = document.querySelector(
-          //   '[data-testid="title-pc-principal-credit"] div ul li a'
-          // );
-          // const directorName = directorRaw ? directorRaw.textContent : "";
-          // const directorLink = directorRaw
-          //   ? directorRaw.getAttribute("href")
-          //   : "";
 
           const galleryArray = [];
           const galleryImages = document.querySelectorAll(

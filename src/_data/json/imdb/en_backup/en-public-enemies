@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "public-enemies",
+    "title": "Public Enemies",
+    "year": "2009",
+    "director": "Michael Mann"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Public Enemies",
+    "description": "Public Enemies: Directed by Michael Mann. With Christian Bale, Christian Stolte, Jason Clarke, Johnny Depp. The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s.",
+    "slug": "public-enemies",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGI4YTIxMDQtNDlmNC00ZDJhLWIyZGItM2QyODRiMTEzN2ViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime"
+    ],
+    "director": "Michael Mann",
+    "year": "2009",
+    "infos": {
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjA5MTY3OTg2OF5BMl5BanBnXkFtZTcwNTkyMjU2Mg@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI3MjU2Nzg3MV5BMl5BanBnXkFtZTcwNjkyMjU2Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk3Nzk5NzQzOF5BMl5BanBnXkFtZTcwNzkyMjU2Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwNzE5ODM1Nl5BMl5BanBnXkFtZTcwODkyMjU2Mg@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI0OTMyNjkyMF5BMl5BanBnXkFtZTcwOTkyMjU2Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI3MTYxOTE0M15BMl5BanBnXkFtZTcwMDAzMjU2Mg@@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYyMTYzMDUxMV5BMl5BanBnXkFtZTcwMTAzMjU2Mg@@._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEwMzc3OTYyN15BMl5BanBnXkFtZTcwMjAzMjU2Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTk5MzA4NDA4NF5BMl5BanBnXkFtZTcwMzAzMjU2Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ5NTI2MDUyOV5BMl5BanBnXkFtZTcwNDAzMjU2Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzODAxNzI2Ml5BMl5BanBnXkFtZTcwNTAzMjU2Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM0MjQ5MzU0NF5BMl5BanBnXkFtZTcwNjAzMjU2Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1152836/",
+        "rating": "7/10"
+      },
+      "year": "2009",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000520/",
+        "name": "Michael Mann"
+      },
+      "seo": {
+        "title": "Public Enemies (2009)",
+        "description": "Public Enemies: Directed by Michael Mann. With Christian Bale, Christian Stolte, Jason Clarke, Johnny Depp. The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s."
+      }
+    }
+  }
+}

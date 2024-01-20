@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "american-psycho",
+    "title": "American Psycho",
+    "year": "2000",
+    "director": "Mary Harron"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "American Psycho",
+    "description": "American Psycho: Directed by Mary Harron. With Christian Bale, Justin Theroux, Josh Lucas, Bill Sage. A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "slug": "american-psycho",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "director": "Mary Harron",
+    "year": "2000",
+    "infos": {
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjFhNTExNTAtZWJlNC00OTAwLWE5ZmEtYzlkNzRjOTZkZjU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR43,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzZmM2FhOTAtNzdiZS00NDQwLThlNTEtOWMxYWMyYzZiNjFmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTE5ZDE4N2QtYTEwYy00MzFlLWE1NDctMGI3OTk5NDI4MzNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2I4NWVjMjktMzQzNS00YWMzLWFhMjQtNjE2YmQ3Njk3YjY2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR48,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQzNGNjNmItYTQ1ZC00NGNmLWI0NmQtYjM4MzBkMjFlMjQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmE3NzRiY2EtMDg4YS00OWQ0LTkxZTgtZjE5NzhhMjg4NWEzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmU3OTE4MDEtMzU3ZC00YjQxLWFiOGEtNzQ0ODE0NzliMjUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWZlMmFjMTQtOGExOC00OGE1LTk3NTktN2U1NDk4N2Y3ODA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR44,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMjU3ODY3N15BMl5BanBnXkFtZTgwNTI0NzU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQxOTUwNzQzM15BMl5BanBnXkFtZTgwOTE0NzU5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2NzIwMjU4OF5BMl5BanBnXkFtZTgwMDI0NzU5MTE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTQwODgzMTA3OF5BMl5BanBnXkFtZTgwMTI0NzU5MTE@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0144084/",
+        "rating": "7.6/10"
+      },
+      "year": "2000",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0366004/",
+        "name": "Mary Harron"
+      },
+      "seo": {
+        "title": "American Psycho (2000)",
+        "description": "American Psycho: Directed by Mary Harron. With Christian Bale, Justin Theroux, Josh Lucas, Bill Sage. A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies."
+      }
+    }
+  }
+}

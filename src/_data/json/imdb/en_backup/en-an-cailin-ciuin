@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "an-cailin-ciuin",
+    "title": "An Cailín Ciúin",
+    "year": "2022",
+    "director": "Colm Bairéad"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "An Cailín Ciúin",
+    "description": "The Quiet Girl: Directed by Colm Bairéad. With Carrie Crowley, Andrew Bennett, Catherine Clinch, Michael Patric. Rural Ireland 1981. A quiet, neglected girl is sent away from her dysfunctional family to live with foster parents for the summer. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one.",
+    "slug": "an-cailin-ciuin",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjljNGMzMjYtZTYwMS00NGMxLWIxY2UtM2E1N2FjZjBlN2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Colm Bairéad",
+    "year": "2022",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZDU1M2IxMGEtYTdmYS00MTc5LWE2NTQtYTY2MmFiODkwYWNmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjc2YmE5MmEtMDY5NS00OGVkLWFkMmItZWZlMjdiYjYyYmM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmQzYjlkMGEtNTU3NC00NjM4LTkwMjItNzczODg4ODNkMzI2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzZhNDM4ZjEtN2I5Yi00MmNlLWEwNDQtYWVmZDkzNWMwZjIzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2RhZDRhZGQtYWVjZC00YjJjLWFiN2QtYzUyYjlmN2I5NTBhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjcwNWYwMmEtZGY3Ni00MTU2LWFkOTMtNmE4NGVjNTkzODRhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTBkNTA5Y2YtYjA5MC00ZTA3LWE0ZDgtYzdjNjkxMDZiNTU3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y0YTlkMTAtMmQ2ZC00YWY3LWFjNDUtMjU3MWE2NWI5OTE4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjAxNjI4OWItMWRjOS00NDkzLWI4YjAtYmQxYTM5ZDIyMDFkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWVlMzI4YzUtYmYwOS00OWU0LWI5MGEtNGNiMDA4MGM3ZDVhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmFkY2MwMTgtZjExZi00MDI0LWEzYzgtYjI0MDBkNjI4OTM4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjEwOTAzNWItYjZjNC00YTllLWFiY2MtNDA1YmI3MGY3MzFhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15109082/",
+        "rating": "7.7/10"
+      },
+      "year": "2022",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2128139/",
+        "name": "Colm Bairéad"
+      },
+      "seo": {
+        "title": "The Quiet Girl (2022)",
+        "description": "The Quiet Girl: Directed by Colm Bairéad. With Carrie Crowley, Andrew Bennett, Catherine Clinch, Michael Patric. Rural Ireland 1981. A quiet, neglected girl is sent away from her dysfunctional family to live with foster parents for the summer. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one."
+      }
+    }
+  }
+}

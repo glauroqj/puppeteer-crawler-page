@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "zodiac",
+    "title": "Zodíaco",
+    "year": "2007",
+    "director": "David Fincher"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Zodíaco",
+    "description": "Zodíaco: Dirigido por David Fincher. Com Jake Gyllenhaal, Mark Ruffalo, Anthony Edwards, Robert Downey Jr.. No final dos anos 1960 e início dos anos 1970, um cartunista de São Francisco se torna um detetive obcecado em rastrear o Assassino do Zodíaco, um indivíduo não identificado que aterroriza o norte da Califórnia com uma matança.",
+    "slug": "zodiac",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjE4NTBjZTgtMThmOS00OThlLWI2ZTctM2IwM2EwOTFmNTUwXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama",
+      "Mistério"
+    ],
+    "director": "David Fincher",
+    "year": "2007",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama",
+        "Mistério"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjAzNzI0NTA3N15BMl5BanBnXkFtZTcwODk5NDIyMw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjA2MTg5NDIwMV5BMl5BanBnXkFtZTcwMTAwNTIyMw@@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgxNzE5MzQwOV5BMl5BanBnXkFtZTcwNDY5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM5MTgwOTA4Ml5BMl5BanBnXkFtZTcwNDU5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI5ODk0MzY1Nl5BMl5BanBnXkFtZTcwNTU5NDIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTMxNjA5MzkzN15BMl5BanBnXkFtZTcwNjU5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTU5MTg1MTQ3OV5BMl5BanBnXkFtZTcwNzU5NDIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTM3NzM5NDY0MV5BMl5BanBnXkFtZTcwODU5NDIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY0MDc0MDE0Nl5BMl5BanBnXkFtZTcwOTU5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE2MDIwNTE4MF5BMl5BanBnXkFtZTcwMDY5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg2NTM3ODkzMV5BMl5BanBnXkFtZTcwMTY5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1OTMxNTY5NV5BMl5BanBnXkFtZTcwMjY5NDIyMw@@._V1_QL75_UY140_CR36,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0443706/",
+        "rating": "7.7/10"
+      },
+      "year": "2007",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0000399/",
+        "name": "David Fincher"
+      },
+      "seo": {
+        "title": "Zodíaco (2007)",
+        "description": "Zodíaco: Dirigido por David Fincher. Com Jake Gyllenhaal, Mark Ruffalo, Anthony Edwards, Robert Downey Jr.. No final dos anos 1960 e início dos anos 1970, um cartunista de São Francisco se torna um detetive obcecado em rastrear o Assassino do Zodíaco, um indivíduo não identificado que aterroriza o norte da Califórnia com uma matança."
+      }
+    }
+  }
+}

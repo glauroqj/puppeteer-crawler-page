@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-big-short",
+    "title": "The Big Short",
+    "year": "2015",
+    "director": "Adam McKay"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Big Short",
+    "description": "The Big Short: Directed by Adam McKay. With Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert. In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is.",
+    "slug": "the-big-short",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Adam McKay",
+    "year": "2015",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjEyMzg2NjMxNV5BMl5BanBnXkFtZTgwNzg5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4NjIwOTg1Ml5BMl5BanBnXkFtZTgwMjg5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM0NTI3Mjg0OF5BMl5BanBnXkFtZTgwNjg5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxMTExNzM4NF5BMl5BanBnXkFtZTgwODc5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODYxODU1MDAxMl5BMl5BanBnXkFtZTgwOTc5NzM0NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI3OTI2OTQzMF5BMl5BanBnXkFtZTgwMDg5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQxNDE3NjEwOV5BMl5BanBnXkFtZTgwMTg5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyMjMwNTQ5M15BMl5BanBnXkFtZTgwMzc5NzM0NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTM3OTA2ODE5Ml5BMl5BanBnXkFtZTgwNDc5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzM5ODQ5MTM2Nl5BMl5BanBnXkFtZTgwNTc5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTA4MzUzMDY1OTZeQTJeQWpwZ15BbWU4MDY3OTczNDcx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY2MzAwMDU0MV5BMl5BanBnXkFtZTgwNjY5NzM0NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt1596363/",
+        "rating": "7.8/10"
+      },
+      "year": "2015",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0570912/",
+        "name": "Adam McKay"
+      },
+      "seo": {
+        "title": "The Big Short (2015)",
+        "description": "The Big Short: Directed by Adam McKay. With Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert. In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-machinist",
+    "title": "The Machinist",
+    "year": "2004",
+    "director": "Brad Anderson"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Machinist",
+    "description": "The Machinist: Directed by Brad Anderson. With Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón, John Sharian. An industrial worker who hasn't slept in a year begins to doubt his own sanity.",
+    "slug": "the-machinist",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk1NzBlY2YtNjJmNi00YTVmLWI2OTgtNDUxNDE5NjUzZmE0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Brad Anderson",
+    "year": "2004",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWNmMjVmZjEtOGYzYS00OWYwLWI0YjMtYTE4ZDE4ZGQyNDdmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR52,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM3NDgxNzgzNF5BMl5BanBnXkFtZTgwODE1NjUxMTI@._V1_QL75_UY140_CR52,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE0NTI5ODM1MV5BMl5BanBnXkFtZTYwNDQ2Nzk2._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI2NDY3MTU0OV5BMl5BanBnXkFtZTYwNjQ2Nzk2._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQzMTM3NDAwNl5BMl5BanBnXkFtZTYwODQ2Nzk2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjc2OTE4NzA4Nl5BMl5BanBnXkFtZTYwMDU2Nzk2._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTE5MTU5NjgxM15BMl5BanBnXkFtZTYwMjU2Nzk2._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTc4MjQyNzUzOF5BMl5BanBnXkFtZTYwNDU2Nzk2._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTQwMTQwNjI0M15BMl5BanBnXkFtZTYwNzU2Nzk2._V1_QL75_UY140_CR36,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTg1ODUzNDEwN15BMl5BanBnXkFtZTYwMTk2Njk3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4OTA4MjMxMV5BMl5BanBnXkFtZTYwMTY2Nzk2._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTI1MTI5MjUyMV5BMl5BanBnXkFtZTYwMzY2Nzk2._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt0361862/",
+        "rating": "7.6/10"
+      },
+      "year": "2004",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0026442/",
+        "name": "Brad Anderson"
+      },
+      "seo": {
+        "title": "The Machinist (2004)",
+        "description": "The Machinist: Directed by Brad Anderson. With Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón, John Sharian. An industrial worker who hasn't slept in a year begins to doubt his own sanity."
+      }
+    }
+  }
+}
