@@ -3,17 +3,12 @@
     "slug": "blue-beetle",
     "title": "Besouro Azul",
     "year": "2023",
-    "genres": [
-      "Ação",
-      "Aventura",
-      "Ficção científica"
-    ],
     "director": "Angel Manuel Soto"
   },
   "poster_lang": {
     "lang": "pt",
     "title": "Besouro Azul",
-    "description": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+    "description": "Besouro Azul: Dirigido por Angel Manuel Soto. Com Xolo Maridueña, Bruna Marquezine, Becky G, Damián Alcázar. Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
     "slug": "blue-beetle",
     "image": "https://m.media-amazon.com/images/M/MV5BNjliMTY1OWUtOWZjZi00MjQ3LWJmODktY2RkMzNiOWU2M2UxXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Besouro Azul (2023)",
-        "description": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul."
+        "description": "Besouro Azul: Dirigido por Angel Manuel Soto. Com Xolo Maridueña, Bruna Marquezine, Becky G, Damián Alcázar. Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul."
       }
     }
   }

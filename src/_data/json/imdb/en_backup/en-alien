@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "en",
     "title": "Alien",
-    "description": "Alien: Directed by Ridley Scott. With Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton. The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission.",
+    "description": "Alien: Directed by Ridley Scott. With Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton. The crew of a commercial spacecraft encounters a deadly lifeform after investigating a mysterious transmission of unknown origin.",
     "slug": "alien",
     "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
     "genres": [
@@ -48,7 +48,7 @@
       },
       "seo": {
         "title": "Alien (1979)",
-        "description": "Alien: Directed by Ridley Scott. With Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton. The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission."
+        "description": "Alien: Directed by Ridley Scott. With Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton. The crew of a commercial spacecraft encounters a deadly lifeform after investigating a mysterious transmission of unknown origin."
       }
     }
   }

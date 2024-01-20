@@ -3,17 +3,12 @@
     "slug": "avatar-the-way-of-water",
     "title": "Avatar: The Way of Water",
     "year": "2022",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
     "director": "James Cameron"
   },
   "poster_lang": {
     "lang": "en",
     "title": "Avatar: The Way of Water",
-    "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+    "description": "Avatar: The Way of Water: Directed by James Cameron. With Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang. Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
     "slug": "avatar-the-way-of-water",
     "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_.jpg",
     "genres": [
@@ -55,7 +50,7 @@
       },
       "seo": {
         "title": "Avatar: The Way of Water (2022)",
-        "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home."
+        "description": "Avatar: The Way of Water: Directed by James Cameron. With Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang. Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home."
       }
     }
   }

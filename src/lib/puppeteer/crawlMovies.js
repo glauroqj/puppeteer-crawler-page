@@ -64,9 +64,19 @@ function crawlMovies(lang, url) {
             return doc.body.textContent;
           }
 
-          // const titleRaw = document.querySelector(
-          //   "[data-testid='hero__pageTitle']"
-          // );
+          function treatAccents(text) {
+            if (!text) return "";
+
+            const clean = text
+              .replace(/&lt;/g, "<")
+              .replace(/&gt;/g, ">")
+              .replace(/&amp;/g, "&")
+              .replace(/&quot;/g, '"')
+              .replace(/&apos;/g, "'");
+
+            return clean;
+          }
+
           const titleSeo = document.title.replace(" - IMDb", "");
 
           const descriptionRaw = document.querySelector(
@@ -109,6 +119,7 @@ function crawlMovies(lang, url) {
 
           const slug = cleanString(name);
           const lang = document.documentElement.lang.replace(/-BR|-US/g, "");
+          const treatDirector = treatAccents(director && director[0]?.name);
 
           return {
             poster_table: {
@@ -119,7 +130,7 @@ function crawlMovies(lang, url) {
               // title: decodeHtmlEntities(alternateName),
               year,
               // genres: genre,
-              director: director && director[0]?.name,
+              director: treatDirector,
             },
             poster_lang: {
               lang: lang,
@@ -131,7 +142,7 @@ function crawlMovies(lang, url) {
               slug,
               image,
               genres: genre,
-              director: director && director[0]?.name,
+              director: treatDirector,
               year,
               infos: {
                 genres: genre,
@@ -144,7 +155,7 @@ function crawlMovies(lang, url) {
                 country: "",
                 director: {
                   link: director && director[0]?.url,
-                  name: director && director[0]?.name,
+                  name: treatDirector,
                 },
                 seo: {
                   title: decodeHtmlEntities(titleSeo),

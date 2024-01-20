@@ -27,6 +27,8 @@
       "gallery": [
         "https://m.media-amazon.com/images/M/MV5BZTFlMGFmMTUtNWM0Zi00N2UxLWJkM2MtNDlmMjBhNDc5YjBlXkEyXkFqcGdeQXVyMTU2NDE0NTAy._V1_QL75_UY140_CR55,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BYWRhYTJjMWEtMmEyOS00ZWFhLWI1OGMtZjAzOWU2MDViMmE2XkEyXkFqcGdeQXVyMTU2NDE0NTAy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjFlZjA0MDQtMWViMi00YjA0LTg0NDAtZTFhMjlhZDZiYTM0XkEyXkFqcGdeQXVyOTUxNDE3NDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmE0ZTRhZTAtMDJlNC00YTNmLWE3OTgtMDIzZGIwMTY4YTMzXkEyXkFqcGdeQXVyOTUxNDE3NDI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BZWIwYmY4YTItMzIwMy00YTZmLWJhNTYtOGI3MjIzZGNlOTcxXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR71,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BZmQzZTA1NjktYjlkZS00ZDFmLTg3YjUtMzE5NDBkN2VlNzJhXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BOTZhNmM3NjEtN2U1My00MjNhLWE2YzAtMDlkZjIwYTVlZDMwXkEyXkFqcGdeQXVyNjkxMzA1Mjk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
@@ -35,7 +37,7 @@
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt27145269/",
-        "rating": "6.9/10"
+        "rating": "6.8/10"
       },
       "year": "2023",
       "country": "",

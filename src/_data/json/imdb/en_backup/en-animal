@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "en",
     "title": "Animal",
-    "description": "Animal: Directed by Sandeep Reddy Vanga. With Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna. A father, who is often away due to work, is unable to comprehend the intensity of his son's love. Ironically, this fervent love and admiration for his father and family creates conflict between the father and son.",
+    "description": "Animal: Directed by Sandeep Reddy Vanga. With Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna. A father, who is often away due to work, is unable to comprehend the intensity of his son's fervent love and admiration, which creates conflict between both of them.",
     "slug": "animal",
     "image": "https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg",
     "genres": [
@@ -40,7 +40,7 @@
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt13751694/",
-        "rating": "6.9/10"
+        "rating": "6.8/10"
       },
       "year": "2023",
       "country": "",
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Animal (2023)",
-        "description": "Animal: Directed by Sandeep Reddy Vanga. With Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna. A father, who is often away due to work, is unable to comprehend the intensity of his son's love. Ironically, this fervent love and admiration for his father and family creates conflict between the father and son."
+        "description": "Animal: Directed by Sandeep Reddy Vanga. With Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna. A father, who is often away due to work, is unable to comprehend the intensity of his son's fervent love and admiration, which creates conflict between both of them."
       }
     }
   }
