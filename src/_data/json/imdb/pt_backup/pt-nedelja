@@ -1,0 +1,42 @@
+{
+  "poster_table": {
+    "slug": "nedelja",
+    "title": "Nedelja",
+    "year": "2024",
+    "director": "Nemanja Ceranic"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Nedelja",
+    "description": "Nedelja: Dirigido por Nemanja Ceranic, Milos Radunovic. Com Husein Alijevic, Dino Bajrovic, Aleksej Bjelogrlic, Masa Djordjevic. A vida de Dzej Ramadanovski, popular cantor folclórico sérvio.",
+    "slug": "nedelja",
+    "image": "https://m.media-amazon.com/images/M/MV5BODAzN2VkYjgtM2MwZi00ZWUyLWE2MjMtNDBjZGMwN2JjM2RjXkEyXkFqcGdeQXVyMjYyNjU5Njc@._V1_.jpg",
+    "genres": [
+      "Biografia",
+      "Drama"
+    ],
+    "director": "Nemanja Ceranic",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Biografia",
+        "Drama"
+      ],
+      "gallery": [],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt27559748/",
+        "rating": "7.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6667592/",
+        "name": "Nemanja Ceranic"
+      },
+      "seo": {
+        "title": "Nedelja (2024)",
+        "description": "Nedelja: Dirigido por Nemanja Ceranic, Milos Radunovic. Com Husein Alijevic, Dino Bajrovic, Aleksej Bjelogrlic, Masa Djordjevic. A vida de Dzej Ramadanovski, popular cantor folclórico sérvio."
+      }
+    }
+  }
+}

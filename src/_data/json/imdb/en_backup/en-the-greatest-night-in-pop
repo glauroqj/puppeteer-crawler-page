@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-greatest-night-in-pop",
+    "title": "The Greatest Night in Pop",
+    "year": "2024",
+    "director": "Bao Nguyen"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Greatest Night in Pop",
+    "description": "The Greatest Night in Pop: Directed by Bao Nguyen. With Lionel Richie, Harriet Sternberg, Wendy Rees, Harry Belafonte. On January 25th 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history.",
+    "slug": "the-greatest-night-in-pop",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTFjYTEwOTEtYTk2OS00MzU3LTg0ZmUtOGE4MzljNmQzZGE5XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "director": "Bao Nguyen",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTM3MTMwODMtNzQ2ZC00ODMxLTkxYmMtMjVlYzA1YTg1OWM1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzU3NmJkYzQtYTFmYi00ZDc2LTk1Y2YtNmIwNjQ5N2ZiNDlmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2FmZTA3ZTUtODg4NC00ZWFlLWJmYzItM2M3MWNmZDhlODhmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODQ1YTU2ODgtNzA1YS00ODBhLWE0NjctMjBkYjAxZThhNjA0XkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjhjMjM2N2EtZDQ5MS00NmMzLWIzNWEtZGNiOThjN2E3YjZkXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTBjZTkwOTUtYWYyYy00NWMzLWE5OTYtNjk5MmFmNTY0YzM4XkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTMwM2NlZWYtNmI4MS00YzY5LTkyOWEtMWI5ZjBkMzI5ZmU0XkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzdlYWFkOWEtMTA2Zi00MWYxLWEzNzMtMzllMjNjN2IxNjFlXkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY5MTYyYWItYTUzNi00Y2I1LTliOGEtZGEwM2IyNWI2NzYxXkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTFkZjMwYjEtYjQxMy00MTM3LWIxMjctNjk5YmEwMDJjOTU3XkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzA1ZTI1NDQtYzBlYy00NTU1LTg1ZDktMjczOTVkOWM0YzNjXkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWUzYWIxM2MtYjI2Zi00YWE4LThhZmQtMDUyOGFiNWRjNWI5XkEyXkFqcGdeQXVyMTQ0NDE5NTA@._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt30796448/",
+        "rating": "8/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3686143/",
+        "name": "Bao Nguyen"
+      },
+      "seo": {
+        "title": "The Greatest Night in Pop (2024)",
+        "description": "The Greatest Night in Pop: Directed by Bao Nguyen. With Lionel Richie, Harriet Sternberg, Wendy Rees, Harry Belafonte. On January 25th 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history."
+      }
+    }
+  }
+}

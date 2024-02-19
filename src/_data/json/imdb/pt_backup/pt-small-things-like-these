@@ -1,0 +1,49 @@
+{
+  "poster_table": {
+    "slug": "small-things-like-these",
+    "title": "Small Things Like These",
+    "year": "2024",
+    "director": "Tim Mielants"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Small Things Like These",
+    "description": "Small Things Like These: Dirigido por Tim Mielants. Com Cillian Murphy, Ciarán Hinds, Clare Dunne, Michelle Fairley. Em 1985, Bill Furlong, pai dedicado, descobre segredos perturbadores guardados pelo convento local e revela suas próprias verdades chocantes.",
+    "slug": "small-things-like-these",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2RmNWMyNDgtMGI0Ny00ZGMwLWIwMGMtMWUxMmIxOGNkOWUwXkEyXkFqcGdeQXVyNjkyNzI2MTQ@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "História"
+    ],
+    "director": "Tim Mielants",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "História"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNzhiYzgyN2YtZGVlZi00MjMwLTk2YmUtZGRkNzUwNjEwNDU2XkEyXkFqcGdeQXVyNzQxNjEyNDA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTA5M2ZhNTgtNTQ2Ny00Njc4LTgzMTktNDZlNTQ5ZTk5Y2FlXkEyXkFqcGdeQXVyNzQxNjEyNDA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDQxYzk0N2EtZWRkNy00ZjVmLThiYTQtNTNiMjkyM2Y5ODUzXkEyXkFqcGdeQXVyNzQxNjEyNDA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWQ5NGQ2OGMtM2E2My00MTY2LWJhNzktNjAyNDliOGEyMWNkXkEyXkFqcGdeQXVyNzQxNjEyNDA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDhkYmZjNWQtZTc4Ny00NmI0LWFiNDYtOWE4ZWIxMWMxNmMzXkEyXkFqcGdeQXVyNzQxNjEyNDA@._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWQ5YzhhMjctODhlOS00NWUxLWI2MDEtZGM1ZWM5ODFmZmQ4XkEyXkFqcGdeQXVyNzQxNjEyNDA@._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt27196021/",
+        "rating": "7.2/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2139803/",
+        "name": "Tim Mielants"
+      },
+      "seo": {
+        "title": "Small Things Like These (2024)",
+        "description": "Small Things Like These: Dirigido por Tim Mielants. Com Cillian Murphy, Ciarán Hinds, Clare Dunne, Michelle Fairley. Em 1985, Bill Furlong, pai dedicado, descobre segredos perturbadores guardados pelo convento local e revela suas próprias verdades chocantes."
+      }
+    }
+  }
+}

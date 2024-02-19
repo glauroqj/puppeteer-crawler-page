@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "warning-2",
+    "title": "Warning 2",
+    "year": "2024",
+    "director": "Amar Hundal"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Warning 2",
+    "description": "Warning 2: Directed by Amar Hundal. With Gippy Grewal, Prince Kanwaljit Singh, Jasmin Bhasin, Raghveer Boli. After missing Pamma's assassination, Geja imprisoned with target. Cop transfers prisoners, including Geja and Pamma, to remote jail, heightening tensions.",
+    "slug": "warning-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjIzMTA3YzMtYjgzNi00MTJkLThjMGItNjZlY2FmYTY5MjRhXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Amar Hundal",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWRiNGU0YWYtM2JkOC00NjhmLTg1YjMtMzc2MzUxOTM3MWFiXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWM4N2VmMjctOGVkOC00N2NjLWIxMDUtODk3ZmYyZjY1MDg2XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmZkYzhhYWItNzIxZi00NjkwLTliZWMtN2M3NDY2NjAzYjU0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzkwODU2MTgtNDI1My00YzQ3LThmZmUtYTRiM2Q1MDRiZTU4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjJhYzMyYzQtZGYyNy00MDk0LWEwMDctMWQ4MDQ4ZTM3ZTM2XkEyXkFqcGdeQXVyMTU1OTgyNDEz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYzNTA1MDYtZGY2MS00MzE1LWFmMTQtMjM3MDI2MjU5YTZhXkEyXkFqcGdeQXVyMTU1OTgyNDEz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjE0ODBjMDMtZTg2Ni00Y2RjLWIzZDctMmQyMjYxMmZhZWMzXkEyXkFqcGdeQXVyMTU1OTgyNDEz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzY4NGExNTctOGM3Yy00NjgyLWJlOGYtODMxODJjYzIwNDMxXkEyXkFqcGdeQXVyMTU1OTgyNDEz._V1_QL75_UY140_CR30,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzAwMjFhZmEtZDJiYS00ZGEzLThiZjQtM2ViMGM1NGExMjM5XkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_QL75_UY140_CR67,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDYyOWJjOWMtMzYzMS00Mjk5LTkwNTctOWRmZTM5Y2M1MjkyXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_QL75_UY140_CR73,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZkNmQ4YzQtZjllMS00ZjVlLTgzYjUtNWFjYzQ1OTM2YzVmXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_QL75_UY140_CR73,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjI0ODYyNjItNTFmYy00ZTRjLTkxZTItYzEzMjI1MGQ5OGZiXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_QL75_UY140_CR61,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt16220010/",
+        "rating": "7.5/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm10520750/",
+        "name": "Amar Hundal"
+      },
+      "seo": {
+        "title": "Warning 2 (2024)",
+        "description": "Warning 2: Directed by Amar Hundal. With Gippy Grewal, Prince Kanwaljit Singh, Jasmin Bhasin, Raghveer Boli. After missing Pamma's assassination, Geja imprisoned with target. Cop transfers prisoners, including Geja and Pamma, to remote jail, heightening tensions."
+      }
+    }
+  }
+}

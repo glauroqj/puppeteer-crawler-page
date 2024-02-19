@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "lisa-frankenstein",
+    "title": "Lisa Frankenstein",
+    "year": "2024",
+    "director": "Zelda Williams"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Lisa Frankenstein",
+    "description": "Lisa Frankenstein: Directed by Zelda Williams. With Kathryn Newton, Liza Soberano, Jenna Davis, Trina LaFargue. A coming of RAGE love story about a teenager and her crush, who happens to be a corpse. After a set of horrific circumstances bring him back to life, the two embark on a journey to find love, happiness - and a few missing body parts.",
+    "slug": "lisa-frankenstein",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJkZDExMGQtNGE2YS00YzJiLWJiNjEtNmYwZjIxZGMxNTZiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "director": "Zelda Williams",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjZkZTJmNTMtM2NjNC00MGU1LTk5NzEtOTk3ZDcxNzU4MGM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDg5ZTQzOGItZTcxMy00ZGQ1LWJiOGItMTQ1OGNhYzI2YTZjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGQ4NTcxM2QtZmQ4ZS00ZmY0LWIxMGUtM2M0ZDA5OGQwMTA1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWRkNWVkZDMtOWJjYy00ZWUwLWIzMzgtYmYzNzhjZTQ5ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI0MDRiMGYtZTRkNS00Zjc5LWE2ZjMtNjQ3YmM0YzhhODY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI4Zjc2MTQtM2MxNi00ODUyLTkyYTktYmViNTJlMWIyZWExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGFhMDk5YzQtNGNhMi00NzMwLWFhYzEtN2I5YzExM2Q3MTk0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjkyMmVhZjAtNjZmMi00MmQ2LWE0YTEtYjQwNzBmYmQzZDkwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjkxZDZjZDUtMTU3Zi00OGE4LWI1OTMtMzc4MzRiNjU5MWIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTI2MDRhZDQtNmJlZi00OTlhLThmMGYtNmJkOTE3NWRlNjVhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODk1NmE5NmMtODlmNi00YTU5LTlhZDktMjI0ZmYyZDY5NTQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTc3N2U4YmMtYjAxMy00ODJlLWI0MzQtMGQ2NTc1NTcwNzI2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21188080/",
+        "rating": "6.6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0931958/",
+        "name": "Zelda Williams"
+      },
+      "seo": {
+        "title": "Lisa Frankenstein (2024)",
+        "description": "Lisa Frankenstein: Directed by Zelda Williams. With Kathryn Newton, Liza Soberano, Jenna Davis, Trina LaFargue. A coming of RAGE love story about a teenager and her crush, who happens to be a corpse. After a set of horrific circumstances bring him back to life, the two embark on a journey to find love, happiness - and a few missing body parts."
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "poster_table": {
+    "slug": "ibelin",
+    "title": "Ibelin",
+    "year": "2024",
+    "director": "Benjamin Ree"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Ibelin",
+    "description": "Ibelin: Directed by Benjamin Ree. With Zoe Croft, Kelsey Ellison, Ed Larkin, John Andrew Mclay. Mats Steen, a Norwegian gamer, died of a degenerative muscular disease at the age of 25. His parents mourned what they thought had been a lonely and isolated life, when they started receiving messages from online friends around the world.",
+    "slug": "ibelin",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTFhYzA3N2ItZDMxYi00ODQ3LWJiMWItNzhmNGEzYTc1MDBlXkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_.jpg",
+    "genres": [
+      "Documentary"
+    ],
+    "director": "Benjamin Ree",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Documentary"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDc4ZThlNjUtMmNhMi00Y2U0LWJiYzgtYjlhM2JiY2I3YTRmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2VjNWZlOTctZTgyOS00N2RkLWExMWQtMmJjMzYwODg3MjUwXkEyXkFqcGdeQXVyNTAyOTIxMDI@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmM4MDE4NGYtMzFiNS00N2U2LTlhNGQtNzFkZDA1MTFmNjY4XkEyXkFqcGdeQXVyNTAyOTIxMDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmM0Y2ZiNzUtNTU3YS00M2Q1LWI5ODQtODY1NzdlY2Q1ZTFjXkEyXkFqcGdeQXVyNTAyOTIxMDI@._V1_QL75_UY140_CR34,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjlhYmQxNDUtODhlMC00YTI1LWExNWYtODBkY2JiNTAwM2EzXkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt19811010/",
+        "rating": "8.3/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm5558989/",
+        "name": "Benjamin Ree"
+      },
+      "seo": {
+        "title": "Ibelin (2024)",
+        "description": "Ibelin: Directed by Benjamin Ree. With Zoe Croft, Kelsey Ellison, Ed Larkin, John Andrew Mclay. Mats Steen, a Norwegian gamer, died of a degenerative muscular disease at the age of 25. His parents mourned what they thought had been a lonely and isolated life, when they started receiving messages from online friends around the world."
+      }
+    }
+  }
+}

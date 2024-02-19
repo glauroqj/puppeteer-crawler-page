@@ -1,0 +1,47 @@
+{
+  "poster_table": {
+    "slug": "a-real-pain",
+    "title": "A Real Pain",
+    "year": "2024",
+    "director": "Jesse Eisenberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "A Real Pain",
+    "description": "A Real Pain: Directed by Jesse Eisenberg. With Kieran Culkin, Jesse Eisenberg, Olha Bosova, Banner Eisenberg. Two cousins travel to Poland after their grandmother's death to see where they came from and end up joining a Holocaust tour.",
+    "slug": "a-real-pain",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMzMzFjZDMtYTM3NS00MDJiLWJjNWQtZmU1NmRmZjViODdhXkEyXkFqcGdeQXVyMjc5MDg0NDc@._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Jesse Eisenberg",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMGM2NDk0MjAtZjIxNi00N2U0LWFkYmUtOWU3NjBlYTdlOTMxXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTBjYjA0OTAtMjAyMS00NmJjLWJlMDUtMjBhZGM4M2Q2ZWY5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzNhZDYzOTYtNDMwOC00MDA3LTliYTMtZDMyZmFkYTlkNTA0XkEyXkFqcGdeQXVyMTc1Mzk0Njkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGRhZDQwM2UtYmRlMC00MTNmLWE2N2QtYTZmYjg4YjFmZTRiXkEyXkFqcGdeQXVyMTc1Mzk0Njkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21823606/",
+        "rating": "7.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0251986/",
+        "name": "Jesse Eisenberg"
+      },
+      "seo": {
+        "title": "A Real Pain (2024)",
+        "description": "A Real Pain: Directed by Jesse Eisenberg. With Kieran Culkin, Jesse Eisenberg, Olha Bosova, Banner Eisenberg. Two cousins travel to Poland after their grandmother's death to see where they came from and end up joining a Holocaust tour."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "game-on",
+    "title": "Game On",
+    "year": "2024",
+    "director": "Dayanandh Gaddam"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Game On",
+    "description": "Game On: Dirigido por Dayanandh Gaddam. Com Geethanandh, Yogi Khatri, Kireeti, Vasnthi Krishnan. A loser enters into a real time game to win which leads him to explore challenges and brings out the hidden secrets from his past.",
+    "slug": "game-on",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjg0ZDI4YWMtZDkyNy00OTBmLTkxMzMtOWVkODFjZGM2MzlkXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Dayanandh Gaddam",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Drama",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTI5N2EzZWYtZTAyNC00MGMxLTg2ZjQtMzNlNWJlNmI4ZWQ2XkEyXkFqcGdeQXVyMTc2OTQxNTUx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI4ZWMxYzctYzA2ZS00ZDAyLTkwYTAtMGViMmNlZjg0MmQ2XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGU2MDYxODYtZTJlNy00Mzc0LWFjMTMtM2I4Y2RkNmI0Y2MwXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDc0MGU5OWUtOWE5My00OGNhLWI5OWItN2FlMTA4MmIyMGIyXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjVjNjA1MzAtMGUyZS00OGVkLWExZjAtOGVlOTc4NTJhMDgzXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWVjYjJkZTYtMGVmYy00NWJhLWIwYzAtZDFmODUwNmM0MzNlXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTVhM2QwNjgtYTFjNi00ODgwLWEwNzUtNzg1YjQwNmI0MDZjXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWNlY2YxZmMtZTQ5NS00YTYwLWJjZjQtM2Q2NmI0MWI2MTAzXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDZjNTMwYWItZmZiZC00ZmVkLWIwMmMtNmJjOGRiOGU4ZjEwXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY3ZGZlMGQtMTkxNS00MTBiLTgwZTQtOTUzNTkwYTYxZDhiXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTBmYzZhMWQtYTM1My00ZjM1LThlYWEtZGJlNDlhMDhjNjNmXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjQ4ZWMxNWEtNjMwYy00NGUxLWJkZjEtMTQzOWE4NjM5MzI3XkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt26923601/",
+        "rating": "8.2/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm14606187/",
+        "name": "Dayanandh Gaddam"
+      },
+      "seo": {
+        "title": "Game On (2024)",
+        "description": "Game On: Dirigido por Dayanandh Gaddam. Com Geethanandh, Yogi Khatri, Kireeti, Vasnthi Krishnan. A loser enters into a real time game to win which leads him to explore challenges and brings out the hidden secrets from his past."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "bhakshak",
+    "title": "Indiferença",
+    "year": "2024",
+    "director": "Pulkit"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Indiferença",
+    "description": "Indiferença: Dirigido por Pulkit. Com Bhumi Pednekar, Sanjay Mishra, Aditya Srivastav, Sai Tamhankar. Uma jornalista local começa uma investigação sobre casos de abuso encobertos em um abrigo para meninas.",
+    "slug": "bhakshak",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjVhMjVjZDctYTk2Yy00MDUyLTg2OGUtNWExMGE4MmYyNjRlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "genres": [
+      "Policial",
+      "Drama"
+    ],
+    "director": "Pulkit",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Policial",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTA0Y2MxMzAtYTkwYi00YjdkLTlmYmEtYTBlNTAzN2M0ZDVjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM4NTU1NmQtYzhjZS00MTNlLWJmNTItMGFkYWMwZDEwM2Y0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWZmZWE2OGQtNTRhNS00NTcyLWI2MjctMTlhOTAzMGVmYmI2XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjkxMzY0YmYtY2U5NS00ZDBlLWJhMDctYjUwNDVlNGU5MGI1XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzQ1MjQxNGItM2YzYy00ZGI1LWIzMWUtNGQ2YWMyYjNjOTFmXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzE1ZTkwMGEtMmE1Mi00N2EwLWEyMGItZjFhNWZkOTVmYWExXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODE0Y2RkZDQtNjgxMy00ZTQ0LThmZjEtZjA5MmM4MGE4OTAzXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDJlODlhMDAtNzEwOC00Y2YzLTgyMjgtM2Y0ZWI2Njg4OWU4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjY4MmQxZDctOGE4Ni00YzYwLTlmNDAtYTE0ZGQwZTQxYjUxXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjQ3YjZiOTItMmZmNi00MGFjLTk4ODAtNmU4NThhMmQ1ODNkXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk0YzRjMzYtYmFmZC00NjZmLThmYzEtNTlkMDcwZTRjMzliXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDFmNzQzYTEtYzRlZS00M2ZkLTkxM2ItZGI5MGRkYTE4YWNjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt27936770/",
+        "rating": "7.3/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6598224/",
+        "name": "Pulkit"
+      },
+      "seo": {
+        "title": "Indiferença (2024)",
+        "description": "Indiferença: Dirigido por Pulkit. Com Bhumi Pednekar, Sanjay Mishra, Aditya Srivastav, Sai Tamhankar. Uma jornalista local começa uma investigação sobre casos de abuso encobertos em um abrigo para meninas."
+      }
+    }
+  }
+}

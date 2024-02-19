@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "hanu-man",
+    "title": "Hanu Man",
+    "year": "2024",
+    "director": "Prasanth Varma"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Hanu Man",
+    "description": "Hanu Man: Directed by Prasanth Varma. With Teja Sajja, Amritha Aiyer, Varalaxmi Sarathkumar, Vinay Rai. An imaginary place called Anjanadri where the protagonist gets the powers of Hanuman and fights for Anjanadri.",
+    "slug": "hanu-man",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWUwMGFmODMtYmFhNy00YTJlLWFiZDMtZDMwM2Q3NGZkNTgxXkEyXkFqcGdeQXVyMTU4Mzg1OTU2._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Prasanth Varma",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWU5YTdjY2QtYTE5NC00YzI2LTg0NzMtMmU2MWIxYTk1ZDQ1XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTJmN2Y5NGItYTI2OC00NDQ3LWJjN2ItZTAzMGQ2NTJmY2Q0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJkNzg4NTgtZjZkNy00MzkwLWE1ZmEtN2VlYmU5YTYyN2M2XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmM3MTk0YzMtMDg1OC00YjQxLWE2MWItYzhlODEwZWY0MmVhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI1MjRmZTctYzcxMC00NzliLTgxNmYtNjljMmZmZGIyNDI4XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmQ2MjlhODYtZGMxNy00NDFiLTkwODUtMjJhOTQ2Yzg4ZTBlXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWFmNDk3ZDYtMTg5Yi00NWI1LWI0MmEtZThiODk4ZDg5NDZiXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzYzYjlhMTUtZmFkNS00ZDBkLWIxNTItNGI4MTA0ZTVkMWNlXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGI4NWRjMzEtMzkwNC00MGY1LThmMjUtYjFmM2I4ZDA2OGNjXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI1MzBmZTItMWU1Yy00MTI5LTgxZGYtOTVhOTU5M2I4MmQwXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTgyYTE5YTctZjIzNS00NmY1LWEwM2EtMzQwOTQ1MDYwNDExXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjE4NmIwMjYtZDhkNy00MGU4LTgyMjctYzZkMTQ5MThkMDQ4XkEyXkFqcGdeQXVyMTQ3NTY1Mjcx._V1_QL75_UY140_CR55,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15433956/",
+        "rating": "8.5/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm9514022/",
+        "name": "Prasanth Varma"
+      },
+      "seo": {
+        "title": "Hanu Man (2024)",
+        "description": "Hanu Man: Directed by Prasanth Varma. With Teja Sajja, Amritha Aiyer, Varalaxmi Sarathkumar, Vinay Rai. An imaginary place called Anjanadri where the protagonist gets the powers of Hanuman and fights for Anjanadri."
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "eine-million-minuten",
+    "title": "Eine Million Minuten",
+    "year": "2024",
+    "director": "Christopher Doll"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Eine Million Minuten",
+    "description": "Eine Million Minuten: Dirigido por Christopher Doll. Com Hassan Akkouch, Pola Friedrichs, Sara Fuchs, Godehard Giese. Vera and Wolf Küper, parents to Nina and Simon, navigate work and family stress. Their world gets shaken with Nina's motor disorder diagnosis, reminding Wolf of her wish for a million minutes, just for the really nice things.",
+    "slug": "eine-million-minuten",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM0NGIyODktY2QxZi00NWY4LWJlMTMtMmNhZmRkYzRmNmQ3XkEyXkFqcGdeQXVyMDAyMjM2OQ@@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Christopher Doll",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTM2MmRmYWMtNTBkZC00MzE3LTgzOTEtZjJlMTIzNDc3MGEwXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjVjODYxZDUtMDJhZS00NDg5LTgxOWYtZTFhNjZlZTNlZWUxXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDM0ZTVmZGQtZDNkNi00YzY4LTgyZGQtMjRhZjhlZmRlYTY4XkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2RhZjFiZjQtYTc3NS00NWNmLThmZTUtNzQ1YTk4YTJjNjM3XkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGUyMGMyYTItMGM5Yi00YmNlLTg1NTQtNjlhZjQzMTNiMDVhXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDM0YjQwZWUtNTNmYS00OGQ4LWE2ZTUtMzdiZTg1ZWU1OGUyXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzI1YTQ3MzItMmIzMi00MjRkLWI4NDItYzdlMjU4M2QxZWFlXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR32,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNjMzU1NzUtM2UzZC00NzBlLTg5MmYtYmQzZWMwZjk0M2IyXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzRiMmRjODItNTFjZC00OTJmLWJiM2MtZjNmMWYyMGFkNDRmXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTkzZGVhMzctOTA3Ni00ZTdiLWJiNDItNmJkZTJiZTVlMzhkXkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjYyNGRmZTMtNTEwMS00MDljLWE1MGUtZjI2MGE3YTMyOTU2XkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGVlMjVjYWMtMzI5Zi00NGVlLWE5ODctN2U0YjU3YzY1ZTg0XkEyXkFqcGdeQXVyMTU5NzQzNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt28618089/",
+        "rating": "6.8/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1124307/",
+        "name": "Christopher Doll"
+      },
+      "seo": {
+        "title": "Eine Million Minuten (2024)",
+        "description": "Eine Million Minuten: Dirigido por Christopher Doll. Com Hassan Akkouch, Pola Friedrichs, Sara Fuchs, Godehard Giese. Vera and Wolf Küper, parents to Nina and Simon, navigate work and family stress. Their world gets shaken with Nina's motor disorder diagnosis, reminding Wolf of her wish for a million minutes, just for the really nice things."
+      }
+    }
+  }
+}

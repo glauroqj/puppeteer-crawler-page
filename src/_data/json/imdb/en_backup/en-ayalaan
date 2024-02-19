@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "ayalaan",
+    "title": "Ayalaan",
+    "year": "2024",
+    "director": "R. Ravikumar"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Ayalaan",
+    "description": "Ayalaan: Directed by R. Ravikumar. With Sivakarthikeyan, Rakul Preet Singh, Karunakaran, Bhanupriya. A lost alien seeks help to go back to his home, but everything gets harder after the alien returns to its home.",
+    "slug": "ayalaan",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzYxZWEyOGMtZGY0Ny00ZjFmLWIxNGMtNDY5NGQyMzdkMzM5XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "R. Ravikumar",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTk0OGJiZjUtNGM2ZS00NzYyLTkyN2ItZTA0ZWU3MWMyNGRkXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2VlOWJlYjQtMDhiOS00NDFmLTlkMmQtY2I3NDUyMDFlZDI0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg0OGU1NzUtOTMyMi00Y2EwLWE3ODEtMTlhMDg0YmRkNzNiXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmM2Yzg4MjgtOWI5NS00MjRjLWFkN2EtNjNiZmRjMGU3YjI4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDkxZjM4ODQtZjRhMS00NGY5LWFlODAtNDQ0ZjM1ZDBkMTc2XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjI5NzdlYTktMTM4ZC00ZWY4LTlmOWQtOWVmOGJjN2M2NmY4XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmRkODM4OWItZTk5Yy00MWE1LThjNTUtZTllZjdiOGY2ZGE3XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDlhNzk3MjgtNGVhZS00ZjFhLWFjZWItMmNjMGM3NGU1MjNjXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjdhODhiMGQtYWMyYy00NDMyLWE5NTMtNjRiYjUxNTY4ZjNmXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2UxZDNjYjAtMmU2OS00MTAzLWE2ZDItN2Y0ODM3MjdlNjMwXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWJmZmI1YjAtMjc1Yi00MmI4LTgzMzctZjdhMTQyYThhMDU0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2VlMThmZTgtMDkzZS00N2ZmLWIwMDItYjA2OTNmMWNlZTc4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt7892066/",
+        "rating": "6.1/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm7415469/",
+        "name": "R. Ravikumar"
+      },
+      "seo": {
+        "title": "Ayalaan (2024)",
+        "description": "Ayalaan: Directed by R. Ravikumar. With Sivakarthikeyan, Rakul Preet Singh, Karunakaran, Bhanupriya. A lost alien seeks help to go back to his home, but everything gets harder after the alien returns to its home."
+      }
+    }
+  }
+}

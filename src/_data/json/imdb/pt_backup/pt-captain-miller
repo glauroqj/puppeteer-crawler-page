@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "captain-miller",
+    "title": "Captain Miller",
+    "year": "2024",
+    "director": "Arun Matheswaran"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Captain Miller",
+    "description": "Captain Miller: Dirigido por Arun Matheswaran. Com Dhanush, John Kokken, Antony, Sundeep Kishan. Situado na década de 1930-1940 na Índia Britânica, acompanha um fora da lei chamado Miller, que se envolve em saques, roubos e assaltos sangrentos.",
+    "slug": "captain-miller",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTU2NDgxZGEtOGEwOC00YmJjLWI5ZTAtNzEzNjI2ZDAwZmI3XkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Drama"
+    ],
+    "director": "Arun Matheswaran",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYTU4OWMxYTItMjViZC00YmQ3LWI1NjktZDdiNzczODk2ZDM4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Q3MWM0NzAtODg5YS00YmNiLTllZTQtZTYxNjA3NzZlNWJhXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmUyZWEyYWUtNGRlMS00YjkxLWJjOTYtMGE2OGNjNDMxMjRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmFhM2I4NGUtMTE4YS00Njk4LWFmNGQtZjI5ZjMyMmE3MWQxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzM0YTdmOWQtNGFjNy00MjM4LWJlYjctZjEzZGJmYWE3YzZiXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y0M2E2MWItNDE5Yi00MDk5LTg0YjYtNTM5ZWE0YzViYjU2XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDAxZjE3NjEtODEzMS00ZjA3LTg3MWUtOGIzNjI4NmZiZmNlXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODUzMDhjMDItMGNiOS00NzBlLTljMDItZjUwM2M4ZDBlNzc4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGE1YTlmZWYtNTZmNC00MmIwLWFlMDktNzRjNDM2ZGIxY2I1XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQ2ZTY4M2UtNTA3OC00OTFkLWI5MjItN2E3NTMxYzA0OWNmXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzYwYzNkOTMtZjZhZi00ZDIwLWJmMjctYzBlNjlmOTE1MzQ2XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTBkNDhiYjMtZWVhYS00YjI3LTk0OWQtZTNhN2QxZWE3NGVmXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt22170036/",
+        "rating": "6.8/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm8260883/",
+        "name": "Arun Matheswaran"
+      },
+      "seo": {
+        "title": "Captain Miller (2024)",
+        "description": "Captain Miller: Dirigido por Arun Matheswaran. Com Dhanush, John Kokken, Antony, Sundeep Kishan. Situado na década de 1930-1940 na Índia Britânica, acompanha um fora da lei chamado Miller, que se envolve em saques, roubos e assaltos sangrentos."
+      }
+    }
+  }
+}

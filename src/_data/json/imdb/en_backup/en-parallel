@@ -1,0 +1,44 @@
+{
+  "poster_table": {
+    "slug": "parallel",
+    "title": "Parallel",
+    "year": "2024",
+    "director": "Kourosh Ahari"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Parallel",
+    "description": "Parallel: Directed by Kourosh Ahari. With Aldis Hodge, Danielle Deadwyler, Edwin Hodge. Follows the journey of Vanessa, a grief-stricken woman who mysteriously finds herself navigating between parallel spaces.",
+    "slug": "parallel",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZhMjA2MjQtNTY5OC00MGY1LTgwYWYtNjczNzdkMWE2NjA5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Kourosh Ahari",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "gallery": [],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt14637386/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6422804/",
+        "name": "Kourosh Ahari"
+      },
+      "seo": {
+        "title": "Parallel (2024)",
+        "description": "Parallel: Directed by Kourosh Ahari. With Aldis Hodge, Danielle Deadwyler, Edwin Hodge. Follows the journey of Vanessa, a grief-stricken woman who mysteriously finds herself navigating between parallel spaces."
+      }
+    }
+  }
+}

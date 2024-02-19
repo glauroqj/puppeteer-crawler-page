@@ -1,0 +1,44 @@
+{
+  "poster_table": {
+    "slug": "junction",
+    "title": "Junction",
+    "year": "2024",
+    "director": "Bryan Greenberg"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Junction",
+    "description": "Junction: Dirigido por Bryan Greenberg. Com Yara Martinez, Sophia Bush, Michaela Conlin, Jamie Chung. Junction addresses the modern day opioid crisis in America, and asks how did this happen, from three different points of view. The CEO of a pharmaceutical company, a doctor, and a patient.",
+    "slug": "junction",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQ1OGM5NWItMjMzNi00YjEzLTlhOTMtMTJkNjcwNWRlNTdhXkEyXkFqcGdeQXVyMjIyMjQ1NzY@._V1_.jpg",
+    "genres": [
+      "Suspense"
+    ],
+    "director": "Bryan Greenberg",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjE2ZmE4MjYtMDVhNy00MjgxLWIyZWYtYTJlMmY0YmFjZTM0XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWEzOGUyODEtOWQ1Ni00M2YzLWIxM2YtNjVkNDljMmZlZjYyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODBiNWRjMTItZDI4MC00OTUwLWFjOGItMGNmMzMyMjFhZTU3XkEyXkFqcGdeQXVyMjIyMjQ1NzY@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt9046896/",
+        "rating": "7.6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1034965/",
+        "name": "Bryan Greenberg"
+      },
+      "seo": {
+        "title": "Junction (2024)",
+        "description": "Junction: Dirigido por Bryan Greenberg. Com Yara Martinez, Sophia Bush, Michaela Conlin, Jamie Chung. Junction addresses the modern day opioid crisis in America, and asks how did this happen, from three different points of view. The CEO of a pharmaceutical company, a doctor, and a patient."
+      }
+    }
+  }
+}

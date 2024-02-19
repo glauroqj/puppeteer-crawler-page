@@ -1,0 +1,56 @@
+{
+  "poster_table": {
+    "slug": "sasquatch-sunset",
+    "title": "Sasquatch Sunset",
+    "year": "2024",
+    "director": "David Zellner"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Sasquatch Sunset",
+    "description": "Sasquatch Sunset: Directed by David Zellner, Nathan Zellner. With Jesse Eisenberg, Riley Keough, Christophe Zajac-Denek, Nathan Zellner. A year in the life of a unique family. It captures the daily life of the Sasquatch with a level of detail and rigor that is simply unforgettable.",
+    "slug": "sasquatch-sunset",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdjMWJiOGYtYjBmYy00NTQ5LWE3ZGMtNjc1NjAzZmUzNTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "David Zellner",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMWFlZDdiOGItYzY2Zi00YjliLThlZDAtYjA0ODNiOTY1ZjFiXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWJmNzgxMTQtOWUyOC00Y2MxLTk2OWMtZDA5NzIxOTA4ZWIzXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWNlNjQ5NGUtMzY3YS00YTgxLTgzNDQtNmY1MzBhZWM4NjI4XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2RjZGQxMTgtZGNhNS00MmJiLTk1OGEtZGQzNjVlMWUwNDU5XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGI1NTgyOWYtY2QyNC00YzkxLWI5NWMtZTI5MDEzOGU1NTU1XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM5NjllZmQtOTZkMy00MDBhLWEyMjgtMTdkNGM5OTM5ZDU1XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDkyNTdjZTUtODMyNC00YmYyLWI0MTYtNTU4NjFlZGY2NjAwXkEyXkFqcGdeQXVyMTEzNTE3MjE4._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTA4MWU4NmMtN2M4Mi00NDFlLTliYTYtZjI3ZGRlNzlhMzFjXkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTRmZmJiMzQtYzY4MC00ZGVmLWJiMWUtZGUxY2U4ZTAyMjdiXkEyXkFqcGdeQXVyNTc1MzM3Mjk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTUxOTE1NDItN2JhOS00ZTMzLThlYTAtNTVjY2JiM2JiNGEzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2QwOTk4M2UtMGU5Yi00YjBjLWIxNWMtOWY1YmQyMzU3OTgzXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt30180830/",
+        "rating": "6.8/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0954655/",
+        "name": "David Zellner"
+      },
+      "seo": {
+        "title": "Sasquatch Sunset (2024)",
+        "description": "Sasquatch Sunset: Directed by David Zellner, Nathan Zellner. With Jesse Eisenberg, Riley Keough, Christophe Zajac-Denek, Nathan Zellner. A year in the life of a unique family. It captures the daily life of the Sasquatch with a level of detail and rigor that is simply unforgettable."
+      }
+    }
+  }
+}

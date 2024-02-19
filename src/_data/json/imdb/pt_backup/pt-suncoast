@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "suncoast",
+    "title": "Suncoast",
+    "year": "2024",
+    "director": "Laura Chinn"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Suncoast",
+    "description": "Suncoast: Dirigido por Laura Chinn. Com Nico Parker, Laura Linney, Woody Harrelson, Daniella Taylor. Uma história semiautobiográfica sobre a passagem para a vida adulta de uma jovem que lida com a doença grave do irmão.",
+    "slug": "suncoast",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjc4NzAxMWMtMmJjZC00NjUzLThmNWQtOWQxMDllZTUxM2IyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Laura Chinn",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYWM1YzJhYzgtOGViYS00MTUxLWFjYjQtYzg5NWVjNGM1YmIzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWMxOGIzM2EtOWM2Yi00OGVkLTgxYmEtN2FmZmFhYTNmY2FlXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTRiNzI5MGUtMDYxMy00MjA4LThhM2QtNGU0OTNjN2Y0MWJmXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR16,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzY3ZWM2MzMtYWZhMS00ODVkLThhNTktMDU4MGU0NmZlMTk1XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTg5MzY4OWMtOGU5ZC00OGFiLWIyZTctMDNlZGIzMDgyZjliXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDY3ZDJhNGYtNDE1ZS00ZTBhLTg5MWItZGU0YjhiNDFiNTU0XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTY2NzBkNWQtNzQ4NS00ZjgyLWExMjctZThjMmZmN2Q2MjAyXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWRiYjUwZjktN2ZkYy00ZDg1LWJkMjktYjQ1NmU4ZWQzMzVhXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzJhZTAxZjgtMDYyMy00ZGRhLThhMzYtMzhkOTMyYmFmMTA1XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmJjY2I3OWEtN2ZlYi00NWNkLWEzZDItNjQ5ZTY3MDlhMDZhXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTUyZGUzMjctMmYzOC00NGM5LWI4ZDAtNWI0MTE4ZTRkMWUxXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDlhMTY3MTEtYTBkMS00NmE2LTlhZTktNmM1Yzc0ZjhiM2I0XkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13650742/",
+        "rating": "6.6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2488633/",
+        "name": "Laura Chinn"
+      },
+      "seo": {
+        "title": "Suncoast (2024)",
+        "description": "Suncoast: Dirigido por Laura Chinn. Com Nico Parker, Laura Linney, Woody Harrelson, Daniella Taylor. Uma história semiautobiográfica sobre a passagem para a vida adulta de uma jovem que lida com a doença grave do irmão."
+      }
+    }
+  }
+}

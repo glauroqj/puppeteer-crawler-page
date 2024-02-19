@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "love-reconsidered",
+    "title": "Love... Reconsidered",
+    "year": "2024",
+    "director": "Carol Ray Hartsell"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Love... Reconsidered",
+    "description": "Love... Reconsidered: Dirigido por Carol Ray Hartsell. Com Sophie von Haselberg, Colton Haynes, Javier Muñoz, Jill Kargman. Ruby is a thirty and flirty (but definitely not thriving) New Yorker whose life is transferred to the Hamptons right after a chance meeting with a wealthy consignment store owner.",
+    "slug": "love-reconsidered",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGRhYzc4YTUtMGY3ZC00NzE2LThmY2ItZDA0MmFkNzdlNWYxXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Romance"
+    ],
+    "director": "Carol Ray Hartsell",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNjkzY2VmMWYtMDE0OS00MGViLWE1ZDgtMzM4MmNjMmZhNTU4XkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_QL75_UY140_CR58,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjU5ODgwNWEtNTMwNC00MjQ0LThjMTctYjViYjQwNzBkZmMzXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDAyODM4NGUtODdiOC00NGUyLWE1ZTEtYTQ5OTY5ZmI5ZDIzXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_QL75_UY140_CR59,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWY5MzBiYmQtNDg1OS00NzlhLWEyZjItMjAwNzAwMzYyN2UzXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDBjY2MyZjItZDMwZC00ZTFkLWJiMmItMjEyZTY5MDhjMzM3XkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTQ3ZGZkNWItNjAwZi00MzU1LWIwNmQtNWIxMTBjZjk5NmI0XkEyXkFqcGdeQXVyOTY1MzYzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmYyMmQ4MzMtM2RhOC00MWMxLWFjNzItNWZiOTE0NDA4YTJiXkEyXkFqcGdeQXVyMTM2MDQyNDk@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2ZiNTFlNjItNjMxMC00YzlhLWJmMDAtN2U1YjE4ZWY5OTc2XkEyXkFqcGdeQXVyMTM2MDQyNDk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTg3OGVlMjctYmQyNi00NWVhLTg2MTQtNWU4NzRhNDI3Y2FkXkEyXkFqcGdeQXVyMTM2MDQyNDk@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjU5YmQ5MjQtYjVmNS00ZGMzLTk3YjAtNDYyNmUzYjY2ZGM0XkEyXkFqcGdeQXVyMTM2MDQyNDk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGU0OWNjZjYtMzZmZi00MTJhLWE2OTUtYmUyMTljMjEwMzVhXkEyXkFqcGdeQXVyOTUyNDg5OTM@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDA5NTM3MzItMjQwNS00ZmIwLWE2MjctOGJmODQ1NTg2OGVkXkEyXkFqcGdeQXVyMTM2MDQyNDk@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15432316/",
+        "rating": "7.1/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm7032202/",
+        "name": "Carol Ray Hartsell"
+      },
+      "seo": {
+        "title": "Love... Reconsidered (2024)",
+        "description": "Love... Reconsidered: Dirigido por Carol Ray Hartsell. Com Sophie von Haselberg, Colton Haynes, Javier Muñoz, Jill Kargman. Ruby is a thirty and flirty (but definitely not thriving) New Yorker whose life is transferred to the Hamptons right after a chance meeting with a wealthy consignment store owner."
+      }
+    }
+  }
+}

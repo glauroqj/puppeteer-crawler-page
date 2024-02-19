@@ -1,0 +1,46 @@
+{
+  "poster_table": {
+    "slug": "freaky-tales",
+    "title": "Freaky Tales",
+    "year": "2024",
+    "director": "Anna Boden"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Freaky Tales",
+    "description": "Freaky Tales: Directed by Anna Boden, Ryan Fleck. With Pedro Pascal, Tom Hanks, Ben Mendelsohn, Ji-young Yoo. Four interconnected stories set in 1987 Oakland, CA. will tell about the love of music, movies, people, places and memories beyond our knowable universe.",
+    "slug": "freaky-tales",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTAwODhiODktN2VhOC00MDUyLTkzN2YtZmY3YjNhM2EzYTA1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Anna Boden",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNDFhNzI3MDgtMGY0Ni00ODU4LTgwMGUtZGNjNzNkZjkzOGFlXkEyXkFqcGdeQXVyMTAwNTg0OTgy._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21942598/",
+        "rating": "7.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1349818/",
+        "name": "Anna Boden"
+      },
+      "seo": {
+        "title": "Freaky Tales (2024)",
+        "description": "Freaky Tales: Directed by Anna Boden, Ryan Fleck. With Pedro Pascal, Tom Hanks, Ben Mendelsohn, Ji-young Yoo. Four interconnected stories set in 1987 Oakland, CA. will tell about the love of music, movies, people, places and memories beyond our knowable universe."
+      }
+    }
+  }
+}

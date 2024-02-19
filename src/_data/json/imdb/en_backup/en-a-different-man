@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "a-different-man",
+    "title": "A Different Man",
+    "year": "2024",
+    "director": "Aaron Schimberg"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "A Different Man",
+    "description": "A Different Man: Directed by Aaron Schimberg. With Sebastian Stan, Miles G. Jackson, Patrick Wang, Neal Davidson. It tells the story of Edward. After undergoing a facial reconstructive surgery, he becomes fixated on an actor in a stage production based on his former life.",
+    "slug": "a-different-man",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWVhMDE2MjQtZGE1ZC00NDUxLWI4MDAtMTRmNjQ0NmU5ZDYyXkEyXkFqcGdeQXVyMDExNzA5NA@@._V1_.jpg",
+    "genres": [
+      "Thriller"
+    ],
+    "director": "Aaron Schimberg",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOGU5NmQwOWUtMDE4My00Yzc0LTlkYmMtM2Q5YzYxZjg5YjExXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2U1YjNlZGQtZTBjOC00MzM0LTg3MWUtZmYwOWYzMzg1NzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTdmY2I0YTItY2Y3My00ZDg0LWJhNTUtMDVhZTc3MzQ4OTViXkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzY4MDQxMGEtZjg4Yi00NjljLWEwM2QtMTkwZjZjZGJlZTg5XkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzFhMGRmYjYtOWQ2My00NWQzLTlkNjItOTQ3M2E1ZTgxYmVlXkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTE2MjJlMzctMzFlNy00ODU4LWEzNTUtY2EyNWYzYTE4NWE5XkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWNmYmIzNTUtMzYyYS00ZDQyLThmMDEtMzhlMWYzMGU5NGUwXkEyXkFqcGdeQXVyMTU0NTE5Nzg5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTYwZTY0MGItMWFiNy00YzM5LTlkMGYtNDg0MTIwYzk5NzA1XkEyXkFqcGdeQXVyMDExNzA5NA@@._V1_QL75_UY140_CR15,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjZiNGUxMjUtOGVlOS00MmIyLTg5MWMtMGQxZTQxNTQ2NmFhXkEyXkFqcGdeQXVyMDExNzA5NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmM0YWIzMzEtOGViNy00NDcwLWI3N2QtYzhlMjYyYTJmNTVmXkEyXkFqcGdeQXVyMDExNzA5NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDRjNjA5Y2ItZTYyOS00ZDAwLWIyMTAtNjA4ZDQ1ZTM1ZGU4XkEyXkFqcGdeQXVyMDExNzA5NA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzE2MjIzZGEtMGU4MS00Mjk4LWJkNTgtMTUyMzk5ZTAxNTYyXkEyXkFqcGdeQXVyNzM4MTc0ODk@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21097228/",
+        "rating": "7.5/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3661688/",
+        "name": "Aaron Schimberg"
+      },
+      "seo": {
+        "title": "A Different Man (2024)",
+        "description": "A Different Man: Directed by Aaron Schimberg. With Sebastian Stan, Miles G. Jackson, Patrick Wang, Neal Davidson. It tells the story of Edward. After undergoing a facial reconstructive surgery, he becomes fixated on an actor in a stage production based on his former life."
+      }
+    }
+  }
+}

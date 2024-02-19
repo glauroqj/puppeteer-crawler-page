@@ -1,0 +1,46 @@
+{
+  "poster_table": {
+    "slug": "the-outrun",
+    "title": "The Outrun",
+    "year": "2024",
+    "director": "Nora Fingscheidt"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Outrun",
+    "description": "The Outrun: Directed by Nora Fingscheidt. With Saoirse Ronan, Saskia Reeves, Stephen Dillane, Nabil Elouahabi. After living life on the edge in London, Rona attempts to come to terms with her troubled past. She returns to the wild beauty of Scotland's Orkney Islands (where she grew up) hoping to heal. Adapted from Amy Liptrot's bestselling memoir.",
+    "slug": "the-outrun",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJiOGY3NGUtNjI5Yi00MzdhLWI5YjAtYjg4ZWM2NDM0OWY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Nora Fingscheidt",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmYyZmYwNGYtMGZmMS00YTFiLTk2YmYtMTI1NDM0YmU1MDAyXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjFiMmZmYmMtNjkxOC00YTMwLTlkNGMtNzNiMDAwNzE3YzQzXkEyXkFqcGdeQXVyMTYyNjg2MzUz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY1Njc3ODQtZTQwYS00YWQ3LTgzYmYtMWUwZTRhYjFhOTc5XkEyXkFqcGdeQXVyMTE0NDY0MDgx._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGI1OTM3NGItNzZjNi00ZDIxLWFmZjAtODNiOTBhNmQ4MjQxXkEyXkFqcGdeQXVyMTQ2Mzc5OTIz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTVhZWJhNmItOWY4ZC00NTE3LWJhYjYtZGVjZDhlODIxMjBlXkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11687002/",
+        "rating": "8.6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3519173/",
+        "name": "Nora Fingscheidt"
+      },
+      "seo": {
+        "title": "The Outrun (2024)",
+        "description": "The Outrun: Directed by Nora Fingscheidt. With Saoirse Ronan, Saskia Reeves, Stephen Dillane, Nabil Elouahabi. After living life on the edge in London, Rona attempts to come to terms with her troubled past. She returns to the wild beauty of Scotland's Orkney Islands (where she grew up) hoping to heal. Adapted from Amy Liptrot's bestselling memoir."
+      }
+    }
+  }
+}

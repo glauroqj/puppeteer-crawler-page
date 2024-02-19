@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "the-private-eye",
+    "title": "The Private Eye",
+    "year": "2024",
+    "director": "Jack Cook"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "The Private Eye",
+    "description": "The Private Eye: Directed by Jack Cook. With Matt Rife, Clare Grant, Elliot, Denzel Whitaker. The life of private eye, Mort Madison, is spiraling downward, when a beguiling, slightly familiar woman hires him for his most unusual case.",
+    "slug": "the-private-eye",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk2N2M3MzEtZDkxNS00NTU2LWEwMWItNDMzZWFmMWFjYTQ4XkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "director": "Jack Cook",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMmI4YTNiZTktMzQ4ZS00ZDY3LTlhNDQtYjYzY2RjNzZiZDRkXkEyXkFqcGdeQXVyMTE5NTcwNTQx._V1_QL75_UY140_CR69,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWY1YjQ4ODAtNjcyZi00NzUzLWE3MzAtYjRhODE0MzY0OWRjXkEyXkFqcGdeQXVyMTE5NTcwNTQx._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTJjYzQzMzQtMGQ2Yy00YzU2LWFkZjQtZTRjNzBlYjc4NzZjXkEyXkFqcGdeQXVyODE4ODc4NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzExMTZiOWYtMGNhZS00Yjg2LWFlOTYtN2E4ZjMyZTk1NzhmXkEyXkFqcGdeQXVyODE4ODc4NzE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzExNWQwMmQtNzJjYS00Y2UzLTk5MTAtODk5ZmZmMmE4Yjg0XkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2YxMzQyODAtMDA0MC00ZGUxLThlOGUtYmU3NGI2NDJmODFhXkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UY140_CR3,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGZhNzdhNmUtYTY5YS00MTE5LWJhZmYtYWE5M2UwMDFmNTcyXkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjRiNTJiNzEtZTExNy00NTA1LWIxZjEtZDE1ZGZlMjc2OTM4XkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UY140_CR1,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGNiYWQ2OWEtZDA4My00NjVjLWI5YzgtNmM3YmI3MjNlYzhmXkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTk1NjRjNTItOTcwYS00YjBlLWI5YmItYTZkYTg1NzhhMTU4XkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmE2NjllMGYtNzY2MS00ZTA1LWE2MDUtYTViNTQ0OWE2OGFmXkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmNjODIwOTEtNTFmMy00ZDc3LWJkMDYtMzVmNWFjM2FiNGU1XkEyXkFqcGdeQXVyMTExOTgyNDA0._V1_QL75_UY140_CR24,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12234316/",
+        "rating": "7.5/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1170766/",
+        "name": "Jack Cook"
+      },
+      "seo": {
+        "title": "The Private Eye (2024)",
+        "description": "The Private Eye: Directed by Jack Cook. With Matt Rife, Clare Grant, Elliot, Denzel Whitaker. The life of private eye, Mort Madison, is spiraling downward, when a beguiling, slightly familiar woman hires him for his most unusual case."
+      }
+    }
+  }
+}

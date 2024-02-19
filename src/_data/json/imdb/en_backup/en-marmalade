@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "marmalade",
+    "title": "Marmalade",
+    "year": "2024",
+    "director": "Keir O'Donnell"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Marmalade",
+    "description": "Marmalade: Directed by Keir O'Donnell. With Joe Keery, Camila Morrone, Aldis Hodge, Michael Barloon. Follows a man in jail who narrates the colorful tale of a romantic bank heist to his cunning cellmate to escape and reunite with the alluring love of his life.",
+    "slug": "marmalade",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjI0ZDZkMDktMDlkYi00YjhkLWFmMGEtZWUzYTc3ZmEwZmMyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Keir O'Donnell",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZjljODU1OTYtMDhiYS00ZDQxLTk4YzMtNzM5NGQ0MGU4OTZlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWJmNWM0MzEtNzk0ZS00ZTZkLTg2MzctMmYzZjFkN2Y1NzlhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNmJmODZmYWMtMzkwYS00ODQzLTlkODUtOTM3MjliYzI2NmQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR69,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGJiNTU1MmMtMTk3NS00ZTM2LWFhZjctODNkOTA0NmM4ZmI0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR65,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGM1YzZkYzMtYjZmYi00M2ZkLWI5ZTMtM2QwZjkzMzFiNDExXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTNhMzZjYjUtMzM1YS00ZGNjLWFmNWYtNzdlNzFmZmJmMmUwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTIyMzhiM2ItYjRmNC00YWNlLTlhMjEtZjhhZTgxODhlYmI3XkEyXkFqcGdeQXVyMTU1NzY5MDMx._V1_QL75_UY140_CR54,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTAyMWUwMjEtOTg5Mi00N2NlLTlkOTEtOTkwZThmYzVmODY3XkEyXkFqcGdeQXVyNDc5NDc2Nw@@._V1_QL75_UY140_CR282,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU4MmQ2YTEtMjhlMy00ZjlkLWFhOTYtMDcyMWM5ZDYwZWMxXkEyXkFqcGdeQXVyNDc5NDc2Nw@@._V1_QL75_UY140_CR272,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWRmZmFmMDAtYWFkMC00Yzg0LTgwYmEtNGFiMWUzNDEwOGMwXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21275544/",
+        "rating": "6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1218757/",
+        "name": "Keir O'Donnell"
+      },
+      "seo": {
+        "title": "Marmalade (2024)",
+        "description": "Marmalade: Directed by Keir O'Donnell. With Joe Keery, Camila Morrone, Aldis Hodge, Michael Barloon. Follows a man in jail who narrates the colorful tale of a romantic bank heist to his cunning cellmate to escape and reunite with the alluring love of his life."
+      }
+    }
+  }
+}

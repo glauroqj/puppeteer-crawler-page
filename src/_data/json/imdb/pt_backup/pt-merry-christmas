@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "merry-christmas",
+    "title": "Merry Christmas",
+    "year": "2024",
+    "director": "Sriram Raghavan"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Merry Christmas",
+    "description": "Merry Christmas: Dirigido por Sriram Raghavan. Com Katrina Kaif, Vijay Sethupathi, Tinnu Anand, Pari Sharma. Dois estranhos se encontram em uma fatídica noite de Natal. Uma noite de romance delirante se transforma em um pesadelo. Revelar algo mais seria um crime.",
+    "slug": "merry-christmas",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJjOTZhZjAtZmRiNC00ZWZlLWI2MDUtYjkyOTRkNDcxZjkwXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Sriram Raghavan",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTc4ZTgwYTQtOGFlOC00ZDIzLWI0YTAtNjQ3ZjZjNWQ1ZjQyXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGVhZTk5YTItODIxMC00NzY1LWI2ZWUtNTNjMWMzZDdiZWYxXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTVmMjI5ODgtNjk4MC00OTNlLWEyYzAtZDk5ODNmZThjYWNhXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWI1MmI1N2YtNjk5MS00MDEyLTlkY2EtYTEwNDJhY2FjZWJkXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTIzYzYxMjMtMjUyYS00MDkxLWEyOTUtNjRhYTY2MjhmMzUzXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmM0MDcwNjAtNDg0ZC00ODlkLTk1YjMtM2Q0YWU2MWZiMDAyXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI1YmNmZWItNTVkMy00MTEzLWFlMDktYzAxZGQ1MDAzNTUwXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmZmNWQxMTktOTQzOS00ODFmLWI4ODktYTY0YWJkYzc3NTk2XkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR99,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjM1ODk3NDctNTVmMS00ZWNkLWJjZTEtYjdjNWViNGE3MDc0XkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDBjM2RjYmUtMTFkZS00NDhjLWEzMzQtY2Y3MzdjZjdkZDBhXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR108,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjcyNmM4ZGYtOGMyOS00NGYyLTkxZDgtZGJlMTZmOWM4NWEzXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR107,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2RlNmYwNDEtYWEzNC00NjY2LWE2NTYtZmIzYTkxYjQ4ZjM4XkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR109,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt15392282/",
+        "rating": "7.7/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1437189/",
+        "name": "Sriram Raghavan"
+      },
+      "seo": {
+        "title": "Merry Christmas (2024)",
+        "description": "Merry Christmas: Dirigido por Sriram Raghavan. Com Katrina Kaif, Vijay Sethupathi, Tinnu Anand, Pari Sharma. Dois estranhos se encontram em uma fatídica noite de Natal. Uma noite de romance delirante se transforma em um pesadelo. Revelar algo mais seria um crime."
+      }
+    }
+  }
+}

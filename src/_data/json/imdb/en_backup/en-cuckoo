@@ -1,0 +1,44 @@
+{
+  "poster_table": {
+    "slug": "cuckoo",
+    "title": "Cuckoo",
+    "year": "2024",
+    "director": "Tilman Singer"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Cuckoo",
+    "description": "Cuckoo: Directed by Tilman Singer. With Hunter Schafer, Jessica Henwick, Dan Stevens, Marton Csokas. A 17-year old girl is forced to move with her family to a resort where things are not what they seem.",
+    "slug": "cuckoo",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzBkZGEzYTQtMTFiMS00NDg3LWIyNGItYjNkZDM0NjgwMmQ2XkEyXkFqcGdeQXVyNjYwMzM1MjM@._V1_.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Tilman Singer",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "gallery": [],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12349832/",
+        "rating": "6.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6849061/",
+        "name": "Tilman Singer"
+      },
+      "seo": {
+        "title": "Cuckoo (2024)",
+        "description": "Cuckoo: Directed by Tilman Singer. With Hunter Schafer, Jessica Henwick, Dan Stevens, Marton Csokas. A 17-year old girl is forced to move with her family to a resort where things are not what they seem."
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "poster_table": {
+    "slug": "cuckoo",
+    "title": "Cuckoo",
+    "year": "2024",
+    "director": "Tilman Singer"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Cuckoo",
+    "description": "Cuckoo: Dirigido por Tilman Singer. Com Hunter Schafer, Jessica Henwick, Dan Stevens, Marton Csokas. Perseguida por uma mulher misteriosa, Gretchen, de 17 anos, que acabou de se mudar com sua família para um resort alpino após a morte de sua mãe, deve descobrir uma conspiração para salvar a si mesma e a sua irmã.",
+    "slug": "cuckoo",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzBkZGEzYTQtMTFiMS00NDg3LWIyNGItYjNkZDM0NjgwMmQ2XkEyXkFqcGdeQXVyNjYwMzM1MjM@._V1_.jpg",
+    "genres": [
+      "Terror",
+      "Mistério",
+      "Suspense"
+    ],
+    "director": "Tilman Singer",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Terror",
+        "Mistério",
+        "Suspense"
+      ],
+      "gallery": [],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt12349832/",
+        "rating": "6.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6849061/",
+        "name": "Tilman Singer"
+      },
+      "seo": {
+        "title": "Cuckoo (2024)",
+        "description": "Cuckoo: Dirigido por Tilman Singer. Com Hunter Schafer, Jessica Henwick, Dan Stevens, Marton Csokas. Perseguida por uma mulher misteriosa, Gretchen, de 17 anos, que acabou de se mudar com sua família para um resort alpino após a morte de sua mãe, deve descobrir uma conspiração para salvar a si mesma e a sua irmã."
+      }
+    }
+  }
+}

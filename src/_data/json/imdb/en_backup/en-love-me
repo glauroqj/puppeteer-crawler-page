@@ -1,0 +1,44 @@
+{
+  "poster_table": {
+    "slug": "love-me",
+    "title": "Love Me",
+    "year": "2024",
+    "director": "Sam & Andy Zuchero"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Love Me",
+    "description": "Love Me: Directed by Sam & Andy Zuchero. With Kristen Stewart, Steven Yeun. A love story between a satellite and a buoy.",
+    "slug": "love-me",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjE3ZjcwNWEtYzhiOC00MTY0LWE0NWYtZmMyOTkwMTNiODRjXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Sam & Andy Zuchero",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODU3NjNjOWEtM2UxYS00MjVjLThjZGYtMzYxOWUzODRjMTczXkEyXkFqcGdeQXVyMTE0MjAxNzEx._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21375602/",
+        "rating": "6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm13957205/",
+        "name": "Sam & Andy Zuchero"
+      },
+      "seo": {
+        "title": "Love Me (2024)",
+        "description": "Love Me: Directed by Sam & Andy Zuchero. With Kristen Stewart, Steven Yeun. A love story between a satellite and a buoy."
+      }
+    }
+  }
+}

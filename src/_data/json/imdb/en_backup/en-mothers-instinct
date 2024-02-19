@@ -1,0 +1,51 @@
+{
+  "poster_table": {
+    "slug": "mothers-instinct",
+    "title": "Mothers' Instinct",
+    "year": "2024",
+    "director": "Benoît Delhomme"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Mothers' Instinct",
+    "description": "Mothers' Instinct: Directed by Benoît Delhomme. With Anne Hathaway, Jessica Chastain, Josh Charles, Anders Danielsen Lie. Alice and Celine live a traditional lifestyle with successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond.",
+    "slug": "mothers-instinct",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGQ2ZDIzZWItNTI3NS00YWMzLWIxODQtZDQ4ODI0YjkyYjgzXkEyXkFqcGdeQXVyNjkyNzI2MTQ@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Benoît Delhomme",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTk3ZDhmNTAtYTE0My00MGZiLTlkNjgtMjBkNjBlNzkyOTU4XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmI3MDA3NzctNjU4ZS00YTEzLWJhZjAtY2EyZWVhYWI2YTRjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTdhODYxNzAtYzIwMS00OGI2LTlkNmYtMTRhZWFiNjM0NzQwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTljYTM4YzItYmFkYS00MDBmLWEzNmQtOTBkMGFhMjIyNTExXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzkwZGRiZDUtYjJiOS00NThjLWE3ZTYtMTlkZWZjNWQ2MDhmXkEyXkFqcGdeQXVyNTEyMTk4MjM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDA4ODkyNzYtYzNmYS00ZjA5LWI3NWMtYjRmM2Q4MzYwZmZmXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjE1OTc3OTUtNDBiMS00NmVlLWFlMDctZTBmNDI3NDg1Njk0XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTRmZWYyMjYtMDBlOC00ZDYwLWJkNjEtYjdmZGU0ZWE4MmI2XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt13397574/",
+        "rating": "7.5/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0217120/",
+        "name": "Benoît Delhomme"
+      },
+      "seo": {
+        "title": "Mothers' Instinct (2024)",
+        "description": "Mothers' Instinct: Directed by Benoît Delhomme. With Anne Hathaway, Jessica Chastain, Josh Charles, Anders Danielsen Lie. Alice and Celine live a traditional lifestyle with successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond."
+      }
+    }
+  }
+}

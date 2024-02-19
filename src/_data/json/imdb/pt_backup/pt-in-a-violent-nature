@@ -1,0 +1,47 @@
+{
+  "poster_table": {
+    "slug": "in-a-violent-nature",
+    "title": "In a Violent Nature",
+    "year": "2024",
+    "director": "Chris Nash"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "In a Violent Nature",
+    "description": "In a Violent Nature: Dirigido por Chris Nash. Com Ry Barrett, Charlotte Creaghan, Liam Leone, Cameron Love. Um monstruoso morto-vivo causa uma chacina entre um grupo de campistas que perturbaram seu túmulo.",
+    "slug": "in-a-violent-nature",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E1MzE5YmQtYmEyMS00YjljLTkyMjktNGM4MzE0MThjOGM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Suspense"
+    ],
+    "director": "Chris Nash",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZTc1YjkxMDItZmZjZi00MjU1LTg2ZDctMjA0OGVkOWEwZTkzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmM5ZjllYzEtYjMwNC00YWI3LTg5YTAtNWI1Mzk3NTI0NmMzXkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt30321146/",
+        "rating": "7.8/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1854288/",
+        "name": "Chris Nash"
+      },
+      "seo": {
+        "title": "In a Violent Nature (2024)",
+        "description": "In a Violent Nature: Dirigido por Chris Nash. Com Ry Barrett, Charlotte Creaghan, Liam Leone, Cameron Love. Um monstruoso morto-vivo causa uma chacina entre um grupo de campistas que perturbaram seu túmulo."
+      }
+    }
+  }
+}

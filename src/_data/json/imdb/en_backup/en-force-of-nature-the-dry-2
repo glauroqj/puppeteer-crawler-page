@@ -1,0 +1,53 @@
+{
+  "poster_table": {
+    "slug": "force-of-nature-the-dry-2",
+    "title": "Force of Nature: The Dry 2",
+    "year": "2024",
+    "director": "Robert Connolly"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Force of Nature: The Dry 2",
+    "description": "Force of Nature: The Dry 2: Directed by Robert Connolly. With Eric Bana, Anna Torv, Deborra-Lee Furness, Robin McLeavy. Five women participate in a hiking retreat but only four come out the other side. Federal agents Aaron Falk and Carmen Cooper head into the mountains hoping to find their informant still alive.",
+    "slug": "force-of-nature-the-dry-2",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTlhMjQ5OWItZDkwMS00NTczLTg4OTQtZDgyOTBlYzljNDAzXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_.jpg",
+    "genres": [
+      "Thriller"
+    ],
+    "director": "Robert Connolly",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Thriller"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BNmVjYTEyMTQtODI1NC00Y2Q5LWI5ZWEtNzY5YzU1OWI1N2MwXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmI3NTdmMWYtZGY0MC00M2MyLWJmMjAtN2JjZmUwMzE4NjlmXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMWEyMmNjOGItYzQxMS00NjQwLWIxY2UtMGQyM2I1ODdmNjMwXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWM5MWU5MGYtYjZlYS00NWMwLTg1YWYtNDg2M2FmMDc2ZjRhXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGU1MDM1MDItZWUyYi00ZGY1LWFmZWEtMDhiYzVlYzM4MTQ0XkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI2ZWEwYzItYzRiZi00NDE1LWFhMTktZDhmYjY0Zjk3M2MxXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjhlMGIyN2ItYzhhZi00MzQ0LTkyMzQtMDZlNmNkZWJmNTNjXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjA1NTRmMmEtNDQ2Ny00YTMyLWE1NzQtNmYzODI5MTFmNzRlXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjM5YzQxNzAtN2JlOC00M2YyLWIwYmMtYzI4YTNkMzVmM2YzXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmQ0NmEyODItODU0MS00Y2VmLWI0NGMtMTZmODAxYWVmOWE0XkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzMxNjMzOTEtOGVlOS00NTdjLWI0NmYtNzdmYzgwZDk5ZDc1XkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTAzNTYwZWEtMTEwMi00NDdkLTk4MzktNGI3YWZkMTdlMTgxXkEyXkFqcGdeQXVyNjE5MjEwMzA@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt20256448/",
+        "rating": "6.6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0175352/",
+        "name": "Robert Connolly"
+      },
+      "seo": {
+        "title": "Force of Nature: The Dry 2 (2024)",
+        "description": "Force of Nature: The Dry 2: Directed by Robert Connolly. With Eric Bana, Anna Torv, Deborra-Lee Furness, Robin McLeavy. Five women participate in a hiking retreat but only four come out the other side. Federal agents Aaron Falk and Carmen Cooper head into the mountains hoping to find their informant still alive."
+      }
+    }
+  }
+}

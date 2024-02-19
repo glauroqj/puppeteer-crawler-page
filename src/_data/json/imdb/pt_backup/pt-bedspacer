@@ -1,0 +1,47 @@
+{
+  "poster_table": {
+    "slug": "bedspacer",
+    "title": "Bedspacer",
+    "year": "2024",
+    "director": "Carlo Obispo"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Bedspacer",
+    "description": "Bedspacer: Dirigido por Carlo Obispo. Com Christine Bermas, Micaella Raz, Aria Bench, Aila Cruz. Janice's steamy obsession to imitate Lexi propels them to campus stardom. But dark secrets blur the lines between authenticity and seductive deception.",
+    "slug": "bedspacer",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc3YTIzMTAtMDU1NS00ZTcxLWJlNjAtYWM1OGUxZjllNDViXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "director": "Carlo Obispo",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMDg1NTU0MzQtMTBlMi00Y2E0LWIxM2EtYzVkOTAyOGE3ODUwXkEyXkFqcGdeQXVyNDc5NDc2Nw@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2JjMjhkY2EtNTllMi00NTA1LTg1MmMtN2E4ZDcwNzc5MTkyXkEyXkFqcGdeQXVyNDc5NDc2Nw@@._V1_QL75_UY140_CR238,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWFiMjJiYmYtYjM4Yi00NGRkLTgwMzQtZWUyNGUyYmFlNjFkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTkzMmU3Y2QtYjI0MS00MmZjLThhYjgtYjE3MDU4MWZlOTFkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt30524053/",
+        "rating": "7.2/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3184549/",
+        "name": "Carlo Obispo"
+      },
+      "seo": {
+        "title": "Bedspacer (2024)",
+        "description": "Bedspacer: Dirigido por Carlo Obispo. Com Christine Bermas, Micaella Raz, Aria Bench, Aila Cruz. Janice's steamy obsession to imitate Lexi propels them to campus stardom. But dark secrets blur the lines between authenticity and seductive deception."
+      }
+    }
+  }
+}

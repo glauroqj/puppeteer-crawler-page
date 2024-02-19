@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "eagle",
+    "title": "Eagle",
+    "year": "2024",
+    "director": "Karthik Gattamneni"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Eagle",
+    "description": "Eagle: Dirigido por Karthik Gattamneni. Com Ravi Teja, Anupama Parameswaran, Navdeep, Srinivas Avasarala. A journalist uncovers the story of a ruthless assassin when she investigates a government cover up.",
+    "slug": "eagle",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI3N2M5N2EtMzg1Zi00N2VlLTliYjEtY2Y3YTgwNTA3NTJiXkEyXkFqcGdeQXVyMTU4NDUzMjAx._V1_.jpg",
+    "genres": [
+      "Ação",
+      "Suspense"
+    ],
+    "director": "Karthik Gattamneni",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Ação",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzlmYjI3NjQtMmZlOS00YjFkLWE0YjMtY2IxMzhiY2RiYWI4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjMwZWUzOGMtNDYzOS00Yjc3LWI0YWItODMzYWM0YTQyNjEwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjY4ZDk2ODgtYWIyMy00OTI4LWI5NjEtZmU5ZDljY2NjN2U2XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDRjNTYwMTctZjVhMS00YTUyLWE3OWEtOTBiNDY2OTU3NGI3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDZlMTQyZWQtODIwMC00ODE0LWFlYWYtMmFkNGU4MjUwZWVhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWE2ODU4ZDgtM2UzZC00Mjg3LTkxY2MtNTMyNGJmYzk4OWY3XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzU0YTgwOWEtYmVhNC00ODBhLWJkYTYtZGY5ZmJhOGMyMDc5XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWFhMjE2ZTctOTQzMC00YTg1LWE0YzQtYmNlMjZhZjJmNWMzXkEyXkFqcGdeQXVyMTU4NDUzMjAx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOGRkYzVmNmQtNWE2My00OTYwLWI0OTQtMDkxMTBlZTM5YTk0XkEyXkFqcGdeQXVyMTU4NDUzMjAx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjhmMjIxNDgtYzQ2MC00ODRhLWFiOWMtZTE1MzYyOGRjYTA1XkEyXkFqcGdeQXVyMTU4NDUzMjAx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzVhMGY5MTUtOGFlNi00MGEzLTg4OWItNDU4ZmZhZGUyNWM5XkEyXkFqcGdeQXVyMTU4NDUzMjAx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDhhZDY3Y2UtNzI5ZS00ZjcxLWIxNDctZDFlOTY5ODIzNzZiXkEyXkFqcGdeQXVyMTY3ODM2MjU0._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt28074691/",
+        "rating": "8.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm6783925/",
+        "name": "Karthik Gattamneni"
+      },
+      "seo": {
+        "title": "Eagle (2024)",
+        "description": "Eagle: Dirigido por Karthik Gattamneni. Com Ravi Teja, Anupama Parameswaran, Navdeep, Srinivas Avasarala. A journalist uncovers the story of a ruthless assassin when she investigates a government cover up."
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "bob-marley-one-love",
+    "title": "Bob Marley: One Love",
+    "year": "2024",
+    "director": "Reinaldo Marcus Green"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Bob Marley: One Love",
+    "description": "Bob Marley: One Love: Directed by Reinaldo Marcus Green. With Kingsley Ben-Adir, Lashana Lynch, James Norton, Tosin Cole. The story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music.",
+    "slug": "bob-marley-one-love",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2U4M2NmY2ItMjAyNC00NzM1LTg3ZTEtNzVlYjEzNTE5NDI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "director": "Reinaldo Marcus Green",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMTlkYTlmNTYtZGYyNi00NWZhLWE3NGQtODc4NDVkODY0ZGE5XkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_QL75_UY140_CR55,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjJiMThmMTItZmY0Ni00ZmJiLWJhMDctNDYyMmFjYThhNWY0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmNiZWI0Y2QtZjM5Ny00NGY5LWEwNzUtMGUwMWFhMjA5YzlmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzU1MGU2MDQtNGJlNy00MDE0LWI2M2QtMDU0MTg2YzYwNTI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR41,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGYzNzM1ZDUtNTZjOC00ZDljLTgwODAtYzgyYWIzNDA0N2Q3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTExM2ZkYjEtZDVkZi00NWZiLTllMTYtOGU2ZTYyODU5MDIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGZjODM5NjYtM2FiNi00MGFhLWIzNzYtMTBmZDMxMDk1M2VjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2U3NGFiZjAtYjU3My00NDdhLWJmNjktNThhY2E2YzJjZDM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYThkOGM1OWYtNDBkNi00MGI0LTljYTMtZjM4NmYxN2U2ZGVkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR13,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWYyMDM3NTktNDg1Zi00MmJjLTljYmQtOTViYjJiNDkwOGU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYmFhZGQxNGEtNmUxYy00YTdkLTgwZGQtNmRlMDUzZTZiMGZlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmQ0ZGE1MTEtY2FhYi00YWYwLWJmYzgtMWVjMDRkZWQxOTAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt8521778/",
+        "rating": "6.6/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm3232264/",
+        "name": "Reinaldo Marcus Green"
+      },
+      "seo": {
+        "title": "Bob Marley: One Love (2024)",
+        "description": "Bob Marley: One Love: Directed by Reinaldo Marcus Green. With Kingsley Ben-Adir, Lashana Lynch, James Norton, Tosin Cole. The story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music."
+      }
+    }
+  }
+}

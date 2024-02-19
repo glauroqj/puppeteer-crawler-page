@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "upgraded",
+    "title": "Upgraded",
+    "year": "2024",
+    "director": "Carlson Young"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "Upgraded",
+    "description": "Upgraded: Dirigido por Carlson Young. Com Camila Mendes, Archie Renaux, Marisa Tomei, Lena Olin. O filme acompanha Ana, uma aspirante a estagiária de arte que é convidada para uma viagem de trabalho de última hora a Londres por seu super chefe, conhecendo o belo e rico William no avião.",
+    "slug": "upgraded",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWNhMjc1MzMtZGUyOC00NjhiLWJiM2YtMWNkMzU0YjgwZDU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "genres": [
+      "Comédia",
+      "Romance"
+    ],
+    "director": "Carlson Young",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Comédia",
+        "Romance"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYzBjZDYxMTQtMTEwNS00NzljLWJjODAtYTY2OWNjZTA1NTAyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR31,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWFkZGFkZmItMmQ1NS00M2U5LTkzYWQtN2FmODg0M2JhZDFmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR37,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODY3MDBmMDctMzQwYi00NjY5LTg0YzUtZjRmNGMwY2I2MTJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNWVlYTc2ZmQtMmQzMi00MTNiLWE2YmItYmEyNmYwYTliZjdhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjJlODM5NTktOWVjNy00Nzc4LTkzZDgtYzY1OWUwYmU3NjZiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzdjYzIzODctZWRjNC00YmRjLWIzYTAtMzI3YTlkYzc0NTg1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjAxY2FhN2MtZGRjMy00ZWU2LWFhOWMtZjNmMmFmYjI0NDUzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR39,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTEyZmYwNjktMDViMC00ZWM1LWI2ZTktNmU0MmY0MDg0MjdmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2YzMGJmNmItM2Q1ZC00N2MwLTkzNTQtNDdkZGYzZTFhNjdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDkyZTMzOWUtYzhiNi00OWViLTljZTgtYzE5ZjA1Zjg3NjU4XkEyXkFqcGdeQXVyMTYwMDIyNzk1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2Y5NDY0OTQtZTZlOS00NTgwLWE0ZWUtNmY3MDJkMjQ4YTNlXkEyXkFqcGdeQXVyMTY0OTEyMjM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzBmZWZjOTktNjUyYS00ODM4LThmMjgtYjBkZDkwYzI0MTljXkEyXkFqcGdeQXVyOTc0NjQzOTM@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt21830902/",
+        "rating": "6.1/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2584304/",
+        "name": "Carlson Young"
+      },
+      "seo": {
+        "title": "Upgraded (2024)",
+        "description": "Upgraded: Dirigido por Carlson Young. Com Camila Mendes, Archie Renaux, Marisa Tomei, Lena Olin. O filme acompanha Ana, uma aspirante a estagiária de arte que é convidada para uma viagem de trabalho de última hora a Londres por seu super chefe, conhecendo o belo e rico William no avião."
+      }
+    }
+  }
+}

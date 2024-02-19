@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "orion-and-the-dark",
+    "title": "Orion and the Dark",
+    "year": "2024",
+    "director": "Sean Charmatz"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Orion and the Dark",
+    "description": "Orion and the Dark: Directed by Sean Charmatz. With Jacob Tremblay, Paul Walter Hauser, Colin Hanks, Mia Akemi Brown. A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+    "slug": "orion-and-the-dark",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTkyODExOTctY2E3My00M2U5LWI2OGItNzRlZDk1OWJmOWQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Sean Charmatz",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BYjQ5OWRhZTUtYWI0YS00NzI1LTkwYTctNjMwM2VmODhkZTZkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDFjNjA2MjMtMTA1OC00Yzk2LWEwODktNzE1ZDk3YjBjNjgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjEzOGQ3MzQtYzMyYy00M2QxLTk4YTktNjY3NTBhNjI5OGMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzRjNWM4Y2YtNDI2Zi00NzNhLTlkYjgtNTM0NDcwZWYwNTBlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWY2Zjk2MDYtZjcxZC00MDBkLWI3MmMtOTEyYjY5ODQwMjdjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjk2MzA1NzUtMWQxMS00YTQ0LWFkNDQtNTFmYjE0NjYxMTkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjYxYjNiNzItYzNjOC00NjRhLTkxNGUtZGEzMWJlNTU3MjI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDM0OGU1OTEtODE5Mi00MDVlLWE1N2MtNmIzOTc2NjBhNWFhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTYzMDdjOWUtOTVkYi00NWM0LTllYTctYTZjMWM5YTcxMWE1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTYwNWRmZGItYTQ1ZS00YzIzLTlhOTMtMWNkY2Y5OTRlMTg2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTIyMDE2NjQtYjI4Mi00MjNmLWJkZjktZTFiMjg1Y2YyNTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzgxZTM2ZjAtODVlMC00NDgyLWEyOTgtMzdkOGZiZjY0MmQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR95,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt28066777/",
+        "rating": "6.4/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm2722653/",
+        "name": "Sean Charmatz"
+      },
+      "seo": {
+        "title": "Orion and the Dark (2024)",
+        "description": "Orion and the Dark: Directed by Sean Charmatz. With Jacob Tremblay, Paul Walter Hauser, Colin Hanks, Mia Akemi Brown. A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark."
+      }
+    }
+  }
+}

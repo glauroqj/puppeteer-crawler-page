@@ -1,0 +1,45 @@
+{
+  "poster_table": {
+    "slug": "bitconned",
+    "title": "Bitconned",
+    "year": "2024",
+    "director": "Bryan Storkel"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Bitconned",
+    "description": "Bitconned: Directed by Bryan Storkel. With Brian Dijols, David Eby, Robert Farkas, Hamza Murtaza Jafri. In this true-crime documentary, three guys exploit the freewheeling cryptocurrency market to scam millions from investors and bankroll lavish lifestyles.",
+    "slug": "bitconned",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTljOTk3MzAtZDk5ZC00MmYzLWFkMDItZGEzMDI1MTM5ZTZhXkEyXkFqcGdeQXVyMzE1ODQ4NA@@._V1_.jpg",
+    "genres": [
+      "Documentary"
+    ],
+    "director": "Bryan Storkel",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Documentary"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODdlYWRkMWYtYWQxNi00YThmLWI4MzEtMDMzZjY5NjkyZGU2XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWRkMGRlOGMtYzFjMS00YTJlLWJhNTktMWFiM2U4ZTNmNGZiXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDI5ZDc2NjItZmY4OS00YWNjLTkxOTUtZGI1YjcyZmIyMjNlXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjNiZTBlZjItMTFmZi00MjY2LWI5MzUtYjZhZGE5M2M0NjYwXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_QL75_UX140_CR0,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt30317302/",
+        "rating": "6.5/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm1596623/",
+        "name": "Bryan Storkel"
+      },
+      "seo": {
+        "title": "Bitconned (2024)",
+        "description": "Bitconned: Directed by Bryan Storkel. With Brian Dijols, David Eby, Robert Farkas, Hamza Murtaza Jafri. In this true-crime documentary, three guys exploit the freewheeling cryptocurrency market to scam millions from investors and bankroll lavish lifestyles."
+      }
+    }
+  }
+}
