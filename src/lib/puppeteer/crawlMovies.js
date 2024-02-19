@@ -186,7 +186,7 @@ function crawlMovies(lang, url) {
               if (err) {
                 console.error("Error writing JSON file:", err);
               } else {
-                console.log(`JSON data saved to ${fileName}`);
+                console.log(`JSON data saved to ${LANG} ${fileName}`);
               }
             }
           );

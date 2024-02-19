@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "en",
     "title": "Fighter",
-    "description": "Fighter: Directed by Siddharth Anand. With Hrithik Roshan, Deepika Padukone, Anil Kapoor, Akarsh Alagh. Top IAF aviators come together in the face of imminent danger, to form Air Dragons. FIGHTER unfolds their camaraderie, brotherhood and battles, internal and external.",
+    "description": "Fighter: Directed by Siddharth Anand. With Deepika Padukone, Hrithik Roshan, Anil Kapoor, Rishabh Sawhney. Top IAF aviators come together in the face of imminent danger, to form Air Dragons. FIGHTER unfolds their camaraderie, brotherhood and battles, internal and external.",
     "slug": "fighter",
     "image": "https://m.media-amazon.com/images/M/MV5BZjkwN2Q5Y2QtMmE2MC00NzlkLTg2NzQtYjVjYjVmNjE2ZTNiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
     "genres": [
@@ -25,22 +25,22 @@
         "Thriller"
       ],
       "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BOTMwYmRmYmUtZGY3Yi00Yjg4LTg3ODktOTJiY2FkMzcyZTliXkEyXkFqcGdeQXVyMTU1MjI2ODE1._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNDhkMjcxMDItM2VkOC00ZTIwLTgyNjQtZmExNWE1OGRlMTRhXkEyXkFqcGdeQXVyMTU1MjI2ODE1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWY4N2JjNDQtOGJhYi00MDYxLWIwZGMtYTQyZDk5YjQ5ZTIwXkEyXkFqcGdeQXVyMTU1MjI2ODE1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjYwYTk2NmEtZWZlNy00MTVlLWE0NmMtYjRhNGExMDA3NWY1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTZkMjc4ODAtYTA0YS00MjljLTk5MjgtNDVjM2RmZjdkOWNiXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMDgxYTI1ODMtNGFhNC00ZWRkLWE4YjktZGI5NTlmNjdmMDYxXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNzNlMTBhYTUtZjBiYy00ZmMyLTk0YWEtNGNjYmY4MDllNzExXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMzM1OGFmZTItODNhMC00YmVhLWE3YWEtYWVkNzE3ZTJhNmQ0XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BYTc0ZDc0NTYtM2YwMy00Yzg2LTg4NzYtNmQ2NDAzNGIxN2ZmXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNTgwMjQ1OWEtZDZhZS00YTM1LTg4NWUtMTdjZmE0MzQ0MTlmXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMTczMzg2YTItZTJkMi00NWE2LTk1NDYtMDYzODZjY2QxYjQxXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMTkzZDM4ZDktMjdmZC00OTA4LTljYzUtODI1ZGUxZTAwNWQzXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UY140_CR38,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNDBmMDBlOTYtMWRlYi00MDU4LWE2NWMtMmQ0NGFjOTg4NWE5XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZjI3Mzc2N2MtMWE0MC00OWUzLTkxODUtM2FlNTcxZDg1MmI0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNjhlMDc1MjctNmEzYy00NzYzLWExNGMtY2UzNTI2YWViOTNiXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UY140_CR27,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNDlkNjRlZDItNWY4ZS00YzM2LTgxNzYtMzc5OGYxYjVjMTJkXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR100,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMjAzZmRjZTItMDY0My00NWVmLWE4MjgtMDdmMmY3YjRhZTkwXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY140_CR100,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMTkzZDM4ZDktMjdmZC00OTA4LTljYzUtODI1ZGUxZTAwNWQzXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UY140_CR38,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt13818368/",
-        "rating": "-/10"
+        "rating": "7/10"
       },
       "year": "2024",
       "country": "",
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Fighter (2024)",
-        "description": "Fighter: Directed by Siddharth Anand. With Hrithik Roshan, Deepika Padukone, Anil Kapoor, Akarsh Alagh. Top IAF aviators come together in the face of imminent danger, to form Air Dragons. FIGHTER unfolds their camaraderie, brotherhood and battles, internal and external."
+        "description": "Fighter: Directed by Siddharth Anand. With Deepika Padukone, Hrithik Roshan, Anil Kapoor, Rishabh Sawhney. Top IAF aviators come together in the face of imminent danger, to form Air Dragons. FIGHTER unfolds their camaraderie, brotherhood and battles, internal and external."
       }
     }
   }

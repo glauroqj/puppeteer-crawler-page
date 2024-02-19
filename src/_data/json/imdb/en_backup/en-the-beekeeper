@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "en",
     "title": "The Beekeeper",
-    "description": "The Beekeeper: Directed by David Ayer. With Jason Statham, Emmy Raver-Lampman, Bobby Naderi, Josh Hutcherson. In The Beekeeper, one man's brutal campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as \"Beekeepers\".",
+    "description": "The Beekeeper: Directed by David Ayer. With Jason Statham, Emmy Raver-Lampman, Bobby Naderi, Josh Hutcherson. One man's brutal campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as \"Beekeepers\".",
     "slug": "the-beekeeper",
     "image": "https://m.media-amazon.com/images/M/MV5BZjQwYjU3OTYtMWVhMi00N2Y2LWEzMDgtMzViN2U4NWI1NmI3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
     "genres": [
@@ -23,22 +23,22 @@
         "Thriller"
       ],
       "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BMjVmYzNmY2EtNGY0Yy00NWFmLWFiZDItYWZlNjZkNTgyN2E4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjhlNzQwNDUtOGFmYS00M2I0LTk4ZDctYzE1Nzg0ZTYxZGI2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BY2EzZDRmMWUtZjFiNC00NmRlLWFiNWQtN2FiYWZkODBiYzk1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzc5OGMyZTItZDYxMy00MzkzLTkyYzYtM2FmZmUzYzhiOGQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGI5MGMyNmYtZGRiYy00NDAyLWI5MDctNDg5NDliMWY3YjljXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTk1MzdmZmItMzAzMS00NzRlLTkyNzctZGMxYWYxZTNjYmQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjYyNjU0ZTctZTExYy00MGU4LThiMmUtOWE0NDJiMGE2ZWFhXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BYjZmODc5YmQtNjA2Mi00OTIwLWI5OWMtMzgwNGI2NDczNWZlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BZDkwOTIyZGQtYWNkOS00YzAxLTkwZWUtMzU3YjU4ZDIyYzdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BN2YwOTU5ZmEtOWY1Mi00MWQ3LWFiZDQtYjNkMDI0MzEwZWM5XkEyXkFqcGdeQXVyMTY0NjQ0NDMx._V1_QL75_UY140_CR1,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYjE2ZWJlM2YtYzQwOC00OTM0LTkzODctOGJkNTBiMDkyNzUxXkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_QL75_UY140_CR47,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOTA2ZmEzMzUtNTdkZC00YzZlLWExNDktYTIyZDhkMDA2OGE5XkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR50,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZDA1ZmM5NDAtZjBmMS00NTM5LWJhMjEtZjI3NjcwMTkzZjE3XkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR3,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOWU1MmIyYjAtYWU0MC00ZDlkLTlkYjUtMmI3YmI3ZDlmMDYyXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR35,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNmNlNTM3ODktOTUxYy00NjViLTlkZWEtMmZlNmVmMGVlYjc4XkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR36,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMmIxZTQ0YjEtZTdiMC00ZjFhLTlhOGItOTY0M2ZmOGZkZDA5XkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR36,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNTc4ZWRlMDgtNzRjOC00NzkyLTliOGMtNTU0ZjlmMjYxMjAyXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR36,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMjc1ZWJjYmEtNDY4NS00MDgzLTlhMjEtN2Y2NWNlOTZjMDYwXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR36,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOWJhMjEyOWEtNDRiYy00ZjdjLWE5MTMtMzU4ZDQwNmRmZGEwXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_QL75_UY140_CR36,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BYzc0YmFiNjAtOTFjMy00ZTRkLWI2YjktMWMwYzIyZjZmNWJiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGRhOTEyOGEtN2FhZS00OTY0LWExZTktMmEwNDc0YTU4NTBiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR98,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNzJmYTJkNzYtMzIxNC00OTc2LWEzMjktZTVhZjc2Y2E5YmNhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_QL75_UY140_CR96,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt15314262/",
-        "rating": "-/10"
+        "rating": "6.4/10"
       },
       "year": "2024",
       "country": "",
@@ -48,7 +48,7 @@
       },
       "seo": {
         "title": "The Beekeeper (2024)",
-        "description": "The Beekeeper: Directed by David Ayer. With Jason Statham, Emmy Raver-Lampman, Bobby Naderi, Josh Hutcherson. In The Beekeeper, one man's brutal campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as \"Beekeepers\"."
+        "description": "The Beekeeper: Directed by David Ayer. With Jason Statham, Emmy Raver-Lampman, Bobby Naderi, Josh Hutcherson. One man's brutal campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as \"Beekeepers\"."
       }
     }
   }

@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "pt",
     "title": "Madame Teia",
-    "description": "Madame Teia: Dirigido por S.J. Clarkson. Com Sydney Sweeney, Isabela Merced, Emma Roberts, Dakota Johnson. Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente ameaçador.",
+    "description": "Madame Teia: Dirigido por S.J. Clarkson. Com Dakota Johnson, Sydney Sweeney, Isabela Merced, Celeste O'Connor. Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente ameaçador.",
     "slug": "madame-web",
     "image": "https://m.media-amazon.com/images/M/MV5BMDQwYjgzOTctNTE4My00MThkLWE5MGUtODQ3YWFhYWZkNWNkXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
@@ -26,21 +26,21 @@
       ],
       "gallery": [
         "https://m.media-amazon.com/images/M/MV5BMGJkOTUyYzItNjIxMS00NDNhLTliMjktODZiNjgzMjFjYTU0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZWU2ZWNlYTAtNjZjZi00MTNhLTgyY2QtNTk4NzhmMzM3OTM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMTFlYzgyZDYtNzc3Zi00NDU4LWJmOTctY2U2MGY5YjYwZmVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOWU4MTg3MzMtMzgyZi00NTZkLTkyODUtN2M1M2Y5YWY3YTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZGFmZGQ4ZTUtNTk5OC00ZWNjLTgzZWQtZTdmOTQ0MGI4MzkzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNWI2ZTIwNDMtMTA5MC00YTZlLWI5ZTQtMTM5MjZlODNjZjk4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZWY1MzgyMmItZGFiOS00MWI4LWI2YzMtNjNjN2VlNzYxYjU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYTEzOWRhYzQtNTdmOS00NDk1LWFlZWQtNDZhYzIzNzE5MDYzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYjhmYjgzN2EtY2M0Yi00ZmUyLTkxZTAtZjU5YTRkNmYxYWQ0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BODBhYjg1MDUtNzg3Yi00YmMxLWFiNDQtYjFmMGNlM2ExYTk5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BN2YwZjJkYzQtNjg5ZC00YTRmLTg5ZjYtMWVkODY2ZThhMWEyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZDBmNzUwMzUtZGE3Yy00NGIyLWE4ZWYtMGJjMmQzYjcwYjY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BZmNlZGU3Y2ItZjRkMy00YWE5LTgyOTgtMmY2YjU2ZTVhNTA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDE5ZjMzMzUtMDdhZS00NTQxLThlYzMtZGM0MjcyMDYzZjdiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjE3ZmVhODktMzI2Yy00NGM5LWJlZWItNzE5YjM5ODdjMzBhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR33,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWY5YjFlYWQtMzAyYi00OTY0LWJmOTktOGExMWRjOWVhNjVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR27,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDg4MmNlMjYtZmFjNy00NDQ0LWFiNjgtNGI1YjJiYjFiOTIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjc1ZjExNjYtMGRiYi00MGViLWI3ZDAtNzIwNTdjZWU0ZTQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDBiZDJiZDItZjE3ZC00ODc1LTkwY2UtZTJjMzA1YjBkNzQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjdiN2FiYTgtNmZhMi00ZGUzLThjYWUtYjg4ZDFjZjRjNGIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmNkZmUzYjItMGZlMy00YWQ4LTlmZjgtZDQwMTNjODg1Y2M3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjk2ZDI2NzItODI0My00NzNhLWIxODctMmU1NGI4OTRjMzhhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGZmYjI3ZDQtOWU3Mi00NDcxLTkyOGUtZWUzMWY5ZmM3M2M5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt11057302/",
-        "rating": "-/10"
+        "rating": "3.8/10"
       },
       "year": "2024",
       "country": "",
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Madame Teia (2024)",
-        "description": "Madame Teia: Dirigido por S.J. Clarkson. Com Sydney Sweeney, Isabela Merced, Emma Roberts, Dakota Johnson. Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente ameaçador."
+        "description": "Madame Teia: Dirigido por S.J. Clarkson. Com Dakota Johnson, Sydney Sweeney, Isabela Merced, Celeste O'Connor. Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente ameaçador."
       }
     }
   }
