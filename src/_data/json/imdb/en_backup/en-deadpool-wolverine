@@ -1,0 +1,57 @@
+{
+  "poster_table": {
+    "slug": "deadpool-wolverine",
+    "title": "Deadpool & Wolverine",
+    "year": "2024",
+    "director": "Shawn Levy"
+  },
+  "poster_lang": {
+    "lang": "en",
+    "title": "Deadpool & Wolverine",
+    "description": "Deadpool & Wolverine: Directed by Shawn Levy. With Ryan Reynolds, Hugh Jackman, Emma Corrin, Morena Baccarin. Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
+    "slug": "deadpool-wolverine",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWI2YjAxODctOTAzYi00ZmQ5LWE0ZmEtOGMxMTUzYmVjYzY2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "Shawn Levy",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BM2VhMDdkNTktN2VjOC00ZGFhLWE2NmUtOTIwNTk0MmNiZTg3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNGE1OGQxOWYtODZmNi00ZThjLWI5MmQtMTcxOTk3ZjI5N2I3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2Y2NDdlNzktMDNjNi00M2MyLTkyOGYtNWQ0OWQ3Zjk4ZWQzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTc2YTE2NGEtZGUyZC00ZjIzLWExMWYtZDQ1ZDA1MDYzYTk5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYzJlNjRkNmMtZjU0YS00YmJhLWJiZTgtOGM3MWIxZWViNTFlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjQzZDA3NWEtMzE5NC00MGIxLTgyN2MtY2I5ZWQzNWMyNmFjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOWM3Y2NkMTAtZTdmYi00NTJjLTg2MWYtYWVmYmJhNDliOTUxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMzI2ZDZlNzctMmI2Yy00OGQ3LTg5YzItY2NmNDQ4NzMyMjZlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjVkMWFhN2ItZmI0NC00YzIyLWJiZDUtYTMxZDc2NzVjNWUzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDY3NzEyMmUtODIzNi00MTQyLTg5YTctMzJmNGVlYzlhNzAyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjQxZDM5NGYtM2VmYS00ZjM2LWJhZDMtNTY1MzQ4YWY5MTdhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BN2RiMDEwODItM2MyNC00NmI5LTgwNDctMGYwZGViZjQ0YzNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt6263850/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0506613/",
+        "name": "Shawn Levy"
+      },
+      "seo": {
+        "title": "Deadpool & Wolverine (2024)",
+        "description": "Deadpool & Wolverine: Directed by Shawn Levy. With Ryan Reynolds, Hugh Jackman, Emma Corrin, Morena Baccarin. Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy."
+      }
+    }
+  }
+}

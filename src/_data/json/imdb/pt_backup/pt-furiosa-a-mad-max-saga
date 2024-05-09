@@ -8,7 +8,7 @@
   "poster_lang": {
     "lang": "pt",
     "title": "Furiosa: Uma Saga Mad Max",
-    "description": "Furiosa: Uma Saga Mad Max: Dirigido por George Miller. Com Anya Taylor-Joy, Chris Hemsworth, Charlee Fraser, Tom Burke. Após ser sequestrada do Green Place das Muitas Mães, enquanto os tiranos Dementus e Immortan Joe lutam por poder e controle, a jovem Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.",
+    "description": "Furiosa: Uma Saga Mad Max: Dirigido por George Miller. Com Anya Taylor-Joy, Charlee Fraser, Chris Hemsworth, Lachy Hulme. Após ser sequestrada do Green Place das Muitas Mães, enquanto os tiranos Dementus e Immortan Joe lutam por poder e controle, a jovem Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.",
     "slug": "furiosa-a-mad-max-saga",
     "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDc4ZDktZDFhNi00Y2NlLTkxMDctMWVmYTQ0ODJjYWUzXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
@@ -25,18 +25,18 @@
         "Ficção científica"
       ],
       "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BODNmYmZiODAtNzllNS00NDMxLWI4ODktMTY2MWI4OTJlYWE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTNlODU1MDUtMTJjYS00ZWUwLWExZDEtYmM5NjhlODIxM2Y3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR21,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BOGIxYTAzN2MtOGJkZC00YjM3LWFmODAtMDkwYjkzMzYzNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BNGI5MDc3NTctOGUwYy00ODUxLTg2NzAtZTRlNTE1ZTk2ODIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BY2QxY2NkOTAtZDMwMi00OTExLThmMWYtYWU1YzQyZGVkZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR60,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYjhhMjM3MjAtNjBiOS00NzZhLTkzZjktZTQ5NWFkYzgwYjUyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNzg2YzY0NzgtN2Q1My00ZGVlLWIyZDgtZTM4NjdiOTFhMTJkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOTg3YTE5MTUtM2RiNS00MzNiLTg0ZDEtOGEwMzhjYmFhOGRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR102,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZjUzOGE4ZGQtOThmNy00Y2I3LWFiNGUtNGFjOTU0Y2JiMTFhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR98,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMWJhNjkzZTQtYzViNS00YmMyLTgyYzItMGViNjZiYjRjYjU1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR103,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BODdjYzBhZTEtNjMxZS00MTI1LWFmNzQtYjhiMTgzY2QzYWNmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR103,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZjE3YjIwNGUtYjZlNi00OWI0LThjNmItM2I1M2JmN2JmNjBhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR103,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BY2RjMzY0NzAtNDdlYS00ODJjLWE1NGItOTM5NmJhZjU3MTQ0XkEyXkFqcGdeQXVyMTUzNzg0Njk4._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNDE5ZmE2MDEtNGNmZi00YmUyLTgwMTEtNzM2MmI4OGE1Y2MxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR47,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMDUxNzk5NWYtNzg1ZC00ZjE4LTllODgtZTRmYjRlYzY4M2E4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjhkZTRlYWYtZDM1Zi00ODg3LTg2ZTItZTNjYmE0MzY4OWUwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTY5N2Q1MjktOWFlZS00OThjLWIxODItNWUwMjg5YTgwMzc2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODU5YzVjMGQtZDAyYi00OWRjLWIzYWQtZjMwZmI4NTA4NzQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjBhZGZkZDktMjAxMS00ODExLTlmYjQtNjdmMTZjM2Y2OGM4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTNhNTk1ZWYtYWQ5ZC00NmIyLTg2OWEtMjI0MDBkZTU0YmQ5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMGZiNzBmYWYtZDYzMS00YjZjLWI0YmUtNTBjYTMzNzQ5NjAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt12037194/",
@@ -50,7 +50,7 @@
       },
       "seo": {
         "title": "Furiosa: Uma Saga Mad Max (2024)",
-        "description": "Furiosa: Uma Saga Mad Max: Dirigido por George Miller. Com Anya Taylor-Joy, Chris Hemsworth, Charlee Fraser, Tom Burke. Após ser sequestrada do Green Place das Muitas Mães, enquanto os tiranos Dementus e Immortan Joe lutam por poder e controle, a jovem Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa."
+        "description": "Furiosa: Uma Saga Mad Max: Dirigido por George Miller. Com Anya Taylor-Joy, Charlee Fraser, Chris Hemsworth, Lachy Hulme. Após ser sequestrada do Green Place das Muitas Mães, enquanto os tiranos Dementus e Immortan Joe lutam por poder e controle, a jovem Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa."
       }
     }
   }

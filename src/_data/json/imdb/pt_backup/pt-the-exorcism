@@ -1,0 +1,55 @@
+{
+  "poster_table": {
+    "slug": "the-exorcism",
+    "title": "O Exorcismo",
+    "year": "2024",
+    "director": "Joshua John Miller"
+  },
+  "poster_lang": {
+    "lang": "pt",
+    "title": "O Exorcismo",
+    "description": "O Exorcismo: Dirigido por Joshua John Miller. Com Russell Crowe, Ryan Simpkins, Sam Worthington, Chloe Bailey. Um ator problemático começa a exibir um comportamento perturbador enquanto filma um filme de terror. Sua filha distante se pergunta se ele está voltando aos vícios do passado ou se há algo mais sinistro em jogo.",
+    "slug": "the-exorcism",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFmN2Q0NDYtYjI5OS00MDA5LThjYTctNTFiY2ZmMDNkNjAwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "director": "Joshua John Miller",
+    "year": "2024",
+    "infos": {
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BY2Q0YWE4NDAtOGViYi00ZmM1LThhNmUtODFhNjFkMGE1NjA2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYjI2Yjc5NTItN2JiMi00OTkwLThiOWYtOGYxNjkyZDEzMmY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDk2Y2IyMDgtZjc2Ni00OTgwLWE2MGUtMTA2YzU1N2U5NTM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYWI0NmM2NmMtMDI0MS00ZTBhLTk0NzctMjY1MjU0ZmVjZThmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMmQ1OWY3ZWQtNzAzNS00M2RhLTk0NGQtNWVmNjljMGFmNjE3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZhZjcyZWItNTg1Ny00ZjdjLTliNDAtMzQ0OTE3ZGJhY2ZiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZGRiMzEyMTQtMjA1Mi00NTRjLTk1ZjMtZWRmZGI2NTZhYjY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZThhOWNlMjktZDliMC00MDlhLWE4MjItNzU3YmE3ZDlkMzU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjBkNTYyYjEtY2M1Zi00MWZlLWIxMTMtMzYyZGE3NTMwNWQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjg1Yzg1MGUtMTM2Ni00NmNjLWJiYmEtYWVmOGM1Y2RlMTNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNjg2ODIzMTgtODZkNS00MmUxLThiYTMtMDNiZmQ1ZWRlZGZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMTNjNDgzOTItZDJjNC00MmJjLWFmMDItZTBhMTIxMWQxMGFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg"
+      ],
+      "imdb": {
+        "link": "https://www.imdb.com/title/tt11240348/",
+        "rating": "-/10"
+      },
+      "year": "2024",
+      "country": "",
+      "director": {
+        "link": "https://www.imdb.com/name/nm0588679/",
+        "name": "Joshua John Miller"
+      },
+      "seo": {
+        "title": "O Exorcismo (2024)",
+        "description": "O Exorcismo: Dirigido por Joshua John Miller. Com Russell Crowe, Ryan Simpkins, Sam Worthington, Chloe Bailey. Um ator problemático começa a exibir um comportamento perturbador enquanto filma um filme de terror. Sua filha distante se pergunta se ele está voltando aos vícios do passado ou se há algo mais sinistro em jogo."
+      }
+    }
+  }
+}

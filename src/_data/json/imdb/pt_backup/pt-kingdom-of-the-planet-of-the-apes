@@ -10,9 +10,10 @@
     "title": "Planeta dos Macacos: O Reinado",
     "description": "Planeta dos Macacos: O Reinado: Dirigido por Wes Ball. Com Freya Allan, Kevin Durand, Dichen Lachman, William H. Macy. Muitos anos após o reinado de César, um jovem macaco embarca em uma jornada que o levará a questionar tudo o que lhe foi ensinado sobre o passado e a fazer escolhas que definirão o futuro de macacos e humanos.",
     "slug": "kingdom-of-the-planet-of-the-apes",
-    "image": "https://m.media-amazon.com/images/M/MV5BODNmM2NkODEtNWQ2Mi00NDkyLTg5ODMtOTU3NTFhOTBiMjE2XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzBmMmFhZmQtOWViYi00YWYyLWFmNjctMTA3ZjFkOGE2MzNhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
     "genres": [
       "Ação",
+      "Aventura",
       "Ficção científica"
     ],
     "director": "Wes Ball",
@@ -20,25 +21,26 @@
     "infos": {
       "genres": [
         "Ação",
+        "Aventura",
         "Ficção científica"
       ],
       "gallery": [
+        "https://m.media-amazon.com/images/M/MV5BZWZkYzllMjctMmRjMy00ODEyLWE5NDYtOTA1ODYxMjhlNmQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZTBmYzhjMjQtMWVjZS00OTVmLWE5YjMtZWQyYjRkZWFhZGRmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZWYzZDg3NzYtY2M0OS00MjdiLTg0MzctZmE4NzRmM2FjZThlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODZhNDlhMWUtYmI0NS00MTYxLWJjYTAtMTM3NzJiM2YwZDAzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZmZmYjU2Y2YtYWUwMS00ZWI2LTk3MDUtYmQyMjljMGNiZTJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BOTZmODUxMDQtYmM3Mi00NzViLWE4NzktYjQ1MTBlMmQzZDQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BYTE4ZjMzY2YtOWQ0NS00NjhiLThjNjItNTQ1MzI2OTI3MDVjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMDgzNjEzNDctNzUyMC00NWI1LThlZDgtMWQzNGZiMDZkZWJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BNTM3YzFiNmEtYTg3Mi00MjQwLTgzYzktMjY5YmVhYTEwODRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjYxM2JmNzEtOGViYi00NjAyLWFkNDYtNDkwNTUzZjk3MGVjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMjQ0ZjFmMmQtMTcyYi00MzE2LWFiMWUtOTkyY2JiNDlkMjNkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMjIyNGUxOTktZTU4Ni00YTUzLWE4NDAtZDdkYzdmYzgxYjAwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMDNjNmU5ZmEtMzM3Ny00ZDNmLTk0MTEtYTgxMzZmYTY5NmM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNWRlY2QxZTYtMDNkMy00NmZhLThkMDctNmRjMzRlNWFhMjE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BYTAyMTEwOWEtZWJiMy00YzJmLTk5ODMtMjhiZmY3YjRjYWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BM2M4MmU3YmUtMzc0Zi00YTNhLTkwNmYtOGJmYWVjM2Y2MjFhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMmZhMGQ4ZTMtMmFkZC00MjhjLWIxOTctZGRmM2VjZDllYWNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BN2U2MDQ1ZjEtODExMC00OGJjLTkxNmYtOTlkZjliMmQ2ZWFkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BOTkwMDY4ZDYtMTI4NC00MDI1LWExZGUtMGUwNGVmNDAyYzA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR78,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNDcxM2RiOWMtMGEzMC00NDEyLTgzMjEtOWZjYzVhN2E2ZjcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BODVmNWU0ZmUtYTVmNi00NjNmLWE3NDUtMDBhZWZiMGI2ODA2XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_QL75_UX140_CR0,0,140,140_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMDBiOGJmNGYtMzg5OS00NGUzLTllODctODBiODZiNDFjMjg4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY140_CR97,0,140,140_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMjIyNGUxOTktZTU4Ni00YTUzLWE4NDAtZDdkYzdmYzgxYjAwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY140_CR97,0,140,140_.jpg"
       ],
       "imdb": {
         "link": "https://www.imdb.com/title/tt11389872/",
-        "rating": "-/10"
+        "rating": "7.4/10"
       },
       "year": "2024",
       "country": "",
